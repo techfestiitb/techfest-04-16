@@ -1,0 +1,136 @@
+<script language="Javascript1.1" type="text/javascript">
+<!--
+function amz_js_PopWin(url,name,options){
+var ContextWindow = window.open(url,name,options);
+ContextWindow.opener = this;
+ContextWindow.focus();
+}
+function amz_js_RefreshOriginalWindow(url) {
+if ((window.opener == null) || (window.opener.closed))
+{
+var OriginalWindow = window.open(url);
+OriginalWindow.opener = this;
+}
+else{
+window.opener.location=url;
+}
+}
+//-->
+</script>
+
+<script language="javascript">
+var xs_bv=0;
+var xs_pTop=-91;
+var xs_pHeight=211;
+var xs_updown=1;
+var xs_endpt=0;
+var xs_ranonce=0;
+var xs_pDivSeen=0;
+var xs_pTuck=0;
+var ua=navigator.userAgent.toLowerCase()
+function xsGetCookieVal (offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+function xsGetCookie (name) {
+var arg = name + "=";
+var alen = arg.length;
+var clen = document.cookie.length;
+var i = 0;
+while (i < clen) {
+var j = i + alen;
+if (document.cookie.substring(i, j) == arg)
+return xsGetCookieVal (j);
+i = document.cookie.indexOf(" ", i) + 1;
+if (i == 0) break; }
+return null;
+}
+function xsSetCookie (name,value,expires,path,domain,secure) {
+}
+var xs_exp = new Date(); xs_exp.setTime(xs_exp.getTime()+(48*60*60*1000));
+if ( (ua.indexOf("opera")==-1)&&((ua.indexOf("msie")!=-1)&&(ua.indexOf("windows")!=-1))||((ua.indexOf("msie 5")!=-1)&&(ua.indexOf("mac")!=-1)) ) {xs_bv=1}
+
+function aftertime(){
+xs_pDiv.style.display="";
+}
+
+function xs_pdEx(){
+setTimeout("aftertime();",40);
+var xs_popval = xsGetCookie('seenexp');
+if ((xs_popval == null) || (xs_popval != "3")) {
+xs_popval=3;
+xsSetCookie('seenexp', xs_popval, xs_exp, "/");
+var xs_ctest = (xsGetCookie('seenexp')=="3");
+}
+if((xs_bv)&&(!xs_ranonce)&&(xs_ctest!=null)){
+// if((xs_bv)&&(!xs_ranonce)){
+xs_pDiv2.style.left=xs_pDiv.style.left=((document.body.offsetWidth/2)-160)
+xs_pd();
+}
+else{
+if(xs_pTuck == 1){
+if (xs_pDivSeen != 1){
+xs_pDiv.style.clip="rect(0,320,211,0)";
+xs_pDiv.style.display="";
+xs_pDiv.style.top=31;
+}
+xs_endpt=(document.body.offsetWidth/2)-160;
+xs_tuck();
+}
+}
+}
+
+function xs_pd(){
+xs_ranonce=1;
+if (((xs_pHeight<211)&&(xs_updown==0)) || ((xs_pHeight>3)&&(xs_updown==1))) {
+if(xs_pHeight==211){xs_pDiv.style.display=""}
+(xs_updown==0)?xs_pHeight+=3:xs_pHeight-=3;
+(xs_updown==0)?xs_pTop-=3:xs_pTop+=3;
+xs_pDiv.style.clip="rect(" + xs_pHeight + ",320,211,0)";
+xs_pDiv.style.top=xs_pTop;
+setTimeout("xs_pd();",20);
+}
+else{
+if (xs_updown==1){
+xs_pDiv.style.clip="rect(0,320,211,0)";
+xs_pDiv.style.top=119;
+xs_updown=0;
+xs_pDiv2.style.display='';
+setTimeout("xs_pd();",4500);
+}
+else{
+xs_pDiv.style.display='none';
+xs_pDivSeen = 1;
+xs_endpt=(document.body.offsetWidth/2)-160;
+xs_tuck();
+}
+}
+}
+function xs_tuck(){
+if(xs_endpt<(document.body.offsetWidth-355)){
+xs_endpt+=5;
+xs_pDiv2.style.left=xs_endpt;
+setTimeout("xs_tuck();",20);
+}
+else{xs_pTuck = 1}
+}
+</script>
+<div id="xs_pDiv" style="display:none;position:absolute;width:320px;height:211px;top:110px;left:240px;clip:rect(0 320 0 0);text-align:right;">
+  <a href="moreabout.html">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="39%" id="AutoNumber1">
+  <tr>
+    <td width="100%" background="images/bg.gif">
+    <b>Do you Know :</b><p>About Techfest hsfkhksdfhgksdfhsdf<br>
+    gdgfdfgdfgdfghkdfhghdfkgdfhbgdfhgjkdhgk<p>gdjfghdfghd</td>
+  </tr>
+  <tr>
+    <td width="100%">
+    <img border="0" src="images/below.gif" width="262" height="20"></td>
+  </tr>
+</table>
+
+  </div>
+  <div id="xs_pDiv2" style="display:none;position:absolute;width:320px;height:211px;top:119px;left:240px;text-align:right;"><nobr><a href=""><img src="images/view.gif" width=131 height=20 border=0 alt=''></a><a href="#" onclick="xs_pDiv2.style.display='none';return false;"><img src="images/close.gif" width=19 height=20 border=0 alt='Close'></a></nobr></div>
+

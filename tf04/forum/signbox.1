@@ -1,0 +1,18 @@
+<?
+ $user = $HTTP_COOKIE_VARS["user"];
+ if($user=="")
+ {
+?>
+<FORM NAME=loginfrm ACTION=signin.php>
+<INPUT TYPE=hidden NAME=act VALUE="yes">
+Username: <INPUT TYPE=TEXT SIZE=14 NAME=qlogin><BR>
+Password: <INPUT TYPE=PASSWORD SIZE=14 NAME=qpass><BR><BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+<INPUT TYPE=submit VALUE="Submit">
+</FORM>
+<? 
+  } else { echo("Signed in as $user. <A HREF=logout.php>Click</A> to signout!</CENTER>"); }
+?>
+

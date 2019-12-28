@@ -1,0 +1,173 @@
+<HTML>
+<HEAD>
+<TITLE>bottomslice middle120</TITLE>
+<style type='text/css'>
+a:link{color:#000000; text-decoration: none};
+a:visited{color:#000000; text-decoration:none};
+a:hover{color:#if3d55; text-decoration:none;};
+a:active{color:#000000; text-decoration: none};
+</style>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<div id="fader" style="font:17px Verdana bold;width:100%;color:rgb(255,255,255); position:absolute; top:20; left:150;" 
+></div>
+<script language="JavaScript1.2">
+hexinput=255  // Initial color value.
+var inc=-1 //increment variable
+
+function fadingtext(){
+if(hexinput>0) {
+hexinput-=11; // increase color value
+document.getElementById("fader").style.color="rgb("+hexinput+","+hexinput+","+hexinput+")"; // Set color value.
+setTimeout("fadingtext()",20);
+}
+else
+hexinput=255  //reset hex value
+}
+function changetext(){
+if (!document.getElementById) return
+inc++
+if (inc==0)
+document.getElementById("fader").innerHTML="Techfest 2004 - An International Festival "
+else if (inc==1)
+document.getElementById("fader").innerHTML="<a href=main.php?file=tell/onlinecomp.php target=midFrame>Online Competitions</a>"
+else{
+document.getElementById("fader").innerHTML="<a href=http://www.techfest.org/forum_trial/w-agora/index.php?site=techfest target=_blank> Bulletin Board</a>"
+ inc=-1
+}
+fadingtext()
+setTimeout("changetext()",3500)
+}
+
+window.onload=changetext
+
+</script>
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<!-- ImageReady Slices (saurabh.psd) -->
+<TABLE WIDTH=800 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD COLSPAN=15>
+			<IMG SRC="images_bottom/bottom_01.jpg" WIDTH=800 HEIGHT=3 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=3 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=7>
+			<IMG SRC="images_bottom/bottom_02.jpg" WIDTH=319 HEIGHT=2 ALT=""></TD>
+		<TD ROWSPAN=2>
+			<A HREF="http://www.techfest.org/forum_trial/w-agora/index.php?site=techfest" TARGET="_blank">
+				<IMG SRC="images_bottom/forum.jpg" WIDTH=42 HEIGHT=14 BORDER=0 ALT="forum" onMouseOver="this.src='images_bottom/forum1.jpg';" onMouseOut="this.src='images_bottom/forum.jpg';"></A></TD>
+		<TD ROWSPAN=6>
+			<IMG SRC="images_bottom/bottom_04.jpg" WIDTH=69 HEIGHT=45 ALT=""></TD>
+		<TD ROWSPAN=2>
+			<A HREF="main.php?file=base/faq.php" TARGET="midFrame">
+				<IMG SRC="images_bottom/faq.jpg" WIDTH=31 HEIGHT=14 BORDER=0 ALT="FAQ" onMouseOver="this.src='images_bottom/faq1.jpg';" onMouseOut="this.src='images_bottom/faq.jpg';"></A></TD>
+		<TD ROWSPAN=6>
+			<IMG SRC="images_bottom/bottom_06.jpg" WIDTH=85 HEIGHT=45 ALT=""></TD>
+		<TD ROWSPAN=2>
+			<A HREF="main.php?file=base/assistance.php" TARGET="midFrame">
+				<IMG SRC="images_bottom/assistance.jpg" WIDTH=76 HEIGHT=14 BORDER=0 ALT="assistance" onMouseOver="this.src='images_bottom/assistance1.jpg';" onMouseOut="this.src='images_bottom/assistance.jpg';"></A></TD>
+		<TD ROWSPAN=6>
+			<IMG SRC="images_bottom/bottom_08.jpg" WIDTH=49 HEIGHT=45 ALT=""></TD>
+		<TD ROWSPAN=2>
+			<A HREF="main.php?file=base/contactus.php" TARGET="midFrame">
+				<IMG SRC="images_bottom/contactus.jpg" WIDTH=73 HEIGHT=14 BORDER=0 ALT="contact us" onMouseOver="this.src='images_bottom/contactus1.jpg';" onMouseOut="this.src='images_bottom/contactus.jpg';"></A></TD>
+		<TD ROWSPAN=6>
+			<IMG SRC="images_bottom/bottom_10.jpg" WIDTH=56 HEIGHT=45 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=2 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=2 ROWSPAN=3>
+			<IMG SRC="images_bottom/bottom_11.jpg" WIDTH=41 HEIGHT=22 ALT=""></TD>
+		<TD>
+			<A HREF="main.php?file=base/schedule.php" TARGET="midFrame">
+				<IMG SRC="images_bottom/schedule.jpg" WIDTH=62 HEIGHT=12 BORDER=0 ALT="schedule" onMouseOver="this.src='images_bottom/schedule1.jpg';" onMouseOut="this.src='images_bottom/schedule.jpg';"></A></TD>
+		<TD COLSPAN=2 ROWSPAN=3>
+			<IMG SRC="images_bottom/bottom_13.jpg" WIDTH=60 HEIGHT=22 ALT=""></TD>
+		<TD ROWSPAN=2>
+			<A HREF="main.php?file=base/registration.php" TARGET="midFrame">
+				<IMG SRC="images_bottom/registration.jpg" WIDTH=86 HEIGHT=15 BORDER=0 ALT="registration" onMouseOver="this.src='images_bottom/registration1.jpg';" onMouseOut="this.src='images_bottom/registration.jpg';"></A></TD>
+		<TD ROWSPAN=5>
+			<IMG SRC="images_bottom/bottom_15.jpg" WIDTH=70 HEIGHT=43 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=12 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=2>
+			<IMG SRC="images_bottom/bottom_16.jpg" WIDTH=62 HEIGHT=10 ALT=""></TD>
+		<TD ROWSPAN=4>
+			<IMG SRC="images_bottom/bottom_17.jpg" WIDTH=42 HEIGHT=31 ALT=""></TD>
+		<TD ROWSPAN=4>
+			<IMG SRC="images_bottom/bottom_18.jpg" WIDTH=31 HEIGHT=31 ALT=""></TD>
+		<TD ROWSPAN=4>
+			<IMG SRC="images_bottom/bottom_19.jpg" WIDTH=76 HEIGHT=31 ALT=""></TD>
+		<TD ROWSPAN=4>
+			<IMG SRC="images_bottom/bottom_20.jpg" WIDTH=73 HEIGHT=31 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=3 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=3>
+			<IMG SRC="images_bottom/bottom_21.jpg" WIDTH=86 HEIGHT=28 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=7 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD ROWSPAN=2>
+			<IMG SRC="images_bottom/bottom_22.jpg" WIDTH=30 HEIGHT=21 ALT=""></TD>
+		<TD COLSPAN=3>
+			<A HREF="main.php?file=base/updates.php" TARGET="midFrame">
+				<IMG SRC="images_bottom/updates.jpg" WIDTH=110 HEIGHT=12 BORDER=0 ALT="UPDATES"></A></TD>
+		<TD ROWSPAN=2>
+			<IMG SRC="images_bottom/bottom_24.jpg" WIDTH=23 HEIGHT=21 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=12 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD COLSPAN=3>
+			<IMG SRC="images_bottom/bottom_25.jpg" WIDTH=110 HEIGHT=9 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=1 HEIGHT=9 ALT=""></TD>
+	</TR>
+	<TR>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=30 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=11 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=62 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=37 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=23 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=86 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=70 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=42 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=69 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=31 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=85 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=76 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=49 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=73 HEIGHT=1 ALT=""></TD>
+		<TD>
+			<IMG SRC="images_bottom/spacer.gif" WIDTH=56 HEIGHT=1 ALT=""></TD>
+		<TD></TD>
+	</TR>
+</TABLE>
+<!-- End ImageReady Slices -->
+</BODY>
+</HTML>

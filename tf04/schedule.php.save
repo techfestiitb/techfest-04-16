@@ -1,0 +1,11 @@
+<style type="text/css">
+.grey1link:link { color: #293932; text-decoration: none}
+.grey1link:visited {color:#293932; text-decoration:none}
+.grey1link:hover {color:#7f8068; text-decoration:none}
+.grey1link:active {color:#293932; text-decoration: none}
+</style>
+
+<?php include('http://www.techfest.org/box.php?text=COMPETITIONS') ?>
+
+
+

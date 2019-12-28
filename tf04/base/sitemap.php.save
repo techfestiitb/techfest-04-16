@@ -1,0 +1,82 @@
+<?php
+include('http://www.techfest.org/box.php?text=SITEMAP');
+?><br>
+
+<head>
+
+<style type="text/css">
+a:link {color: #696969}
+a:visited {color: #d4d2d2}
+a:hover {color: #d4d2d2}
+a:active {color: #d4d2d2}
+</style>
+
+</head>
+
+<body>
+<p><font size="3"></font>
+<font size="4">&nbsp;&nbsp;<a href="http://www.techfest.org/main.php?file=events/events.php">Events</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=events/lecture.php">-Lecture Series</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=events/randd.php">-R & D</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=events/hub.php">-HUB</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=events/techfestatdark.php">-Techfest at Dark</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href="http://www.techfest.org/main.php?file=competitions/competitions.php">Competitions</a></font></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=competitions/yantriki.php">-Yantriki</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=competitions/lastraw.php">-Last Straw</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=competitions/chemsplash.php">-Chemsplash</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href="http://www.techfest.org/main.php?file=workshops/workshops.php">Workshops</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href="http://www.techfest.org/main.php?file=sponsors/sponsors.php">Sponsors</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=sponsors/sponsors_2003.php">-Sponsors 2003</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=sponsors/sponsors_2002.php">-Sponsors 2002</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=sponsors/sponsors_2001.php">-Sponsors 2001</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=sponsors/sponsors_2000.php">-Sponsors 2000</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=sponsors/sponsors_1999.php">-Sponsors 1999</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=sponsors/sponsors_1998.php">-Sponsors 1998</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href="~http://www.techfest.org/main.php?file=media/media.php">Media</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href="http://www.techfest.org/main.php?file=lookback/lookback.php">Lookback</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=lookback/lookback_2003.php">-Lookback 2003</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=lookback/lookback_2002.php">-Lookback 2002</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=lookback/lookback_2001.php">-Lookback 2001</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=lookback/lookback_2000.php">-Lookback 2000</font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=lookback/lookback_1999.php">-Lookback 1999</a></font></p>
+
+<p><font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="main.php?file=lookback/lookback_1998.php">-Lookback 1998</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href=" http://www.techfest.org/main.php?file=base/schedule.php">Schedule</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href=" http://www.techfest.org/main.php?file=base/Registration.php">Registration</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href=" http://www.techfest.org/main.php?file=base/forum.php">Forum</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href=" http://www.techfest.org/main.php?file=base/faq.php">FAQ</a></font></p>
+
+<p><font size="4">&nbsp;&nbsp;<a href=" http://www.techfest.org/main.php?file=base/assitance.php">Assistance</a></font></p>
+
+<p><font size="4"> &nbsp;&nbsp; <a href=" http://www.techfest.org/main.php?file=base/contactus.php">Contact Us</a></font></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>  </p>

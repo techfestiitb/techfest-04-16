@@ -1,0 +1,63 @@
+<?php
+include('http://www.techfest.org/box.php?text=CONTRAPTION');
+?>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><font size=2 px>&#8216;Optimization hinders evolution.&#8217; </font></p>
+<p>
+  Every scientific development in today&#8217;s world is an effort to make things 
+  simpler. Ever thought of going the other way? We call it the Dexter&#8217;s 
+  way.</p>
+<p>To burst just a balloon, Dexter opens his lab window, lets sunlight in which 
+  activates a solar panel. The power from the panel drives a motor fan which blows 
+  the flame of a candle kept near a string. The string burns thus releasing a 
+  pin attached to a pendulum which ultimately bursts the balloon placed in the 
+  pin&#8217;s trajectory.</p>
+<p>Whew! <br>
+  Sensible? &#8230; No. <br>
+  Exciting? &#8230; Definitely YES!</p>
+<p>All you have to do is to perform a trivial task in most complex and intriguing 
+  manner. 
+  Go ahead &#8230;do something you never did before &#8230;make life tougher!</p>
+  
+<p><a href=#prob class="greylink">Problem Statement</a><br><a href=#rules 
+class="greylink">Rules & Regulations</A><br><a href=#safety 
+class="greylink">Safety Norms</a><br><a 
+href=main.php?file=register/r_contra.php class=greylink>Register</a><br><a 
+href=competitions/contraption.pdf target=_blank 
+class=greylink>Download</a><br><br><br>
+  <a name=prob><font color=#1f3d55><b>Problem statement:</b></font></a><br>
+<blockquote>To light a bulb </blockquote><br>
+<a name=rules><font color=#1f3d55><b>Rules and Regulations:</b></font></a><br><br>
+<ol><li>Students currently enrolled for up to an Undergraduate program at their institute 
+  are eligible for the competition.<br><br></li>
+  <li>Number of members per team should <b>not exceed 
+three</b>.<br><br></li>
+  <li>Every team has to <a href=main.php?firegister online at our website 
+for the competition. A registration 
+  number will be allocated to the team on registration which shall be used for 
+  future reference.<br><br></li>
+  <li>No dimension of the machine should exceed 6ft.<br><br></li>
+  <li>The machine must complete the task as described in the problem statement.<br><br></li>
+  <li>The machine must have a minimum of twelve steps. There is no limit to the 
+  maximum number of steps.<br><br></li>
+  <li>There should be a minimum of four energy transformations in the contraption.<br><br></li>
+  <li>No human intervention is allowed once the machine starts. A maximum of three 
+  trials will be given to each machine to perform.<br><br></li>
+  <li>Teams will be given only one hour prior to the competition to set up their 
+  contraption at the venue.<br><br></li>
+  <li>Each team must submit a concise copy of a step-by-step description of their 
+  machine to the competition coordinator as soon as it starts setting up the machine 
+  at the contest venue.</li><br><br>
+  <li>The participants are encouraged to bring a chart showing the step-by-step 
+  working of the contraption for the convenience of the spectators.</li><br><br>
+  <li>Judges decision shall be treated as final and binding on all.</li></ol><br><br>
+<a name=safety><font color=#1f3d55><b>Safety and General Norms</b></font></a>
+  <ol><li>No hazardous materials or explosives can be used.<br><br></li>
+  <li>The machine must be safe to the satisfaction of the judges.<br><br></li>
+  <li>Each team will remove its machine and clean up its area immediately after the contest.
+  <br><br></li>
+  <li>A 220 W/50 Hz AC power will be made available the venue.<br><br></li></ol>
+</p>
+<p>&nbsp; </p>
+</body>
+</html>

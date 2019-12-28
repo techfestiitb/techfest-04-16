@@ -1,0 +1,11 @@
+<?php
+include('http://www.techfest.org/box.php?text=CHEMSPLASH');
+?>
+<p>By all reckoning, our human civilization is a very complex reality today and is growing ever more so. And in its
+wake, there is a growing need to manage the complexity through continuous and rapid refinements of technology. This is perhaps evident most strongly in the chemical process Industry, the industry which has been the engine behind the growth of wealth of nations. The global chemical industry is transforming itself by placing at its centre the concerns for human safety and welfare, environmental protection, energy conservation and higher efficiency. And in this endeavor of reinventing itself the chemical industry is rapidly imbibing the benefits of the ongoing Information Technology revolution. In short, our profession is in a state of heady flux! 
+</p>
+<p>And thus, our times can at once appear confusing as well as stupendously potent! So, what are the dominant evolutionary strands today in the chemical engineering profession? We need to reflect and sift the true from the apparent. So that the real world practice of our profession is made in the events for Chemsplash, which is a true handmaiden of progress. 
+</p>
+
+
+

@@ -1,0 +1,97 @@
+body, p, table, tr, td, .inf, ul, ol, .dis
+{
+	font-family: "Verdana";
+	color: #23332c;
+        font-size: 9pt;
+        font-weight: 10pt;
+        line-height: 13pt;
+}
+
+body
+{
+margin-right: 20px;
+	text-align: justify;
+
+}
+blockquote,ol,ul
+{
+margin-right: 0px;
+padding-right: 0px; 
+padding-left: 0px;
+margin-left: 25px;
+}
+.mystyle {
+ font-family: "Verdana";
+        color: #23332c;
+        font-size: 9pt;
+        font-weight: 10pt;
+        line-height: 13pt;
+        text-align: justify;
+
+}
+TD.mystyle {
+ font-family: "Verdana";
+        color: #23332c;
+        font-size: 9pt;
+        font-weight: 10pt;
+        line-height: 13pt;
+        text-align: justify;
+
+}
+TR TD.mystyle {
+ font-family: "Verdana";
+        color: #23332c;
+        font-size: 9pt;
+        font-weight: 10pt;
+        line-height: 13pt;
+}
+TABLE TR TD.mystyle { font-family: "Verdana";
+        color: #23332c;
+        font-size: 9pt;
+        font-weight: 10pt;
+        line-height: 13pt;
+}
+TABLE TR TD.mystyle { font-family: "Verdana";
+        color: #23332c;
+        font-size: 9pt;
+        font-weight: 10pt;
+        line-height: 13pt;
+	}
+
+
+body {
+  scrollbar-arrow-color: #293932;
+  scrollbar-3dlight-color: #000000;
+  scrollbar-highlight-color: #ffffff;
+  scrollbar-face-color: #dddec1;
+  scrollbar-shadow-color: #808080;
+  scrollbar-darkshadow-color: #000000;
+  scrollbar-track-color: #dde0ca;
+} 
+.ts, .duk { font-Size: 8pt; }
+.inf { align: justify; }
+.blacklink { font-Size: 8pt; color: #333333; text-decoration: none }
+.blacklink:hover { color: #0000ff; text-decoration: underline }
+.greylink:link { color: #7f8068; text-decoration: none}
+.greylink:visited {color:#7f8068; text-decoration:none}
+.greylink:hover {color:#293932; text-decoration:none}
+.greylink:active {color:#7f8068; text-decoration: none}
+
+.grey1link:link { color: #293932; text-decoration: none}
+.grey1link:visited {color:#293932; text-decoration:none}
+.grey1link:hover {color:#7f8068; text-decoration:none}
+.grey1link:active {color:#293932; text-decoration: none}
+
+.grey2link:link { color: #7f8068; text-decoration: none}
+.grey2link:visited {color:#7f8068; text-decoration:none}
+.grey2link:hover {color:#193932; text-decoration:none}
+.grey2link:active {color:#7f8068; text-decoration: none}
+.sidebar { font-size: 10px; color: #CCCCCC; text-decoration: none }
+.sidebar:hover { color: #FFFFFF; text-decoration: none; }
+a:link{color:#0000ff; text-decoration: none};
+a:visited{color:#0000ff; text-decoration:none};
+a:hover{color:#000000; text-decoration:none;};
+a:active{color:#0000ff; text-decoration: none};
+.copyright { font-Size: 8pt; color: #CCCCCC; text-decoration: none }
+.inf { align: justify; }
+h3 {margin-bottom:0; margin:0}

@@ -1,0 +1,93 @@
+BODY
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+P
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+TABLE
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+TR
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+TD
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+A
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+.inf
+{
+    COLOR: #000000;
+    FONT-FAMILY: Verdana
+}
+.tn
+{
+    FONT-SIZE: 10pt
+}
+.ts
+{
+    FONT-SIZE: 8pt
+}
+.inf
+{
+    align: justify
+}
+.blacklink
+{
+    FONT-SIZE: 8pt;
+    COLOR: #333333;
+    TEXT-DECORATION: none
+}
+.blacklink:hover
+{
+    COLOR: #000000;
+    TEXT-DECORATION: underline
+}
+.sidebar
+{
+    FONT-SIZE: 10px;
+    COLOR: #cccccc;
+    TEXT-DECORATION: none
+}
+.sidebar:hover
+{
+    COLOR: #ffffff;
+    TEXT-DECORATION: none
+}
+.searchtext
+{
+    BORDER-RIGHT: #000000 1px solid;
+    BORDER-TOP: #000000 1px solid;
+    FONT-SIZE: 8pt;
+    BORDER-LEFT: #000000 1px solid;
+    WIDTH: 100%;
+    COLOR: #000000;
+    BORDER-BOTTOM: #000000 1px solid;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #999999;
+    FONT-COLOR: #000000
+}
+A:hover
+{
+    COLOR: #0f588b;
+    TEXT-DECORATION: underline
+}
+.copyright
+{
+    FONT-SIZE: 8pt;
+    COLOR: #cccccc;
+    TEXT-DECORATION: none
+}

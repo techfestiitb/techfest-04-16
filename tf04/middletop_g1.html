@@ -1,0 +1,117 @@
+<html>
+
+<head>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+        sSiteName = 'Techfest 2004.';
+        parent.defaultStatus = sSiteName;
+     NS4 = (document.layers || navigator.appVersion.indexOf("Opera")!=-1);
+     IE4 = (document.all);
+    ver4 = (NS4 || IE4);
+         IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+   isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+function popfinallyyop(){return};
+function popDown(){return};
+if (!ver4) event=null;
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+if (isMenu) {
+menuVersion = 3;
+menuWidth = 150;
+childOverlap = 20;
+childOffset = 5;
+perCentOver = null;
+secondsVisible = .5;
+fntCol = "blue";
+fntSiz = "8";
+fntBold = true;
+fntItal = false;
+fntFam = "Verdana,Arial,sans-serif";
+backCol = "#DDDDDD";
+overCol = "#FFCCCC";
+overFnt = "purple";
+borWid = 1;
+borCol = "black";
+borSty = "solid";
+itemPad = 2;
+imgSrc = "images/HM_More_black_right.gif";
+imgSiz = 5;
+separator = 1;
+separatorCol = "black";
+isFrames = true;
+navFrLoc = "top";
+mainFrName = "midFrame";
+keepHilite = true;
+clickStart = false;
+clickKill = false;
+}
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+if (isMenu) {
+document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='hierArrays.js' TYPE='text/javascript'><\/SCRIPT>");
+}
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript1.2" TYPE="text/javascript">
+if (isMenu) {
+document.write("<SCRIPT LANGUAGE='JavaScript1.2' SRC='hierMenus.js' TYPE='text/javascript'><\/SCRIPT>");
+}
+</SCRIPT>
+
+<title>New Page 1</title>
+<style>
+#elMenuOver {
+    position: absolute;
+    left: 0;
+    top: 0;
+    visibility: hidden
+}
+
+#elMenuUp {
+    position: absolute;
+    left: 0;            // left and top not absolutely
+    top: 0              // necessary as default is 0
+}
+</style>
+
+<script>
+IE4 = (document.all) ? 1 : 0;       // initialize browser..
+NS4 = (document.layers) ? 1 : 0;    // identification and...
+ver4 = (IE4 || NS4) ? 1 : 0;        // DHTML variables
+
+function mapOver(on) {
+    if (IE4) {                      // check for MSIE4
+        whichEl = document.all.elMenuOver.style         // and assign MSIE alias
+    }
+    else {                                              // or...
+        whichEl = document.elMenu.document.elMenuOver   // assign Netscape alias
+    };
+        if (on) { whichEl.visibility = "visible" }
+           else { whichEl.visibility = "hidden" }
+}
+</script>
+</head>
+
+<body LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+<map name="mpMenu">
+<area href="http://www.techfest.org/main1.php?file=cliffhanger/cliffhanger.php" shape="rect" coords="525, 35, 660, 60" TARGET="midFrame" onMouseOver="mapOver(true)" onMouseOut="mapOver(false)">
+<area href="http://www.techfest.org/main1.php?file=events/events.php" shape="rect" coords="34, 76, 156, 94" onMouseOver="popUp('elMenu3',event); mapOver(true);" onMouseOut="popDown('elMenu3'); mapOver(false);" TARGET="midFrame">
+<area href="http://www.techfest.org/main.php?file=competitions/competitions.php" shape="rect" coords="156, 77, 280, 94" onMouseOver="popUp('elMenu1',event);" onMouseOut="popDown('elMenu1')" TARGET="midFrame" onMouseOver="mapOver(true)" onMouseOut="mapOver(false)">
+<area href="http://www.techfest.org/main.php?file=workshops/workshops1.php" shape="rect" coords="279, 77, 403, 94" onMouseOver="popUp('elMenu2',event);" onMouseOut="popDown('elMenu2')" TARGET="midFrame" onMouseOver="mapOver(true)" onMouseOut="mapOver(false)">
+<area href="http://www.techfest.org/main1.php?file=sponsors/sponsors.php" shape="rect" coords="404, 78, 526, 94" TARGET="midFrame" onMouseOver="mapOver(true)" onMouseOut="mapOver(false)">
+<area href="http://www.techfest.org/main1.php?file=media/media.php" shape="rect" coords="528, 78, 645, 94" TARGET="midFrame" onMouseOver="mapOver(true)" onMouseOut="mapOver(false)">
+<area href="http://www.techfest.org/main1.php?file=lookback/lookback.php" shape="rect" coords="643, 78, 770, 94" onMouseOver="popUp('elMenu4',event);" onMouseOut="popDown('elMenu4')" TARGET="midFrame" onMouseOver="mapOver(true)" onMouseOut="mapOver(false)">
+</map>
+<DIV ID="elMenu">
+    <DIV ID="elMenuUp">
+        <IMG SRC="images/middletop1.jpg" USEMAP="#mpMenu" WIDTH=800 HEIGHT=95 BORDER=0>
+    </DIV>
+    <DIV ID="elMenuOver">
+        <IMG SRC="menuover.gif" WIDTH=800 HEIGHT=95 BORDER=0 USEMAP="#mpMenu" >
+    </DIV>
+</DIV>
+
+</body>
+
+</html>

@@ -1,0 +1,38 @@
+<?
+$err = 0;
+
+if($act=="yes")
+{
+  if($err==0)
+  { 
+
+$db = mysql_connect($lhost,$un,$pass);
+mysql_select_db($dbas);
+ $result2 = mysql_query("SELECT count(*) FROM onlinec where
+comp='$comp'");
+ $co = mysql_result($result2,0);
+ $co=$co + 1;
+ $qr = "INSERT INTO onlinec1(zp1,ze1,zc1,zr1,ans1,ans2,ans3,ans4,ans5,ans6,ans7,comp) VALUES ('$zp1','$ze1','$zc1','$zr1','$ans1','$ans2','$ans3','$ans4','$ans5',''$ans6','$ans7','$comp')";
+ $result1 = mysql_query($qr);
+ if (!$result1) {
+    echo("<P>Error performing query: " .
+    mysql_error() . "</P>");
+    }
+ $headers  = "MIME-Version: 1.0\r\n";
+ $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
+ $headers .= "From: Techfest Team <techfest@cc.iitb.ac.in>\r\n";
+ $message = "Your competition entry has been accepted for Techfest 2003. Please note the following details:<BR><BR>Team Code:onlinec $co<BR><BR>Regards,<BR>Techfest 2003 Team<BR>";
+ if($ze1!="") { mail($ze1,"Techfest 2003", $message, $headers); }
+  print "Entry accepted for the competitions. Please note that your team code is:";
+  print $comp;
+  print " $co.";
+ }
+
+}
+else
+{
+  $act = "go";
+}
+if($act=="go" || $err!=0)
+{
+?>

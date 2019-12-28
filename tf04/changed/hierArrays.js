@@ -1,0 +1,134 @@
+function mnu(u)
+{
+    var bag = (typeof(parent.frames.midFrame.assistant)=='undefined') ? false : parent.frames.midFrame.assistant;
+    if (bag)
+    { parent.frames.midFrame.location.href = '' + u; }
+    else
+    { parent.frames.midFrame.location.href = '' + u; }
+}
+
+function newframemnu(u)
+{
+    var bag = (typeof(parent.frames.midFrame.assistant)=='undefined') ? false : parent.frames.midFrame.assistant;
+    if (bag)
+    { window.open(''+u); }
+    else
+    { window.open(''+u); }
+}
+
+function gohome()
+{
+    var bag = (typeof(parent.frames.midFrame.assistant)=='undefined') ? false : parent.frames.midFrame.assistant;
+    if (bag)
+    { parent.location.href = ''; }
+    else
+    { parent.location.href = ''; }
+}
+
+arMenu1 = new Array(
+122,
+"158","",
+"#203029","#d4d5b9",
+"#d4d5b9","#203029",
+"#203029","#d4d5b9",
+"Atlantis  ","javascript:mnu('main.php?file=competitions/atlantis.php')",0,
+"Chemsplash             ","javascript:mnu('main.php?file=chemsplash/chemsplash.php')",0,
+"Cliffhanger ","javascript:mnu('main.php?file=cliffhanger/cliffhanger.php')",0,
+"Contraption      ", "javascript:mnu('main.php?file=competitions/contraption.php')",0,
+"Dirt Racing     ", "javascript:mnu('main.php?file=competitions/dirtracing.php')",0,
+"Krazie Idea     ", "javascript:mnu('main.php?file=competitions/krazie2.php')",0,
+"Kurukshetra  ","javascript:mnu('main.php?file=competitions/kurukshetra.php')",0,
+"Laststraw              ","javascript:mnu('main.php?file=laststraw/laststraw.php')",0,
+"Open Design  ","javascript:mnu('main.php?file=competitions/opendesign.php')",0,
+"Open Hardware   ", "javascript:mnu('main.php?file=competitions/openhardware.php')",0,
+"Open Software                ", "javascript:mnu('main.php?file=competitions/opensoftware.php')",0,
+"Planet Earth  ","javascript:mnu('main.php?file=competitions/planetearth.php')",0,
+"Poster Presentation ", "javascript:mnu('main.php?file=chemsplash/technum.php')",0,
+"Water Rockets     ", "javascript:mnu('main.php?file=competitions/waterrockets.php')",0,
+"Yantriki               ","javascript:mnu('main.php?file=yantriki/yantriki.php')",0,
+"Online Events", "javascript:mnu('main.php?file=competitions/onlinemain.php')",0,
+"Intra IIT Events", "javascript:mnu('main.php?file=competitions/intra.php')",0
+);
+
+
+arMenu2 = new Array(
+123,
+"280","",
+"#203029","#d4d5b9",
+"#d4d5b9","#203029",
+"#203029","#d4d5b9",
+"Get Your Rights","javascript:mnu('main.php?file=workshops/ipr.php')",0,
+"Car Technology","javascript:mnu('main.php?file=workshops/workshops1.php')",0,
+"Wings","javascript:mnu('main.php?file=workshops/workshops1.php')",0,
+"r U GAME","javascript:mnu('main.php?file=workshops/workshops1.php')",0
+)
+
+
+
+
+arMenu3 = new Array(
+123,
+"35","",
+"#203029","#d4d5b9",
+"#d4d5b9","#203029",
+"#203029","#d4d5b9",
+"Cliffhanger ","javascript:mnu('main.php?file=cliffhanger/cliffhanger.php')",0,
+"Yantriki               ","javascript:mnu('main.php?file=yantriki/yantriki.php')",1,
+"Laststraw              ","javascript:mnu('main.php?file=laststraw/laststraw.php')",1,
+"Chemsplash		","javascript:mnu('main.php?file=chemsplash/chemsplash.php')",1,
+"Competitions		","javascript:mnu('main.php?file=competitions/competitions.php')",0,
+"Lecture Series		","javascript:mnu('main.php?file=lectureseries/lecture.php')",0,
+"HUB			","javascript:mnu('main.php?file=events/hub.php')",0,
+"Technoholix            ","javascript:mnu('main.php?file=events/technoholix.php')",0
+);
+
+arMenu3_2 = new Array(
+"Last Man Standing","javascript:mnu('main.php?file=yantriki/queen.php')",0,
+"Micromouse","javascript:mnu('main.php?file=yantriki/micro.php')",0,
+"Cliffhanger","javascript:mnu('main.php?file=cliffhanger/cliffhanger.php')",0
+);
+
+arMenu3_3 = new Array(
+"The Seize of Syracuse","javascript:mnu('main.php?file=laststraw/crane.php')",0,
+"Impact Load Distribution","javascript:mnu('main.php?file=laststraw/impact.php')",0,
+"Westpoint Bridge Design","javascript:mnu('main.php?file=laststraw/bridge1.php')",0,
+"Construction Management","javascript:mnu('main.php?file=laststraw/constmgmt.php')",0
+);
+
+arMenu3_4 = new Array(
+"la porsChe","javascript:mnu('main.php?file=chemsplash/laporsche.php')",0,
+"High Spirits","javascript:mnu('main.php?file=chemsplash/highspirits.php')",0,
+"Poster Presentation","javascript:mnu('main.php?file=chemsplash/technum.php')",0,
+"Dexter's Den","javascript:mnu('main.php?file=chemsplash/dexterden.php')",0,
+"Turbulence","javascript:mnu('main.php?file=chemsplash/turbulence.php')",0,
+"Online Events","javascript:mnu('main.php?file=competitions/onlinemain.php')",0
+);
+
+arMenu4 = new Array( 
+119,
+"650","",
+"#203029","#d4d5b9",
+"#d4d5b9","#203029",
+"#203029","#d4d5b9",
+"Lookback 2003","javascript:mnu('main1.php?file=lookback/lookback_2003.php')",0,
+"Lookback 2002","javascript:mnu('main1.php?file=lookback/lookback_2002.php')",0,
+"Lookback 2001","javascript:mnu('main1.php?file=lookback/lookback_2001.php')",0,
+"Lookback 2000","javascript:mnu('main1.php?file=lookback/lookback_2000.php')",0,
+"Lookback 1999","javascript:mnu('main1.php?file=lookback/lookback_1999.php')",0,
+"Lookback 1998","javascript:mnu('main1.php?file=lookback/lookback_1998.php')",0
+)
+
+arMenu5 = new Array(
+123,
+"401","",
+"#203029","#d4d5b9",
+"#d4d5b9","#203029",
+"#203029","#d4d5b9",
+"Sponsors 2004","javascript:mnu('main1.php?file=sponsors/sponsors.php')",0,
+"Sponsors 2003","javascript:mnu('main1.php?file=sponsors/sponsors_2003.php')",0,
+"Sponsors 2002","javascript:mnu('main1.php?file=sponsors/sponsors_2002.php')",0,
+"Sponsors 2001","javascript:mnu('main1.php?file=sponsors/sponsors_2001.php')",0,
+"Sponsors 2000","javascript:mnu('main1.php?file=sponsors/sponsors_2000.php')",0,
+"Sponsors 1999","javascript:mnu('main1.php?file=sponsors/sponsors_1999.php')",0,
+"Sponsors 1998","javascript:mnu('main1.php?file=sponsors/sponsors_1998.php')",0
+)

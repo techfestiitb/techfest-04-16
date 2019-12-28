@@ -1,0 +1,185 @@
+<?php
+include('http://www.techfest.org/box.php?text=OPEN%20HARDWARE');
+?><a name=back></a><br>
+<span style="margin-top:4 px">
+<font color=#293932> <b>If I create from 
+heart, nearly everything works; if from head, almost nothing.</b>
+</font></span><br>
+<img src=competitions/openhardware.jpg
+align=right vspace=20 hspace=20>
+<br>
+<p>What follows when a storming innovative idea strikes you? It haunts you, your 
+  grey cells start contriving designs for it.<br><br>
+  <b>Open Hardware</b> propels you a step ahead. It incites you to nourish 
+  your ideas. It is one of the premier and challenging competitions at Techfest 
+  and the ultimate platform for your radical and unconventional hardware developments 
+  to bring forth. You can bring for display any device, gadget or model that has 
+  been conceptualized, designed and developed by you. Emphasis is placed upon 
+  innovation, besides aspects like creativity, marketability and technical superiority. <br><br>
+
+This year we are introducing <b>special category prizes</b> for the 
+  best machines answering any <b>social 
+cause</b>.<br>
+Total Cash Prize of Rs. <b>40,000</b> to be won.
+</p>
+<br><br>
+<a href=#rules class=greylink>Rules and Regulation</a><br><a
+href=#abs class=greylink>Abstract Format</a><br><a
+href=#ins class=greylink>Other Instructions</a><br>
+<a href=#download class=greylink>Download Rules</a><br>
+
+<a
+href=#res class=greylink>Resources</a><br>
+<a href=tell/mailto.php?to=anant@techfest.org class=greylink>Queries</a><br>
+<a href=register/allregister1.php?comp=ohw
+class=greylink>Register</a><br>
+<br><br><p><a name=rules><font 
+color=#293932><b>Rules and Regulations:</b></font></a><br><br>
+  <ol><li>Students currently enrolled for up to an undergraduate/postgraduate program at their institute 
+  are eligible for the competition.<br><br></li>
+  <li>Number of members per team should not exceed three.<br><br></li>
+  <li>Every team has to <a 
+href=register/allregister1.php?comp=ohw class="greylink">register</a> 
+online at our website for the competition. A 
+registration 
+  number will be allocated to the team on registration which shall be used for 
+  future reference.<br><br></li>
+  <li>Pre-event abstracts in <b>a standard format</b> (refer below) 
+    need to be submitted for the competition for the screening round.<br>
+    <br></li>
+  <li>The abstract should be mailed to <a 
+class=greylink 
+href=tell/mailto.php?to=abstract@techfest.org>abstract@techfest.org</a></b> 
+    with the subject &#8216;Open Hardware abstract Reg. No. -------&#8217; or posted 
+    to us at our postal address. <b>Do not forget to mention the registration 
+    number</b>.<br>
+    <br></li>
+  <li>Last date for receiving the abstracts is <b>10<sup>th</sup> January, 
+2004</b>. 
+    <br>
+    <br></li>
+  <li>In case the participants fail to submit the abstracts by the last date, their 
+  registration shall stand cancelled.<br><br></li>
+  <li>Only the participants who qualify after the screening round based on judging 
+  of the abstracts shall be invited to Techfest 2004 for the competition.<br><br></li>
+  <li>Teams will be given only one hour prior to the competition to set up their 
+  machine at the venue for judging.<br><br></li>
+  <li>On a <b>single chart paper</b>, the team should explain their 
+    hardware with figures, diagrams and relevant material. A <b>detailed 
+    report</b> of the hardware in support of the design and highlighting 
+    the important aspects should also be brought.<br>
+    <br></li>
+  <li>The report along with the chart paper will have to be submitted to the competition 
+  coordinator at the time of the competition.<br><br></li>
+  <li><b>Participants should submit their hardware, software and other requirements 
+    needed at the time of competition along with the abstract for the screening 
+    round.</b><br>
+    <br>
+  <li>Selected entries will be displayed in an exhibition at Techfest.<br><br></li>
+  <li>Judges decision shall be treated as final and binding on all.</li></ol></p><br>
+<p><a name=abs>
+  <font color=#293932><b>Abstract Format:</b></font></a></p><center>
+<p align=center>
+  <table width=405 border="2" cellspacing="0" cellpadding="0">
+          <tr><td class=mystyle><table border=0 align=center><tr><td 
+valign=top width=5>1.</td>
+        <td class=mystyle align="" width=400 valign=middle>Explain briefly the idea of 
+your project.</td></tr></table></td></tr>
+      <tr> <td class=mystyle align="center" valign=middle>-------------Your text comes here-------------</td> </tr>
+      <tr><td class=mystyle><table border=0 align=center><tr><td 
+valign=top width=5>2.</td> 
+        <td class=mystyle> Explain briefly how your project works? Please mention all 
+the 
+            technicalities and functional analysis of the machine. (Diagrams, 
+            figures, circuits etc. are 
+appreciated.)</td></tr></table></td>
+      </tr>
+      <tr> 
+        <td class=mystyle align="center">-------------Your text comes here-------------</td>
+      </tr>
+      <tr> 
+        <td class=mystyle><table border=0 align=center><tr><td class=mystyle 
+valign=top width=5>3.</td><td class=mystyle>Highlight 
+specifically the problem for which the project is 
+worked 
+          out as a solution and your original contribution towards the solution 
+          of the problem.</td></tr></table></td>
+      </tr>
+      <tr> 
+        <td class=mystyle align=center>-------------Your text comes here-------------</td>
+      </tr>
+      <tr> 
+        <td class=mystyle><table border=0 align=center><tr><td class=mystyle valign=top  
+width=5>4.</td><td class=mystyle>Comment upon the marketability 
+of the project and its commercial applications.</td></tr></table></td>
+      </tr>
+      <tr> 
+        <td class=mystyle align="center">-------------Your text comes here-------------</td>
+      </tr>
+      <tr> 
+        <td class=mystyle><table border=0 align=center><tr><td class=mystyle valign=top
+width=center>5.</td><td class=mystyle>Briefly mention the social aspects which 
+your project aims to fulfill.(optional)</td></tr></table></td>
+      </tr>
+      <tr>
+        <td class=mystyle align="center">-------------Your text comes here-------------</td>
+      </tr>
+      <tr> 
+        <td class=mystyle><table align=center border=0><tr><td class=mystyle valign=top 
+width=5>6.</td><td class=mystyle>Any other 
+aspect of the project worth a mention.(optional)</td></tr></table></td>
+      </tr>
+      <tr> 
+        <td class=mystyle align="center">-------------Your text comes here-------------</td>
+      </tr>
+    </ol>
+  </table>
+</center>
+&nbsp;</p><br>
+<p><a name=ins><font color=#293932><b>Some 
+instructions:</b></font></a><br>
+<ol>
+  <li>Abstracts can be submitted either handwritten or typed.<br><br></li>
+  <li>First sheet should only contain title of the project, team registration number, 
+  names of the team members and their respective institutes.<br><br></li>
+  <li>Typed abstract should not exceed three A4 sheets of text with a font size 
+  of 12 excluding the first sheet containing the title.<br><br></li>
+  <li>Handwritten abstracts should not exceed 1200 words.<br><br></li>
+  <li>Diagrams may be attached in additional sheets.<br><br></li>
+  <li>Participants should try to answer the 5th point of the abstract as it might 
+  help them win some special category prizes.<br><br></li>
+  <li>It is recommended that vital aspects of the project that require special focus 
+  are mentioned as points.</li></ol></p><br>
+<p>
+<a name=download><font 
+color=#293932><b>Downloads</b></font>
+</a><ol><li><a href=competitions/openhardwarerules.pdf 
+class=greylink target=_blank>Download rules in 
+pdf</a></li>&nbsp;<img src="media/pdficonsm.gif"   alt="Adobe icon">
+
+<li><a class=greylink href=competitions/abstract_openhardware.pdf 
+target=_blank>Download 
+abstract format in pdf</a></li>&nbsp;<img src="media/pdficonsm.gif"   alt="Adobe icon"></ol>
+
+<p>
+<br>
+<p><a name=res><font color=#293932><b>Resources</b></font></a><br><br>
+  We would provide computers and other bulky equipments like signal generators, 
+  oscilloscope etc if and only if required. Participants are required to bring 
+  stuff like adapters, batteries, extension cords etc by themselves. It would 
+  also be convenient if teams carry their CPU (if required) as compatibility problems 
+  may arise at the last moment. Other necessary things like monitor, keyboard, 
+  mouse etc would be provided. <b>All the participants should communicate 
+  these requirements along with the abstracts for the screening 
+round</b>.</p><br>
+<font color=#293932><b>In case of queries, contact</b></font><br>
+<br>Anant Inani<br>
+Manager, Competitions<br>
+<a href=tell/mailto.php?to=anant@techfest.org>anant@techfest.org</a>
+<br><br>
+<table width=100%><tr><td width=50% align=left>
+<a href=#back class=greylink><b>Back to Top</b></a></td><td align=right 
+width=50%>
+<a href=main.php?file=competitions/competitions.php
+class=greylink><b>Other Competitions</b></a></td></tr></table>
+

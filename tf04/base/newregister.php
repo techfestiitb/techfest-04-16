@@ -1,0 +1,113 @@
+<p>
+<!-- <img align=right src=base/register1.jpg border=0 hspace=20 vspace=20> -->
+<table width=90%><tr><td width=50%>
+<font color=#1f3d55><b>CHEMSPLASH</b></font>
+<ol type=square>
+<li><a class=greylink href="register/allregister1.php?comp=hss">High Spirits</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Chemically Powered Lift
+<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=por">la porsChe</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Chemically Powered Car
+<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=opu">TechnumOpus</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poster Presentation Competition
+
+<br><br></li>
+</ol>
+<font color=#1f3d55><b>COMPETITIONS</b></font>
+<ol type=square>
+
+<li><a class=greylink href="register/allregister1.php?comp=atl">Atlantis</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+City Design Competition
+<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=con">Contraption</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Optimization Hinders Evolution
+
+<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=drt">Dirt Car Racing</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Racing on Dirt Track
+<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=kra">Krazie Idea</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Think the Unthinkable
+<br><br></li><li><a class=greylink href="register/allregister1.php?comp=kur">Kurukshetra</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A Programming Contest
+<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=ode">Open Design Contest</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Test Your Design Skills
+<br><br></li><li><a class=greylink href="register/allregister1.php?comp=ohw">Open Hardware</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br><br></li><li><a class=greylink href="register/allregister1.php?comp=osw">Open Software</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competition for the software wizards
+
+<br><br></li><li><a class=greylink href="register/allregister1.php?comp=plt">Planet Earth</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Competition for the social cause
+
+<br><br></li>
+
+<li><a class=greylink href="register/allregister1.php?comp=wro">Water Rockets</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel The Rocket Science
+</li></ol>
+<font color=#1f3d55><b>LASTSTRAW</b></font>
+<ol type=square>
+<li><a class=greylink href="register/allregister1.php?comp=cma">Construction Management</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Design a Purification Plant<br><br></li>
+
+<li><a class=greylink href="register/allregister1.php?comp=ild">Impact Load Distribution</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Impact Resistant Structures<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=sos">The Seize of Syracuse</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simplicty Redefined<br><br></li>
+
+</ol>
+<font color=#1f3d55><b>YANTRIKI</b></font>
+<ol type=square><li><a class=greylink href="main.php?file=register/r_cliff.php">Cliffhanger</a>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+International Machine Design Contest<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=lms">Last Man Standing</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A Robotics Competition<br><br></li>
+<li><a class=greylink href="register/allregister1.php?comp=mmo">Micro Mouse</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A Robotics Competition
+
+</li></ol></td><td valign=top>
+
+<font color=#1f3d55><b>WORKSHOPS</b></font>
+<ol type=square>
+<li><a class=greylink href="register/workshopregister.php?workshop=arm">Aero Modelling Workshop</a>
+<br><br></li><li><a class=greylink href="register/workshopregister.php?workshop=cat">Car Technology Workshop</a>
+<br><br></li><li><a class=greylink href="register/workshopregister.php?workshop=gam">Gaming Technology Workshop</a>
+<br><br></li><li><a class=greylink href=register/workshopregister.php?workshop=ipr>Intellectual Property Rights </a>
+
+
+</td></tr></table>
+
+<blockquote>
+<p align=justify>A college can
+send unlimited entries in any conmpetiton. Each team will have to register
+online for their particular competition. Each college that takes part in
+Techfest will however, have to choose a Contingent Leader from amongst the
+students participating in the various competitions. This name should be
+mailed to us at least one week prior to Techfest.
+<br><br>
+For Visitors, we shall accept only one form per college. This form will be
+available for download in December on the website and also sent to your
+college by post.
+</blockquote>
+<!--
+<table width=80%><tr><td class=mystyle valign=top>
+<i>Note:</i>There are no pre-registrations for Lecture Series.<br>
+</td></tr></table>
+<br><br>
+-->

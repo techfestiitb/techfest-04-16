@@ -1,0 +1,37 @@
+<script language="javascript">
+version=parseInt(navigator.appVersion);
+if (navigator.appVersion.indexOf('5.')>-1){version=5};
+if (navigator.appVersion.indexOf('6.')>-1){version=6};
+if (navigator.appVersion.indexOf('7.')>-1){version=7};
+browser='OTHER'; 
+if (navigator.appName=='Netscape')
+{
+ browser='NS'+version;
+ } 
+if (navigator.appName=='Microsoft Internet Explorer')
+{
+ browser='MSIE'+version;
+ }
+if (navigator.appVersion.indexOf('MSIE 3')>0)
+ {
+ browser='MSIE3';
+ } 
+if(browser == 'NS5')
+{
+ browser='NS6';
+ }
+if(navigator.appname=='Konquerer'){
+ browser='KR';
+}
+if (browser=='MSIE3') {this.frame.location='middletop2.html';}
+if (browser=='MSIE4') {this.frame.location='middletop2.html';}
+if (browser=='MSIE5') {this.frame.location='middletop2.html';}
+if (browser=='MSIE6') {this.frame.location='middletop2.html';}
+if (browser=='MSIE7') {this.frame.location='middletop2.html';}
+if (browser=='NS3') {this.frame.location='middletop_g.html';}
+if (browser=='NS4') {this.frame.location='middletop_g.html';}
+if (browser=='NS6') {frTop.location='middletop_linux.html';}
+if (browser=='NS7') {frTop.location='middletop_linux.html';}
+if (browser=='KR')  {this.frame.location='middletop2.html';}
+if (browser=='OTHER') {this.frame.location='middletop_linux.html';}
+</script>

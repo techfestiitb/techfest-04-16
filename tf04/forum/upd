@@ -1,0 +1,8 @@
+for i in `ls |grep php`
+do
+ sed -e 's/<HTML>/<? include("header.ini"); ?>/g' $i >$i.tmp
+ sed -e 's/<BODY>//g' $i.tmp >$i
+ sed -e 's/BODY>/B><? include("footer.ini"); ?>/g' $i >$i.tmp
+ mv $i.tmp $i 
+ echo $i
+done

@@ -1,0 +1,186 @@
+<?php
+include('http://www.techfest.org/box.php?');
+if($action=="")
+{
+?><center>
+<table border=1 border=1 cellspaciing=0 cellpadding=0>
+<tr><td width=100%>
+<table width=100%>
+<tr>
+
+<td width=20>1.</td><td width=100> </td>,td wisth=20>a.</td><td width=300 
+><img src=chemsplash/quiz/1.jpg 
+hspace=20 vspace=20></td><td width=40>i. </td><td width=200>citysviso</td>
+</tr>
+</table>
+</td></tr>
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>2.</td><td width=300 ><img src=chemsplash/quiz/2.jpg hspace=20 vspace=20></td><td width=40>ii. </td><td width=200>pleshru</td>
+</tr>
+</table>
+</td></tr>
+
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>3.</td><td width=300 ><img src=chemsplash/quiz/3.jpg hspace=20 vspace=20></td><td width=40>iii. </td><td width=200>stickine</td>
+</tr>
+</table>
+</td></tr>
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>4.</td><td width=300 ><img src=chemsplash/quiz/4.jpg hspace=20 vspace=20></td><td width=40>iv. </td><td width=200>fundoisf</td>
+</tr>
+</table>
+</td></tr>
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>5.</td><td width=300 ><img src=chemsplash/quiz/5.jpg hspace=20 vspace=20></td><td width=40>v. </td><td width=200>udncnoocti</td>
+</tr>
+</table>
+</td></tr>
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>6.</td><td width=300 ><img src=chemsplash/quiz/6.jpg hspace=20 vspace=20></td><td width=40>vi. </td><td width=200>cdimhornymeats</td>
+</tr>
+</table>
+</td></tr>
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>7.</td><td width=300 ><img src=chemsplash/quiz/7.jpg hspace=20 vspace=20></td><td width=40>vii. </td><td width=200>sfudil</td>
+</tr>
+</table>
+</td></tr>
+
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>8.</td><td width=300 ><img src=chemsplash/quiz/8.jpg hspace=20 vspace=20></td><td width=40>viii. </td><td width=200>ginsene</td>
+</tr>
+</table>
+</td></tr>
+
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>9.</td><td width=300 ><img src=chemsplash/quiz/9.jpg hspace=20 vspace=20></td><td width=40>ix. </td><td width=200>slatlcya</td>
+</tr>
+</table>
+</td></tr>
+
+<tr><td width=100%>
+<table width=100%>
+<tr>
+<td width=20>10.</td><td width=300 ><img src=chemsplash/quiz/10.jpg hspace=20 vspace=20></td><td width=40>x. </td><td width=200>ssoounlit</td>
+</tr>
+</table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr>
+
+</table>
+
+
+<br><br> Fill in your details:<br> <form method=POST action=chemsplash/onlinecomp.php> 
+<table border=0> 
+<tr><td width=100> Name</td><td width=20 >:</td><td><input type=text name=name size=20><br></td></tr> <tr><td>Email</td><td>:</td><td><input type=text 
+name=email 
+size=20><br></td></tr>
+<tr><td>University</td><td>:</td><td><input type=text name=univ size=20><br></td></tr></table> 
+<br><br> Fill in your choices:<br> 
+<table border=0 cellspacing=0 cellpadding=0> 
+<tr><td width=30 align=center >1.</td><td width=20></td> 
+<td width=30 align=center>2.</td>
+<td align=center width=30></td>
+<td  align=center width=30>3.</td>
+<td  align=center width=30></td> 
+<td  align=center width=30>4.</td>
+<td width=30></td> 
+<td  align=center width=30>5.</td>
+<td width=30></td></tr>
+<tr> 
+<td width=30><input type=text name=q1 size=2>
+</td>
+<td width=30></td> 
+<td width=30><input type=text name=q2 size=2>
+</td>
+<td width=30></td> 
+<td width=30><input type=text name=q3 size=2>
+</td>
+<td width=30></td> 
+<td width=30><input type=text name=q4 size=2></td>
+<td width=30></td> 
+<td width=30><input type=text name=q5 size=2>
+</td>
+<td width=30></td></tr> <tr> 
+<td  align=center width=30>6.</td>
+<td width=30></td> 
+<td  align=center width=30>7.</td>
+<td width=30></td> 
+<td  align=center width=30>8.</td>
+<td width=30></td> 
+<td  align=center width=30>9.</td>
+<td width=30></td> 
+<td  align=center width=30>10.</td>
+<td width=30></td></tr>
+<tr><td width=30><input type=text name=q6 size=2>
+</td>
+<td width=30></td> 
+<td width=30><input type=text name=q7 size=2>
+</td>
+<td width=30></td> 
+<td width=30><input type=text name=q8 size=2>
+</td>
+<td width=30></td> 
+<td width=30><input type=text name=q9 size=2></td>
+<td width=30></td> 
+<td width=30><input type=text name=q10 size=2>
+</td>
+<td width=30></td></tr> <tr> 
+
+
+
+</table> <br><br> <input type=submit name=action value=Submit> &nbsp;&nbsp;<input type=reset Value=reset> </form><? }// if sction == null ending here
+
+else {
+if($name==""||$email==""||$univ=="")
+{
+echo " press your brosers back nbutton and fill all the entries";
+exit;
+}
+$dbhost = '207.235.6.88';
+$dbname = 'techfest';
+$dbuser = 'techfest';
+$dbpasswd = 'tec45st';
+
+$link = mysql_connect($dbhost,$dbuser,$dbpasswd)
+or die("Could not connect : " . mysql_error());
+mysql_select_db($dbname) or die("Query failed : " . mysql_error());
+
+$result = "Insert into chem_quiz (Name, Email, Univ, q1,q2,q3,q4,q5,q6,q7,q8,q9,q10) Values ('".$name."','".$email;
+$result .= "','".$univ."','".$q1."','".$q2."','".$q3."','".$q4."','".$q5."','".$q6."','".$q7."','".$q8."','".$q9."','".$q10."')";
+mysql_query($result);
+mysql_close($link);
+
+echo "Your form has been submitted. Please keep visint the web site to get updates.<br><br>Results would be announced soon.";
+
+echo "<p align=right><a class=greyklink href=main.php?file=chemsplash/chemsplash.php>Back to Chemsplash</a></p>";
+}//final ending here ?>
+

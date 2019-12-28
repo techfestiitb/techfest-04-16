@@ -1,0 +1,10 @@
+ $headers  = "MIME-Version: 1.0\r\n";
+ $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
+ $headers .= "From: Techfest Team <techfest@cc.iitb.ac.in>\r\n";
+ $message = "You have been registered for Techfest 2003. Please note the following details:<BR><BR>Team Code:$zevent $co <BR><BR>Regards,<BR>Techfest 2003 Team<BR>";
+ if($ze1!="") { mail($ze1,"Techfest 2003", $message, $headers); }
+ if($ze2!="") { mail($ze2,"Techfest 2003", $message, $headers); }
+ if($ze3!="") { mail($ze3,"Techfest 2003", $message, $headers); }
+ if($ze4!="") { mail($ze4,"Techfest 2003", $message, $headers); }
+ if($ze5!="") { mail($ze5,"Techfest 2003", $message, $headers); }
+ if($ze6!="") { mail($ze6,"Techfest 2003", $message, $headers); }

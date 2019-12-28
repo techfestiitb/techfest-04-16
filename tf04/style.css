@@ -1,0 +1,29 @@
+td {  font-family: Verdana; font-size: 12px; color: #333333}
+
+.sidebar {  font-family: Verdana; font-size: 12px; color: #333333}
+
+a:link {  color:#0000ff; text-decoration: none }
+
+a:visited { color:#CBAC59; text-decoration:none }
+
+a:hover { color:#0000ff; text-decoration: none }
+
+a:active {  color: #00CC00; font-family: Verdana; font-size: 12px; font-weight: bold; text-decoration: none}
+
+.header {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #333333; font-weight: bold}
+
+.quote {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #AE7B89}
+
+.siderite {  font-family: Verdana; font-size: 12px; color: #333333}
+
+.small { font-family: Verdana; font-size: 11px; color: #333333}
+
+.strwtext {  font-family: Verdana; font-size: 12px; color: #333333}
+
+.bright {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #333333; font-weight: 400}
+
+h1 {  font-family: Verdana; font-size: 20px; color: #3366CC; font-weight: normal}
+input {  font-family: Verdana; font-size: 12px; color: #FFFFFF; background-color: #3366CC; font-weight: bold}
+textarea {  font-family: Verdana; font-size: 12px; color: #FFFFFF; background-color: #3366CC; font-weight: bold}
+h6 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; text-align: justify; font-weight: normal}
+ul {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; text-indent: 20px; list-style-type: disc}

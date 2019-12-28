@@ -1,0 +1,58 @@
+<html>
+<head>
+<script type="text/javascript">
+if (top.frames.length!=0) top.location=self.document.location;
+// Popunder features to display the Techfest 2004 Updates
+var no_session=0								
+//Specify 0  to load  popunder every time page is loaded
+var popund_page="http://www.techfest.org/base/updates.html"	
+//specify  pop-under page
+
+var popwin="width=600,height=400,scrollbars=1,resizable=1,toolbar=0,location=0,menubar=0,status=0,directories=0"
+
+function getCookie(popunder_nam) 
+{
+  var search = popunder_nam + "="
+  var returnval = ""
+  if (document.cookie.length > 0) 
+  {
+    offset = document.cookie.indexOf(search)
+   
+    if (offset != -1)					 // if cookie exists
+	{ 
+    	  offset += search.length
+     	  end = document.cookie.indexOf(";", offset)
+      	  if (end == -1)
+         		end = document.cookie.length
+      	                returnval=unescape(document.cookie.substring(offset, end))
+      	}
+   }
+  return returnval;
+}
+
+
+   if (no_session==0)
+   {
+	newwin=window.open(popund_page,"techfest2004-updates",popwin)
+	newwin.blur()
+	window.focus()
+  }
+  else
+  {
+	if (getCookie('popund_page')=='')
+	{
+	   newwin=window.open(popund_page,"techfest2004-updates",popwin)
+	   newwin.blur()
+	   window.focus()
+	   document.cookie="popund_page=yes"
+	}
+  }
+
+
+
+</script>
+</head>
+<body>
+Techfest
+</body>
+</html>

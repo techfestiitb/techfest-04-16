@@ -1,0 +1,374 @@
+
+<a name=back></a>
+
+<?php
+include('http://www.techfest.org/box.php?text=CLIFFHANGER');
+?>
+<p>
+
+As the buildings have become taller and taller, rescue workers have to 
+struggle with the need for devices to reach high in the tall buildings to help people in 
+dangerous situations. While the self-extracting ladders have already shown their limitations, we have to look elsewhere for the solution. Rope climbing machines which can carry additional load (people and rescue equipment) to various heights in tall buildings have come up as possible solution.
+<br><br>
+In the Cliffhanger, we have tried to simplify the concept and bring that to students as a problem statement. We hope that the student community may find a novel solution 
+to the problem that is faced by brave rescue workers everyday, who 
+endanger their own lives to save others.<br><br>
+&nbsp;&nbsp;&nbsp;<a href=#prob class=greylink>Problem 
+Statement</a><br>
+  
+  &nbsp;&nbsp;&nbsp;<a href=#grule class=greylink>Game Rules</a><br>&nbsp;&nbsp;&nbsp;<a href=#genrules 
+class=greylink>General Rules</a><br>&nbsp;&nbsp;&nbsp;<a href=#elig class=greylink>Eligibility</a><br>
+  &nbsp;&nbsp;&nbsp;<a href=#eround class=greylink>Elimination 
+Round</a><br>
+  &nbsp;&nbsp;&nbsp;<a href=#prize class=greylink>Prize Money </a>	
+<br>
+  &nbsp;&nbsp;&nbsp;<a href=#queries class=greylink>Queries</a><br><br>Please <a 
+href=http://www.techfest.org/main.php?file=register/r_cliff.php 
+target=midFrame 
+class=greylink> register</a> your team before you start making the machine.<br>
+<p>&nbsp;
+<p><strong><a name=prob><font color=#if3d55 ><b>PROBLEM 
+STATEMENT</b></font></a></strong>
+<blockquote> 
+  <p>Make a machine that should climb up a 1.5 meter high cliff with the help 
+    of a freely hanging rope (of given dimension) and burst the balloons kept 
+    on the plateau above. The two competing machines would start simultaneously 
+    from opposite side of the cliff (refer figure). The machine that bursts the 
+    maximum number of balloons (lying in its compartment) in the given time wins.</p>
+</blockquote>
+  <p><strong>&nbsp;&nbsp;&nbsp;<font color="#1f3d55">Game Board Description:</font> </strong>
+    <br><blockquote>
+    The plateau is made up of plywood and its dimensions are(2mx1.5mx1.5m).The 
+    terrace (2mx1.5m) is surrounded by a transparent acrylic sheet of height 12.5 
+    cm. having an opening of length 30cm.on both sides for the machines to enter. 
+    The terrace is divided into two equal open top compartments by acrylic sheet.<br>
+    <br>
+    <center>
+      <img 
+src="cliffhanger/yantriki1.jpg" border=0 width=300
+height=250></a><br>
+    </center>
+  <p><br>
+    The rope is hanging freely from the center of the edge and is tied at a distance 
+    of 10 cm from the edge, under the board on both sides. Top and front view 
+    of the game board are as shown:</p><center><a href=cliffhanger/autocad2.jpg>
+    <p><img src="cliffhanger/autocad1.jpg" border="0"></p></a>
+    <p>All dimensions are in meters <br> Please note that balloons are 
+not shown in the above figures.</p>
+    </a>
+  </center>
+  <p>&nbsp;</p>
+</blockquote>
+<p>&nbsp;&nbsp;&nbsp;<strong><font color="#1f3d55">Description of rope:</font></strong><br><blockquote>
+  5/8&quot; 4-strand cotton rope. <br>
+  More information for rope can be taken from the following web sites 
+&#8211;<br>
+ <a href=http://www.nationalsafetyinc.com/Falltech/Falltech5.htm 
+class=greylink target="_blank">
+ http://www.nationalsafetyinc.com/Falltech/Falltech5.htm</a><br>
+<a class=greylink 
+href=http://www.westernsafety.com/falltech/falltechpg4.html 
+target="_blank">
+http://www.westernsafety.com/falltech/falltechpg4.html</a><br>
+<a class=greylink 
+href=http://www.safeapproach.com/Rope%20Grabs%20and%20Slings.htm 
+target="_blank">
+http://www.safeapproach.com/Rope Grabs and Slings.htm</a></p></blockquote>
+<p><strong>&nbsp;&nbsp;&nbsp;
+  <font color="#1f3d55">Description of balloon:</font></strong><br>
+<blockquote> Average Diameter : 7.5 cm</blockquote>
+<p></p>
+<a href=#back class=greylink>Back to Top</a>
+<br>
+<br>
+<p><strong><a name=grule><font color=#if3d55 size="1"><b>RULES OF THE GAME</b></font></a></strong><blockquote>
+  <p>Although the spirit of this game is what matters, there are a few formal 
+    restrictions. Below mentioned are some guidelines which every competitor should 
+    follow. If a design does not fit these parameters or may but you are not sure, 
+    please contact the organizers at the address mentioned below for clarifications.</p> 
+  </p>
+  <p><strong>Please note that any changes in these rules shall be intimated to 
+    you by e-mails and indicated in <font color=red>red</font> on the website.</strong></p>
+  <ol>
+  <li> A maximum of three students per team is allowed. <br><br></li>
+  <li>The machine should fit within (10x10x10) inch cube at any and every given 
+    point of the game.<br><br></li>
+  <li> The machine must use only mechanical power or mechanical power converted 
+    from a source of electrical energy, chemicals, compressed gas, and rockets. 
+    Pretensioned springs or combustion power method are strictly not allowed.<br><br></li>
+  <li> Lift assisting devices like balloons are not permitted. Before starting, 
+    the device must be demonstrated to be at full mechanical rest potential as 
+    far as the structure will allow.<br><br></li>
+  <li> The competitor will be allowed to engage the rope to his/her machine at 
+    the beginning of the game. Youons are not allowed to touch your machine once 
+    the game starts.<br><br></li>
+  <li> The machine should climb up using only the rope and the support of the 
+    wall.<br><br></li>
+  <li> After reaching the terrace, the machine should completely disengage from 
+    the rope before it starts bursting the balloons.<br><br></li>
+  <li> Ten balloons will be arbitrarily placed inside each compartment. The machine 
+    which bursts more number of balloons wins.<br><br></li>
+  <li> Use of chemicals, fire or similar harmful things to burst the balloons 
+    is prohibited.<br><br></li>
+  <li> During the game if a balloon goes outside the board or in the opposite 
+    compartment, it will be placed in its respective compartment by the judges 
+    only.<br><br></li>
+  <li> Duration of a game is 5 minutes. In case, one of the machine completes 
+    its task (burst all the 10 balloons in its compartment) before time, the game 
+    ends and that machine will be declared the winner.<br><br></li>
+  <li>If both the machines fail to complete the given task within the time limit, 
+    the machine which has burst a greater number of balloons will be declared 
+    the winner. <br><br></li>
+  <li>In case both machines fail to burst even one balloon after reaching the 
+    top, the machine that reached the top first shall be declared the winner.<br><br></li>
+  <li> In case both machines fail to reach the top, the machine which has climbed 
+    more distance shall be declared the winner.<br><br></li>
+  <li> If both machines have burst equal balloons or climbed an equal distance, 
+    the game ends in a tie. In the case of a tie, the game will restart.<br><br></li>
+  <li> If a machine gets stuck or falls down from the rope during the game, the 
+    competitors are not allowed to touch it till the game is over. <br><br></li>
+</ol>
+
+<p>N.B. : The dimensions of the rope are always subject to slight errors. Please 
+    keep room for minor modifications in your machine accordingly.<br>
+</blockquote>
+<br>
+<a href=#back class=greylink>Back to Top</a>
+<br><br>
+
+<strong>&nbsp;&nbsp;&nbsp;<font color="#1f3d55">Structure of the 
+Competition</font></strong><font color="#1f3d55">:</font><blockquote>
+<ol>
+  <li> The tournament will be played on a knockout basis.<br><br></li>
+  <li> There shall be a preliminary qualification round just before the 
+competition 
+    for all the competing teams. The time limit to qualify will be three 
+minutes. 
+  <br><br></li>
+  <li> In the qualification round, each team will have to climb the wall 
+in a 
+    maximum time of three minutes. The time taken by the machine will 
+decide its 
+    seeding for the first round of the competition. The first and the last 
+teams 
+    will be paired, second and the second last and so on. <br><br></li>
+  <li> The teams will be paired similarly in the next round and so on till 
+the 
+    finals.<br><br></li>
+  <li> If any team is disqualified for any reason, the opponent team will 
+get 
+    a walkover to the next round.<br><br></li>
+  <li> The teams have to be ready for the contest within two minutes of 
+the announcement 
+    for them to appear for their match, failing which, the judges can 
+disqualify 
+    that team.<br><br></li>
+  <li> The teams must adhere to the spirit of healthy competition.<br><br></li>
+  <li>Judges reserve the right to modify the rules if they deem it 
+necessary in 
+    order to preserve the spirit of healthy competition.<br><br></li>
+</ol></blockquote>
+<strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Finals:</font></strong><blockquote>
+<ol>
+  <li>The finals shall be a best of three.<br><br></li>
+  <li> If a balloon is not burst by any machine during a particualar round of the final competition, 
+only 0.5 
+    points will be awarded to the winner. If the winning machine bursts a 
+balloon 
+    to win, 1 point will be awarded to the winner.<br><br></li>
+  <li> If at the end of three rounds, the scores are tied, one more final 
+round 
+    will be played to decide the winner.<br>
+<br></li>
+</ol><br></blockquote>
+<a href=#back class=greylink>Back to Top</a>
+<br><br><p><strong><a name=genrules><font color=#if3d55 ><b>GENERAL 
+RULES</b></font></a></strong><br>
+  <br>
+  <strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Sensors And Electronics:</font></strong> <br>
+  <blockquote>The teams can use sensors (if they so desire) to sense any physical 
+parameters 
+  but be sure that TV lights do not interfere with your sensors' 
+activities. For 
+  the autonomous robot machine, you may/may not use sensors &amp; 
+microprocessors 
+  - the decision is yours. The organizers will not provide you with any 
+system 
+  like microprocessor kits, computers and so on at the venue.<br><br></blockquote>
+<strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Power Supply:</font></strong><blockquote>
+Normal 230 V extension boards will be available at the venue. You 
+should fetch 
+  your own eliminators/adaptors. No specialized demand shall be 
+entertained. Please 
+  do not demand heavy equipment like compressors. Use of devices that can 
+transfer 
+  manual power direcrly to machine (example: use of clutch wire) is not 
+allowed.
+  The power cords connecting a machine to the power supply must be slack 
+at all 
+  times. Likewise the Control Cords must also be slack. So, please ensure 
+that 
+  all cords are fairly long.<br><br></blockquote>
+ <strong>&nbsp;&nbsp;&nbsp;<font color="#1f3d55">Safety:</font></strong><br>
+<blockquote> The machines you build will be first checked for size and safety. 
+  The machine should not cause electric power breakdowns. The robots must not 
+  contain any combustible, corrosive, or otherwise dangerous materials for safety 
+  reasons. No explosive compression or decompression, either internal or external 
+  is permitted. There is a risk of compressed containers rupturing and creating 
+  shrapnel. Any robot whose strategy or operation is considered too dangerous 
+  shall be disqualified by the judges at their discretion.<br>
+  <br></blockquote>
+ <strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Breakdowns/Timeouts:</font></strong><br><blockquote>
+There is no provision for breakdown or timeouts in this game. Your machine 
+  must be sturdy enough to participate in several matches. <br><br></blockquote>
+<strong>&nbsp;&nbsp;&nbsp;<font color="#1f3d55">Fouls/Penalties:</font></strong><blockquote>
+<ol>
+  <li>Team members are not permitted to touch either their machines or those of 
+    their opponents once a game begins. The penalty for doing so is disqualification.</li>
+  <li>The robots are not allowed to dismember themselves or leave parts on the 
+    platform.. </li>
+  <li>Machines damaging the platform will be disqualified.</li>
+</ol></blockquote>
+<strong>&nbsp;&nbsp;&nbsp;<font color="#1f3d55">Machine Names:</font></strong><br><blockquote>
+The name of your machine must be prominently displayed on the machine.<br>
+<br></blockquote>
+ <strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Sportive and Friendly 
+Games:</font></strong><br><blockquote>
+Intentional damage to the opponent's machine is not allowed. Goodwill and 
+friendship 
+  between competitors may evaporate if, for example, one opponent uses 
+lightening 
+  bolts to destroy the electronics of the competitor.<br><br></blockquote>
+<strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Scratching a team:</font></strong> <br><blockquote>
+
+  Any team that is not ready to play at the time specified will be 
+scratched automatically. 
+  This applies to Eliminations, Prelims and Finals rounds.</blockquote>
+<strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Demonstration to 
+Judges</font></strong><font color="#1f3d55"><strong>:</strong></font><br><blockquote>
+  Machines will have to be demonstrated to judges (who will evaluate the 
+machines 
+  for other prizes) at a time and date specified in the schedule which 
+will be 
+  put up. Any team that does not turn up at the specified time will not be 
+considered 
+  for the above special prizes.</blockquote>
+<p><strong><font color="#1f3d55">&nbsp;&nbsp;&nbsp;Demonstration of Machines at 
+Final:</font></strong> <blockquote>
+  
+  The Finals will be conducted in front of a large audience. Teams which 
+have 
+  lost in the Prelims will be required to demonstrate their machines (one 
+minute 
+  per machine) to the audience at that time.<br><br>
+  A group photograph of all the machines/participants will be taken. The 
+date, 
+  time and venue will be specified at the time of competition.</blockquote></p><p>&nbsp;</p>
+
+<p><strong><a name=elig><font color=#if3d55 ><b> 
+ELIGIBILITY</font></a></b></strong></p><blockquote>
+<p>Students currently enrolled for upto Undergraduate academic program at 
+their 
+  Institute. </p></blockquote></p>
+<br><a href=#back class=greylink>Back to Top</a><br>
+<p><strong><a name=eround><font color=#if3d55 ><b>ELIMINATION ROUNDS</b></font></a></strong> 
+</p>
+<blockquote> 
+  <ol>
+    <li>All teams have to register their machines at <a target=_self href=http://www.techfest.org>www.techfest.org</a> 
+      as soon as they start making the machine. <br>
+      <br>
+    </li>
+    <li> There will be an elimination round for all teams via post where a parcel 
+      containing the following has to be sent to the below mentioned address.<br>
+      <p><u>Contents of the parcel to be sent</u>:<br>
+        (i) An abstract of not more than two A4 sheets covering essentially the 
+        principle used by the machine, the approximate time taken to complete 
+        the task and the projected final cost of the machine.<br>
+        (ii) A Compact Disk (C.D.) containing the video of the machine in action. 
+        It should essentially contain the following:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A portion of this tape must be 
+        an uninterrupted recording showing the machine:<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        (a) climbing the rope and over the edge twice.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        (b) a video timer must be visible during this uninterrupted recording.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The mechanism used to burst the 
+        balloons.<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A detailed look at and explanation 
+        of the machine, including close-up shots and shots from various directions.<br>
+        Participants are encouraged to have a narration also along with the video. 
+        <br>
+        (iii)A signed letter from the Dean/Head of your institute granting permission 
+        for you to participate at Techfest-2004.</p>
+      <u>Address:</u> 
+      <blockquote> 
+        <p>Techfest 2004,<br>
+          Student Gymkhana,<br>
+          IIT Bombay,Powai,<br>
+          Mumbai - 400076<br>
+          Tel-91-22 25764045/8947<br>
+          Fax-91-22 25723480</p>
+      </blockquote>
+    </li>
+    <li>The following will be the criterion for selection in elimination round.<br>
+      (i) Mechanism used by the machine to climb the rope and over the edge,<br>
+      (ii) Approximate time taken to do the same,<br>
+      (iii) Uniqueness and design of the machine.<br>
+      <br>
+    </li>
+    <li>Air fare will be provided to a few select entries in the elimination round 
+      from outside India, as per the judges decision. Other international teams 
+      are most welcome to participate in the competition but at their own fare. 
+      Do remember to apply for accommodation if you intend to participate in the 
+      competition.<br>
+      <br>
+    </li>
+    <li>The number of teams to be short-listed from within India is variable and 
+      subject to the judges' discretion. Only these short-listed teams will be 
+      allowed to take part in the final competition.<br>
+      <br>
+    </li>
+    <li>The contents of the parcels (the description of your machine and the video) 
+      would be kept strictly confidential.<br>
+      <br>
+    </li>
+    <li> The last date for receipt of parcels from outside India is 15th December 
+      2003 and that from within India is 31st December.<br>
+      <br>
+    </li>
+    <li> The short-listed teams from outside India will receive a notification 
+      e-mail latest by 31st December 2003 and those within India by 10 January, 
+      2004. The lists of the same will also be available at <a href=http://www.techfest.org 
+      target=_self>www.techfest.org</a>.<br>
+      <br>
+    </li>
+    <li>There will be no weightage of the elimination round towards the final 
+      competition to be held from 24th - 26th  January 2004.
+    </li>
+  </ol>
+</blockquote>
+
+  
+<p><strong><a 
+name=prize ><font color=#if3d55><b>PRIZES</b></font></a></strong></p><blockquote>
+  <p><strong><font color="#1f3d55">First Prize:</font></strong> US $1000 <br>
+    <strong><font color="#1f3d55">Second Prize:</font></strong> US $ 750<br>
+    <strong><font color="#1f3d55">Third Prize:</font></strong> US $ 500
+  <p>Total cash prizes worth $ 2500 to be won!<br>
+  
+</blockquote>
+<br><br>
+<a name=queries><font color=#1f3d55><b>FOR FURTHER QUERIES, 
+CONTACT:</b></font></a>
+<br><br>
+<table width=100%>
+<tr><td width=25%>
+Rahul Harkisanka<br><a 
+href=tell/mailto.php?to=rahul@techfest.org>rahul@techfest.org</a>
+</td>
+<td>
+G. S. N. Suresh<br><a
+href=tell/mailto.php?to=suresh@techfest.org>suresh@techfest.org</a></td></tr></table>
+</p><br>
+<a href=#back class=greylink>Back to Top</a>

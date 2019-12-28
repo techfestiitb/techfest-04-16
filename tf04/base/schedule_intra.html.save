@@ -1,0 +1,47 @@
+<html>
+<head>
+ <title>Schedule</title>
+<link rel="StyleSheet" href="../style1.css" media="screen" type="text/css">
+</head>
+
+<body>
+<div align="left"><b><h3>SCHEDULE</h3></b>
+</div>
+<p>Techfest 2004 is scheduled to be held on 24 - 26 January, 2004.
+<br><br>
+<strong><font color=293932>INTRA IIT EVENTS</font></strong>
+<table>
+<tr>
+<td valign=top class=mystyle
+width=180><b>Date</b>
+</td>
+ <td width=30 class=mystyle valign=top>:</td>
+<td class=mystyle> <b>Event</b></td></tr>
+<tr><td
+class=mystyle>10th January, 2004</td><td>:</td><td class=mystyle><a class=greylink 
+href=../competitions/crypto.html>Cryptology and Cracking Workshop.
+</a></td></tr>
+<tr><td class=mystyle>11th January, 2004</td><td class=mystyle>:</td><td>
+<a class=greylink href=../yantriki/queen.html> Last Man Standing.</a></td></tr>
+<tr><td class=mystyle>12th January, 2004</td><td class=mystyle>:</td><td>
+ Scitech Quiz.</td></tr>
+
+<tr><td class=mystyle>16th January, 
+2004</td><td class=mystyle>:</td><td>
+Cliffhanger Elims (for IITians).</td></tr><tr><td class=mystyle>17th January, 2004</td><td class=mystyle>:</td><td><a 
+class=greylink href=../chemsplash/laporsche.html>
+ la porsChe.</a></td></tr></table>
+
+<!--
+ <font color=#1f3d55><b>Intra IIT
+Events:</b></font><br><blockquote>
+<table >
+<tr><td class=mystyle width=70% valign=top> 
+Water Rockets & Dirt Racing Demos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <td 
+valign=top
+class=mystyle>Sunday, 16<sup>th</sup>
+November<br>5:00 pm<br>  OAT </td></tr></table></blockquote>
+-->
+<table align=right><tr><td align=right>Back to Techfes Schedule</td></tr></table>
+</body>
+</html>

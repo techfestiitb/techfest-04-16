@@ -1,0 +1,51 @@
+kasd
+
+10.9.203.55   10.9.11.12  Name OS126  Arnab Pal Arnab  Pal
+10.9.203.55   10.9.11.12  Name OS126  Arnab Pal Arnab  Pal
+10.2.201.5   10.2.20.6  Name CAR102  Anindo Bandyopadhyaya Anindo Bandyopadhyay
+10.9.2.13   10.9.11.12  Email CONT118  : balagidarade@yahoo.com balagidarade@yahoo.co
+10.9.21.13   10.9.11.12  Name WR113  POTHULA BHASKAR DORA Bhaskar Dora Potula
+10.9.2.13   10.9.11.12  Univ CONT192  r.g.p.v, bhopal/ (technical university of MP)/coll Laxmi Narain College of Technology,Bhopal
+10.9.203.55   10.9.11.12  Name OPUS101  Saurabh Bhandari bhandari
+192.168.13.35   unknown  Dept OH206  Electronics and Communication  Electronics Instrumentation and Control Engg
+192.168.13.35   unknown  Name OD118  sapan denedra shah Sapan Devendra Shah
+10.9.2.13   10.9.11.12  Email CAR106  anindyajit@yahoo.com robiraj@sancharnet.in
+192.168.13.35   unknown  Email ATL108  veersinghveer2rediffmail.com veersinghveer@rediffmail.com
+192.168.13.35   unknown  Email OH219  ee01b1222ee.iitm.ernet.in ee01b122@ee.iitm.ernet.in
+192.168.13.35   unknown  Email OPUS117  amolrrai@yahoo.com, amolrrai1@ amolrrai@yahoo.com
+192.168.13.35   unknown  Email DTR106  jeet4luv2000@yahoo.com jeet4luv2000@yahoo.co.in
+192.168.13.30   unknown  Email CONT161  mech_tushar2yahoo.co.in mech_tushar@yahoo.co.in
+192.168.13.30   unknown  Email CONT222  shriindiatimes.com shri@indiatimes.com
+192.168.13.40   unknown  Name ymm167  jigar bhalani vishal arora
+10.2.201.43   10.2.20.6  Email OS306  manoj_iitb@yahoo.com mann_iitb@yahoo.com
+192.168.13.40   unknown  Email ILD152  gurdit_gill@yahoo.com gurdit_gill@yahoo.co.in
+10.9.4.13   unknown  Email OS130  rance12@indiatimes.com rance12@rediffmail.com
+10.9.4.13   unknown  Email CONT262  jaimin_patel1983@yahoo.com jaimin1983patel@yahoo.com
+10.3.2.46   unknown  Name YMM121  Tanushree Aggarwal Gaurav Sarode
+10.3.2.46   unknown  Name LMS200  KEDAR MUJUMDAR ASHUTOSH GODBOLE
+10.9.4.13   unknown  Email CONT266  cattyno1@yahoo.com roofal@hotmail.com
+10.9.4.13   unknown  Email CONT266   coolieno3@yahoo..co.in
+10.9.4.13   unknown  Email CONT266    k_harshad@yahoo.com
+10.13.227.6   10.13.101.15  Email ILD145  Parikh_parhen@Yahoo.co.in pathen_parikh@yahoo.co.in
+10.9.4.13   unknown  Name DTR185  To be advised Mitesh Dave
+10.9.4.13   unknown  Email DTR192  redbluetshirt@yahoo.com vr4indian@yahoo.com
+10.9.4.13   unknown  Name DTR193  Patel pallav r. Desai nirav D.
+10.2.201.5   10.2.20.6  Email OPUS295  abhi_uict2000@yahoo.com abhi_uict2000@yahoo.co.in
+10.9.3.55   unknown  Name KUR101  Alok Sontakke Parag Sarfare
+10.9.3.55   unknown  Email KUR101  aloksontakke@hotmail.com paragsarfare-at-yahoo.co.in
+192.168.13.50   unknown  Name DTR207   Saharsh Khare
+192.168.13.50   unknown  Dept DTR207  Mechanical  Computer Science
+192.168.13.35   unknown  Name OH293  Gaurav Patwardhan Parag Mutha
+10.13.227.6   10.13.101.15  Email ILD208  sameera_q1@yahoo.co.in quad_sam@hotmail.com
+192.168.13.31   unknown  Name WR188  apurv johari Devang Khokhani
+192.168.13.31   unknown  Email WR188  apurvjohari@rediffmail.com 
+10.13.227.6   10.13.101.15  Email ATL196  tapanparekhrediffmail.com tapanparekh@rediffmail.com
+10.7.202.78   10.7.11.0  Email OPUS394  haider_iitg@yahoo.co.in, haide haider_iitg@yahoo.co.in
+192.168.13.31   unknown  Email OPUS103  ashutosh_godbole2001@rediffmai ashutosh_godbole2001@rediffmail.com
+10.3.3.65   unknown  Name LMS280  sekhar sasmal vikram manvi
+10.3.3.65   unknown  Name LMS280  karan satav  siddharth  Advani
+10.7.2.52   unknown  Name ILD190  Mugdha Bhagwat Mitalee Mulpuru
+10.13.227.6   10.13.101.15  Name ILD201   Pranshu Jain  Gunjan P.Shah
+10.13.227.6   10.13.101.15  Name CM147  NEERAJ MITTAL Mukesh Jangid
+10.13.227.6   10.13.101.15  Email CM147  mittaln@iitb.ac.in  m2mukesh@civil.iitb.ac.in
+10.13.227.6   10.13.101.15  Dept CM147  Energy Systems Engineering ( M Civil

@@ -1,0 +1,92 @@
+<html>
+
+<head>
+<title>New Page 2</title>
+<style type='text/css'>
+a:link{color:#000000; text-decoration: none};
+a:visited{color:#000000; text-decoration:none};
+a:hover{color:#if3d55; text-decoration:none;};
+a:active{color:#000000; text-decoration: none};
+</style>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<div id="fader" style="font:17px Verdana bold;width:100%;color:rgb(255,255,255); position:absolute; top:17; left:170;"></div>
+<script language="JavaScript1.2">
+hexinput=255  // Initial color value.
+var inc=-1 //increment variable
+
+function fadingtext(){
+if(hexinput>0) {
+hexinput-=11; // increase color value
+document.getElementById("fader").style.color="rgb("+hexinput+","+hexinput+","+hexinput+")"; // Set color value.
+setTimeout("fadingtext()",20);
+}
+else
+hexinput=255  //reset hex value
+}
+function changetext(){
+if (!document.getElementById) return
+inc++;
+if (inc==0)
+document.getElementById("fader").innerHTML="<a href=main.php?file=cliffhanger/int.php target=midFrame>Cliffhanger</a> - Short-listed teams"
+else if (inc==2)
+document.getElementById("fader").innerHTML="<a href=workshops/workshops1.html target=midFrame>Workshops</a> - Final list declared"
+else if (inc==1)
+document.getElementById("fader").innerHTML="<a href=technoholix/coll.html target=midFrame>Colosseum</a> - Biggest PC Gaming Competition in India"
+else if (inc==3)
+document.getElementById("fader").innerHTML="Final list for Competitions declared"
+else if (inc==4)
+document.getElementById("fader").innerHTML="<a href=events/naval.html class=greylink target=midFrame>Navy Exhibition</a> - First time ever on land"
+else if (inc==5)
+document.getElementById("fader").innerHTML="<a href=yantriki/yantriki.html class=greylink target=midFrame>Yantriki</a> - Practice Sessions for non - IITIANS"
+
+else if (inc==6)
+document.getElementById("fader").innerHTML="<a href=base/webschedule.html class=greylink target=midFrame>Live Webcast</a>"
+
+
+else
+{
+document.getElementById("fader").innerHTML="<a href=laststraw/laststraw.html target=midFrame>Last Straw</a> - Construction Management";
+ inc=-1;
+}
+
+
+fadingtext()
+setTimeout("changetext()",1500)
+}
+
+window.onload=changetext
+
+</script>
+</head>
+
+<body LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+
+<map name="FPMap0">
+<area coords="13, 1, 90, 15" shape="rect" href="base/schedule.html" 
+TARGET="midFrame">
+<area href="main1.php?file=lookback/lookback.php" 
+
+shape="rect" coords="143, 1, 225, 15" TARGET="midFrame">
+<area href="forum_trial/w-agora/index.php?site=tf2k4&bn=tf2k
+
+4_queries" shape="rect" coords="269, 1, 320, 14" TARGET="midFrame">
+<area href="base/sitemap.html" 
+
+shape="rect" coords="366, 1, 430, 15" TARGET="midFrame">
+<area href="base/faq.html" shape="rect" 
+
+coords="477, 0, 512, 15" TARGET="midFrame">
+<area href="base/assistance.html" 
+
+shape="rect" coords="564, 3, 651, 16" TARGET="midFrame">
+<area href="base/updates.html" 
+
+shape="rect" coords="20, 17, 780, 40" TARGET="midFrame">
+<area href="base/contactus.html" shape="rect" coords="699, 1, 784, 14" TARGET="midFrame" >
+
+</map><img border="0" src="finalimages/middlebottom1.jpg" usemap="#FPMap0" width="800" border=0 height="45">
+
+</body>
+
+</html>
+

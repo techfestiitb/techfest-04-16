@@ -1,0 +1,28 @@
+<?php
+include('http://www.techfest.org/box.php?text=REGISTRATION');
+?>
+<p>
+<img align=right src=base/register1.jpg border=0 hspace=20 vspace=20>
+<ol type=square><li>
+<a class=greylink 
+href="main.php?file=register/r_cliff.php">Cliffhanger</a>
+
+<br><br></li><li><a class=greylink href="main1.php?file=register/yantriki_lastman.php">Last Man Standing</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/yantriki_micro.php">Micro Mouse</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/r_crane.php">The Seize of Syracuse</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/r_laporche.php">la porsChe</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/r_highspirits1.php">High Spirits</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/r_contraption.php">Contraption</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/r_openhardware.php">Open Hardware</a>
+<br><br></li><li><a class=greylink href="main1.php?file=register/r_opensoftware.php">Open Software</a>
+
+
+<br><br></li><li><a class=greylink href="tell/regup1.php">Updates Newsletter</a>
+</li></ol>
+<table width=80%><tr><td class=mystyle valign=top>
+<i>Note:</i> </td><td>
+1.
+There is no pre-registration for Lecture Series.<br>
+2. Registrations for workshops will start in the second week of  November.</td></tr></table>
+<br><br>
+

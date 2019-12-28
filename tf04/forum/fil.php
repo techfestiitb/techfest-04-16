@@ -1,0 +1,11 @@
+<HTML>
+<HEAD>
+</HEAD>
+<BODY>
+<FORM NAME=abc ACTION=do.php METHOD=post>
+<TEXTAREA NAME=te COLS=50 ROWS=50>
+</TEXTAREA>
+<INPUT TYPE=Submit Value=Submit>
+</FORM>
+</BODY>
+</HTML>
