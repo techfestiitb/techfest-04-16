@@ -1,0 +1,21 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Crux</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#topic"> &nbsp;&nbsp;Topic</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#comp"> &nbsp;&nbsp;Competition Structure</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#paper"> &nbsp;&nbsp;Paper Format</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#props"> &nbsp;&nbsp;Props.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#final"> &nbsp;&nbsp;Final Round</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#judging"> &nbsp;&nbsp;Judging</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#tips"> &nbsp;&nbsp;A Few Tips</a></li>
+<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/results.php"> &nbsp;&nbsp;Shortlisted Teams</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

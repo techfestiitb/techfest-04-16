@@ -1,0 +1,27 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Prayaas</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#intro"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#comp"> &nbsp;&nbsp;The Competition</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#list"> &nbsp;&nbsp;List of Problems</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#judge"> &nbsp;&nbsp;Judging Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#format"> &nbsp;&nbsp;Abstract Format</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#instruc"> &nbsp;&nbsp;Instructions</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#secondr"> &nbsp;&nbsp;Second Round Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/results.php"> &nbsp;&nbsp;Shortlisted Teams</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#guide"> &nbsp;&nbsp;Guidlines</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#sche"> &nbsp;&nbsp;Schedule</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php#tsize"> &nbsp;&nbsp;Team Size</a></li>
+				
+				
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

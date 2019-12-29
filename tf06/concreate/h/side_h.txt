@@ -1,0 +1,26 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title"><img src="./img/hside.gif" border=0></li>
+				
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#spec"> &nbsp;&nbsp;Plot Spec.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#cons"> &nbsp;&nbsp;Design Constraints</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#mat"> &nbsp;&nbsp;Design Materials</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#test"> &nbsp;&nbsp;Testing</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#fail"> &nbsp;&nbsp;Failure definition</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#win"> &nbsp;&nbsp;Winning Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/faq.php"> &nbsp;&nbsp;Faq's</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/index.php#tsize"> &nbsp;&nbsp;Team Size</a></li>
+
+				
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

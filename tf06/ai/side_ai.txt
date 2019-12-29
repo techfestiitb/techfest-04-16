@@ -1,0 +1,17 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">A.I.</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/index.php"> &nbsp;&nbsp;Crux</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/core_war/index.php"> &nbsp;&nbsp;Core War</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php"> &nbsp;&nbsp;Micromouse</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/char_recog/index.php"> &nbsp;&nbsp;Character Recognition</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/grey_circuits/index.php"> &nbsp;&nbsp;Workshop-Grey Circuits</a></li>
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

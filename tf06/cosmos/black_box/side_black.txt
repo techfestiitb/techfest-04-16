@@ -1,0 +1,24 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Black Box</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#arena"> &nbsp;&nbsp;Game Arena</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#model"> &nbsp;&nbsp;Model Specs.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#rules"> &nbsp;&nbsp;Rules of the Game</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#judge"> &nbsp;&nbsp;Judging Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#mat"> &nbsp;&nbsp;Materials</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php#tsize"> &nbsp;&nbsp;Team Size</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/black_box.zip"> &nbsp;&nbsp;Download Pdf</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/register/black_box.php"> &nbsp;&nbsp;Register</a></li>
+				
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

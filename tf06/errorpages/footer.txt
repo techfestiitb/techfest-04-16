@@ -1,0 +1,91 @@
+<div id="footer">
+	<div class="center">
+		<div class="right">
+			Web Hosting By<br>&nbsp;&nbsp;&nbsp;
+			<a href="http://www.indialinks.com" target="_blank">Indialinks</a>
+		</div>	<div class="left"><a href="http://www.techfest.org/faq/faq.php">FAQ</a> | <a href="http://www.techfest.org/sitemap/sitemap.php">Sitemap</a> | <a href="http://www.techfest.org/contactus/contactus.php">Contact Us</a> 
+</div>
+    Copyright &copy; 2006 Techfest Team<br>
+	
+</div>
+<!-- start 1st menu -->
+<div id="menu1Container">
+ <div class="menu" id="menu1Content">
+    <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/ai/crux/index.php">Crux</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/ai/micromouse/index.php">Micromouse</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/ai/char_recog/index.php">Character Recognition</a></div>
+
+ 
+ </div>
+</div>
+
+<!-- start 2rd menu -->
+<div id="menu2Container">
+ <div class="menu" id="menu2Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/concreate/h/index.php"><img src="http://www.techfest.org/concreate/h/img/hwtext.gif" border=0></a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/concreate/bridged/index.php">Bridged</a></div>
+  
+ </div>
+</div>
+
+<!-- start 3nd menu -->
+<div id="menu3Container">
+ <div class="menu" id="menu3Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/cosmos/grip/index.php">G.R.I.P.</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/cosmos/black_box/index.php">Black Box</a></div>
+  
+  </div>
+</div>
+
+<!-- start 4th menu -->
+<div id="menu4Container">
+ <div class="menu" id="menu4Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/erustique/agrobot/index.php">AgroBot</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/erustique/innovision/index.php">Innovision</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/erustique/simple_life/index.php">The Simple Life v1.1</a></div>
+  
+ </div>
+</div>
+
+<!-- start 5th menu -->
+<div id="menu5Container">
+ <div class="menu" id="menu5Content">
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/flyhigh/index.php">FlyHigh</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/hover_junior/index.php">Hover Junior</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php">Full Throttle </a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/iterations/index.php">Workshop - Iterations</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/robotrix/index.php">Workshop - roboTRIx</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/pune-ws/index.php">Workshop - roboTRIx (Pune)</a></div>
+
+
+
+  
+ </div>
+</div>
+
+<!-- start 6th menu -->
+<div id="menu6Container">
+ <div class="menu" id="menu6Content">
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/iclean/index.php">iClean </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/prayaas/index.php">Prayaas </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/home_alive/index.php">Home Alive </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/idp/index.php">Industry Design Problem </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/codec/index.php">Workshop - Codec </a></div>
+
+
+ </div>
+</div>
+
+<!-- start 7th menu -->
+<div id="menu7Container">
+ <div class="menu" id="menu7Content">
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/scitech/index.php">SciTech</a></div>
+
+ </div>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+
+				<li id="title">Sixth Gear</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php"> &nbsp;&nbsp;FlyHigh</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/junior/index.php"> &nbsp;&nbsp;Hover Junior</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php"> &nbsp;&nbsp;Full Throttle</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php"> &nbsp;&nbsp;Future Flight</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/iterations/index.php"> &nbsp;&nbsp;Workshop - Iterations</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/robotrix/index.php"> &nbsp;&nbsp;Workshop - roboTRIx</a></li>
+
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

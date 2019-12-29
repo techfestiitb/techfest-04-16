@@ -1,0 +1,14 @@
+<div id="sidebar">
+    
+		<div id="box3" >
+			<ul>
+				<li id="title">Go To</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/register/index.php"> &nbsp;&nbsp;Register</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/workshops/index.php"> &nbsp;&nbsp;Workshops</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/lecture_series/index.php"> &nbsp;&nbsp;Lecture Series</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/assistance/index.php"> &nbsp;&nbsp;Accomodation Details</a></li>
+				
+			</ul>
+		</div>		
+		<!--Box2 -->
+		

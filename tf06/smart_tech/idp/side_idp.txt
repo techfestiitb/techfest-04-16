@@ -1,0 +1,22 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">IDP</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#judge"> &nbsp;&nbsp;Judging Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#second"> &nbsp;&nbsp;Second Round Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/results.php"> &nbsp;&nbsp;Shortlist</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#sche"> &nbsp;&nbsp;Schedule</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php#team"> &nbsp;&nbsp;Team Size</a></li>
+
+								
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

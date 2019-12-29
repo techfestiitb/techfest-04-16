@@ -1,0 +1,7 @@
+/* CSS Document */
+#cnav{margin:0;padding:0;height:30px;background:#4A4A4A;margin-bottom:5px;overflow:hidden}
+  #cnav li{list-style-type:none;float:left;margin:0;padding:0}
+  #cnav a{background:#4A4A4A}
+  #cnav a:hover{display:block;background:#333}
+  .ypcontainer {z-index:500;visibility:hidden;position:absolute}
+.ypcontents {position: absolute}

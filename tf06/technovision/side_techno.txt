@@ -1,0 +1,22 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Technovisin Awards</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#intro"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#award"> &nbsp;&nbsp;Award Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#nom"> &nbsp;&nbsp;Nominations</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#abstract"> &nbsp;&nbsp;Abstract Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#imp"> &nbsp;&nbsp;Important Dates</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/panel.php"> &nbsp;&nbsp;Panel of Judges</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/results.php"> &nbsp;&nbsp;Shortlist</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				
+
+
+				
+			</ul>
+		</div>
+		

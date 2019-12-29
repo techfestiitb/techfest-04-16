@@ -1,0 +1,4250 @@
+Regnum: 103
+Date: November 8, 2005, 2:06 am
+Name1: K.S.Raghavendra
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU
+Year1: 3
+Name2: A.V.S.Kalyan
+Email2: life_kalyan@yahoo.co.in
+Univ2: JNTU
+Year2: 3
+Name3: Y.S.Bharat
+Email3: sonabharat@yahoo.co.in
+Univ3: JNTU
+Year3: 3
+Name4: N.Sampath Reddy
+Email4: sampath_civil@yahoo.co.in
+Univ4: JNTU
+Year4: 3
+Name5: S.Ramesh Kumar
+Email5: ksrag86@gmail.com
+Univ5: JNTU
+Year5: 3
+Address: Plot No.384,Sector III, Visalkshinagar, Visakhapatnam-43
+
+Regnum: 104
+Date: November 9, 2005, 9:22 am
+Name1: Mayank aggarwal
+Email1: -
+Univ1: pune
+Year1: 2nd
+Name2: Mohd iqbal mir
+Email2: iqbal_mir13@yahoo.com
+Univ2: pune
+Year2: 2nd
+Name3: -
+Email3: -
+Univ3: -
+Year3: -
+Name4: -
+Email4: -
+Univ4: -
+Year4: -
+Name5: -
+Email5: -
+Univ5: -
+Year5: -
+Address: C-222,sinhgad boy's hostel vadgaon pune
+maharashtra
+
+Regnum: 104
+Date: November 9, 2005, 9:23 am
+Name1: Mayank aggarwal
+Email1: -
+Univ1: pune
+Year1: 2nd
+Name2: Mohd iqbal mir
+Email2: iqbal_mir13@yahoo.com
+Univ2: pune
+Year2: 2nd
+Name3: -
+Email3: -
+Univ3: -
+Year3: -
+Name4: -
+Email4: -
+Univ4: -
+Year4: -
+Name5: -
+Email5: -
+Univ5: -
+Year5: -
+Address: C-222,sinhgad boy's hostel 
+vadgaon 
+pune
+maharashtra
+
+Regnum: 104
+Date: November 9, 2005, 9:24 am
+Name1: Mayank aggarwal
+Email1: -
+Univ1: pune
+Year1: 2nd
+Name2: Mohd iqbal mir
+Email2: iqbal_mir13@yahoo.com
+Univ2: pune
+Year2: 2nd
+Name3: -
+Email3: -
+Univ3: -
+Year3: -
+Name4: -
+Email4: -
+Univ4: -
+Year4: -
+Name5: -
+Email5: -
+Univ5: -
+Year5: -
+Address: C-222,sinhgad boy's hostel, 
+vadgaon, 
+pune
+(maharashtra)
+
+Regnum: 104
+Date: November 10, 2005, 3:14 am
+Name1: kaumil shah
+Email1: kith_kaumil@hotmail.com
+Univ1: sardar vallabhbhai national institute of technology
+Year1: first year
+Name2: sahil shah
+Email2: smartcoolsahil@yahoo.com
+Univ2: sardar vallabhbhai national institue of technology
+Year2: first year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: vardhman bunglow,
+ghodod road, parle point,
+surat 395007
+gujarat, india
+
+Regnum: 105
+Date: November 10, 2005, 9:11 am
+Name1: Piyush Bihani
+Email1: piyushbihani1@yahoo.co.in
+Univ1: NIT Warangal
+Year1: 3rd
+Name2: Himanshu Srivastava
+Email2: himanshu_18july@yahoo.co.in
+Univ2: NIT Warangal
+Year2: 3rd
+Name3: Harsh Bolia
+Email3: harsh_29_04@yahoo.co.in
+Univ3: NIT Warangal
+Year3: 3rd
+Name4: Deependra Hamal
+Email4: dip_n_draw@yahoo.com
+Univ4: NIT Warangal
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 106 Narkel Danga Main Road, Phool Bagan, Mangal Bhawan, Kolkata - 700054
+
+Regnum: 106
+Date: November 10, 2005, 10:13 am
+Name1: G V DEEPAK
+Email1: deepak.gv7@gmail.com
+Univ1: NIT Warangal
+Year1: 3rd
+Name2: N H Krishna
+Email2: kishaneyes@yahoo.co.in
+Univ2: NIT Warangal
+Year2: 3rd
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Room no. 6-2-3
+NITW Hostels
+National Institute Of Technology
+Warangal - 506004
+
+Regnum: 107
+Date: November 10, 2005, 10:21 pm
+Name1: Pandey Ashish Kumar
+Email1: ashish05@gmail.com
+Univ1: NITK, Surathkal
+Year1: Second
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Pandey Ashish Kumar, Room No. 89, 3rd block hostels,National Institute of Technology Karnataka, Surathkal, Srinivasnagar PO, DK, Karnataka, PIN 575025
+
+Regnum: 108
+Date: November 11, 2005, 1:46 am
+Name1: Md. Waqquar Ahmad
+Email1: waqqar_ahmed1@indiatimes.com
+Univ1: Sinhgad College of Engineering. University of Pune
+Year1: 2005-06
+Name2: Gaurav Supekar
+Email2: gauravsupekar@yahoo.co.in
+Univ2: Sinhgad College of Engineering. University of Pune
+Year2: 2005-06
+Name3: Utkarsh Patil
+Email3: utkarshpatil@rediffmail.com
+Univ3: Sinhgad College of Engineering. University of Pune
+Year3: 2005-06
+Name4: Pravin Jagtap
+Email4: pravin311@yahoo.co.in
+Univ4: Sinhgad College of Engineering. University of Pune
+Year4: 2005-06
+Name5: Ajit Khandgale
+Email5: ajitkandagle@yahoo.co.in
+Univ5: Sinhgad College of Engineering. University of Pune
+Year5: 2005-06
+Address: c/o              Gaurav D.Supekar,
+102,Chanakya Nager,
+Kandage Park,
+Sinhgad Road,
+Pune-41
+Phone:-           020 24350112
+
+Regnum: 109
+Date: November 11, 2005, 4:06 am
+Name1: avinash mishra
+Email1: waytoavi@yahoo.co.in
+Univ1: svnit,surat
+Year1: 1st
+Name2: abhislash k.
+Email2: abhilash007@gmail.com
+Univ2: svnit,surat
+Year2: 1st
+Name3: s. anirudh 
+Email3: s.anirudh@gmail.com
+Univ3: svnit,surat
+Year3: 1st
+Name4: abhishek kumar
+Email4: waytoavi@gmail.com
+Univ4: svnit,surat
+Year4: 1st
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: avinash mishra,
+ds-3,bhabha bhawan,
+svnit,
+ichanath,
+surat-7.
+
+Regnum: 110
+Date: November 11, 2005, 8:59 am
+Name1: yogesh tiwari
+Email1: tiwari.y@gmail.com
+Univ1: iit madras
+Year1: 3rd
+Name2: amrit vatsa
+Email2: amrit.vatsa@gmail.com
+Univ2: iit madras
+Year2: 3rd
+Name3: anshuman agrawal
+Email3: anshuman.agrawal@gmail.com
+Univ3: iit madras
+Year3: 3rd
+Name4: varun agrawal
+Email4: varun_iitm03@yahoo.com
+Univ4: iit madras
+Year4: 3rd
+Name5: prasun singh
+Email5: prasun_xian@yahoo.com
+Univ5: iit madras
+Year5: 3rd
+Address: 345 narmada hostel, iit madras, chennai-36
+
+Regnum: 111
+Date: November 12, 2005, 7:20 am
+Name1: Rohankumar  . B . Bukane
+Email1: robu_com@rediffmail.com
+Univ1: mumbai
+Year1: third year
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 9/Jai Bhavani co-op-hsg. society ,mankhurd, mumbai -400088
+
+Regnum: 112
+Date: November 13, 2005, 11:03 am
+Name1: Mohd Iqbal Mir
+Email1: iqbal_mir13@yahoo.com
+Univ1: Pune
+Year1: 2nd
+Name2: Mayank Agarwal
+Email2: mayankahead@yahoo.com
+Univ2: Pune
+Year2: 2nd
+Name3: -
+Email3: -
+Univ3: -
+Year3: -
+Name4: -
+Email4: -
+Univ4: -
+Year4: -
+Name5: -
+Email5: --
+Univ5: -
+Year5: -
+Address: Sinhgad Boys Hostel,
+Vadgaon, Pune
+(Maharashtra)
+
+Regnum: 113
+Date: November 14, 2005, 3:04 am
+Name1: Vaibhav Ingale
+Email1: vaibhav.d.ingale@gmail.com
+Univ1: BVP Vasai
+Year1: 3rd
+Name2: MUFADDAL H MERCHANT
+Email2: hasanali472000@yahoo.co.in
+Univ2: BVP Vasai
+Year2: 3rd
+Name3: Ganesh Iyer
+Email3: vaibhav_veebha@yahoo.co.in
+Univ3: BVP Vasai
+Year3: 3rd
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 102 sheetal view diwanman vasai (w)401202 ph:95250-2340379/2336782
+
+Regnum: 114
+Date: November 14, 2005, 5:30 am
+Name1: patel chintan
+Email1: pcs_ce@yahoo.co.in
+Univ1: dharamsinh desai university
+Year1: third
+Name2: pandya nisheeth
+Email2: nisheethpandya@yahoo.com
+Univ2: dharamsinh desai university
+Year2: third
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: b-149, falgun tenaments, jodhpur gam road, satellite, ahmedabad-380015
+
+Regnum: 115
+Date: November 17, 2005, 2:00 am
+Name1: N Sampath Reddy 
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU
+Year1: 3
+Name2: A V S Kalyan
+Email2: life_kalyan@yahoo.co.in
+Univ2: JNTU
+Year2: 3
+Name3: Y S Bharat
+Email3: sonabharat@yahoo.co.in
+Univ3: JNTU
+Year3: 3
+Name4: K S Raghavendra
+Email4: k_s_raghava@yahoo.co.in
+Univ4: JNTU
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Plot No384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 116
+Date: November 17, 2005, 2:00 am
+Name1: S Ramesh Kumar
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU
+Year1: 3
+Name2: A V S Kalyan
+Email2: life_kalyan@yahoo.co.in
+Univ2: JNTU
+Year2: 3
+Name3: Y S Bharat
+Email3: sonabharat@yahoo.co.in
+Univ3: JNTU
+Year3: 3
+Name4: K S Raghavendra
+Email4: k_s_raghava@yahoo.co.in
+Univ4: JNTU
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Plot No384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 117
+Date: November 17, 2005, 2:02 am
+Name1: G V Prashant
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU
+Year1: 3
+Name2: A V S Kalyan
+Email2: life_kalyan@yahoo.co.in
+Univ2: JNTU
+Year2: 3
+Name3: Y S Bharat
+Email3: sonabharat@yahoo.co.in
+Univ3: JNTU
+Year3: 3
+Name4: K S Raghavendra
+Email4: k_s_raghava@yahoo.co.in
+Univ4: JNTU
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Plot No384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 118
+Date: November 18, 2005, 7:03 am
+Name1: Umesh Jagannath Shinde
+Email1: umesh_wce@rediffmail.com
+Univ1: Shivaji University-Kolhapur
+Year1: Third Year Mechanical Engg.
+Name2: Lakhyajeet Tahbildar
+Email2: ljt_das@yahoo.co.in
+Univ2: Shivaji university,Kolhapur
+Year2: Second Yr. B.Architecture
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Lakhyajeet Tahbildar
+C.O.A.D.Jadhav,Plot no:17,Sangli,Maharashtra
+PIN:416416
+phone:9226414953
+      9823023963
+
+Regnum: 119
+Date: November 18, 2005, 10:22 pm
+Name1: Murali Jagannathan
+Email1: avemurali@yahoo.co.in
+Univ1: NITK Surathkal
+Year1: Third
+Name2: Ateeth M Dhumal
+Email2: ateethmd@gmail.com
+Univ2: NITK Surathkal
+Year2: Third
+Name3: T Ravishankar
+Email3: ravinmpt@yahoo.co.in
+Univ3: NITK Surathkal
+Year3: Third
+Name4: Karthik P S
+Email4: ravinmpt@yahoo.co.in
+Univ4: NITK Surathkal
+Year4: Third
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Ateeth M Dhumal
+H.NO.119 "Jyoti-Nivas"
+Vinayak Colony 
+Near BVB Engg College.
+Vidyanagar.
+HUBLI-580031
+ST: Karnataka
+
+Regnum: 120
+Date: November 19, 2005, 2:06 am
+Name1: Srujen Ch
+Email1: sruju86@yahoo.co.in
+Univ1: KIET,Jntu
+Year1: 3rd
+Name2: M Ashok kumar
+Email2: sruju86@yahoo.co.in
+Univ2: KIET,Jntu
+Year2: 3rd
+Name3: D G Raju
+Email3: sruju86@yahoo.co.in
+Univ3: KIET,Jntu
+Year3: 3rd
+Name4: V V S Prasad
+Email4: sruju86@yahoo.co.in
+Univ4: KIET,Jntu
+Year4: 3rd
+Name5: D Chaytna C S Reddy
+Email5: sruju86@yahoo.co.in
+Univ5: KIET,Jntu
+Year5: 3rd
+Address: 2-27-9,Sunder savitri App, a1, Kakinada,Ap
+
+Regnum: 121
+Date: November 20, 2005, 5:11 am
+Name1: vyas rushikesh  v. 
+Email1: hriso_08@yahoo.co.in
+Univ1: gujarat uni. (svit)
+Year1: 2005/06
+Name2: vyas yogini v . 
+Email2: hrishi_08@hotmail.com
+Univ2: gujarat uni. (svit)
+Year2: 2005/06
+Name3: shah zalak 
+Email3: hrishi_08@indiatimes.com
+Univ3: gujarat uni. (svit)
+Year3: 2005/06
+Name4: khimani chandani
+Email4: alpeshbemech@yahoo.co.in
+Univ4: gujarat uni. (svit)
+Year4: 2005/06
+Name5: buch manan 
+Email5: buchmanan2784@yahoo.com
+Univ5: gujarat uni. (svit)
+Year5: 2005/06
+Address: c/115,adinath soc, vip road, karelibaug, 
+vadodara-390008
+
+Regnum: 122
+Date: November 20, 2005, 10:04 am
+Name1: Bijil K Babu
+Email1: bijilkbabu@yahoo.co.in
+Univ1: RGPV
+Year1: 2nd
+Name2: Geetesh Rai
+Email2: geetesh_eye@rediffmail.com
+Univ2: RGPV
+Year2: 2nd
+Name3: Lokesh Chadokar
+Email3: lokesh_chadokar@yahoo.co.in
+Univ3: RGPV
+Year3: 2nd
+Name4: Sourabh Patel
+Email4: sourabh_patel_ex@yahoo.co.in
+Univ4: RGPV
+Year4: 2nd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 140,vaishali nagar, kotra sultanabad bhopal 462003
+
+Regnum: 123
+Date: November 21, 2005, 12:41 am
+Name1: SURYA PRAKASH N.B.
+Email1: prakashnbs@yahoo.co.in
+Univ1: NITK Surathkal
+Year1: III rd
+Name2: SUDIPTO DESMUKH
+Email2: sudipto_d13@rediffmail.com
+Univ2: NITK Surathkal
+Year2: III rd
+Name3: VIJENDRA CHOUREY
+Email3: vijendrac@yahoo.com
+Univ3: NITK Surathkal
+Year3: III rd
+Name4: AVINASH K.V.
+Email4: karavi_17@yahoo.co.in
+Univ4: NITK Surathkal
+Year4: III rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: #147,VII Hostel block,NITK Surathkal,P.O. Srinivasnagar.PIN 575025.(KARNATAKA)
+
+Regnum: 124
+Date: November 21, 2005, 5:06 am
+Name1: A.KALYAN KUMAR
+Email1: kalyan_akroy@yahoo.co.in
+Univ1: KAKINADA INSTITUTE OF ENGINEERING & TECHNOLOGY
+Year1: B.Tech. 3rd YEAR
+Name2: ROMA JHAWAR
+Email2: romajhawar@yahoo.co.in
+Univ2: KAKINADA INSTITUTE OF ENGINEERING & TECHNOLOGY
+Year2: B.Tech. 3rd YEAR
+Name3: M.RAJITHA LAKSHMI
+Email3: rajithalakshmi@yahoo.co.in
+Univ3: KAKINADA INSTITUTE OF ENGINEERING & TECHNOLOGY
+Year3: B.Tech. 3rd YEAR
+Name4: K.SUNEETA
+Email4: rohitrem@yahoo.co.in
+Univ4: KAKINADA INSTITUTE OF ENGINEERING & TECHNOLOGY
+Year4: B.Tech. 3rd YEAR
+Name5: B.SAGAR KRISHNA
+Email5: sagar9c@yahoo.co.in
+Univ5: KAKINADA INSTITUTE OF ENGINEERING & TECHNOLOGY
+Year5: B.Tech. 3rd YEAR
+Address: c/o.A.M.P.KUMAR,
+D.NO.3-176,
+MADHURANAGAR,
+KAKINADA,
+EAST GODAVARI(DISTRICT)
+ANDHRA PRADESH(STATE)
+INDIA(COUNTRY)
+
+Regnum: 125
+Date: November 21, 2005, 11:59 pm
+Name1: Vimal Menon
+Email1: vml.menon@gmail.com
+Univ1: NIT, SURAT
+Year1: 3rd
+Name2: Kiran P.
+Email2: kiranp3@rediffmail.com
+Univ2: NIT, SURAT
+Year2: 3rd
+Name3: Leonard Behra
+Email3: leoking84200@yahoo.com
+Univ3: NIT, SURAT
+Year3: 3rd
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 2/9 Narmadeshwar, 
+B/h Sahyog,
+Refinery Rd.,
+Gorwa, Vadodara - 390016
+
+Regnum: 126
+Date: November 22, 2005, 5:28 am
+Name1: chetan Pawar
+Email1: chetanhero1@yahoo.com
+Univ1: Nagpur
+Year1: Final Year
+Name2: Sachin Ngraj
+Email2: nagraj_sachin@yahoo.com
+Univ2: Nagpur
+Year2: Final Year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Ashirwad 186 H.B. Estate Sonegaon  Khamala Road  Nagpur-440025
+
+Regnum: 127
+Date: November 22, 2005, 10:27 pm
+Name1: akarti jain
+Email1: akarti_jain1@rediffmail.com
+Univ1: university of rajasthan
+Year1: 3rd
+Name2: shweta sharma
+Email2: shweta_heena2004@yahoo.co.in
+Univ2: university of rajasthan
+Year2: 3rd
+Name3: shilpi agarwal
+Email3: shilpi007comes@yahoo.co.in
+Univ3: university of rajasthan
+Year3: 3rd
+Name4: pankaj agarwal
+Email4: sandeep_in_action@yahoo.co.in
+Univ4: university of rajasthan
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: man medicose, ram bagh, near dhudiji dharamsala, opp. p.b.m. hospital, bikaner, rajasthan
+
+Regnum: 128
+Date: November 23, 2005, 2:39 am
+Name1: K S Raghavendra
+Email1: k_s_raghava@yahoo.co.in
+Univ1: GVPCOE
+Year1: 3
+Name2: S RAmesh Kumar
+Email2: k_s_raghava@yahoo.co.in
+Univ2: GVPCOE
+Year2: 3
+Name3: Y S Bharat 
+Email3: sonabharat@yahoo.co.in
+Univ3: GVPCOE
+Year3: 3
+Name4: A V S Kalyan
+Email4: life_kalyan@yahoo.co.in
+Univ4: GVPCOE
+Year4: 3
+Name5: G V Prashant
+Email5: life_kalyan@yahoo.co.in
+Univ5: GVPCOE
+Year5: 3
+Address: Plot No 384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 129
+Date: November 23, 2005, 5:37 am
+Name1: abhishek chaturvedi
+Email1: a_chat85@yahoo.co.uk
+Univ1: nagpur
+Year1: final
+Name2: sapna gore
+Email2: sapna_g2k@yahoo.co.in
+Univ2: nagpur
+Year2: final
+Name3: vishal yadav
+Email3: a_chat85@yahoo.co.uk
+Univ3: nagpur
+Year3: final
+Name4: mavuri ashwini
+Email4: sapna_g2k@yahoo.co.in
+Univ4: nagpur
+Year4: final
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: abhishek chaturvedi,
+c/o s n chaturvedi,
+170,mohini kunj,
+swamy colony,
+katol road, 
+Nagpur- 440013
+
+Regnum: 130
+Date: November 23, 2005, 8:12 am
+Name1: paresh bhandari
+Email1: paresh.m.bhandari@gmail.com
+Univ1: N.I.T.K Surathkal
+Year1: 3rd year
+Name2: krishna mahale 
+Email2: krishnamahale@yahoo.com
+Univ2: N.I.T.K Surathkal
+Year2: 3rd year
+Name3: surya devikant
+Email3: devikanths@yahoo.com
+Univ3: N.I.T.K
+Year3: 3rd year
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Room no. 106, VII block  N.I.T.K.S hostels srinivasnagar-575025
+
+Regnum: 131
+Date: November 24, 2005, 6:21 am
+Name1: Tejas V Hoskatti
+Email1: htejas@indiatimes.com
+Univ1: Mumbai University
+Year1: final year
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: N-74, jal vaiyu vihar,
+hiranandani gardens,
+powai,
+mumbai-74.
+
+Regnum: 132
+Date: November 25, 2005, 7:56 am
+Name1: Sadaf
+Email1: sid_sadaf@hotmail.com
+Univ1: mumbai
+Year1: SE- 2005-06
+Name2: Nayan Busa
+Email2: nayan_busa@hotmail.com
+Univ2: mumbau
+Year2: SE- 2005-06
+Name3: Bhavya Acharya
+Email3: bhalu_thegr8@yahoo.com 
+Univ3: mumbai
+Year3: SE- 2005-06
+Name4: Ankit Shah
+Email4: ajshah123@yahoo.com 
+Univ4: mumbai
+Year4: SE- 2005-06
+Name5: Rudri Buch
+Email5: rrrrrudri@yahoo.com 
+Univ5: mumbai
+Year5: SE- 2005-06
+Address: A-6-41, NABARD Nagar, Thakur Complex, Kandivli (East), Mumbai, 400101.
+
+Regnum: 133
+Date: November 26, 2005, 2:09 am
+Name1: Amrish Savla
+Email1: frozen_rock@gmail.com
+Univ1: Mumbai University
+Year1: Fourth (B.E.)
+Name2: Gunjan Dedhia
+Email2: gags007@rediffmail.com
+Univ2: Mumbai University
+Year2: Fourth(B.E.)
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 9\B, Bhramajyoti Bldg., Chandavarkar Lane, Matunga(C.R.), Mumbai-400 019.
+
+Regnum: 134
+Date: November 26, 2005, 3:16 am
+Name1: Abhishek Narasimhan
+Email1: abhin279@rediffmail.com
+Univ1: Shivaji university
+Year1: Final Year
+Name2: Zubin P. Dumasia
+Email2: zubin_dynamic@yahoo.com
+Univ2: Shivaji university
+Year2: Final Year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 304/66-A, Shiv Om Bldg., Sector 14, Koperkhairane, navi mumbai 400709
+
+Regnum: 135
+Date: November 26, 2005, 7:44 pm
+Name1: Anshul Agarwal
+Email1: checkanshulishere@yahoo.com
+Univ1: M.N.N.I.T., Allahabad
+Year1: 2nd
+Name2: Akhouri Ishan Rahul
+Email2: ishan_rahul@yahoo.com
+Univ2: M.N.N.I.T., Allahabad
+Year2: 2nd
+Name3: Abhishek Mishra
+Email3: memorable_persona@yahoo.co.in
+Univ3: M.N.N.I.T., Allahabad
+Year3: 2nd
+Name4: Ajitabh Shah
+Email4: ajju_chints@yahoo.co.in
+Univ4: M.N.N.I.T., Allahabad
+Year4: 4th
+Name5: Siddhartha Vatsal
+Email5: sid_mnnit@yahoo.co.in
+Univ5: M.N.N.I.T., Allahabad
+Year5: 4th
+Address: 158 Patel Hostel,
+M.N.N.I.T., Allahabad
+211004
+
+Regnum: 136
+Date: November 27, 2005, 4:26 am
+Name1: shrikant Maniyar
+Email1: s.bhangdiya@gmail.com
+Univ1: SRSTM Nagpur University
+Year1: final year
+Name2: Mandar Mainde
+Email2: mandar_mainde01@yahoo.com
+Univ2: SRSTM Nagpur University
+Year2: final year
+Name3: Mohua Banerjee
+Email3: mandar_mainde01@yahoo.com
+Univ3: SRSTM Nagpur University
+Year3: final year
+Name4: Aditi Patodia
+Email4: adipatodia@yahoo.com
+Univ4: SRSTM Nagpur University
+Year4: Third year
+Name5: Ketaki Garibdas
+Email5: adipatodia@yahoo.com
+Univ5: SRSTM Nagpur University
+Year5: Third year
+Address: Shrikant Maniyar
+705,shriman palce,Lokmat Square,wardha road ,Dhantoli,Nagpur
+
+Regnum: 137
+Date: November 27, 2005, 11:31 pm
+Name1: mrinal mardia
+Email1: mrinalmardia@yahoo.co.in
+Univ1: university of rajasthan
+Year1: 3rd
+Name2: chanrakant prohit
+Email2: chand_raj9@yahoo.co.in
+Univ2: university of rajasthan
+Year2: 3rd
+Name3: 
+Email3: 
+Univ3: university of rajasthan
+Year3: 3rd
+Name4: 
+Email4: 
+Univ4: university of rajasthan
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: university of rajasthan
+Year5: 3rd
+Address: Mrinal Mardia
+673,mahaveer nagar
+gopalpura bypass
+jaipur
+
+Regnum: 138
+Date: November 29, 2005, 10:57 pm
+Name1: MUKESH C RAJ
+Email1: mukeshcraj2002@gmail.com
+Univ1: SVNIT SURAT
+Year1: 2nd year
+Name2: ROVIN GUPTA
+Email2: gupta_rovin@yahoo.co.in
+Univ2: svnit surat
+Year2: 2nd year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: rom no cg1 hostel 3   
+SVNIT SURAT 395007
+
+Regnum: 139
+Date: November 30, 2005, 7:47 am
+Name1: 78tg
+Email1: y7mn@sams.com
+Univ1: ccl;scls;
+Year1: cdlslc1
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: yhhmkmm
+
+Regnum: 140
+Date: November 30, 2005, 9:56 pm
+Name1: sanjay gupta
+Email1: hari_sanjay@hotmail.com
+Univ1: svnit surat
+Year1: b tech 1st
+Name2: koushik ganguly
+Email2: koushik_439@rediffmail.com
+Univ2: svnit surat
+Year2: b tech 1st
+Name3: sivaramakrishnan v
+Email3: siva_iyer_2000@yahoo.com
+Univ3: svnit surat
+Year3: b tech 1st
+Name4: avinash tomer
+Email4: udda_parindaa@yahoo.com
+Univ4: svnit surat
+Year4: b tech 1st
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: bg-2,hostel-1,bhabha bhawan, svnit surat-395007
+
+Regnum: 141
+Date: November 30, 2005, 11:34 pm
+Name1: Saurabh Kumar Singh
+Email1: affairwithlife2@yahoo.co.in
+Univ1: RGPV,bhopal,(M.P)
+Year1: second
+Name2: Akriti Dubey
+Email2: lucky_akriti@yahoo.com
+Univ2: RGPV,bhopal,(M.P)
+Year2: second
+Name3: Gaurav Kumar
+Email3: gaurav_muzs@yahoo.com
+Univ3: RGPV,bhopal,(M.P)
+Year3: second
+Name4: Anshul Khurana
+Email4: ansh_loves4u@yahoo.com
+Univ4: RGPV,bhopal,(M.P)
+Year4: second
+Name5: Aditi Jigyasi
+Email5: smilecutely_08@yahoo.co.in
+Univ5: RGPV,bhopal,(M.P)
+Year5: second
+Address: G-3/403,Gulmohar Colony,Bhopal,(M.P)-462039
+
+Regnum: 142
+Date: December 1, 2005, 12:35 pm
+Name1: abir
+Email1: abir_showstopper@yahoo.co.in
+Univ1: nagpur
+Year1: final
+Name2: abhay
+Email2: abhayintel@yahoo.com
+Univ2: nagpur
+Year2: final
+Name3: satish
+Email3: satish_280484@rediffmail.com
+Univ3: nagpur
+Year3: final
+Name4: amit
+Email4: amit007_intel@yahoo.com
+Univ4: nagpur
+Year4: final
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 59, malviya nagar, khamla,
+nagpur:440025
+
+Regnum: 143
+Date: December 2, 2005, 10:45 am
+Name1: Abhinav Sultania
+Email1: abhinav.sultania@gmail.com
+Univ1: SVNIT
+Year1: III year
+Name2: Soumya Nandi
+Email2: soumya.nandi@gmail.com
+Univ2: SVNIT
+Year2: III year
+Name3: Avardip paul
+Email3: avardip.paul@gmail.com
+Univ3: SVNIT
+Year3: IV year
+Name4: Pinaki Mondal
+Email4: pinaki.mondal@gmail.com
+Univ4: SVNIT
+Year4: IV year
+Name5: Soumik Paul
+Email5: bindas_soumik@yahoo.co.in
+Univ5: SVNIT
+Year5: III year
+Address: Room No. BF 3, Hostel-4, Gajjar Bhavan, SVNIT, Ichchhanath, Surat -395007, Gujarat
+
+Regnum: 144
+Date: December 3, 2005, 3:30 am
+Name1: Kareem ul Hasan 
+Email1: kareim_ul_hasan@yahoo.com
+Univ1: RGPV
+Year1: 3
+Name2: ankita  bhandari
+Email2: ankitabhandari@yahoo.com
+Univ2: RGPV
+Year2: 3
+Name3: ashish mathur
+Email3: ashishmathur14@yahoo.com
+Univ3: RGPV
+Year3: 3
+Name4: deepika agarwal
+Email4: deepika_a08@yahoo.com
+Univ4: RGPV
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: JM 1/3 Ankur Complex , Shivaji Nagar , Phase III , Bhopal - 462016
+
+Regnum: 145
+Date: December 3, 2005, 4:30 am
+Name1: Vimal Menon
+Email1: vml.menon@gmail.com
+Univ1: NIT SURAT
+Year1: 3
+Name2: Kiran P.
+Email2: kiranp3@rediffmail.com
+Univ2: NIT SURAT
+Year2: 3
+Name3: Rithwik K.
+Email3: rithwik86@yahoo.com
+Univ3: NIT SURAT
+Year3: 2
+Name4: Leonard Behra
+Email4: leonardleo2003@yahoo.co.in
+Univ4: NIT SURAT
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 2/9 NARMADESHWAR Soc.,
+b/h Sahyog,
+Refinery Rd.,
+Gorwa, Vadodara
+Gujarat
+390016
+
+Regnum: 146
+Date: December 3, 2005, 4:37 am
+Name1: taha
+Email1: tahawilllikeu@hotmail.com
+Univ1: gujarat
+Year1: second
+Name2: dharitri
+Email2: dharu_4u@yahoo.com
+Univ2: gujarat
+Year2: second
+Name3: haresh
+Email3: haresh_877@yahoo.co.in
+Univ3: gujarat
+Year3: second
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 3642/7,masjid bldg,moti voharwad,astodia chakla,ahemdabad
+
+Regnum: 147
+Date: December 3, 2005, 5:46 am
+Name1: vinit kapadia
+Email1: vinit_kapadia2004@yahoo.co.in
+Univ1: gujarat university
+Year1: third year
+Name2: nirmit shah
+Email2: ndshah1986@yahoo.co.in
+Univ2: gujarat university
+Year2: third year
+Name3: chintan panpai
+Email3: chintan_panpai@yahoo.co.in
+Univ3: gujarat university
+Year3: third year
+Name4: ankit tarpara
+Email4: ankit_tarpara@yahoo.co.in
+Univ4: gujarat university
+Year4: third year
+Name5: nirmal sitapara
+Email5: nirmal_sitapara@yahoo.co.in
+Univ5: gujarat university
+Year5: third year
+Address: anurag flats,
+third floor-6,
+opp. akota garden,
+productivity road,
+baroda-390020.
+gujarat.
+
+Regnum: 148
+Date: December 5, 2005, 4:04 am
+Name1: JARIWALA AMIT SUNIL
+Email1: amit4u_friendship@yahoo.com
+Univ1: sardar vallabhbhai national institute of technolgy
+Year1: 2005-06
+Name2: JARIWALA JUGAL DEEPAK
+Email2: jay_sx69@yahoo.co.in
+Univ2: sardar vallabhbhai national institute of technology
+Year2: 2005-06
+Name3: SHAH SAAHIL S
+Email3: smartcoolsaahil@yahoo.com
+Univ3: sardar vallabhbhai national institute of technology
+Year3: 2005-06
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 16/120khatodra colony ,udhna darwaja
+surat-395002
+
+Regnum: 149
+Date: December 6, 2005, 2:23 am
+Name1: Shweta Ranka
+Email1: akankshapandit2004@yahoo.co.in
+Univ1: MITS,Lakshmangarh
+Year1: 2005
+Name2: Shweta poddar
+Email2: akankshapandit2004@yahoo.co.in
+Univ2: MITS,Lakshmangarh
+Year2: 2005
+Name3: Disha Thakuria
+Email3: akankshapandit2004@yahoo.co.in
+Univ3: MITS,Lakshmangarh
+Year3: 2005
+Name4: Parul Parak
+Email4: akankshapandit2004@yahoo.co.in
+Univ4: MITS,Lakshmangarh
+Year4: 2005
+Name5: Shruti Sharma
+Email5: akankshapandit2004@yahoo.co.in
+Univ5: MITS,Lakshmangarh
+Year5: 2005
+Address: MITS,Lakshmangarh,Sikar,RAJ
+
+Regnum: 150
+Date: December 6, 2005, 4:31 am
+Name1: KOTAK HIMANSHU A
+Email1: himanshu_kotak2003@yahoo.co.in
+Univ1: THE MAHARAJA SAYAJIRAO UNIVERSITY OF BARODA
+Year1: 2005-2006
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 76,M.V.HALL
+POLYTECHNIC CAMPUS
+BARODA-390002
+
+Regnum: 151
+Date: December 6, 2005, 4:44 am
+Name1: rajul singhal
+Email1: iovetorajul@yahoo.com
+Univ1: s.v.n.i.t. surat
+Year1: 2005-2006
+Name2: anurag jain 
+Email2: rajhul_happy@yahoo.com
+Univ2: s.v.n.i.t. surat
+Year2: 2005-2006
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: rajul singhal hostel no.1 room no. bs-2 svnit ichaanath surat
+
+Regnum: 152
+Date: December 6, 2005, 6:34 am
+Name1: AKASH GARG
+Email1: AKASHLOVESUALL@YAHOO.COM
+Univ1: UPTU
+Year1: 2ND
+Name2: JAMES BOND SINGH 
+Email2: SINGH_JAMES@HOTMAIL.COM
+Univ2: UPTU
+Year2: 3RD
+Name3: SUMIT SAXENA
+Email3: SUMITGRN@YAHOO.CO.IN
+Univ3: UPTU
+Year3: 2ND
+Name4: ABHISHEK VERMA
+Email4: ABHI_MOONRISE@YAHOO.CO.IN
+Univ4: UPTU
+Year4: 2ND
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: E-212,ALPHA-I,GREATER NOIDA,G.B.NAGAR,U.P
+
+Regnum: 153
+Date: December 6, 2005, 9:57 pm
+Name1: savala nikunj
+Email1: nikunjsmart2005@yahoo.co.in
+Univ1: m.s.university
+Year1: 2005-2006
+Name2: patil yashvant s
+Email2: dipurt95@yahoo.co.in
+Univ2: m.s.university
+Year2: 2005-06
+Name3: shah ujjaval n
+Email3: ujjaval31@yahoo.com
+Univ3: m.s.university
+Year3: 2005-06
+Name4: patel tarun s
+Email4: tarunrt22@yahoo.co.in
+Univ4: m.s.university
+Year4: 2005-06
+Name5: katariya dipesh d
+Email5: dipesh_614u@yahoo.co.in
+Univ5: m.s.university
+Year5: 2005-06
+Address: A-5,kapilakunj app.,
+near rushi mandap,
+karelibaug,
+vadodara-18
+
+Regnum: 154
+Date: December 6, 2005, 10:03 pm
+Name1: Abhinav Jain
+Email1: abhinavjain01@rediffmail.com
+Univ1: J.S.S. Academy Of Technical Education
+Year1: Third
+Name2: Sidharth Lal
+Email2: lal_sid@yahoo.co.in
+Univ2: J.S.S. Academy Of Technical Education
+Year2: Third
+Name3: Ravi Verma
+Email3: ravijssate@gmail.com
+Univ3: J.S.S. Academy Of Technical Education
+Year3: Third
+Name4: T.D.Mahesh
+Email4: majhi_@yahoo.co.in
+Univ4: J.S.S. Academy Of Technical Education
+Year4: Third
+Name5: Gaurav Tripathi
+Email5: abhinavy2k2001@yahoo.com
+Univ5: J.S.S. Academy Of Technical Education
+Year5: Third
+Address: Abhinav Jain
+B-81-B,Rajat Vihar,
+Sector 62,Noida
+20131
+Uttar Pradesh
+
+Regnum: 155
+Date: December 6, 2005, 10:48 pm
+Name1: ABHINAV JAIN
+Email1: ABHINAVJAIN01@REDIFFMAIL.COM
+Univ1: UPTU
+Year1: THIRD
+Name2: SIDHARTH LAL
+Email2: LAL_SID@YAHOO.CO.IN
+Univ2: UPTU
+Year2: THIRD
+Name3: RAVI VERMA
+Email3: PRAYOGA_MT@YAHOO.COM
+Univ3: UPTU
+Year3: THIRD
+Name4: T.D.MAHESH
+Email4: TD_MAHESH@YAHOO.CO.IN
+Univ4: UPTU
+Year4: THIRD
+Name5: GAURAV TRIPATHI
+Email5: PRAYOGA_MT@YAHOO.COM
+Univ5: UPTU
+Year5: THIRD
+Address: B-81B,RAJAT VIHAR,SECTOR-62,
+NOIDA, U.P.(201301)
+
+Regnum: 156
+Date: December 7, 2005, 1:58 am
+Name1: Keta Bhonsule
+Email1: ruchaa@yahoo.co.in
+Univ1: Nagpur
+Year1: third year
+Name2: Aparna Awandhe
+Email2: aparnaawandhe@yahoo.co.in
+Univ2: Nagpur
+Year2: third year
+Name3: Deepa Iyer
+Email3: deepaiyer@yahoo.co.in
+Univ3: Nagpur
+Year3: third year
+Name4: Rhuta Vakil
+Email4: rsvakil@yahoo.com
+Univ4: Nagpur
+Year4: third year
+Name5: Rucha Naik
+Email5: ruchaa@yahoo.co.in
+Univ5: Nagpur
+Year5: third year
+Address: Rucha P. Naik
+27,Surendra nagar,
+W.H.C.Road,
+Nagpur.
+
+Regnum: 157
+Date: December 7, 2005, 2:15 am
+Name1: Rasika Deshpande
+Email1: monika_1910@yahoo.co.in
+Univ1: Nagpur
+Year1: third
+Name2: Shilpa Pakhite
+Email2: monika_1910@yahoo.co.in
+Univ2: Nagpur
+Year2: third
+Name3: Pallavi Wasnik
+Email3: pallavi_wasnik2000@yahoo.com
+Univ3: Nagpur
+Year3: third
+Name4: ShilpaPriya Mulukuntla
+Email4: ml_shilpa@yahoo.com
+Univ4: Nagpur
+Year4: third
+Name5: Priya Battulwar
+Email5: priya_battulwar@rediffmail.com
+Univ5: Nagpur
+Year5: third
+Address: Priya Battulwar
+NR J.N.Tata Parsi High school ,New shukrawari,Nagpur
+
+Regnum: 158
+Date: December 7, 2005, 5:40 am
+Name1: pankaj katiyar
+Email1: pankaj_5744@yahoo.co.in
+Univ1: RTM nagpur university
+Year1: final
+Name2: sunny waghale
+Email2: svwaghale@yahoo.co.in
+Univ2: RTM nagpur university
+Year2: final
+Name3: tushar gujrathi
+Email3: t_gujrathi@rediffmail.com
+Univ3: RTM nagpur university
+Year3: final
+Name4: nimietesh shrivastava
+Email4: kingcheval@yahoo.co.in
+Univ4: RTM nagpur university
+Year4: final
+Name5: kamlesh ghoradkar
+Email5: pankaj_5744@yahoo.co.in
+Univ5: RTM nagpur university
+Year5: final
+Address: pankaj katiyar,
+plot no159/160,
+vidya nagar,
+koradi road,
+post:-godhani
+nagpur 441111
+
+Regnum: 159
+Date: December 7, 2005, 10:18 am
+Name1: abir
+Email1: abir_showstopper@yahoo.co.in
+Univ1: nagpur
+Year1: final
+Name2: abhay
+Email2: abhayintel@yahoo.com
+Univ2: nagpur
+Year2: final
+Name3: satish
+Email3: satish_280484@rediffmail.com
+Univ3: nagpur
+Year3: final
+Name4: amit
+Email4: amit007_intel@yahoo.com
+Univ4: nagpur
+Year4: final
+Name5: Rohan khandelwal
+Email5: khandelwal_rohan@rediff.com
+Univ5: nagpur
+Year5: final
+Address: plot no c-1, Dhangawli nagar, pimpla road, nagpur
+
+Regnum: 160
+Date: December 7, 2005, 10:42 pm
+Name1: AMAN SRIVASTAVA
+Email1: amansri_nitk@yahoo.co.in
+Univ1: NITK SURATHKAL
+Year1: 2nd year
+Name2: PRASHANT SINGH
+Email2: prashantnitk@yahoo.com
+Univ2: NITK SURATHKAL
+Year2: 2nd year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: ROOM NO 49 
+THIRD BLOCK
+NITK HOSTELS 
+NITK SURATHKAL 
+MANGALORE .
+PIN - 575025
+
+Regnum: 161
+Date: December 7, 2005, 11:16 pm
+Name1: Prshant Batra
+Email1: prshantbatra@gmail.com
+Univ1: IIT Delhi
+Year1: 2nd year
+Name2: A.R Anand
+Email2: anandraj_iitd@yahoo.com
+Univ2: IIT Delhi
+Year2: 2nd year
+Name3: Ashish Sangwan
+Email3: ashish_sangwan1@yahoo.com
+Univ3: IIT Delhi
+Year3: 3rd year
+Name4: Nikhil Gupta
+Email4: nikhil_gupt_86@yahoo.co.in
+Univ4: IIT Delhi
+Year4: 2nd year
+Name5: Lavesh Gupta
+Email5: gupta_lavesh@yahoo.com
+Univ5: IIT Delhi
+Year5: 2nd year
+Address: Prshant Batra,
+D-38 , Karakoram Hostel,
+IIT Delhi,Hauz Khas ,New Delhi,110016
+
+Regnum: 162
+Date: December 8, 2005, 1:22 am
+Name1: amit kumar banerjee
+Email1: amit_banerjee20@yahoo.co.in
+Univ1: vnit
+Year1: third
+Name2: shrunkhal dube
+Email2: amit_banerjee20@yahoo.co.in
+Univ2: vnit
+Year2: third
+Name3: amresh jaiswal
+Email3: amit_banerjee20@yahoo.co.in
+Univ3: vnit
+Year3: third
+Name4: vivek k v
+Email4: amit_banerjee20@yahoo.co.in
+Univ4: vnit
+Year4: third
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: room 110,block 1,vnit,south ambazari,nagpur-440011
+
+Regnum: 163
+Date: December 8, 2005, 2:41 am
+Name1: SUMIT
+Email1: sumit_iam@yahoo.co.in
+Univ1: NIT PATNA
+Year1: THIRD
+Name2: ANURAG
+Email2: anurag_jha@msn.com
+Univ2: NIT PATNA
+Year2: THIRD
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: A-23, ASHRAY PAWAN APPTS., BEHIND RAJA BAJAR PETROL PUMP, BEILY ROAD, PATNA 800014 BIHAR
+
+Regnum: 164
+Date: December 8, 2005, 4:24 am
+Name1: Sagar Dhamdhere
+Email1: sagarsd004@yahoo.com
+Univ1: Pune
+Year1: 3rd year(Civil)
+Name2: Ninad Bodas
+Email2: ninad_bodas@yahoo.com
+Univ2: Pune
+Year2: 3rd year(Civil)
+Name3: Shrikant Dhage
+Email3: coep1011@yahoo.co.in
+Univ3: Pune
+Year3: 3rd year(Civil)
+Name4: Vaibhav Bedagkar
+Email4: vabcomp_154@indiatimes.com
+Univ4: Pune
+Year4: 3rd year(Civil)
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Ninad Bodas
+27/375, Lokmanya Nagar, L.B.S Road, Near Dandekar Bridge, Pune-411030
+
+Regnum: 165
+Date: December 8, 2005, 6:54 am
+Name1: anurag dharmawat
+Email1: anuragdharmawat@yahoo.com
+Univ1: raj
+Year1: 4
+Name2: mrinal mardia
+Email2: mrinalmardia@yahoo.co.in
+Univ2: raj
+Year2: 3
+Name3: tamal bhattcharya
+Email3: tamal@yahoo.co.in
+Univ3: raj
+Year3: 4
+Name4: reshma ajmera
+Email4: reshma@yahoo.co.in
+Univ4: raj
+Year4: 2
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 673 mahaveer nagar
+
+Regnum: 166
+Date: December 8, 2005, 10:34 pm
+Name1: RAKESH KHANDELWAL
+Email1: rakeshsvnitsurat@yahoo.co.in
+Univ1: SARDAR VALLABHBHAI NATIONAL INSTITUTE OF TECHNOLOGY,SURAT
+Year1: B.TECH 3RD year
+Name2: RAJAN CHAURASIA
+Email2: RAJAN1408@YAHOO.CO.IN
+Univ2: SVNIT,SURAT
+Year2: B.TECH 3RD 
+Name3: NAIK CHINMAY
+Email3: naikchinmay@yahoo.co.in
+Univ3: SVNIT,SURAT
+Year3: B.TECH 3RD
+Name4: ANKUR GANDHI
+Email4: ankur25nov@yahoo.co.in
+Univ4: SVNIT,SURAT
+Year4: B.TECH 3RD
+Name5: RAHUL TIWARI
+Email5: iloveuvvvvmuch@yahoo.co.in
+Univ5: SVNIT,SURAT
+Year5: B.TECH 3RD
+Address: RAKESH KHANDELWAL
+ROOM NO. BF3
+H8
+TAGORE BHAWAN
+SARDAR VALLABHBHAI NATIONAL INSTITUTE OF TECHNOLOGY,
+ICHCHHANATH,
+SURAT
+395007
+
+Regnum: 167
+Date: December 8, 2005, 10:53 pm
+Name1: saini satwinder
+Email1: satz_21@rediffmail.com
+Univ1: msu
+Year1: prefinal
+Name2: jariwala chinmay
+Email2: chinmay_20032003@yahoo.com
+Univ2: msu
+Year2: prefinal
+Name3: harple dipali
+Email3: satz_212005@yahoo.co.in
+Univ3: msu
+Year3: prefinal
+Name4: gajjar romit
+Email4: romitgajjar@yahoo.co.in
+Univ4: msu
+Year4: prefinal
+Name5: patel dhaval
+Email5: satz_21@rediffmail.com
+Univ5: msu
+Year5: prefinal
+Address: e/17,trimurty soc,b/h swati soc,new sama road,baroda,gujarat
+
+Regnum: 168
+Date: December 9, 2005, 7:34 am
+Name1: PRAVIN B.DATE
+Email1: date_p29@rediffmail.com
+Univ1: pune
+Year1: third year
+Name2: milind khandare
+Email2: date_p29@rediffmail.com
+Univ2: PUNE
+Year2: third year
+Name3: vishal sakore
+Email3: date_p29@rediffmail.com
+Univ3: pune
+Year3: third year
+Name4: vaibhav badwar
+Email4: date_p29@rediffmail.com
+Univ4: pune
+Year4: third year
+Name5: vineet yadav
+Email5: date_p29@rediffmail.com
+Univ5: pune
+Year5: third year
+Address: 328/1 indrayani ngr bhasari pune 411039
+
+Regnum: 169
+Date: December 9, 2005, 9:42 pm
+Name1: pavana prabhakar
+Email1: pavana_prabhakar@hotmail.com
+Univ1: NITK,Surathkal
+Year1: 3rd
+Name2: srivatsa
+Email2: vatsa85@rediffmail.com
+Univ2: NITK,Surathkal
+Year2: 3rd
+Name3: karthik anantharaman
+Email3: moronmountainz@yahoo.com
+Univ3: NITK,Surathkal
+Year3: 3rd
+Name4: aniket c dahasahasra
+Email4: cd_aniket@indiatimes.com
+Univ4: NITK,Surathkal
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: pavana prabhakar,room no.238,girls block-3,NITK,Surathkal,575025
+
+Regnum: 170
+Date: December 9, 2005, 10:35 pm
+Name1: sanjeev
+Email1: fundoo96@yahoo.com
+Univ1: nit 
+Year1: 2nd
+Name2: gaurav
+Email2: gauravrathi84@gmail.com
+Univ2: nit
+Year2: 2nd
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: nit
+
+Regnum: 171
+Date: December 9, 2005, 11:15 pm
+Name1: lambodar kumar mishra
+Email1: lambodar101@yahoo.co.in
+Univ1: vellore institute of technology
+Year1: 2nd
+Name2: kamal kant singh
+Email2: kamalkantsingh10@yahoo.co.in
+Univ2: vellore institute of technology
+Year2: 2nd
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: lambodar kumar mishra,
+G-551,
+vellore institute of technology,
+vellore-632014,
+tamilnadu
+
+Regnum: 172
+Date: December 10, 2005, 1:00 am
+Name1: Paritosh Kothari
+Email1: paritosh.kothari@gmail.com
+Univ1: R.G.P.V.
+Year1: IV
+Name2: Harsh Gupta
+Email2: harshkrg@gmail.com
+Univ2: R.G.P.V.
+Year2: IV
+Name3: Pankaj Sharma
+Email3: panka_in_83@yahoo.com
+Univ3: R.G.P.V.
+Year3: IV
+Name4: Mayank Patel
+Email4: mayank_mpatel@yahoomail.com
+Univ4: R.G.P.V.
+Year4: IV
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Regal House
+37/1, North Ra Mohalla,
+Indore (M.P.)
+PIN - 452002
+
+Regnum: 173
+Date: December 10, 2005, 4:57 am
+Name1: mudit gupta
+Email1: pranky_mudit@yahoo.co.in
+Univ1: R.G.P.V
+Year1: Second
+Name2: priyansh padarha
+Email2: priyanshpadarha@yahoo.co.in
+Univ2: R.G.P.V
+Year2: Second
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: mig-8/3b saket nagar,bhopal(m.p.)
+
+Regnum: 174
+Date: December 10, 2005, 5:24 am
+Name1: Mayuresh Vartak
+Email1: mayureshvartak@gmail.com
+Univ1: VNIT Nagpur
+Year1: Third Year
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Omsai, Plot No 311/263 Charkop Sector 6 Kandivali W Mumbai 67
+
+Regnum: 175
+Date: December 10, 2005, 6:48 am
+Name1: AKASH GARG
+Email1: AKASHLOVESUALL@YAHOO.COM
+Univ1: UPTU
+Year1: 2ND
+Name2: JAMES BOND SINGH
+Email2: SINGHJAMES008@HOTMAIL.COM
+Univ2: UPTU
+Year2: 3RD
+Name3: SUMIT SAXENA
+Email3: SUMITGRN@YAHOO.CO.IN
+Univ3: UPTU
+Year3: 2ND
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: E-212,ALPHA-I,GREATER NOIDA,G.B NAGAR,U.P.
+
+Regnum: 176
+Date: December 10, 2005, 10:20 am
+Name1: mustafa
+Email1: mustafa2552@yahoo.com
+Univ1: l d c e
+Year1: 4
+Name2: a
+Email2: mustafa2552@yahoo.com
+Univ2: l d ce
+Year2: 4
+Name3: mustafa2552@yahoo.com
+Email3: mustafa2552@yahoo.com
+Univ3: ldce
+Year3: 4
+Name4: mustafa2552@yahoo.com
+Email4: mustafa2552@yahoo.com
+Univ4: ldce
+Year4: 4
+Name5: mustafa2552@yahoo.com
+Email5: mustafa2552@yahoo.com
+Univ5: ldce
+Year5: 4
+Address: ldce
+
+Regnum: 177
+Date: December 10, 2005, 11:48 am
+Name1: Srinivas
+Email1: sri_om_svs@yahoo.co.in
+Univ1: VTU
+Year1: 2006
+Name2: Ujjwala N
+Email2: sri_om_svs@yahoo.co.in
+Univ2: VTU
+Year2: 2006
+Name3: Geetha R
+Email3: sri_om_svs@yahoo.co.in
+Univ3: VTU
+Year3: 2006
+Name4: Vatsala M
+Email4: sri_om_svs@yahoo.co.in
+Univ4: VTU
+Year4: 2006
+Name5: Sumathi R
+Email5: sri_om_svs@yahoo.co.in
+Univ5: VTU
+Year5: 2006
+Address: Bangalore
+
+Regnum: 178
+Date: December 10, 2005, 11:48 am
+Name1: Srinivas .R
+Email1: sri_om_svs@yahoo.co.in
+Univ1: VTU
+Year1: 2006
+Name2: Ujjwala N
+Email2: sri_om_svs@yahoo.co.in
+Univ2: VTU
+Year2: 2006
+Name3: Geetha R
+Email3: sri_om_svs@yahoo.co.in
+Univ3: VTU
+Year3: 2006
+Name4: Vatsala M
+Email4: sri_om_svs@yahoo.co.in
+Univ4: VTU
+Year4: 2006
+Name5: Sumathi R
+Email5: sri_om_svs@yahoo.co.in
+Univ5: VTU
+Year5: 2006
+Address: Bangalore
+
+Regnum: 179
+Date: December 11, 2005, 11:11 am
+Name1: rahul gupta
+Email1: rahul_gupta@iitb.ac.in
+Univ1: iit bobbay
+Year1: 2nd
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: h-6 room no. 237 
+iit bombay
+mumbai
+
+Regnum: 180
+Date: December 11, 2005, 10:13 pm
+Name1: NITIN K.TAJNE
+Email1: nikitin@indiatimes.com
+Univ1: DHARAMSINH DESAI UNIVERSITY NADIAD GUJRAT
+Year1: 2006
+Name2: JAIKISHAN V. SHAMDASANI
+Email2: J_SHAMDASANI@YAHOO.COM
+Univ2: DHARAMSINH DESAI UNIVERSITY
+Year2: 2006
+Name3: HARESH B. RAMPARIYA
+Email3: -
+Univ3: DHARAMSINH DESAI UNIVERSITY
+Year3: 2006
+Name4: MUFFADAL M. CONTRACTOR
+Email4: -
+Univ4: DHARAMSINH DESAI UNIVERSITY
+Year4: 2006
+Name5: GYNAYAK N. BHUTA
+Email5: -
+Univ5: DHARAMSINH DESAI UNIVERSITY
+Year5: 2006
+Address: NITIN K.TAJNE,C/O BDPL,7TH FLOOR ,SWASTIK CHAMBER,SION TROMBAY HIGHWAY,CHEMBUR,MUMBAI 400071
+
+Regnum: 181
+Date: December 12, 2005, 12:02 am
+Name1: Arjun Rathi
+Email1: arjunrathi@hotmail.com
+Univ1: Mumbai University
+Year1: 2nd Year
+Name2: Avdhut Potlidar
+Email2: arjunrathi@gmail.com
+Univ2: Mumbai University
+Year2: 2nd Year
+Name3: Anuj Rao
+Email3: dinosaur_d_in@yahoo.com
+Univ3: Mumbai University
+Year3: 3rd Year
+Name4: Arjunan Sanjayan
+Email4: arjunan.s@gmail.com
+Univ4: Mumbai University
+Year4: 1st Year
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 401-E, Sky Anchorage, Panch Marg, Versova, Mumbai-400061.
+
+Regnum: 182
+Date: December 12, 2005, 11:17 pm
+Name1: kaustubh pradeep phalak
+Email1: kau_pha@rediffmail.com
+Univ1: P.I.E.T.(C.O.E.P.) Pune university
+Year1: T. Y.B.Tech.
+Name2: Bharat Balkrushna Joshi
+Email2: kppbbj@rediffmail.com
+Univ2: Pune university
+Year2: S.E.
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: a6 kamal sanewadi aundh pune
+
+Regnum: 183
+Date: December 13, 2005, 12:53 am
+Name1: chinmay v kulkarni
+Email1: chinuvk@indiatimes.com
+Univ1: mumbai
+Year1: third
+Name2: prasad v parab
+Email2: pvpfamt@redifmail.com
+Univ2: mumbai
+Year2: third
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: c-1/1, lic colony,
+s v road, santacruz(w), mumbai 400054.
+
+Regnum: 184
+Date: December 13, 2005, 11:02 pm
+Name1: Amit Ghengare
+Email1: unstopableamit4u@yahoo.com
+Univ1: Nagpur
+Year1: 3rd
+Name2: Ashish Dhadade
+Email2: ashishdhadade@yahoo.co.in
+Univ2: Nagpur
+Year2: 3rd
+Name3: Shivam Joshi
+Email3: shivam_joshi@yahoo.co.in
+Univ3: Nagpur
+Year3: 3rd
+Name4: Neha Dhomne
+Email4: neha_dhomne17@yahoo.co.in
+Univ4: Nagpur
+Year4: 3rd
+Name5: Rashmi Raghunath
+Email5: rashmiraghunath@yahoo.com
+Univ5: Nagpur
+Year5: 3rd
+Address: 165, Friends Colony, Katol Road, Nagpur 13.
+
+Regnum: 185
+Date: December 13, 2005, 11:34 pm
+Name1: girish bhamre
+Email1: bhamre.girish@gmail.com
+Univ1: pune
+Year1: third year
+Name2: tushar kothawadet
+Email2: tushar.kothawade@gmail.com
+Univ2: pune
+Year2: third year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: d-203,coep hostel, shivaji nagar, pune-5
+
+Regnum: 186
+Date: December 13, 2005, 11:54 pm
+Name1: Aditya Saboo
+Email1: chabbu_007@yahoo.com
+Univ1: nagpur 
+Year1: 3rd
+Name2: Dhira Bhavishi
+Email2: dheera_crazy@yahoo.co.in
+Univ2: Nagpur
+Year2: 3rd
+Name3: Archana Singh
+Email3: archanasingh25@yahoo.com
+Univ3: Nagpur
+Year3: 4th
+Name4: saurabh jain
+Email4: saurabh_4ever@rediffmail.com
+Univ4: Nagpur
+Year4: 3rd
+Name5: swapnil thakre
+Email5: swapnil.thakre@rediffmail.com
+Univ5: Nagpur
+Year5: 3rd
+Address: 28, gajanan nagar, wardha rd, nagpur.
+
+Regnum: 187
+Date: December 13, 2005, 11:55 pm
+Name1: somadatta B karanjekar
+Email1: somadattak@yahoo.com
+Univ1: rtmnu
+Year1: 3
+Name2: aswinkarthik selvaraj
+Email2: ash_fami@yahoo.com
+Univ2: rtmnu
+Year2: 3
+Name3: dinesh deshmukh
+Email3: somadattak@epatra.com
+Univ3: rtmnu
+Year3: 3
+Name4: vipin shrivas
+Email4: somadatta.k@gmail.com
+Univ4: rtmnu
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 10 corporation colony na rd nagpur13 440013
+
+Regnum: 188
+Date: December 14, 2005, 1:03 am
+Name1: JOSHI PRANAV
+Email1: pranavjoshi64@yahoo.co.in
+Univ1: Maharaja Sayajiroa University, Vadodara.
+Year1: BE-3rd year
+Name2: PRADHAN PRACHI
+Email2: Pooja0723@yahoo.com
+Univ2: Maharaja Sayajiroa University, Vadodara.
+Year2: BE-3rd year
+Name3: BAROT VIVEK
+Email3: pgj685@yahoo.com
+Univ3: Maharaja Sayajiroa University, Vadodara.
+Year3: BE-3rd year
+Name4: HARPALE DIPALI
+Email4: Pooja0723@yahoo.com
+Univ4: Maharaja Sayajiroa University, Vadodara.
+Year4: BE-3rd year
+Name5: KHATRI JASMINI
+Email5: pgj685@yahoo.com
+Univ5: Maharaja Sayajiroa University, Vadodara.
+Year5: BE-3rd year
+Address: BD/36, Shri Kunj Kutir, Opp Yash Complex, Near Vuda Flats, Gotri road, vadodara-390021
+
+Regnum: 189
+Date: December 14, 2005, 2:28 am
+Name1: sarvadi imran s.
+Email1: imran_sarvadi@yahoo.co.in
+Univ1: Dharmsinh Desai University(DDU)
+Year1: 2006
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: plot no.173,jay maharaj duplex,
+college road,
+nadiad
+
+Regnum: 190
+Date: December 14, 2005, 3:11 am
+Name1: TAMHANE  PRAJAKTA
+Email1: tamhaneprajakta@yahoo.co.in
+Univ1: M.S.U., BARODA
+Year1: 3rd
+Name2: KALYANI  VIPUL
+Email2: mony_vipul@yahoo.co.in
+Univ2: M.S.U., BARODA
+Year2: 2nd
+Name3: MISTRY SUNIL
+Email3: kalyani_vipul@rediffmail.com
+Univ3: M.S.U., BARODA
+Year3: 4th
+Name4: PATEL VIKRAM
+Email4: patel_vikram2004@yahoo.co.in
+Univ4: M.S.U., BARODA
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: E\4 KAMALABA SOCIETY, HARNI-WARASIYA RING ROAD, VADODARA-390 006.
+
+Regnum: 191
+Date: December 14, 2005, 5:52 am
+Name1: Abhishek Narasimhan
+Email1: abhin279@rediffmail.com
+Univ1: Shivaji University
+Year1: Final Year Civil Engineering
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 304/66-A, Shiv Om Bldg., Sector 14, Koperkhairane, Navi Mumbai 400709
+
+Regnum: 192
+Date: December 14, 2005, 7:08 am
+Name1: mistry.azadkumar.jagdishbhai
+Email1: azad_mistry@yahoo.com
+Univ1: sardar patel university
+Year1: 2 nd year
+Name2: saurabh kumar
+Email2: azad_mistry@yahoo.com
+Univ2: sardar patel university
+Year2: 2 nd year
+Name3: ashish.hariram.mistry
+Email3: ashu_aerospace@yahoo.com
+Univ3: gujarat university
+Year3: 2 nd year
+Name4: shah.ketan.bharatbhai
+Email4: ketanmeratwal@yahoo.com
+Univ4: veer narmad south gujarat university
+Year4: 2 nd year
+Name5: gowda.bharat.narayanbhai
+Email5: azad_mistry@yahoo.com
+Univ5: veer narmad south gujarat university
+Year5: 2 nd year
+Address: 532,ramnagar society
+bardoli
+dist. surat
+state. gujarat
+
+Regnum: 193
+Date: December 14, 2005, 7:27 am
+Name1: Ketul Y.Joshi
+Email1: jokey_7581@yahoo.co.in
+Univ1: M.S.University of baroda
+Year1: B.E. (third year)
+Name2: Ketaki B.Patel
+Email2: ketki_faith@yahoo.com
+Univ2: M.S.University of baroda
+Year2: B.E. (third year)
+Name3: Jitesh D. Shah
+Email3: jjits_d_shah@yahoo.com
+Univ3: M.S.University of baroda
+Year3: B.E. (third year)
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: C/47,amin park soc.,near maninagar soc.,manjalpur, baroda, gujarat - 390011
+
+Regnum: 194
+Date: December 14, 2005, 7:44 am
+Name1: JUNNARKAR MANSI.M
+Email1: mansi_junnarkar@yahoo.com
+Univ1: M.S.UNIVERSITY
+Year1: 3rd
+Name2: MACHHI AJAYKUMAR .S
+Email2: aju4562001@yahoo.co.in
+Univ2: M.S.UNIVERSITY
+Year2: 3rd
+Name3: THAKKAR SHEFALIBEN.V
+Email3: aju4562001@yahoo.co.in
+Univ3: M.S.UNIVERSITY
+Year3: 3rd
+Name4: CHAWDA KALPANA .A 
+Email4: aju4562001@yahoo.co.in
+Univ4: M.S.UNIVERSITY
+Year4: 3rd
+Name5: DAVE JIGNASHA
+Email5: aju4562001@yahoo.co.in
+Univ5: M.S.UNIVERSITY
+Year5: 3rd
+Address: MACHHI AJAY.S.
+A-1 SAVITAPARK SOC 
+NAVAJIVAN AJWAROAD 
+BARODA 390019
+
+Regnum: 195
+Date: December 14, 2005, 7:46 am
+Name1: sanjeev kumar
+Email1: nitin_cad4@yahoo.co.in
+Univ1: Punjab State Education Board
+Year1: 3rd
+Name2: Ijack Gill
+Email2: ijack_15@yahoo.co.in
+Univ2: Punjab State Education Board
+Year2: 3rd
+Name3: Neha Behl
+Email3: neha_behl@yahoo.com
+Univ3: Punjab State Education Board
+Year3: 3rd
+Name4: Bhumika Bhardwaj
+Email4: bhumika_bhardwaj@rediffmail.com
+Univ4: Punjab State Education Board
+Year4: 3rd
+Name5: Akanksha Shorey
+Email5: akanksha_18@yahoo.com
+Univ5: Punjab State Education Board
+Year5: 3rd
+Address: # 5723/b
+ sec-38 (west)
+pin code:- 160036
+
+Regnum: 196
+Date: December 14, 2005, 9:52 am
+Name1: gaurav vijay
+Email1: gg_kota@yahoo.co.in
+Univ1: nit surat
+Year1: 2
+Name2: harish
+Email2: gv_nit@yahoo.co.in
+Univ2: nit surat
+Year2: 2
+Name3: sunil
+Email3: gg_kota@yahoo.co.in
+Univ3: nit surat
+Year3: 2
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 1038 mahvir nagar 2 kota raj
+
+Regnum: 197
+Date: December 14, 2005, 9:10 pm
+Name1: Brijesh Anand
+Email1: supernova_1983@yahoo.com
+Univ1: National Institute of Technology, Calicut
+Year1: 3rd
+Name2: Prakash Kodwani
+Email2: pikkoonitc@yahoo.co.in
+Univ2: National Institute of Technology, Calicut
+Year2: 3rd
+Name3: M.CMADAN MOHAN
+Email3: maddy_cenitc@yahoo.co.in
+Univ3: National Institute of Technology, Calicut
+Year3: 2005
+Name4: B.KARTHI
+Email4: karthi_nitc@yahoo.co.in
+Univ4: National Institute of Technology, Calicut
+Year4: 2005
+Name5: A.BALACHADRA PRATAP
+Email5: abc_pratap@yahoo.com
+Univ5: National Institute of Technology, Calicut
+Year5: 2005
+Address: ROOM NO:206
+HOSTEL-C
+NITC
+CALICUT-673601
+
+Regnum: 198
+Date: December 14, 2005, 11:30 pm
+Name1: Mukund K. Navsupe
+Email1: mk_navsupe@yahoo.co.in
+Univ1: PIET's COEP
+Year1: third year
+Name2: Chetan B. Chhindam
+Email2: chetan_chhindam@yahoo.co.in
+Univ2: PIET's COEP
+Year2: third year
+Name3: Vardhaman Bora
+Email3: vardhan_gusto@yahoo.co.in
+Univ3: PIET's COEP
+Year3: third year
+Name4: Khillare Niranjan J.
+Email4: nir_1984@rediffmail.com
+Univ4: PIET's COEP
+Year4: third year
+Name5: Yermal Laxman G.
+Email5: laxman_yermal@yahoo.co.in
+Univ5: PIET's COEP
+Year5: third year
+Address: PIET's COEP,Hostel romm no. C-209,Pune-05
+
+Regnum: 198
+Date: December 14, 2005, 11:49 pm
+Name1: poonam
+Email1: punam_ag@yahoo.co.in
+Univ1: mits,lakshmangarh
+Year1: 2005
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 19/970 ,dhabai ji ki bari ,krishna complex, pulan , udaipur,(rajasthan),pin 313001
+
+Regnum: 199
+Date: December 15, 2005, 2:28 am
+Name1: Jitendra.H.Salvi
+Email1: jitendrah_salvi@yahoo.co.in
+Univ1: M.S.University of baroda
+Year1: 2005-06
+Name2: Kemkar.Meghan.V
+Email2: mvkemkar@indiatimes.com
+Univ2: M.S.University of baroda
+Year2: 2005-06
+Name3: Contractor.Vishal.R.
+Email3: vishal_2712@yahoo.co.in
+Univ3: M.S.University of baroda
+Year3: 2005-06
+Name4: Varia.Ketan
+Email4: variak@yahoo.com
+Univ4: M.S.University of baroda
+Year4: 2005-06
+Name5: Patel.Hitesh.C
+Email5: khushi_hitesh@yahoo.co.in
+Univ5: M.S.University of baroda
+Year5: 2005-06
+Address: "Gangaram Smruti", opp. Little flower school,near Kanderao Market,vadodara-390001
+
+Regnum: 200
+Date: December 15, 2005, 5:52 am
+Name1: N.Sampath Reddy
+Email1: sampathreddy_civil@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Name2: K.S.Raghavendra
+Email2: sampathreddy_civil@yahoo.co.in
+Univ2: JNTU/GVPCOE
+Year2: 3
+Name3: M.V.Ram Kumar
+Email3: sampathreddy_civil@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 2
+Name4: M.Jagadeesh Kumar
+Email4: sampathreddy_civil@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: B.M.Sujith Kumar
+Email5: sampathreddy_civil@yahoo.co.in
+Univ5: JNTU/GVPCOE
+Year5: 2
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 201
+Date: December 15, 2005, 5:52 am
+Name1: K.S.Raghavendra
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Name2: N.Sampath Reddy
+Email2: sampathreddy_civil@yahoo.co.in
+Univ2: JNTU/GVPCOE
+Year2: 3
+Name3: M.V.Ram Kumar
+Email3: k_s_raghava@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 2
+Name4: M.Jagadish Kumar
+Email4: k_s_raghava@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: B.M.Sujith Kumar
+Email5: k_s_raghava@yahoo.co.in
+Univ5: JNTU/GVPCOE
+Year5: 2
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 202
+Date: December 15, 2005, 5:52 am
+Name1: K.S.Raghavendra
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Name2: N.Sampath Reddy
+Email2: k_s_raghava@yahoo.co.in
+Univ2: JNTU/GVPCOE
+Year2: 3
+Name3: M.V.Ram Kumar
+Email3: k_s_raghava@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 2
+Name4: M.Jagadish Kumar
+Email4: k_s_raghava@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: B.M.Sujith Kumar
+Email5: k_s_raghava@yahoo.co.in
+Univ5: JNTU/GVPCOE
+Year5: 2
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 203
+Date: December 15, 2005, 5:57 am
+Name1: M.V.Ram Kumar
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 2
+Name2: K.S.Raghavendra
+Email2: k_s_raghava@yahoo.co.in
+Univ2: JNTU/GVPCOE 
+Year2: 3
+Name3: N.Sampath Reddy
+Email3: k_s_raghava@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 3
+Name4: M.Jagadeesh Kumar
+Email4: k_s_raghava@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 204
+Date: December 15, 2005, 6:00 am
+Name1: Y.S.Bharat
+Email1: sonabharat@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Name2: A.V.S.Kalyan
+Email2: life_kalyan@yahoo.co.in
+Univ2: JNTU/GVPCOE
+Year2: 3
+Name3: G.V.Prashant
+Email3: sonabharat@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 3
+Name4: D.Kishore Kumar
+Email4: sonabharat@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: N.Ashwani Chaitanya
+Email5: sonabharat@yahoo.co.in
+Univ5: JNTU/GVPCOE
+Year5: 2
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 205
+Date: December 15, 2005, 6:02 am
+Name1: G.V.Prashant
+Email1: life_kalyan@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Name2: A.V.S.Kalyan
+Email2: life_kalyan@yahoo.co.in
+Univ2: JNTU/GVPCOE
+Year2: 3
+Name3: Y.S.Bharat
+Email3: sonabharat@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 3
+Name4: D.Kishore Kumar
+Email4: life_kalyan@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: N.Ashwani Chaitanya
+Email5: life_kalyan@yahoo.co.in
+Univ5: JNTU/GVPCOE
+Year5: 2
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 206
+Date: December 15, 2005, 6:02 am
+Name1: A.V.S.Kalyan
+Email1: life_kalyan@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Name2: Y.S.Bharat
+Email2: sonabharat@yahoo.co.in
+Univ2: JNTU/GVPCOE
+Year2: 3
+Name3: G.V.Prashant
+Email3: life_kalyan@yahoo.co.in
+Univ3: JNTU/GVPCOE
+Year3: 3
+Name4: D.Kishore Kumar
+Email4: life_kalyan@yahoo.co.in
+Univ4: JNTU/GVPCOE
+Year4: 2
+Name5: N.Ashwani Chaitanya
+Email5: life_kalyan@yahoo.co.in
+Univ5: JNTU/GVPCOE
+Year5: 2
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 207
+Date: December 15, 2005, 6:30 am
+Name1: kamlesh yadav
+Email1: kam_yadav@yahoo.co.in
+Univ1: r.g.p.v., bhopal
+Year1: 2nd
+Name2: shashank srivastava
+Email2: shank_srivastava@yahoo.co.in
+Univ2: r.g.p.v., bhopal
+Year2: 2nd
+Name3: amit kr. gupta
+Email3: amitbigb@yahoo.co.in
+Univ3: r.g.p.v., bhopal
+Year3: 2nd
+Name4: richa singh chauhan
+Email4: richa_lnct@yahoo.co.in
+Univ4: r.g.p.v.,bhopal
+Year4: 2nd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: flat no.-8, e7/64, l.l.r.s. , arera colony, bhopal-462016
+
+Regnum: 208
+Date: December 15, 2005, 6:56 am
+Name1: Chhindam Chetan Baliram
+Email1: chetan_chhindam@yahoo.co.in
+Univ1: College of Engineering Pune
+Year1: Third Year
+Name2: Navsupe Mukund Kisan
+Email2: mk_navsupe@yahoo.co.in
+Univ2: College of Engineering Pune
+Year2: Third Year
+Name3: Khillare Niranjan Janardan
+Email3: nir_1984@rediffmail.com
+Univ3: College of Engineering Pune
+Year3: Third Year
+Name4: Yermal Laxman G.
+Email4: laxman_yermal@yahoo.co.in
+Univ4: College of Engineering Pune
+Year4: Third Year
+Name5: Bora Vardhaman
+Email5: vardhan_gusto@yahoo.com
+Univ5: College of Engineering Pune
+Year5: Third Year
+Address: room no C209,Hostel,
+College of Engineering Pune,Pune,411005
+
+Regnum: 209
+Date: December 15, 2005, 7:16 am
+Name1: vibhor tayal
+Email1: vibhor15@gmail.com
+Univ1: SVNIT
+Year1: 3rd year
+Name2: soumya shukla
+Email2: soumya2047@gmail.com
+Univ2: SVNIT
+Year2: 3rd year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: d-24,ongc colony, surat gujarat
+
+Regnum: 210
+Date: December 15, 2005, 7:42 am
+Name1: Pankaj Rajput
+Email1: rajput85@gmail.com
+Univ1: IITM
+Year1: 4th year
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 216, Tapti
+IITM
+Chennai - 36
+Tamilnadu
+
+Regnum: 211
+Date: December 15, 2005, 8:06 am
+Name1: Ayan Parikh
+Email1: ayanparikh@yahoo.com
+Univ1: Sardar Patel University, Gujarat
+Year1: 3rd yr Computer Enginering
+Name2: Ravi Agrawal
+Email2: rha85@hotmail.com
+Univ2: Sardar Patel University, Gujarat
+Year2: 3rd yr Computer Enginering
+Name3: Deval Pandya
+Email3: devalpandya@hotmail.com
+Univ3: Sardar Patel University, Gujarat
+Year3: 3rd yr Mechanical Enginering
+Name4: Keval Shah
+Email4: kevalshah@hotmail.com
+Univ4: Sardar Patel University, Gujarat
+Year4: 3rd yr Mechatronics Enginering
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 12 Ramson Bung, Nr. Vidya Vikas School,
+Ellora Park,
+Baroda-390007,
+Gujarat, India
+
+Regnum: 212
+Date: December 15, 2005, 9:27 am
+Name1: A Uday Kumar
+Email1: udayiitr@gmail.com
+Univ1: IIT Roorkee
+Year1: 3rd
+Name2: Ameya Hemant Bhave
+Email2: ameyab2003@yahoo.com
+Univ2: IIT Roorkee
+Year2: 3rd
+Name3: BSudhish Kumar
+Email3: sudhi_iitr@gmail.com
+Univ3: IIT Roorkee
+Year3: 3rd
+Name4: AnujJain
+Email4: anuj_sappi@yahoo.com
+Univ4: IIT Roorkee
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: G-125 Govind Bhawan
+IIT Roorkee 247667
+
+Regnum: 213
+Date: December 15, 2005, 10:37 am
+Name1: Bimal N. Shah
+Email1: bimal86@yahoo.com
+Univ1: Nirma University
+Year1: 3rd year 
+Name2: Javeed Memon
+Email2: meet_javeed85@yahoo.com
+Univ2: Nirma University
+Year2: 3rd
+Name3: Shashin Patel
+Email3: patelshashin@yahoo.com
+Univ3: patelshahin
+Year3: 3rd Year
+Name4: Mayan Kant
+Email4: mayankant@gmail.com
+Univ4: Nirma University
+Year4: 3rd Year
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 2, Parvati nagar Bunglows,
+Nr Setu Row Houses,
+Opp. Dhananjay Tower,
+Satellite,
+Ahmedabad - 380014
+
+Regnum: 214
+Date: December 15, 2005, 10:47 am
+Name1: Malay B. Patel
+Email1: malaykrunal24@yahoo.com
+Univ1: Nirma University
+Year1: 3rd year 
+Name2: Hrushikesh J. Patel
+Email2: h_Rushikesh_patel@yahoo.com
+Univ2: Nirma University
+Year2: 3rd
+Name3: Rajan N. Shah
+Email3: rajan_shah_1986@yahoo.com
+Univ3: Nirma University
+Year3: 3rd
+Name4: Chirag Vasani
+Email4: chirag86@yahoo.com
+Univ4: Nirma University
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Plot No. 477/2,
+Sector 6/A,
+Behind Pertol Pump,
+Gandhinagar- 382006
+
+Regnum: 215
+Date: December 15, 2005, 11:08 pm
+Name1: Somil Rara
+Email1: somil_rara@mail.com
+Univ1: R.G.P.V.
+Year1: IV
+Name2: Moein Ahmed Qureshi
+Email2: measadahmed@yahoo.co.in
+Univ2: R.G.P.V.
+Year2: IV
+Name3: Rahul Parmar
+Email3: rahulparmar_30@rediffmail.com
+Univ3: R.G.P.V.
+Year3: IV
+Name4: Brajesh Gattani
+Email4: brajesh_27@yahoomail.com
+Univ4: R.G.P.V.
+Year4: IV
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 20/9, South Tukoganj,
+Near Press Center,
+INDORE
+
+Regnum: 216
+Date: December 16, 2005, 7:32 am
+Name1: AHIR KHANJAN G.
+Email1: ahirfriends@yahoo.com
+Univ1: sardar patel
+Year1: 2year b.e.(civil)
+Name2: rakesh rout
+Email2: ahirfriends@yahoo.com
+Univ2: sardar patel
+Year2: 2year b.e.(civil)
+Name3: mehul m.jain
+Email3: mehul_jain_04ce096@yahoo.co.in
+Univ3: sardar patel
+Year3: 2year b.e.(civil)
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 14/1"gh"type sector-22,gandhinagar-382022.
+
+Regnum: 217
+Date: December 16, 2005, 10:51 pm
+Name1: wadekar.sagar
+Email1: wadekar_sagar@yahoo.co.in
+Univ1: COEP,Pune
+Year1: T.Y.B.Tech.
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Block C,112,COEP,Booys hostel,Shivajinagar,Pune-5
+
+Regnum: 218
+Date: December 16, 2005, 11:07 pm
+Name1: wadekar.sagar
+Email1: wadekar_sagar@yahoo.co.in
+Univ1: COEP,Pune
+Year1: TYBTech
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Block C,112,COEP,Booys hostel,Shivajinagar,Pune-5
+
+Regnum: 219
+Date: December 17, 2005, 6:32 am
+Name1: pragnesh patel
+Email1: redrose1762000@rediffmail.com
+Univ1: gujarat university
+Year1: T.Y.
+Name2: jay patel
+Email2: jjspatel@yahoo.co.in
+Univ2: gujarat university
+Year2: T.Y.
+Name3: sunny gianchandani
+Email3: redrose1762000@yahoo.com
+Univ3: gujarat university
+Year3: TY.
+Name4: jay shah
+Email4: redrose176176176@rediffmail.com
+Univ4: gujarat university
+Year4: T.Y.
+Name5: satyen chaudhri
+Email5: jjjspatel@indiatimes.com
+Univ5: gujarat university
+Year5: T.Y.
+Address: 37-38/santram park, nr. navdeep soc., opp. patidar comp. , GIDC Road, Manjalpur , Vadodara-390011
+
+Regnum: 220
+Date: December 18, 2005, 12:26 am
+Name1: adityavikram
+Email1: adi.vik@gmail.com
+Univ1: IIT Bombay
+Year1: 3 rd
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: H-13/A-426
+
+Regnum: 221
+Date: December 18, 2005, 4:01 am
+Name1: pankaj nihalani
+Email1: pankaj_nihalani@yahoo.com
+Univ1: SVNIT
+Year1: second year
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: cs-1,hostel-3,SVNIT hostel,
+surat-395007
+
+Regnum: 222
+Date: December 18, 2005, 6:59 am
+Name1: Rahul Gupta
+Email1: rahulgupta17@gmail.com
+Univ1: Sardar Patel University
+Year1: 2nd Semester
+Name2: Harpalsinh Vansia
+Email2: smart_harpalsinh@yahoo.co.in
+Univ2: Sardar Patel University
+Year2: 2nd year
+Name3: Saud Hakim
+Email3: saudihakim@hotmail.com
+Univ3: Sardar Patel University
+Year3: 2nd Year
+Name4: Purvag Patel
+Email4: ppp_chat@hotmail.com
+Univ4: Sardar Patel University
+Year4: 2nd Year
+Name5: Hardevsinh Vansia
+Email5: smart_harpalsinh@yahoo.co.in
+Univ5: Sardar Patel University
+Year5: 2nd Year
+Address: 25, Nirman Society,
+Alkapuri,
+Vadodara 390007,
+Gujarat.
+
+Regnum: 223
+Date: December 18, 2005, 7:08 am
+Name1: Rinkal Shah
+Email1: shahrinkal@rediffmail.com
+Univ1: Sardar Patel University
+Year1: 3rd EC
+Name2: Margi Patel
+Email2: margikpatel@yahoo.com
+Univ2: Sardar Patel University
+Year2: 3rd EC
+Name3: Pranav Kothari
+Email3: pakothari@gmail.com
+Univ3: Sardar Patel University
+Year3: 3rd EC
+Name4: Nishit Shah
+Email4: nishit219@yahoo.co.in
+Univ4: Sardar Patel University
+Year4: 3rd EC
+Name5: Keta Desai
+Email5: its_keta@yahoo.co.in
+Univ5: Sardar Patel University
+Year5: 3rd IT
+Address: 5/b, trivenipark, kapadwanj-387620
+GUJ
+
+Regnum: 224
+Date: December 18, 2005, 1:45 pm
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB'dsdsd
+Year1: 3rd
+Name2: Siddharth Joshi
+Email2: mailsiddj@gmail.com
+Univ2: IITB'dsdsd
+Year2: vz
+Name3: Siddharth Joshi
+Email3: mailsiddj@gmail.com
+Univ3: IITB'dsdsd
+Year3: xvv
+Name4: Siddharth Joshi
+Email4: mailsiddj@gmail.com
+Univ4: IITB'dsdsd
+Year4: xzvxv
+Name5: Siddharth Joshi
+Email5: mailsiddj@gmail.com
+Univ5: IITB'dsdsd
+Year5: zxvv
+Address: xzvzxv'afasf
+
+Regnum: 224
+Date: December 18, 2005, 9:02 pm
+Name1: A.Kiran Tejaswi
+Email1: kiranteja@hotmail.com
+Univ1: sathyabama institute of science and technology
+Year1: 3
+Name2: anirudh v
+Email2: ani_v_07@yahoo.co.in
+Univ2: sathyabama institute of science and technology
+Year2: 3
+Name3: faraaz adil
+Email3: funcart_2002@hotmail.com
+Univ3: sathyabama institute of science and technology
+Year3: 3
+Name4: chandi preetham
+Email4: preethamkate@yahoo.co.in
+Univ4: sathyabama institute of science and technology
+Year4: 3
+Name5: dinesh t
+Email5: dinesh_553339@yahoo.co.in
+Univ5: sathyabama institute of science and technology
+Year5: 3
+Address: 5/16 rajaram mehta nagar choolaimedu cheenai
+
+Regnum: 225
+Date: December 18, 2005, 11:53 pm
+Name1: pradeep
+Email1: iitm.pradeep@gmail.com
+Univ1: iit madras
+Year1: 3rd year
+Name2: sashank
+Email2: monkeyass@rediffmail.com
+Univ2: iit bombay
+Year2: 2nd  year
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: room no 310
+hostel 10
+iit bombay
+
+Regnum: 226
+Date: December 19, 2005, 10:02 am
+Name1: Iqbal Hussain
+Email1: iqbalhussain69@gmail.com
+Univ1: Manipal Inst. of Tech
+Year1: 3
+Name2: Siddharth Sharma
+Email2: siddharthsharma@gmail.com
+Univ2: Manipal Inst,. of tech
+Year2: 3
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: #218 9 BLOCK, MIT HOSTELS MANIPAL 576119
+
+Regnum: 227
+Date: December 19, 2005, 12:38 pm
+Name1: Gaurav jaidka
+Email1: gauravjaidka06@jbims.edu
+Univ1: University of Mumbai
+Year1: Second
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Room No 80
+JS Hall University Hostel B-Road Churchgate Mumbai-400020
+
+Regnum: 228
+Date: December 19, 2005, 12:50 pm
+Name1: Paritosh Kothari
+Email1: paritosh.kothari@gmail.com
+Univ1: R.G.P.V.
+Year1: IV
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Regal House
+37/1, North Raj Mohalla,
+Indore
+
+Regnum: 229
+Date: December 20, 2005, 1:22 am
+Name1: Shyam Jade
+Email1: shyam.jade@iitb.ac.in
+Univ1: IIT Bombay
+Year1: First
+Name2: Sumedh Attarde
+Email2: sumedh_256@iitb.ac.in
+Univ2: IIT Bombay
+Year2: First
+Name3: Amod Jog
+Email3: amodjog@iitb.ac.in
+Univ3: IIT Bombay
+Year3: First
+Name4: Chinmay Nivargi
+Email4: chinmay.nivargi@gmail.com
+Univ4: IIT Bombay
+Year4: First
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: Hostel 2, Room 42,
+IIT Bombay,
+Powai, Mumbai 400 076
+
+Regnum: 230
+Date: December 20, 2005, 2:50 am
+Name1: vighnesh mehta
+Email1: vigudct_007@yahoo.com
+Univ1: mumbai
+Year1: second
+Name2: samrat shinde
+Email2: samrat shinde2004@yahoo.com
+Univ2: mumbai
+Year2: secon
+Name3: specified later
+Email3: later
+Univ3: later
+Year3: later
+Name4: later
+Email4: later
+Univ4: later
+Year4: later
+Name5: later
+Email5: later
+Univ5: later
+Year5: later
+Address: swagatam,s.v.rd,khar-(w),mumbai 400052
+
+Regnum: 231
+Date: December 20, 2005, 5:18 am
+Name1: bharat srivastava
+Email1: maximus_882003@yahoo.co.in
+Univ1: R.G.T.U
+Year1: first
+Name2: mohamad uman
+Email2: uman_aman@yahoo.co.in
+Univ2: R.G.T.U
+Year2: first
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: flat no-212,vasundhara apartments
+surendra place (near B.U)
+bhopal-24
+
+Regnum: 232
+Date: December 20, 2005, 7:58 am
+Name1: gagan bhagat
+Email1: gagan_2004lnct@yahoo.com
+Univ1: R.G.P.V
+Year1: 2nd
+Name2: nanhe kumar tiwati
+Email2: gagan_2004lnct@yahoo.com
+Univ2: R.G.P.V
+Year2: 2nd
+Name3: krishna murari
+Email3: gagan_2004lnct@yahoo.com
+Univ3: R.G.P.V
+Year3: 2nd
+Name4: ajay panday
+Email4: gagan_2004lnct@yahoo.com
+Univ4: R.G.P.V
+Year4: 2nd
+Name5: sachitanand
+Email5: gagan_2004lnct@yahoo.com
+Univ5: R.G.P.V
+Year5: 2nd
+Address: vasundhara-212,surendraplace hosangabad road bhopal M.P
+
+Regnum: 233
+Date: December 20, 2005, 8:21 am
+Name1: konduru vinaykumar
+Email1: konduru_vinay_kumar@rediffmail.com
+Univ1: pune university
+Year1: second year- mechanical engg.
+Name2: ankit lohia
+Email2: lohiaankit@yahoo.co.in
+Univ2: pune university
+Year2: second year- electronics and telecommunication engg.
+Name3: hitesh ghate
+Email3: hitesh_ghate@rediffmail.com
+Univ3: pune university
+Year3: second year - electrical engg.
+Name4: akshay shetty
+Email4: shetty_akshay27@rediffmail.com
+Univ4: pune university
+Year4: second year - mechanical engg.
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: c/o Vilas Shah,
+B-17,Kothari Blocks,
+Behind Ashwamegh Automobiles,
+Bibwewadi,
+Pune-411037
+
+Regnum: 234
+Date: December 20, 2005, 12:32 pm
+Name1: p.naresh
+Email1: naresh_mgit2002@yahoo.com
+Univ1: jntu
+Year1: 2005
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 54,padmanaba nagar,hyd28
+
+Regnum: 235
+Date: December 20, 2005, 9:34 pm
+Name1: Shah Rajan N.
+Email1: rajan_shah_1986@yahoo.com
+Univ1: NIRMA University
+Year1: 3
+Name2: Parikh Varshil S.
+Email2: vsp_85@yahoo.co.in
+Univ2: Gujarat University
+Year2: 3
+Name3: Patel Hrushikesh J.
+Email3: h_rushikesh_patel@yahoo.com
+Univ3: NIRMA
+Year3: 3
+Name4: Patel Malay 
+Email4: malaykrunal24@yahoo.com
+Univ4: NIRMA
+Year4: 3
+Name5: Vasani Chiarag B.
+Email5: v86_chirag@yahoo.co.in
+Univ5: NIRMA
+Year5: 3
+Address: B-301, Kaushambi, Mahalaxmi Char Rasta, 
+Paldi, 
+Ahmedabad - 380007.
+Gujarat
+
+Regnum: 236
+Date: December 20, 2005, 9:37 pm
+Name1: anup jangada
+Email1: ajangada@yahoo.co.in
+Univ1: nagpur
+Year1: 3rd yr
+Name2: manoj gandhi
+Email2: mayur_1857@yahoo.com
+Univ2: nagpur
+Year2: 3rd yr
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: srknec,boys hostel,a block,rno-326,gittikhadan,nagpur-13
+
+Regnum: 237
+Date: December 20, 2005, 11:27 pm
+Name1: Madhavi Fuge
+Email1: madhufuge@rediffmail.com
+Univ1: Pune University
+Year1: T.Y.B.tech
+Name2: Sandeep Halande
+Email2: sandeephalande@yahoo.com
+Univ2: Pune University
+Year2: T.Y.B.Tech
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 18,Mayur Residency,Opp shradha Idli Center,Adinathnagar,Bhosari,Pune-411039
+
+Regnum: 238
+Date: December 21, 2005, 3:20 am
+Name1: prateek jain
+Email1: jainprateek_iitd@yahoo.co.in
+Univ1: IITD
+Year1: 2nd
+Name2: siddharth gupta
+Email2: siddhartha85@yahoo.com
+Univ2: IITD
+Year2: 2nd
+Name3: kalpesh singal
+Email3: singalkalpesh@gmail.com
+Univ3: IITD
+Year3: 2nd
+Name4: ajay bhatia
+Email4: addictionz2k4@yahoo.co.in
+Univ4: IITD
+Year4: 2nd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: nc-10,shivalik hostel, IIT,hauz khas,new delhi-110016
+
+Regnum: 239
+Date: December 22, 2005, 10:13 am
+Name1: anubha agarwal
+Email1: untraversedapths@yahoo.com
+Univ1: jssate
+Year1: 4th
+Name2: gayatri pal
+Email2: gayatridoll@gmail.com
+Univ2: jssate
+Year2: 4th
+Name3: jyotsna jha
+Email3: tapmeat@yahoo.com
+Univ3: jssate
+Year3: 4th
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: jss girls hostel
+c-20/1,sector-62,noida
+
+Regnum: 240
+Date: December 22, 2005, 9:40 pm
+Name1: vaibhav rathi
+Email1: vibsrathi@gmail.com
+Univ1: MBM Engineering College, jodhpur(raj.)
+Year1: final be mech
+Name2: manish hassani
+Email2: manish_mbm_03@yahoo.com
+Univ2: MBM Engineering College, jodhpur(raj.)
+Year2: third be mech
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: c-136 knn-1, jodhpur raj.
+
+Regnum: 241
+Date: December 22, 2005, 10:35 pm
+Name1: saini satwinder
+Email1: satz_212005@yahoo.co.in,satz_21@rediffmail.com
+Univ1: msu
+Year1: prefinal
+Name2: jariwala chinmay
+Email2: chinmay_20032003@yahoo.com
+Univ2: msu
+Year2: prefinal
+Name3: gajjar romit
+Email3: romitgajjar@yahoo.co.in
+Univ3: msu
+Year3: prefinal
+Name4: patel dhaval
+Email4: pateldhaval_86@yahoo.co.in
+Univ4: msu
+Year4: prefinal
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: e/17,trimurty soc,b/h swati soc,new sama road,baroda,gujarat
+
+Regnum: 242
+Date: December 23, 2005, 1:37 am
+Name1: Ashish Sharma
+Email1: ashish_iitb2004@iitb.ac.in
+Univ1: IIT BOMBAY
+Year1: SECOND
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: B-306 H-13 IIT BOMBAY MUMBAI-76
+
+Regnum: 243
+Date: December 23, 2005, 3:05 am
+Name1: shobhit srivastava
+Email1: shobhit.techy@gmail.com
+Univ1: JSS ACADEMY OF TECHNICAL EDUCATION NOIDA UP TEC. UNIVERSITY
+Year1: 3rd
+Name2: sanjesh dubey
+Email2: sanjeshdubey@gmail.com
+Univ2: JSS ACADEMY OF TECHNICAL EDUCATION NOIDA UP TEC. UNIVERSITY
+Year2: 3rd
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: JSS BOYS HOSTEL SECTOR 58,BISHANPURA NOIDA-201301
+
+Regnum: 244
+Date: December 23, 2005, 9:21 pm
+Name1: patel hahshit
+Email1: pavan_patel19@yahoo.co.in
+Univ1: CEPT
+Year1: 2005-2006
+Name2: patel alok
+Email2: as above
+Univ2: CEPT
+Year2: 2005-2006
+Name3: chotalia mayur
+Email3: as above
+Univ3: CEPT
+Year3: 2005-2006
+Name4: ankit
+Email4: AS ABOVE
+Univ4: cept
+Year4: 2005-2006
+Name5: HARSH
+Email5: as above
+Univ5: CEPT
+Year5: 2005-2006
+Address: 203-panchtirth tower,jodhpur cross road,satellite,ahmedabad-15
+
+Regnum: 245
+Date: December 24, 2005, 12:24 am
+Name1: Manvendra Kumar
+Email1: manvendrak@gmail.com
+Univ1: Manipal Institute of Technology
+Year1: 3rd
+Name2: Ankur Sharma
+Email2: hi_ankur_here@yahoo.co.in
+Univ2: Manipal Institute of Technology
+Year2: 3rd
+Name3: Pankaj Kumar
+Email3: manvendra_k@yahoo.com
+Univ3: Manipal Institute of Technology
+Year3: 3rd
+Name4: Prasoon Kumar
+Email4: prasoon5k@gmail.com
+Univ4: Manipal Institute of Technology
+Year4: 3rd
+Name5: mohammed shuaib
+Email5: mohammed_shuaib2007@yahoo.com
+Univ5: Manipal Institute of Technology
+Year5: 3rd
+Address: Manvendra Kumar
+shree nidhi house
+eshwar nagar
+manipal-576104
+udupi,
+karnataka
+INDIA
+
+Regnum: 246
+Date: December 24, 2005, 7:16 am
+Name1: T.Madan Kumar
+Email1: madan3030@yahoo.co.in
+Univ1: Sri Venkateswara college(Anna university)
+Year1: 3
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: no 9, ramanaicken street,
+2nd floor , above nungambakkam,
+chennai 34
+
+Regnum: 247
+Date: December 24, 2005, 8:30 am
+Name1: Kunal parikh
+Email1: kunal_bsg@yahoo.com
+Univ1: sardar patel university
+Year1: 2003
+Name2: Paurav Shah
+Email2: pauravworld@yahoo.co.in
+Univ2: sardar patel university 
+Year2: 2003
+Name3: Nisarg Gandhi
+Email3: nisu_gandhi@yahoo.co.in
+Univ3: sardar patel university
+Year3: 2003
+Name4: Swarup Doshi
+Email4: swrup_doshi84
+Univ4: sardar  patel university
+Year4: 2003
+Name5: Tejas Bhatt
+Email5: tejas_bhatt@yahoo.co.in
+Univ5: sardar patel university
+Year5: 2003
+Address: 2/D avadh app.
+B/H hetvee tower
+Satellite
+Ahmedabad-15
+
+Regnum: 248
+Date: December 24, 2005, 11:18 am
+Name1: Metha Pushkar
+Email1: pushkarmetha@rediffmail.com
+Univ1: Shivaji University
+Year1: T.E
+Name2: Raghu Mutalik desai
+Email2: raghu_mdesai@yahoo.com
+Univ2: Shivaji
+Year2: T.E
+Name3: shrikanti nilangae
+Email3: write2shrikanti4@yahoo.com
+Univ3: Shivaji
+Year3: T.E
+Name4: rajesh
+Email4: pushkar_meet@REDIFFMAIL.COM
+Univ4: shivaji
+Year4: t.e
+Name5: prafful
+Email5: prafulchajjed@rediffmail.com
+Univ5: shivaji
+Year5: t.e
+Address: Devi
+
+Regnum: 249
+Date: December 25, 2005, 12:29 am
+Name1: P.Roshan Kumar
+Email1: p.roshankumar@gmail.com
+Univ1: KLCE
+Year1: 4th
+Name2: N.Rama Chandra Rao
+Email2: ramu745@gmail.com
+Univ2: PVP Siddhartha Institute of Technology
+Year2: 4th
+Name3: K.Mahendra
+Email3: kancharla.mahendra@gmail.com
+Univ3: PVP Siddhartha Institute of Technology
+Year3: 4th
+Name4: K.Dinesh
+Email4: dinesh3387@gmail.com
+Univ4: PVP Siddhartha Institute of Technology
+Year4: 4th
+Name5: N.Revanth
+Email5: revanthn@gmail.com
+Univ5: PVP Siddhartha Institute of Technology
+Year5: 4th
+Address: 106, Veterinary Colony, Ring Road, Vijaywada, Andhra Pradesh, PIN:520008
+
+Regnum: 250
+Date: December 25, 2005, 10:07 pm
+Name1: harshit patel
+Email1: hp_1904@yahoo.co.in
+Univ1: CEPT
+Year1: 2005-2006
+Name2: chirag
+Email2: as above
+Univ2: CEPT
+Year2: 2005-2006
+Name3: upasana
+Email3: as above
+Univ3: CEPT
+Year3: 2005-2006
+Name4: pavan
+Email4: as above
+Univ4: HNGU
+Year4: 2005-2006
+Name5: neel
+Email5: as above
+Univ5: CEPT
+Year5: 2005-2006
+Address: 203-panchtirth appt.,jodhpur cross road,satellite,abad-15
+
+Regnum: 251
+Date: December 26, 2005, 2:00 am
+Name1: utsav shah
+Email1: utsav_1040@yahoo.co.in
+Univ1: nirma university,gujarat
+Year1: 3rd year
+Name2: 
+Email2: 
+Univ2: 
+Year2: 
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 26,charan krupa bunglows-2
+opp. jai shefali row houses,
+satellite
+ahmedabad-15
+
+Regnum: 252
+Date: December 26, 2005, 3:17 am
+Name1: manish kumar sahu
+Email1: manish_cool01@rediffmail.com
+Univ1: uptu
+Year1: 4th
+Name2: mayank arora
+Email2: arora_mayank2002@yahoo.co.in
+Univ2: uptu
+Year2: 4th
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: b-26 b rajat vihar sector-62
+noida
+
+Regnum: 253
+Date: December 27, 2005, 6:48 am
+Name1: Amol C. Birajdar
+Email1: sainta_amol@yahoo.com
+Univ1: B.A.M.U.
+Year1: Second Year of Mechanical Engg.
+Name2: Mahesh B. Dhakne
+Email2: sainta_amol@yahoo.com
+Univ2: B.A.M.U.
+Year2: Second year of Civil Engg.
+Name3: Sandip N. Jadhav
+Email3: sainta_amol@yahoo.com
+Univ3: B.A.M.U.
+Year3: First year of Electronics Engg.
+Name4: Komal D. Rane
+Email4: sainta_amol@yahoo.com
+Univ4: B.A.M.U.
+Year4: First year of Civil Engg.
+Name5: Shantanu S. Muluk
+Email5: sainta_amol@yahoo.com
+Univ5: B.A.M.U.
+Year5: Second year of Mechanical Engg.
+Address: 42-A, AYAPPA NAGAR, SATARA PARISAR, AURANGABAD-431005.
+
+Regnum: 254
+Date: December 27, 2005, 6:48 am
+Name1: Amol C. Birajdar
+Email1: sainta_amol@yahoo.com
+Univ1: B.A.M.U.
+Year1: Second Year of Mechanical Engg.
+Name2: Mahesh B. Dhakne
+Email2: sainta_amol@yahoo.com
+Univ2: B.A.M.U.
+Year2: Second year of Civil Engg.
+Name3: Sandip N. Jadhav
+Email3: sainta_amol@yahoo.com
+Univ3: B.A.M.U.
+Year3: First year of Electronics Engg.
+Name4: Komal D. Rane
+Email4: sainta_amol@yahoo.com
+Univ4: B.A.M.U.
+Year4: First year of Civil Engg.
+Name5: Shantanu S. Muluk
+Email5: sainta_amol@yahoo.com
+Univ5: B.A.M.U.
+Year5: Second year of Mechanical Engg.
+Address: 42-A, AYAPPA NAGAR, SATARA PARISAR, AURANGABAD-431005.
+
+Regnum: 255
+Date: December 27, 2005, 7:36 am
+Name1: R.GOPA KISHORI
+Email1: rgk_kishori@yahoo.com
+Univ1: J.N.T.U
+Year1: 3rd year
+Name2: ANUSHA MITTA
+Email2: anu_mitta@yahoo.co.in
+Univ2: J.N.T.U
+Year2: 3rd year
+Name3: CH.V.DIVYA SAI
+Email3: divyscool@yahoo.co.in
+Univ3: J.N.T.U
+Year3: 3rd year
+Name4: A.MARY HIMA BINDHU
+Email4: divyachv@yahoo.com
+Univ4: J.N.T.U
+Year4: 3rd year
+Name5: K.KRANTHI KUMARI
+Email5: rgk_kishori@yahoo.com
+Univ5: J.N.T.U
+Year5: 3rd year
+Address: kalyanpuri, survey of india, Hyderabad-7
+
+Regnum: 256
+Date: December 27, 2005, 8:39 am
+Name1: Chaitaly k shethna
+Email1: chaitaly-dreams@yahoo.com
+Univ1: veer narmad sough gujarat
+Year1: B.E.4th year chemical 
+Name2: Nisha asmani
+Email2: nishaasmani@yahoo.co.in
+Univ2: veer narmad sough gujarat
+Year2: B.E.4th year chemical 
+Name3: yogesh tanna
+Email3: yogesh_dreamsin@yahoo.com
+Univ3: veer narmad sough gujarat
+Year3: B.E.4th year chemical 
+Name4: Pankaj thakor
+Email4: pankaj_thakor@yahoo.com
+Univ4: veer narmad sough gujarat
+Year4: B.E.4th year chemical 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 155 shiv om nagar soc, tadwadi, rander road, surat,gujarat
+
+Regnum: 257
+Date: December 28, 2005, 2:48 am
+Name1: Mahendra singh chauhan
+Email1: crickybubble4u@yahoo.com
+Univ1: nit rourkela
+Year1: 3
+Name2: Manish soni
+Email2: manishsoni.nitr@gmail.com
+Univ2: nit rourkela
+Year2: 3
+Name3: bhuvnesh garg
+Email3: bhupigarg1@yahoo.com
+Univ3: nit rourkela
+Year3: 3
+Name4: Rahul singh
+Email4: 10303052@nitrkl.ac.in
+Univ4: nit rourkela
+Year4: 3
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: a-5 hall-2 nit rourkela orissa
+
+Regnum: 258
+Date: December 29, 2005, 5:20 am
+Name1: tapan goswami
+Email1: tp_goswami@yahoo.com
+Univ1: m.s. uni, baroda
+Year1: 3rd year
+Name2: vijay kagara
+Email2: jitu_india_78@yahoo.com
+Univ2: m.s. uni, baroda
+Year2: 3rd year
+Name3: nilesh rana
+Email3: imnilesh2003@yahoo.co.in
+Univ3: m.s. uni, baroda
+Year3: m.e. 1st year
+Name4: kruti patel
+Email4: kruti_25384@yahoo.co.in
+Univ4: m.s. uni, baroda
+Year4: 3rd year
+Name5: shirali shah
+Email5: shirali303@yahoo.com
+Univ5: m.s. uni, baroda
+Year5: 3rd year
+Address: A/4, kailash dham society, near parivar char rasta, waghodia-dabhoi ring road, vadodara, gujarat, INDIA
+
+Regnum: 259
+Date: December 29, 2005, 6:46 am
+Name1: piyush juneja
+Email1: piyush_itbhu2004@yahoo.co.in
+Univ1: IT-BHU
+Year1: 2nd
+Name2: saurabh srivastava
+Email2: saurabh.srivastava23@rediffmail.com
+Univ2: IT-BHU
+Year2: 2nd
+Name3: shubham agarwal
+Email3: shubham_itbhu@yahoo.co.in
+Univ3: IT-BHU
+Year3: 2nd
+Name4: amit birla
+Email4: amitbirla_itbhu@yahoo.com
+Univ4: IT-BHU
+Year4: 2nd
+Name5: arvind jain
+Email5: arvindlotous@rediffmail.com
+Univ5: IT-BHU
+Year5: 2nd
+Address: room no.269,MORVI HOSTAL,IT-BHU,VARANASI,U.P.
+
+Regnum: 260
+Date: December 29, 2005, 7:12 am
+Name1: swapnil khare
+Email1: swapnil_13_khare@yahoo.co.in
+Univ1: r.g.p.v.
+Year1: final
+Name2: manish khare
+Email2: swapnil_13_khare@yahoo.co.in
+Univ2: r.g.p.v.
+Year2: final
+Name3: swapnil sharma
+Email3: swapnil_13_khare@yahoo.co.in
+Univ3: r.g.p.v.
+Year3: final
+Name4: rajendra pd rathore
+Email4: swapnil_13_khare@yahoo.co.in
+Univ4: r.g.p.v.
+Year4: final
+Name5: vikas nigam
+Email5: swapnil_13_khare@yahoo.co.in
+Univ5: r.g.p.v.
+Year5: final
+Address: 404/2c saket nagar
+BHOPAL (M.P.)
+
+Regnum: 261
+Date: December 29, 2005, 10:45 am
+Name1: Jaspreet Singh Sodhi
+Email1: jaspreet.sodhi@gmail.com
+Univ1: Guru Gobind Singh Indraprastha University
+Year1: 2003
+Name2: Abhishek Sinha
+Email2: abhishekreloaded@yahoo.co.uk
+Univ2: Guru Gobind Singh Indraprastha University
+Year2: 2003
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: A-84 Vishrantika C.G.H.S. plot 5-A,sector 3,Dwarka,New Delhi 110075
+
+Regnum: 262
+Date: December 29, 2005, 10:03 pm
+Name1: gaurav vijay
+Email1: gg_kota@yahoo.co.in
+Univ1: svnit
+Year1: 2
+Name2: sunil
+Email2: gv_nit@yahoo.co.in
+Univ2: svnit
+Year2: 2
+Name3: aditya
+Email3: gg_kota@yahoo.co.in
+Univ3: svnit
+Year3: 2
+Name4: saurabh
+Email4: gg_kota@yahoo.co.in
+Univ4: eck,kota
+Year4: 2
+Name5: abhishek
+Email5: gg_kota@yahoo.co.in
+Univ5: svnit,
+Year5: 2
+Address: as23 h8 svnit surat 
+395007
+
+Regnum: 263
+Date: December 30, 2005, 3:02 am
+Name1: rajesh kumar
+Email1: rajesh_kumar837@rediffmail.com
+Univ1: Barkatullah university, Bhopal
+Year1: 3rd
+Name2: Ankur pandit 
+Email2: ankurgenius007@rediffmail.com
+Univ2: Barkatullah university
+Year2: 3rd
+Name3: varun kumar singh
+Email3: varun_uit2005@yahoo.com
+Univ3: Barkatullah university
+Year3: 3rd
+Name4: vivek kumar
+Email4: v_vishwakarma6585@yahoo.com
+Univ4: Barkatullah university,bhopal
+Year4: 3rd
+Name5: ankur chaurasia
+Email5: ankur_uit2005@yahoo.com
+Univ5: Barkatullah university
+Year5: 3rd
+Address: rajesh kumar
+c/o k p singh chauhan.house no-66.narayan nagar.bhopal462026
+
+Regnum: 264
+Date: December 30, 2005, 5:20 am
+Name1: Deepak Kumar
+Email1: anuragsaini@hotmail.com
+Univ1: UP TECHNICAL UNIVERSITY
+Year1: Final
+Name2: Anurag Saini
+Email2: anuragsaini@hotmail.com
+Univ2: UP Technical University
+Year2: Final
+Name3: Indramani Pandey
+Email3: anuragsaini@hotmail.com
+Univ3: UP Technical University, Lucknow
+Year3: Final
+Name4: Prashant Singh
+Email4: anuragsaini@hotmail.com
+Univ4: UP Technical University
+Year4: Final
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: B-328,
+MIG FLATS
+EAST OF LONI ROAD,
+DELHI - 110093
+
+Regnum: 265
+Date: December 30, 2005, 6:46 am
+Name1: Kumar Meghav
+Email1: anuragsaini@hotmail.com
+Univ1: UP Technical University, Lucknow
+Year1: Final
+Name2: Pankaj Mishra
+Email2: anuragsaini@hotmail.com
+Univ2: UP Technical University, Lucknow
+Year2: Final
+Name3: Alok Tiwari
+Email3: anuragsaini@hotmail.com
+Univ3: UP Technical University, Lucknow
+Year3: Final
+Name4: Roshan Singh
+Email4: anuragsaini@hotmail.com
+Univ4: UP Technical University, Lucknow
+Year4: Final
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: B-328
+MIG FLATS
+EAST OF LONI ROAD
+DELHI - 110093
+
+Regnum: 266
+Date: December 30, 2005, 8:25 am
+Name1: Chandrajit Thaokar
+Email1: chandrajitthaokar@gmail.com
+Univ1: RTM Nagpur University
+Year1: 3rd
+Name2: Jincy Sunny
+Email2: js_2685@rediffmail.com
+Univ2: RTM Nagpur University
+Year2: 3rd
+Name3: Amey Shastri
+Email3: amey.shastri@gmail.com
+Univ3: RTM Nagpur University
+Year3: 3rd
+Name4: Amol Mozarkar
+Email4: amol_pb2@yahoo.co.in
+Univ4: RTM Nagpur University
+Year4: 3rd
+Name5: 
+Email5: 
+Univ5: 
+Year5: 
+Address: 71, Dongre Lay out,
+Chandrajit Thaokar
+Abhyankar Nagar,
+Nagpur
+

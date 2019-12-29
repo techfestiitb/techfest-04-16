@@ -1,0 +1,523 @@
+html, body {
+
+	min-height: 100%;
+
+	width: 100%;
+
+	height: 100%;
+
+}
+
+
+
+/*
+
+ * The "height" above is a hack for IE5+/Win.  Below we adjust
+
+ * it using the child selector to hide from IE5+/Win
+
+ */
+
+
+
+html>body, html>body #contents {
+
+	height: auto;
+
+}
+
+body { 
+
+padding:0;
+
+margin:0;
+
+text-align:center;
+
+background:#42494A; 
+
+color:#fff; 
+
+font: .7em/1.4em "Lucida Grande", "Trebuchet MS", Verdana, Arial, sans-serif;
+
+
+
+}
+
+
+
+#header {
+
+height:75px;
+background-color:#2a3135;
+margin:0;
+
+}
+
+#rightimg {
+
+margin:0;
+
+padding:0;
+
+float:right;
+
+}
+
+#leftimg {
+
+margin:0;
+
+padding:0;
+
+float:left;
+
+}
+
+
+#navtop {
+
+background-color:#42494a;
+
+position:absolute;
+
+top:0;
+
+right:80px;
+
+font-size:11px;
+
+font-family:"Lucida Grande", "Trebuchet MS", Verdana, Arial, sans-serif;
+
+color:#B5BEC0;
+
+padding:4px 10px 4px 10px;
+
+}
+
+#navtop a ,#navtop a:visited ,#navtop a:active {
+
+text-decoration:none;
+
+color:white;
+
+}
+
+#navtop a:hover {
+
+text-decoration:underline;
+
+
+
+}
+
+
+
+#menus {
+
+background-color:transparent;
+
+background-repeat:repeat-x;
+
+clear:right;
+
+height:30px;
+
+margin:0px 0px 40px 0px;
+
+padding:0;
+
+background-position:right;
+
+font:11px  "Lucida Grande", "Trebuchet MS",Verdana, Arial, sans-serif;
+
+background-image:url(../img/menu2.gif);
+
+
+
+}
+
+
+
+#menus h2 { display: none; visibility: hidden; }
+
+#menus ul {
+
+	padding: 0;
+
+	margin: 0px 0px 0px 3em;
+
+	list-style-type: none;
+
+	
+
+	
+
+}
+
+
+
+#menus li {   float:left; margin:0; padding:0; }
+
+#menus li.active {  }
+
+#menus li a { display:block;  color: #efefef;  text-decoration:none; border-right:1px solid #292c31; }
+
+#menus li a:hover, #menu li.active {  color:#ffd700; background-color:#313839;}
+
+#menus li a:active { background-color:#313839;  }
+#sidebar {
+
+float: left;
+
+clear: left;
+
+border:0px;
+
+width:18.3em;
+
+}
+
+
+
+#box2 {
+
+margin:0px 0px 20px 3.4em;
+
+padding:0;
+
+
+
+}
+
+#box1 ul {
+
+margin:0;
+
+padding:0px 0px 10px 0px;
+
+list-style-type:none;
+
+background-color:#394142;
+
+}
+
+#box1 li {
+
+display:block;
+
+padding:2px 2px 2px 8px;
+
+width:14em;
+
+}
+
+#box2 ul li#title {
+
+color:#ffffff;
+
+}
+
+#box2 ul {
+
+margin:0;
+
+padding:0px 0px 10px 0px;
+
+list-style-type:none;
+
+background-color:#394142;
+
+}
+
+#box2 li {
+
+display:block;
+
+padding:2px 2px 2px 8px;
+
+width:14em;
+
+color:#B5BEC0;
+
+}
+
+#title {
+
+background-color:#313839;
+
+height:20px;
+
+line-height:20px;
+
+margin:0px 0px 10px 0px;
+
+color:#FFFFFF;
+
+font-weight:bold;
+
+}
+
+
+
+#box2 li#newsletter {
+
+background-color:#394142;
+
+padding:2px 2px 2px 2px;
+
+vertical-align:middle;
+
+}
+
+#newsletter input#news_email {
+
+	border: 1px solid black;
+
+	color:black;
+
+	font-size:12px;
+
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+#menuitem {
+
+list-style-type:none;
+
+display:block;
+
+width:14em;
+
+text-align:left;
+
+color:#FFFFFF;
+
+}
+
+#menuitem a {
+
+text-decoration:none;
+
+color:#FFFFFF;
+
+}
+
+
+
+#footer {
+
+background-color:#2a3135;
+
+height:50px;
+
+width:100%;
+
+margin:0;
+
+
+
+left:0px;
+
+}
+
+
+
+#content {
+
+color: white;
+
+text-align: justify;
+
+line-height: 1.7em;
+
+margin:0px 0px 0px 24em;
+
+padding:0px 20px 20px 0px;
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+font-size:8pt;
+
+}
+
+#content h1 {
+
+color:#B5BEC0;
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+
+font-size:14px;
+
+line-height:22px;
+
+font-weight:bold;
+
+display:block;
+
+border-bottom: 2px solid #292c31;
+
+vertical-align:top;
+
+margin:0px;
+
+}
+
+#content h3 {
+
+color:white;
+
+font-size:11px;
+
+font-weight:bold;
+
+}
+#content h2 {
+color:white;
+
+font-size:10px;
+
+font-weight:bold;
+
+
+}
+#content table {
+
+padding:8px 3px 8px 3px;
+
+margin:8px 0px 8px 0px;
+
+border:0;
+
+}
+
+#content a {
+
+color:#B5BEC0;
+
+}
+#content a#nou {
+color:#B5BEC0;
+text-decoration:none;
+}
+#content a.lookback {
+
+color:white;
+
+font-size:12px;
+
+font-weight:bold;
+
+text-decoration:none;
+
+}
+
+#content img.sponsors
+
+ {
+
+	margin: 5mm 3px 5mm 3px;
+
+	font: 11px verdana;
+
+	color:#ffffff;
+
+ }	
+#contact {
+color:white;
+font-size:10px;
+font-weight:bold;
+margin:20px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+#footer {
+color: #7B858A;
+
+background-color:#313839;
+
+margin: 0;
+
+padding: .5em 0mm 1ex 0em;
+
+clear: both;
+
+width:100%;
+
+height:2.2em;
+
+}
+
+
+
+#footer .right {
+
+line-height: 1.1em;
+
+float: right;
+
+clear: right;
+
+margin:0px 1em 0px 2px;
+
+}
+
+#footer .left {
+
+line-height: 2.2em;
+float: left;
+clear: left;
+margin:0px 2px 0px 1em;
+
+}
+
+#footer .center {
+
+text-align:center;
+line-height: 2.2em;
+
+}
+
+
+
+#footer a {
+
+color:#FFffff;
+background-color: transparent;
+text-decoration: none;
+}
+
+#footer a:hover {
+
+text-decoration:underline;
+
+}
+
+
+
+
+
+
+
+	
+ 
+ 
+
+  
+.ypcontainer {z-index:500;visibility:hidden;position:relative}
+.ypcontents {position: relative}
+.menu a{color:#fff;text-decoration:none;}
+.menu a:hover{text-decoration:underline;color:#84BB45}
+.menu a:visited {color: #ccc;text-decoration: none}
+.menu{background:#000000; border-left:dashed 0px #ffffff}
+.islide{margin:3px 11px;padding:0 0 2px 0;border-bottom:dashed 1px #848284;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#84BB45}
+.dizz{display:none}
+option{z-index:100}
+td{color:#333}
+

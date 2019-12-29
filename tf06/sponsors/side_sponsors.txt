@@ -1,0 +1,20 @@
+ <!-- ##### Side Bar ##### -->
+
+    <div id="sidebar">
+    <!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Sponsors</li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2006.php"> &nbsp;&nbsp;Sponsors 2006</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2005.php"> &nbsp;&nbsp;Sponsors 2005</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2004.php"> &nbsp;&nbsp;Sponsors 2004</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2003.php"> &nbsp;&nbsp;Sponsors 2003</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2002.php"> &nbsp;&nbsp;Sponsors 2002</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2001.php"> &nbsp;&nbsp;Sponsors 2001</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2000.php"> &nbsp;&nbsp;Sponsors 2000</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./1999.php"> &nbsp;&nbsp;Sponsors 1999</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./1998.php"> &nbsp;&nbsp;Sponsors 1998</a></li>
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

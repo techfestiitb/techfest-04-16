@@ -1,0 +1,6 @@
+AuthUserFile /home/techfestiitb/.htpasswd
+AuthGroupFile /dev/null
+AuthName EnterPassword
+AuthType Basic
+
+require user connecting

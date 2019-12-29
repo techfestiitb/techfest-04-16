@@ -1,0 +1,23 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">SciTech</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/index.php#intro"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/index.php#select"> &nbsp;&nbsp;Selection Procedure</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/scitech_intra.php"> &nbsp;&nbsp;SciTech INTRA</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/index.php#final"> &nbsp;&nbsp;Grand Finale</a></li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/index.php#imp"> &nbsp;&nbsp;Important Dates</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/faq.php"> &nbsp;&nbsp;FAQs</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/sample_questions.zip"> &nbsp;&nbsp;Sample Questions</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/scitech_form.zip"> &nbsp;&nbsp;Download Form</a></li>
+
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

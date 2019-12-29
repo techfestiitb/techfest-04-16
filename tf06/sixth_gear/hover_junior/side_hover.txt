@@ -1,0 +1,23 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Hover Junior</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#game"> &nbsp;&nbsp;Game</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/arena.php"> &nbsp;&nbsp;Arena</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#rules"> &nbsp;&nbsp;Rules of the game</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#mspecs"> &nbsp;&nbsp;Machine Specs.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>				
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#team"> &nbsp;&nbsp;Team</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/index.php#imp"> &nbsp;&nbsp;Important links</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/hover_junior.zip"> &nbsp;&nbsp;Download Pdf</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/register/hover_junior.php"> &nbsp;&nbsp;Register</a></li>
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

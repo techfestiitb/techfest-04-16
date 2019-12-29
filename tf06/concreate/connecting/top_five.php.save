@@ -1,0 +1,36 @@
+<?php
+function echo_content($str)
+{
+	$l=fopen($str,"r");
+	$arr=file($str);
+	$num=count($arr);
+	for($i=0;$i<$num;$i++)
+	{
+		echo $arr[$i];
+	}
+	return;
+}
+
+echo_content("header.txt");
+echo_content("side_bridged.txt");
+echo_content("side_update.txt");
+?>
+<div id="content">
+<a name="prob"></a>
+<h1 id="toptext">Connecting... - Top 5 designs</h1> 
+<br>
+<p>Here are the top 5 scores latest by <strong>16th Dec. 2005</strong>.</p>
+<table width="90%" border="0" cellpadding="10">
+<tr><td width="30%">CB06130#1 </td><td>$167,418.91</td></tr>
+<tr><td width="30%">CB06111#3</td><td>$167,790.40</td></tr>
+<tr><td width="30%">CB06129#1</td><td>$169,299.92</td></tr>
+<tr><td width="30%">CB06109#3</td><td>$171,077.39</td></tr>
+<tr><td width="30%">CB06109#2</td><td>$173,870.73</td></tr>
+
+</table>
+<br><br><br><br><br><br><br>
+</div>
+  
+<?
+echo_content("footer.txt");
+?>

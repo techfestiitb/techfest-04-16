@@ -1,0 +1,16 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">e-Rustique</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/agrobot/index.php"> &nbsp;&nbsp;AgroBot</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php"> &nbsp;&nbsp;Innovision</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/nif/index.php"> &nbsp;&nbsp;NIF Exhibition</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/simple_life/index.php"> &nbsp;&nbsp;The Simple Life v1.1</a></li>
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

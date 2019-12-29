@@ -1,0 +1,4535 @@
+Regnum: 101
+Date: December 11, 2005, 8:28 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3rd
+Address: asfasfs
+
+Regnum: 102
+Date: December 11, 2005, 9:46 am
+Name1: Aditya Vikram
+Email1: adityavikram@iitb.ac.in
+Univ1: IITBombay
+Year1: 3rd
+Address: A-426,H-13,IITBombay,Powai mumbai
+
+Regnum: 103
+Date: December 11, 2005, 1:53 pm
+Name1: sumit kumar
+Email1: sumit_kumar@iitb.ac.in
+Univ1: IIT BOMBAY
+Year1: 2nd
+Address: Room No.167,hostel No.8,IIT Bombay,powai,mumbai
+
+Regnum: 104
+Date: December 11, 2005, 9:07 pm
+Name1: Braj Sundar Das
+Email1: braj_bul@yahoo.co.in
+Univ1: NIT Rourkela
+Year1: 2nd
+Address: NIT rourkela, rourkela, orissa
+
+Regnum: 105
+Date: December 11, 2005, 9:12 pm
+Name1: Ajay B H
+Email1: bh.ajay@gmail.com
+Univ1: NITK Surathkal
+Year1: 3
+Address: No 38, Devarakere Extension, Parallel to 3A main of ISRO layout, Bikasipura, Bangalore-560078
+
+Regnum: 106
+Date: December 11, 2005, 9:37 pm
+Name1: snehal
+Email1: snehal_789@iitb.ac.in
+Univ1: iitb
+Year1: first
+Address: c-4,darbari
+anushakti nagar
+mumbai-400094
+
+Regnum: 107
+Date: December 11, 2005, 9:40 pm
+Name1: snehal
+Email1: snehal_789@yahoo.co.in
+Univ1: iitb
+Year1: first
+Address: c-4darbari
+anushakti nagar
+mumbai-400094
+
+Regnum: 108
+Date: December 12, 2005, 4:26 am
+Name1: Varun Gupta
+Email1: varun.2k4@gmail.com
+Univ1: Uttar Pradesh Technical University
+Year1: Third
+Address: D - 63, Meenakshi Puram,
+Mawana Road,
+Meerut - 250001
+
+Regnum: 109
+Date: December 12, 2005, 4:39 am
+Name1: PALLAV YADU
+Email1: pallavyadu_848@rediffmail.com
+Univ1: RGPV, BHOPAL
+Year1: 2nd
+Address: A-205, SHANTI ENCLAVE, CHUNABHATTI, WALMI ROAD, BHOPAL
+
+Regnum: 110
+Date: December 12, 2005, 4:46 am
+Name1: Abhijit Gupta
+Email1: abhijitg@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 2nd
+Address: H7/147,IITB.
+
+Regnum: 111
+Date: December 12, 2005, 6:42 am
+Name1: Badari Narayana .S
+Email1: badri_cns@hotmail.com
+Univ1: National Institute of Technology,Surathkal,Karnataka
+Year1: 2005
+Address: #884/2,14th cross, Mahalakshmi layout,
+Bangalore-560086
+
+Regnum: 112
+Date: December 12, 2005, 7:36 am
+Name1: N.C.V.K.Srimannarayana
+Email1: srman.civil@gmail.com
+Univ1: chaitanya bharathi institute of technology /affiliated to ou 
+Year1: 3rd year B.E.Civil
+Address: plot no 65 ,h-no 4-12-34(636),vanasthali puram,kamala nagar ,near sai baba temple,
+Hyderabad 500070
+
+Regnum: 113
+Date: December 12, 2005, 9:10 am
+Name1: debangshee das
+Email1: debujan25@yahoo.com
+Univ1: NIT Surat
+Year1: Second
+Address: 301,Suramya aptt, B/H Lakeview Garden,Piplod, Surat-395007
+
+Regnum: 114
+Date: December 12, 2005, 9:21 am
+Name1: MAYAN KANT
+Email1: mayan_kant@yahoo.com
+Univ1: NIRMA UNIVERSIYT, AHMEDABAD
+Year1: 3
+Address: D-8 ONGC TOWNSHIP, 
+NEW MAGDALLA,
+DUMAS ROAD,
+SURAT-394518
+(GUJARAT)
+
+Regnum: 115
+Date: December 12, 2005, 11:00 pm
+Name1: nagaraj.hegde
+Email1: nagarajv_hegde@yahoo.co.in
+Univ1: vtu
+Year1: 2nd year
+Address: rvce,bangalore
+
+Regnum: 116
+Date: December 12, 2005, 11:05 pm
+Name1: sahana.v
+Email1: rvcestudent@yahoo.com
+Univ1: vtu
+Year1: 2nd yr
+Address: rvce,bangalore
+
+Regnum: 117
+Date: December 12, 2005, 11:17 pm
+Name1: A.Akhilesh Gupta
+Email1: akhil20187@gmail.com
+Univ1: Osmania University
+Year1: 2005
+Address: c-3,g/f,sri sai raj apts., IAL Colony, Trimulgheery,Sec-bad-500015
+
+
+Regnum: 118
+Date: December 12, 2005, 11:21 pm
+Name1: B.Arun kumar
+Email1: arun_kumar8626@yahoo.com
+Univ1: Osmania University
+Year1: 2005
+Address: H.No 18-8-400,
+Narahari Nagar,
+Uppuguda,
+Hyderabad-500053
+
+
+Regnum: 119
+Date: December 13, 2005, 1:19 am
+Name1: chimay v kulkarni
+Email1: chinuvk@indiatimes.com
+Univ1: mumbai
+Year1: third
+Address: c-1/1, lic colony,
+s v road, santacruz (w), mumbai 400054.
+
+Regnum: 120
+Date: December 13, 2005, 1:45 am
+Name1: Nitish Jha
+Email1: nitish_shady@sify.com
+Univ1: MDU
+Year1: 1st year
+Address: DAVCET,kanina,dist.-Mohindergarh
+
+Regnum: 121
+Date: December 13, 2005, 2:14 am
+Name1: Anshul Agarwal
+Email1: checkanshulishere@yahoo.com
+Univ1: MNNIT,Allahabad
+Year1: 2nd
+Address: 187 Patel Hostel
+Allahabad
+
+Regnum: 122
+Date: December 13, 2005, 4:50 am
+Name1: kunal kashyav
+Email1: tejashwi_iiita@yahoo.co.in
+Univ1: IIIT ALLAHABAD
+Year1: 2ND
+Address: room no. 601
+new boys hostel
+IIIT ALLD
+JHALWA,PEOPLEGAOUN
+ IIIT ALALAHABAD
+  U.P
+
+Regnum: 123
+Date: December 13, 2005, 8:34 am
+Name1: Purvag Patel
+Email1: ppp_chat@hotmail.com
+Univ1: Sardar Patel University
+Year1: 2nd Year
+Address: 25, Nirman Society,
+Alkapuri,
+Vadodara 390007.
+Gujarat.
+India.
+
+Regnum: 124
+Date: December 13, 2005, 8:37 am
+Name1: Harpalsinh Vansia
+Email1: ppp_chat@hotmail.com
+Univ1: Sardar Patel University
+Year1: 2nd Year
+Address: 25, nirman society,
+vadodara 390007.
+gujarat.
+
+Regnum: 125
+Date: December 13, 2005, 10:51 am
+Name1: Mandar S. Harshe
+Email1: mandarharshe@gmail.com
+Univ1: Pune University
+Year1: Third Year - (Mech)
+Address: 7,CIVCON Residency, 
+Lane 3B, 28 Kalyani Nagar,
+Pune 411006
+
+Regnum: 126
+Date: December 13, 2005, 10:53 am
+Name1: Sandeep Vaidya
+Email1: vaidyasp@rediffmail.com
+Univ1: LDCE(Gujarat University)
+Year1: 3rd
+Address: G-102, Rudra Square, Judges bunglows cr. rd., ahmedabad -380015
+
+Regnum: 127
+Date: December 13, 2005, 6:32 pm
+Name1: Rahul Gupta
+Email1: rahulgupta17@hotmail.com
+Univ1: S.P.University
+Year1: Second Year
+Address: 301 Ashwamegh-III, B-3 Tower, Mujhmahuda road, Akota, Vadodara - 390020.      Gujarat.
+
+Regnum: 128
+Date: December 13, 2005, 6:35 pm
+Name1: Saud Hakim
+Email1: saudhakim@gmail.com
+Univ1: S.P.University
+Year1: Second Year
+Address: Near Hill Memorial School, Fatehgunj,
+Vadodara - 390002
+Gujarat.
+
+Regnum: 129
+Date: December 13, 2005, 11:41 pm
+Name1: girish bhamre
+Email1: bhamre.girish@gmail.com
+Univ1: pune
+Year1: third year
+Address: d-203,coep hostel, shivajinagar, pune-5
+
+Regnum: 130
+Date: December 13, 2005, 11:46 pm
+Name1: tushar kothawade
+Email1: tushar.kothawade@gmail.com
+Univ1: pune
+Year1: third year
+Address: d-203,coep hostel,shivajinagar,pune-5
+
+
+Regnum: 131
+Date: December 14, 2005, 1:41 am
+Name1: BEDAGKAR VAIBHAV SATISH
+Email1: vabcomp_154@rediffmail.com
+Univ1: Pune
+Year1: T.Y. B-Tech(CIVIL)
+Address: 'Shreepad', plot no. 63, Sr. no. 39, Matenagar, Vadgaon Sheri, Pune-411014.
+
+Regnum: 131
+Date: December 14, 2005, 2:18 am
+Name1: BARELIWALA KAMLESH K.
+Email1: kamleshgotu@rediffmail.com
+Univ1: M.S.U.,FACULTY OF TECH. & ENGG., BARODA
+Year1: 2005
+Address: SHREE RAM NIVAS, NEAR GOVT. PRESS, ANANDPURA, KOTHI,RAOPURA,
+BARODA-390001 ,
+GUJRAT
+
+Regnum: 132
+Date: December 14, 2005, 2:30 am
+Name1: sudhir rssk
+Email1: sudhirrssk@yahoo.com
+Univ1: osmania university
+Year1: be 2/4
+Address: plot no 30, saipuri bank colony,
+malkajgiri
+hyd -47
+
+Regnum: 133
+Date: December 14, 2005, 3:05 am
+Name1: nagesh
+Email1: shete_nagesh@yahoo.co.in
+Univ1: Dr. BATU
+Year1: 2006
+Address:  shete nagesh basaveshwar
+at post: kond
+ta& dist : 
+osmanabad
+maharashtra
+
+Regnum: 134
+Date: December 14, 2005, 3:05 am
+Name1: nagesh
+Email1: shete_nagesh@yahoo.co.in
+Univ1: Dr. BATU
+Year1: 2006
+Address:  shete nagesh basaveshwar
+at post: kond
+ta& dist : 
+osmanabad
+maharashtra
+
+Regnum: 135
+Date: December 14, 2005, 5:56 am
+Name1: sanjay gupta
+Email1: hari_sanjay@hotmail.com
+Univ1: svnit surat
+Year1: b tech 1st
+Address: bg-2,hostel-1,bhabha bhawan,svnit surat
+
+
+Regnum: 136
+Date: December 14, 2005, 6:21 am
+Name1: VAIBHAV SATISH BEDAGKAR
+Email1: vabcomp_154@rediffmail.com
+Univ1: pune
+Year1: T.Y.B-TECH(CIVIL)
+Address: 'Sreepad', Plot no.63, Sr. No. 39, Matenagar, Vadgaon Sheri, Pune-411014.
+
+Regnum: 136
+Date: December 14, 2005, 7:43 am
+Name1: Sudeep Dutt
+Email1: sudeepdutt@gmail.com
+Univ1: RGUIT
+Year1: 2
+Address: G3/399 Gulmohar Colony
+Bhopal - 462016
+
+Regnum: 137
+Date: December 14, 2005, 9:06 am
+Name1: Ashish Gupta
+Email1: ashish82ashish@yahoo.com
+Univ1: MSU Baroda
+Year1: 4th year
+Address: 301/302 Ashwamegh III,B3 tower,Akota-mujhmahuda road,Vadodara
+
+Regnum: 138
+Date: December 14, 2005, 9:08 am
+Name1: Shreyas Narasimhan
+Email1: shreyas.mn@gmail.com
+Univ1: vit
+Year1: third
+Address: kandivili mumbai
+
+Regnum: 139
+Date: December 14, 2005, 9:37 am
+Name1: c krishna das
+Email1: das965_2003@yahoo.com
+Univ1: NIT WARANGAL
+Year1: 3rd year
+Address: 6-2-10,Gokhale Hall,NIT Hostels,Warangal 506004
+
+Regnum: 140
+Date: December 14, 2005, 11:13 pm
+Name1: Prayag
+Email1: prayag_pathak@hotmail.com
+Univ1: Birla Vishwakarma Mahavidyalaya
+Year1: 2nd year
+Address: 51, Udyognagar society, Near Ayurvedic college, Waghodia road, Vadodara - 390019
+
+Regnum: 141
+Date: December 15, 2005, 12:28 am
+Name1: Pankaj Sharma
+Email1: er.pankajsharma@sifymail.com
+Univ1: JIIT
+Year1: Second
+Address: C-530,Sec-19,Noida-201301
+Distt.:G.B.Nagar
+Uttar Pradesh
+
+Regnum: 142
+Date: December 15, 2005, 12:42 am
+Name1: Y.Sanjay surya
+Email1: sanjaysurya@gmail.com
+Univ1: University of Petroleum and Energy Studies
+Year1: 2 nd year
+Address: Hno : 43/4, vivek vihar,pocket-2,Dehradun - 248001.
+Uttaranchal.
+
+
+
+Regnum: 143
+Date: December 15, 2005, 1:34 am
+Name1: umesh pandey
+Email1: umeshpandey@aero.iitb.ac.in
+Univ1: IIT Bombay
+Year1: M.Tech (!st year)
+Address: b.s.e.s. staff qrtrs,third floor,near bhabha hospital,kurla(w),mumbai-400070
+
+Regnum: 144
+Date: December 15, 2005, 1:58 am
+Name1: amit kumar
+Email1: spk2amit@yahoo.co.in
+Univ1: lnct
+Year1:  final, 
+Address: a-79,sonagiri raisen raod bhopal 21
+
+Regnum: 145
+Date: December 15, 2005, 4:57 am
+Name1: abhishek c pawar
+Email1: p_abhi7@yahoo.com
+Univ1: mumbai university
+Year1: 2005-06
+Address: 461 bhaudaji rd,durlabhniwas roomno20 matunga mumbai 400019
+
+Regnum: 146
+Date: December 15, 2005, 5:18 am
+Name1: Y.Ramesh chandra
+Email1: sanjay_upes@yahoo.co.in
+Univ1: University of Petroleum and Energy Studies
+Year1: 2 nd year
+Address: Hno : 43/4,vivek vihar,pocket-2,Dehradun-248001,
+Uttaranchal.
+
+Regnum: 147
+Date: December 15, 2005, 5:37 am
+Name1: K.S.Raghavendra
+Email1: k_s_raghava@yahoo.co.in
+Univ1: JNTU/GVPCOE
+Year1: 3
+Address: Plot No.384, Sector III, Visalakshinagar, Visakhapatnam-43
+
+Regnum: 148
+Date: December 15, 2005, 7:18 am
+Name1: vibhor tayal
+Email1: vibhor15@gmail.com
+Univ1: SVNIT
+Year1: 3rd year
+Address: D-24, ongc colony, surat, gujarat
+
+Regnum: 149
+Date: December 15, 2005, 8:25 am
+Name1: Mukund Madhav
+Email1: mmv1301@gmail.com
+Univ1: Kendriya Vidyala, IIT Powai
+Year1: Ist year, Junior College
+Address: B-60, Bldg#15, Lakeside, IITB, Powai, Mumbai - 400076
+
+Regnum: 150
+Date: December 15, 2005, 8:31 am
+Name1: Mukund Madhav
+Email1: mmv1301@gmail.com
+Univ1: Kendriya Vidyalaya, IIT Powai
+Year1: 1st year, Junior College
+Address: B-60, Bldg#15, Lakeside, IITB, POwai, Mumbai - 400076
+
+Regnum: 151
+Date: December 15, 2005, 9:29 am
+Name1: A.Vamsi Krishna
+Email1: vamsi.avk@gmail.com
+Univ1: SVNIT, Surat
+Year1: IIIrd
+Address: D-2/8, Nand Niketan
+Essar Township
+Hazira - 394270
+Surat, Gujarat.
+
+Regnum: 152
+Date: December 15, 2005, 9:49 am
+Name1: A Uday Kumar
+Email1: udayiitr@gmail.com
+Univ1: IIT Roorkee
+Year1: 3rd
+Address: g 125 govind bhawan iit roorkee 247667
+
+Regnum: 153
+Date: December 15, 2005, 9:59 am
+Name1: bibin oommen
+Email1: bibin86@gmail.com
+Univ1: National Institute of Technology Calicut
+Year1: 2nd year
+Address: Bibin Oommen
+B hostel RN 309
+National Institute of Technology
+NITC PO 673601 
+National Institute of Technology calicut
+
+Regnum: 154
+Date: December 15, 2005, 9:15 pm
+Name1: Harpalsinh D. Vansia
+Email1: smart_harpalsinh@yahoo.co.in
+Univ1: Sardar Patel University
+Year1: 2nd year.
+Address: D-180, IFCO Colony,
+Gandhidham,
+Kutchh,
+Gujarat.
+
+Regnum: 155
+Date: December 15, 2005, 9:16 pm
+Name1: Purvag Patel
+Email1: ppp_chat@yahoo.com
+Univ1: Sardar Patel University
+Year1: 2nd year.
+Address: 25, Nirman Society,
+Alkapuri,  
+Vadodara  390007.
+Gujarat.
+
+Regnum: 156
+Date: December 15, 2005, 11:41 pm
+Name1: paresh bhandari
+Email1: paresh_m_bhandari@yahoo.com
+Univ1: N.I.T.K
+Year1: 3rd year
+Address: room no.106 vii block N.I.T.K.S hostels surathkal 575025
+
+Regnum: 157
+Date: December 16, 2005, 5:06 am
+Name1: VAIBHAV SATISH BEDAGKAR
+Email1: vabcomp_154@rediffmail.com
+Univ1: PUNE
+Year1: T.Y. B-TECH
+Address: SREEPAD PLOT NO 63 SR NO 39 MATENAGAR VADGAON SHERI PUNE 411014
+
+Regnum: 158
+Date: December 16, 2005, 8:59 am
+Name1: Venkata Ram kumar Mutyam
+Email1: ramkumar_mutyam@yahoo.co.in
+Univ1: jntu
+Year1: 2005
+Address: 45-2-60/16/4,Rama chandra nagar,Akkayyapalem,Visakhapatnam-530016
+
+Regnum: 159
+Date: December 16, 2005, 10:02 am
+Name1: Austin Vinoth
+Email1: austinvinoth4u@yahoo.co.in
+Univ1: Karunya Deemed University
+Year1: 3rd year Production
+Address: Room-E160,Jerry Manuel Block,karunya nagar,Coimbatore-641114.
+
+Regnum: 160
+Date: December 16, 2005, 10:08 am
+Name1: Vivek N Prakash
+Email1: future_billgates@yahoo.com
+Univ1: R. V. College of Engineering, Bangalore  (VTU)
+Year1: 3
+Address: #81 2 cross 6 main
+J.P.Nagar 3 phase
+Bangalore - 560078
+
+Regnum: 161
+Date: December 16, 2005, 12:08 pm
+Name1: nitant harani
+Email1: nitantharani@gmail.com
+Univ1: pune 
+Year1: T E Mech
+Address: 2nd floor,
+213, M. G. Road,
+Pune-411001
+
+Regnum: 162
+Date: December 16, 2005, 9:51 pm
+Name1: Akshay Vij
+Email1: akshay_vij@gpo.iitb.ac.in
+Univ1: IIT Powai
+Year1: Second
+Address: B-320 Hostel-13 IIT Powai
+Mumbai-400076
+
+Regnum: 163
+Date: December 16, 2005, 10:44 pm
+Name1: aman
+Email1: aman_pruthi@iitb.ac.in
+Univ1: iitb
+Year1: 2nd
+Address: h8/room-253, iit powai,
+mumbai 400076
+
+Regnum: 164
+Date: December 16, 2005, 11:04 pm
+Name1: sagar.wadekar
+Email1: wadekar_sagar@yahoo.co.in
+Univ1: COEP.Pune
+Year1: TYBTech
+Address: Block C,112,COEP,Booys hostel,Shivajinagar,Pune-5
+
+Regnum: 165
+Date: December 17, 2005, 3:29 am
+Name1: sravan kumar
+Email1: sravan_v_kumar@yahoo.com
+Univ1: osmania
+Year1: 2
+Address: LIG 331,MADHUBAN COLONY,KATTEDAN,HYDERABAD-77,ANDHRA PRADESH
+
+Regnum: 166
+Date: December 17, 2005, 5:16 am
+Name1: Pandey Ashish Kumar
+Email1: ashish05@gmail.com
+Univ1: National Institute of Technology Karnataka, Surathkal
+Year1: Second
+Address: Room No 89, Third hostel block, NITK Hostels, National Institute of Technology Karnataka, Surathkal,PO Srinivasnagar, mangalore 575025,DK, Karnataka.
+
+Regnum: 167
+Date: December 17, 2005, 6:40 am
+Name1: aditya chavada
+Email1: adityachavada@yahoo.com
+Univ1: SVIT(Gujarat universiy)
+Year1: Third year
+Address: 137 gulab vatika soc,b/h rajvee tower,old padara road,baroda-20
+
+Regnum: 168
+Date: December 17, 2005, 8:49 am
+Name1: sravan
+Email1: sravan_v_kumar@yahoo.com
+Univ1: osmania 
+Year1: 2/4
+Address: LIG 331,Madhuban colony,Kattedan,Hyd-77,Andhra Pradesh.
+
+Regnum: 169
+Date: December 17, 2005, 9:01 am
+Name1: sravan kumar
+Email1: sravan_v_kumar@yahoo.com
+Univ1: osmania
+Year1: 2
+Address: lig 331 , madhuban colony,kattedan,hyd-77,andra pradesh
+
+Regnum: 170
+Date: December 17, 2005, 9:42 am
+Name1: Harsh Gupta
+Email1: harshkrg@gmail.com
+Univ1: RGPV
+Year1: 4
+Address: Harsh Gupta
+34 Ware House Road
+Indore - 452 007
+
+Regnum: 171
+Date: December 17, 2005, 9:44 am
+Name1: trivedi milind m.
+Email1: mintoo24286@yahoo.com
+Univ1: ddu
+Year1: 2006
+Address: 41,kadambari society,jivraj park ahmedabad
+
+
+Regnum: 172
+Date: December 17, 2005, 10:04 am
+Name1: Metha Pushkar
+Email1: pushkarmetha@rediffmail.com
+Univ1: Shivaji University
+Year1: T.E
+Address: Devi kamal compl, Solapur
+
+Regnum: 173
+Date: December 17, 2005, 10:39 am
+Name1: Prashant Agarwal
+Email1: prasagl@yahoo.co.in
+Univ1: IIT-Bombay
+Year1: 2005
+Address: #301, Hostel-4, IIT-Bombay, Powai
+
+Regnum: 174
+Date: December 18, 2005, 12:50 am
+Name1: kumar aakash
+Email1: kumar_aakash@iitb.ac.in
+Univ1: IIT BOMBAY
+Year1: first
+Address: Room No 88
+Hostel 2
+IIT BOMBAY
+Powai,MUMBAI
+400076
+
+Regnum: 175
+Date: December 18, 2005, 2:42 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3rd
+Address: svfsv
+
+Regnum: 176
+Date: December 18, 2005, 2:47 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3rd
+Address: svfsv
+
+Regnum: 177
+Date: December 18, 2005, 2:52 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3rd
+Address: afasfs
+
+Regnum: 178
+Date: December 18, 2005, 2:54 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB' dd
+Year1: 3rd
+Address: afasfs' gdghghg
+
+Regnum: 178
+Date: December 18, 2005, 2:56 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB' dd
+Year1: 3rd
+Address: afasfs' gdghghg
+
+Regnum: 178
+Date: December 18, 2005, 2:58 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB\' dd
+Year1: 3rd
+Address: dgsdgdfg'hjhj
+
+Regnum: 178
+Date: December 18, 2005, 3:02 am
+Name1: Siddharth Joshi\'dgdg
+Email1: mailsiddj@gmail.com
+Univ1: IITB\'dgdg
+Year1: 3rd\'dgg
+Address: vxvzxvv\'dhmh
+
+Regnum: 179
+Date: December 18, 2005, 3:06 am
+Name1: Siddharth Joshi\'dgg
+Email1: mailsiddj@gmail.com\'j
+Univ1: gdgdgdgggg\'gff
+Year1: sdfff\'fff
+Address: fafasf
+
+Regnum: 175
+Date: December 18, 2005, 3:12 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com'j
+Univ1: fdhhdfhdfh
+Year1: hfhfhfhhfh'jlljh
+Address: dghjgjg'kgk
+
+Regnum: 175
+Date: December 18, 2005, 3:21 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com'j
+Univ1: IITB'dgdg
+Year1: hfhfhfhhfh'jlljh
+Address: sggsd
+
+Regnum: 175
+Date: December 18, 2005, 3:31 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com
+Univ1: IITB' dd
+Year1: hfhfhfhhfh'jlljh
+Address: sdgsdg'sdgdg
+
+Regnum: 175
+Date: December 18, 2005, 3:32 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com
+Univ1: IITB' dd
+Year1: hfhfhfhhfh'jlljh
+Address: sdgsdg'sdgdg
+
+Regnum: 175
+Date: December 18, 2005, 3:32 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com'j
+Univ1: IITB' dd
+Year1: hfhfhfhhfh'jlljh
+Address: sghdg
+
+Regnum: 175
+Date: December 18, 2005, 3:33 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com'j
+Univ1: IITB'dgdg
+Year1: hfhfhfhhfh'jlljh
+Address: fasfasf'hjf
+
+Regnum: 175
+Date: December 18, 2005, 3:34 am
+Name1: Siddharth Joshi'dgdg
+Email1: mailsiddj@gmail.com
+Univ1: IITB'dgdg
+Year1: hfhfhfhhfh'jlljh
+Address: wrwrwrw'rwqrwr
+
+Regnum: 175
+Date: December 18, 2005, 3:41 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3rd
+Address: fsf
+
+Regnum: 176
+Date: December 18, 2005, 3:53 am
+Name1: Siddharth Joshi
+Email1: mail_sidj@yahoo.com
+Univ1: IITB
+Year1: 3rd
+Address: sgghdgd
+
+Regnum: 175
+Date: December 18, 2005, 4:59 am
+Name1: anand
+Email1: anand7chandran@gmail.com
+Univ1: SVNIT
+Year1: 1 year
+Address: bg4, h1, ichchhanath SVNIT,surat, gujarat -007
+
+Regnum: 176
+Date: December 18, 2005, 7:09 am
+Name1: Ayan Majumdar
+Email1: ayan.majumdar31@gmail.com
+Univ1: Univ. of Mumbai
+Year1: final year
+Address: "Bhagyoday" Bldg., 
+Gr. Floor, Plot-275
+Sec-21, Nerul
+Navi Mumbai-400706
+
+Regnum: 177
+Date: December 18, 2005, 8:13 am
+Name1: Akhouri Ishan Rahul
+Email1: ishan_rahul@yahoo.com
+Univ1: Motilal Nehru National Institute of Technology, Allahabad
+Year1: 2nd
+Address: Room No. 158
+Patel Hostel
+MNNIT
+Teliyarganj
+Allahabad - 211004
+
+Regnum: 178
+Date: December 18, 2005, 8:56 pm
+Name1: A.Kiran Tejaswi
+Email1: kiranteja
+Univ1: sathyabama institute of science and technology
+Year1: 3
+Address: 5/16 rajaram mehtanagar choolaimedu
+chennai
+
+Regnum: 179
+Date: December 19, 2005, 1:26 am
+Name1: Aditya Agrawal
+Email1: aditya149@gmail.com
+Univ1: Nagpur University
+Year1: 2nd Year
+Address: SRKNEC Boys' Hostel
+Room No. A-309
+SRKNEC, Gittikhadan
+Katol Road
+Nagpur-13
+
+Regnum: 180
+Date: December 19, 2005, 3:26 am
+Name1: shridhar pathak
+Email1: shridharpathak@yahoo.com
+Univ1: pune university(PICT college)
+Year1: 2005
+Address: c/0 ram acharya
+5,heramb,kothrud.pune 38
+
+Regnum: 181
+Date: December 19, 2005, 4:48 am
+Name1: chetan pawar
+Email1: chetanhero1@yahoo.com
+Univ1: Nagpur University
+Year1: final year
+Address: ashirwad 186 H.B. Estate , khamala road, sonegaon Nagpur-440025
+maharashtra
+
+Regnum: 182
+Date: December 19, 2005, 5:24 am
+Name1: Amandeep Singh Chhabra
+Email1: amanaman_3@yahoo.com
+Univ1: Amity
+Year1: 2
+Address: d1/7 model town new delhi 110009
+
+Regnum: 183
+Date: December 19, 2005, 8:12 am
+Name1: SATYAJEET PRADHAN
+Email1: satyajeet_pradhan@rediffmail.com
+Univ1: National Institute of Technology Rourkela
+Year1: Second Year
+Address: c/o H.S.Pradhan
+Qr no:C/108 
+Sector-6
+Rourkela
+ORISSA
+
+Regnum: 184
+Date: December 19, 2005, 9:00 am
+Name1: bibin oommen
+Email1: bibin86@nitc.ac.in
+Univ1: National Institute of technology Calicut
+Year1: 2nd
+Address: BiBin Oommen 
+Kallikanthu house 
+cherukole PO 690104
+mavelikara kerala
+
+Regnum: 185
+Date: December 19, 2005, 12:20 pm
+Name1: shaishav kumar
+Email1: shaishav_kr@yahoo.com
+Univ1: IIT Bombay
+Year1: 2005
+Address: hostel 2 room 22
+IIT Bombay
+powai-400076
+
+Regnum: 186
+Date: December 19, 2005, 12:41 pm
+Name1: Gaurav Jaidka
+Email1: gjaidka@gmail.com
+Univ1: University of Mumbai
+Year1: second
+Address: Room No 80 JS Hall University Hostel B-Road Mumbai-400020
+
+Regnum: 187
+Date: December 19, 2005, 12:53 pm
+Name1: Paritosh Kothari
+Email1: paritosh.kothari@gmail.com
+Univ1: R.G.P.V.
+Year1: IV
+Address: Regal House
+37/1, North Raj Mohalla,
+Indore (M.P.)
+PIN - 452002
+
+Regnum: 188
+Date: December 19, 2005, 9:40 pm
+Name1: Prarthana.A.G
+Email1: prarthanaag@hotmail.com
+Univ1: National Institute Of Technology Karnataka,Surathkal
+Year1: 2nd
+Address: #2573-b,2nd cross adipampa road,v.v.puram,mysore-2
+
+Regnum: 189
+Date: December 19, 2005, 9:53 pm
+Name1: Prarthana.A.G
+Email1: prarthanaag@gmail.com
+Univ1: NITK,Surathkal
+Year1: 2nd
+Address: #2573-b, 2nd cross, adipampa road, v.v.puram, mysore-2
+
+Regnum: 190
+Date: December 19, 2005, 10:16 pm
+Name1: Vineet Bhandari
+Email1: vineet.iitm@gmail.com
+Univ1: IIT-Madras
+Year1: 1st year(2005-06)
+Address: Room no. 369C, Godavari Hostel,
+IIT Madras
+Chennai
+
+Regnum: 191
+Date: December 19, 2005, 10:50 pm
+Name1: Jadia Gaurang
+Email1: jadia_gaurang@yahoo.com
+Univ1: Gujarat University
+Year1: 2003-2004
+Address: Ashirwad,
+13-A Junction Plot,
+Rajkot-360001
+
+Regnum: 192
+Date: December 20, 2005, 12:02 am
+Name1: Alok Lakhe
+Email1: aloklakhe@yahoo.com
+Univ1: nagpur University
+Year1: Second
+Address: 174,pawanbhumi,wardha road, nagpur - 440025
+
+Regnum: 193
+Date: December 20, 2005, 12:40 am
+Name1: Rinkal Shah
+Email1: shahrinkal@rediffmail.com
+Univ1: Sardar Patel University
+Year1: 3rd EC
+Address: 5/b, trivenipark, kapadwanj- 387620
+GUJ
+
+Regnum: 194
+Date: December 20, 2005, 12:41 am
+Name1: Suyash Jain
+Email1: suyashjain@iitb.ac.in
+Univ1: IIT-Bombay
+Year1: 2nd
+Address: hostel 8,Room No.212
+IIT-Bombay,powai
+Mumbai
+
+Regnum: 195
+Date: December 20, 2005, 1:10 am
+Name1: akshat gupta
+Email1: akshatgupta.info@gmail.com
+Univ1: nitk surathkal
+Year1: 3
+Address: block 7,room no.35
+nik hostels,
+nit karnataka,surathkal
+srinivasnagar,
+mangalore
+karnataka
+
+Regnum: 196
+Date: December 20, 2005, 1:11 am
+Name1: prashant singh
+Email1: prashantnitk@yahoo.com
+Univ1: nitk surathkal
+Year1: 2
+Address: block 3,room no.104
+nik hostels,
+nit karnataka,surathkal
+srinivasnagar,
+mangalore
+karnataka
+
+Regnum: 197
+Date: December 20, 2005, 1:41 am
+Name1: gaurav patil
+Email1: gkcool1@yahoomail.co.nz
+Univ1: RGPVV
+Year1: third
+Address: 4/1 vallabh indore
+m/p/
+452003
+
+Regnum: 198
+Date: December 20, 2005, 1:57 am
+Name1: Pranava Swaroop
+Email1: pranavaswaroop@inbox.com
+Univ1: M.N.I.T Jaipur
+Year1: I Year
+Address: #88 Hostel 1 MNIT JAIPUR
+
+Regnum: 199
+Date: December 20, 2005, 2:36 am
+Name1: Shah Ravish
+Email1: ravishshah9992003@yahoo.com
+Univ1: Gujarat University
+Year1: 2003-2007
+Address: 2/A Shatiyam App.,
+Behind Saibaba Temple,
+Anant Society,
+Maninagar,
+AHEMDABAD-380001.
+
+Regnum: 200
+Date: December 20, 2005, 2:51 am
+Name1: Akash Agarwal
+Email1: akash_ycce@yahoo.co.in
+Univ1: Nagpur University
+Year1: 3rd
+Address: room no 35 nyss boys hostel hingna road wanadongri 
+nagpur 44110
+
+Regnum: 201
+Date: December 20, 2005, 3:38 am
+Name1: Shah Jainik
+Email1: jainik_prem@yahoo.co.in
+Univ1: Gujarat University
+Year1: 2003-2007
+Address: 2/A Shatiyam App,
+Behind Saibaba Temple,
+Anant Society,
+Maninagar,
+AHEMDABAD-380001.
+
+Regnum: 202
+Date: December 20, 2005, 6:05 am
+Name1: Revanth
+Email1: revanthviswanadha@yahoo.co.uk
+Univ1: J.N.T.U
+Year1: 3
+Address: V.Revanth, 
+s/o V.Dhanamjay Rao,
+Dno 9-36-6/1,
+Pithapuram Colony,
+Maddilapalem Junction,
+Visakhapatnam-530017
+
+Regnum: 203
+Date: December 20, 2005, 6:11 am
+Name1: Revanth
+Email1: vtcepl
+Univ1: J.N.T.U
+Year1: 3
+Address: V.Revanth,
+s/o V.Dhanamjay Rao,
+Dno 9-36-6/1,
+Pithapuram Colony,
+Visakhapatanm-530017
+
+Regnum: 204
+Date: December 20, 2005, 6:34 am
+Name1: G.BHARATH
+Email1: gbharath-04@yahoo.co.in
+Univ1: JNTU,HYDERABAD
+Year1: 3
+Address: PLOT NO 6,
+TEACHERS COLONY,
+OPP NAGARAM WATER TANK LANE,
+NAGARAM,
+ECIL POST,
+HYDERABAD 500062
+
+Regnum: 205
+Date: December 20, 2005, 7:29 am
+Name1: Gagan Bhagat
+Email1: gagan_2004lnct@yahoo.com
+Univ1: R.G.P.V
+Year1: 2nd
+Address: vasundhara-212,surendraplace hosangabad road bhopal M.P
+
+Regnum: 206
+Date: December 20, 2005, 7:52 am
+Name1: M. A. Akbar
+Email1: akbar_civil
+Univ1: IIT Bombay
+Year1: 2005
+Address: Room No. B-422, hostel 12, IIT Powai, Mumbai 76 
+
+Regnum: 207
+Date: December 20, 2005, 7:54 am
+Name1: rahul tiwari
+Email1: rahul_activa@yahoo.com
+Univ1: SVNIT-Surat
+Year1: third year
+Address: BS1 H-8 tagore bhavan svnit campus surat 395007
+
+Regnum: 208
+Date: December 20, 2005, 8:59 am
+Name1: Santosh
+Email1: kumar_santosh86@yahoo.com
+Univ1: JNTU, Hyderabad
+Year1: 3rd 
+Address: 1-5-698
+New Maruthi Nagar
+Kothapet
+Hyderabad-500060
+Andhra Pradesh
+
+Regnum: 209
+Date: December 20, 2005, 10:18 am
+Name1: K.M.Arun
+Email1: arun_7_85@yahoo.co.in
+Univ1: MS University of Baroda
+Year1: 3
+Address: A-1 vaikunth duplex, B/h utkarsh school,
+gadapura 
+Vasna road
+STATE: Gujarat
+Dist: Vadodara
+PIN 390015
+
+Regnum: 210
+Date: December 20, 2005, 12:04 pm
+Name1: Chinmay Nivargi
+Email1: chinmay.nivargi@gmail.com
+Univ1: IIT Bombay
+Year1: First
+Address: Flat 44,Vasant Apts.,Near Shreeram Park,Kothrud,Pune-411029
+
+Regnum: 211
+Date: December 20, 2005, 12:32 pm
+Name1: p.naresh
+Email1: naresh_mgit2002@yahoo.com
+Univ1: jntu
+Year1: 2005
+Address: 54.padmanabanagar,hyd-28
+
+Regnum: 212
+Date: December 20, 2005, 9:40 pm
+Name1: anup jangada
+Email1: ajangada@yahoo.co.in
+Univ1: nagpur
+Year1: 3rd yr
+Address: srknec,boys hostel a-block,rno 326,gittikhadan,nagpur-13
+
+Regnum: 213
+Date: December 21, 2005, 12:00 am
+Name1: ravi gondaliya
+Email1: ravi_8986@yahoo.co.in
+Univ1: sardar patel university
+Year1: 3rd (e.c.)
+Address: government qurt.,
+block 5-28,
+university road,
+rajkot-360005,
+gujrat.
+
+Regnum: 214
+Date: December 21, 2005, 12:36 am
+Name1: Dushyant Pratap
+Email1: dushy_tech007@rdiffmail.com
+Univ1: MNIT,Jaipur
+Year1: 2004
+Address: 6/101,mnit hostel,Jaipur
+302017
+
+Regnum: 215
+Date: December 21, 2005, 1:11 am
+Name1: ravi gondaliya
+Email1: ravi891986
+Univ1: sardar patel university
+Year1: 3rd (e.c.)
+Address: government qurt.,
+block 5-28,
+university road,
+rajkot-360005,
+gujrat.
+
+Regnum: 216
+Date: December 21, 2005, 1:20 am
+Name1: Dushyant Pratap
+Email1: dushy_tech007@rediffmail.com
+Univ1: MNIT,Jaipur
+Year1: 2004
+Address: 6/101,mnit hostel,malviya nagar,Jaipur
+302017
+
+Regnum: 217
+Date: December 21, 2005, 1:23 am
+Name1: mayan kant
+Email1: mayankant@gmail.com
+Univ1: nirma university
+Year1: 3
+Address: D-8 ONGC TOWNSHIP,
+NEW MAGDALLA,
+DUMAS ROAD,
+SURAT - 394518
+
+Regnum: 218
+Date: December 21, 2005, 3:52 am
+Name1: Gajbhiye Shweta P.
+Email1: shweta_gajbhiye@rediffmail.com
+Univ1: BAMU
+Year1: 2005-06
+Address: C/0 P. C. Gajbhiye
+B3 Ramashray Appartment, Adarsh Colony, Behind Hindudyan Pith School, Akola
+
+Regnum: 219
+Date: December 21, 2005, 4:05 am
+Name1: Zarbade Sumedha V.
+Email1: s.zarbade@rediffmail.com
+Univ1: BAMU
+Year1: 2005-2006
+Address: c/o V. N. Zarbade
+66 Gurukrupa Layout
+Naik Nagar, Manewada,
+Nagpur.
+
+Regnum: 220
+Date: December 21, 2005, 4:20 am
+Name1: Khachane Harshada A.
+Email1: harshada_khachane@rediffmail.com
+Univ1: BAMU
+Year1: 2005-06
+Address: c/o A. D. Khachane
+Near Amol Hospital
+40 Bigha, Malkapur,
+Dist Buldhana
+
+Regnum: 221
+Date: December 21, 2005, 4:43 am
+Name1: There Sonali P.
+Email1: sonali.there@rediffmail.com
+Univ1: BAMU
+Year1: 2005-06
+Address: c/o P. K. There
+7/2 type 3,
+Jawahar Nagar, Bhandara
+
+Regnum: 222
+Date: December 21, 2005, 4:53 am
+Name1: Priyanka P. Kurdukar
+Email1: priyanka.kurdukar@rediffmail.com
+Univ1: BAMU
+Year1: 2005-06
+Address: c/o Prataprao Kurdukar
+BandhKam Bhavan, Indraprast Nagar, Latur
+
+Regnum: 223
+Date: December 21, 2005, 4:57 am
+Name1: Roshani Giri
+Email1: roshani.giri@rediffmail.com
+Univ1: BAMU
+Year1: 2005-06
+Address: c/o S. K. Giri
+81 Nagbhumi Layout,
+Chhatrapati Nagar
+Wardha Road, Nagpur 15
+
+Regnum: 224
+Date: December 21, 2005, 5:32 am
+Name1: Pankaj Tiwar
+Email1: pjtiwari@gmail.com
+Univ1: Gujrat University
+Year1: IV-(Fourth Year)
+Address: 309-H.M.Patel Trade Center,
+Mota-Bazaar,
+Anand-388421(Gujrat)
+
+Regnum: 225
+Date: December 21, 2005, 8:37 am
+Name1: Romil Shah
+Email1: shahromil123@rediffmail.com
+Univ1: RGPV  ( MITM, Indore)
+Year1: 4
+Address: 303, Prakash Tower, Opp. Rani sati Gate, Yeshwant Niwas Road, Indore (M.P.)- 452003
+
+Regnum: 226
+Date: December 21, 2005, 8:42 am
+Name1: vishal
+Email1: vishalvora_996@yahoo.co.in
+Univ1: M.S.UNIVERSITY,BARODA
+Year1: 3
+Address: 4B kailash park
+opp TB hospital
+Near Jaldhara society
+Gotri Road
+STATE: Gujarat
+DIST: Vadodara
+PIN 390021
+
+Regnum: 227
+Date: December 21, 2005, 8:44 am
+Name1: Gaurav Patni
+Email1: gaurav_patni@hotmail.com
+Univ1: RGPV  ( MITM, Indore)
+Year1: 4
+Address: 88 chandani chawk ratlam M.P. - 457001
+
+Regnum: 228
+Date: December 21, 2005, 9:04 am
+Name1: Shyam Jade
+Email1: shyam.jade@gmail.com
+Univ1: IITB
+Year1: First
+Address: Room 42, Hostel 2,
+IIT Bombay,
+Powai,
+Mumbai 400076
+
+Regnum: 229
+Date: December 21, 2005, 10:01 am
+Name1: Rahib A. Mansuri
+Email1: humherahi@yahoo.co.uk
+Univ1: Gujarat
+Year1: 2006
+Address: Veyerinary Dispensary,
+near Rang upvan, DABHOI-391110, DIS:vadodara
+gujarat.
+
+Regnum: 230
+Date: December 21, 2005, 10:10 am
+Name1: vivek
+Email1: 17.shah@gmail.com
+Univ1: IITB
+Year1: second
+Address: 256 H8
+IITB
+
+Regnum: 231
+Date: December 21, 2005, 7:37 pm
+Name1: saurabh kumar
+Email1: saurabh5144@yahoo.com
+Univ1: sadar patel
+Year1: 2nd year
+Address: B-5/41
+ONGC Nagar1
+Magdalla 
+Surat
+Gujarat
+Pin-394518
+
+Regnum: 232
+Date: December 21, 2005, 9:53 pm
+Name1: hardik b. dabhi
+Email1: hardik031003@yahoo.co.in
+Univ1: saurashtra
+Year1: 2003
+Address: 24,chitrakut dham,B/H IOC colony,kalawad road,rajkot-5
+
+Regnum: 233
+Date: December 21, 2005, 10:27 pm
+Name1: Vamsi Krishna Peri
+Email1: perivamsi@iitb.ac.in
+Univ1: IITB
+Year1: 3rd
+Address: A333, H13, IITB
+
+Regnum: 234
+Date: December 21, 2005, 11:45 pm
+Name1: Aakruti k.Shah
+Email1: aakrutibvm@yahoo.com
+Univ1: sarder patel 
+Year1: second year
+Address: Aakruti K. shah
+A/23 Manglam -Manglam Tenaments,
+Nr. Akota garden , Productivity road,
+Baroda,Gujarat.
+
+Regnum: 235
+Date: December 22, 2005, 1:47 am
+Name1: bibin oommen
+Email1: bibin86@yahoo.com
+Univ1: NIT Calicut
+Year1: 2
+Address: Bibin Oommen
+kallikanthu nibin villa 
+cherukole p o 
+mavelikara 690104
+
+Regnum: 236
+Date: December 22, 2005, 3:51 am
+Name1: ladani atul h.
+Email1: Ladani_Atul@yahoo.com
+Univ1: bhavnagar
+Year1: 2005-06
+Address: TO:keshod
+ladani atul h.
+yogeshwar society,
+amrutnagar road,
+pin code:362220
+
+Regnum: 237
+Date: December 22, 2005, 7:21 am
+Name1: VISHAL B.GUNANI
+Email1: cool_booster1987@yahoo.co.in
+Univ1: nirma university
+Year1: 2nd year
+Address: 4,shram siddi apt,swastik society,vipul dudhiya rd., navrangpura,ahmedabad-380009
+
+Regnum: 238
+Date: December 22, 2005, 8:36 am
+Name1: Nagaraj.H.V
+Email1: hvnagaraj.rv@gmail.com
+Univ1: VTU
+Year1: 2
+Address: room no:213, dj block, RVCE, Mysore road, Bangallre
+
+Regnum: 239
+Date: December 22, 2005, 8:49 am
+Name1: Gokul.N.K
+Email1: gocoool_kris@yahoo.co.in
+Univ1: RVCE(VTU)
+Year1: 2
+Address: Room no 211,
+DJ hostels,
+RVCE
+Bangalore.
+
+Regnum: 240
+Date: December 22, 2005, 9:26 am
+Name1: Suyash Jain
+Email1: suyashiitb@yahoo.com
+Univ1: IIT-Bombay
+Year1: 2nd
+Address: hostel 8,Room no. 212
+IIT-bombay,powai
+Mumbai
+
+Regnum: 241
+Date: December 22, 2005, 10:07 am
+Name1: Abhishek Modi
+Email1: abhishekmodi@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 4th year
+Address: hostel 3, room 323,
+IITB
+
+Regnum: 242
+Date: December 22, 2005, 11:11 am
+Name1: Kavita Khadye
+Email1: kk_8484@yahoo.com
+Univ1: Mumbai
+Year1: Final
+Address: 3B-2101,Whispering Palms,Lokhandwala Township,Kandivali(E),Mumbai-400101
+
+Regnum: 243
+Date: December 22, 2005, 2:55 pm
+Name1: srikanth
+Email1: srikanthl@cse.iitb.ac.in
+Univ1: IIT BOmbay
+Year1: II nd
+Address: room # 221,Hostel 8,
+IIT Bombay,Powai,
+Powai ,Mumbai-400076
+
+Regnum: 244
+Date: December 22, 2005, 6:40 pm
+Name1: Parasvil Patel
+Email1: parasvil@yahoo.com
+Univ1: iit bombay
+Year1: first
+Address: parasvil patel,
+h-2 room no. 31,
+iit bombay,
+powaii,
+mumbai-400076
+
+Regnum: 245
+Date: December 22, 2005, 9:21 pm
+Name1: Ankit Prasad
+Email1: ankitprasad12@gmail.com
+Univ1: Birla Institute Of Technology, Mesra, Ranchi
+Year1: 2005
+Address: Flat-3/D, Block-E, Belair Apartments, Near Mahabir Tower, Main Road, Ranchi-834001
+
+Regnum: 246
+Date: December 22, 2005, 9:28 pm
+Name1: Apoorv Ranjan Khare
+Email1: apoorv_raj@yahoo.com
+Univ1: N.I.T. Raipur
+Year1: 3rd year
+Address: 2/A,27,9,Bhilai,Chattisgarh
+
+Regnum: 247
+Date: December 22, 2005, 10:01 pm
+Name1: ASHUTOSH JOSHI
+Email1: hi_ashutosh003@yahoo.com
+Univ1: mumbai university
+Year1: final year
+Address: c-5/104, BANK OF INDIA COLONY,SECTOR-13,NERUL(E),NEW MUMBAI.
+
+Regnum: 248
+Date: December 23, 2005, 1:16 am
+Name1: arvind sriraman
+Email1: argoarvind@iitb.ac.in
+Univ1: iit bombay
+Year1: 2nd year
+Address: room no. 242,
+hostel 5,
+iit bombay.
+
+Regnum: 249
+Date: December 23, 2005, 2:53 am
+Name1: shobhit srivastava
+Email1: shobhit.techy@gmail.com
+Univ1: JSS ACADEMY OF TECHNICAL EDUCATION NOIDA UP TEC. UNIVERSITY
+Year1: 3rd
+Address: jss boys hostel ,bishanpura sector -58 noida 201301
+
+Regnum: 250
+Date: December 23, 2005, 2:53 am
+Name1: sanjesh dubey
+Email1: sanjeshdubey@gmail.com
+Univ1: JSS ACADEMY OF TECHNICAL EDUCATION NOIDA UP TEC. UNIVERSITY
+Year1: 3rd
+Address: jss boys hostel ,bishanpura sector -58 noida 201301
+
+Regnum: 251
+Date: December 23, 2005, 5:09 am
+Name1: Raghavendra N Murthy
+Email1: rmurthy_85@yahoo.com
+Univ1: National Institute of Technology Karnataka, Surathkal
+Year1: 3
+Address: Room no. 222, 7th Block, NITKS Hostels, NITK Surathkal, 575025
+
+Regnum: 252
+Date: December 23, 2005, 6:53 am
+Name1: Jeetu P. Soneji
+Email1: jeetusoneji
+Univ1: Dharmsinh Desai University
+Year1: 3rd
+Address: L-2-47, Guj. Housing Board(Rural), B/H A.G. Society, Kalawad Road, Rajkot - 360005.
+
+Regnum: 253
+Date: December 23, 2005, 7:02 am
+Name1: Jeetu P. Soneji
+Email1: jeetu_soneji@yahoo.com
+Univ1: D.D.University
+Year1: 3rd
+Address: Banglow-84, LB Avenue, College Road, Nadiad -  387001
+
+Regnum: 254
+Date: December 23, 2005, 7:03 am
+Name1: piyush juneja
+Email1: piyush_itbhu2004@yahoo.co.in
+Univ1: Institute of Technology,BHU
+Year1: 2nd
+Address: 269,Morvi Hostel
+IT BHU
+Varanasi-221005
+
+Regnum: 255
+Date: December 23, 2005, 10:36 am
+Name1: Kedar
+Email1: kedarkale@rediffmail.com
+Univ1: VJTI
+Year1: T.E.CIVIL
+Address: B-11,2nd floor,snaskar jyot socy,chittaranjan rd. vile parle(E), mumbai 400057
+
+Regnum: 256
+Date: December 23, 2005, 11:20 am
+Name1: ranjanbanerjee
+Email1: pinchranjan@yahoo.co.in
+Univ1: IIT bomnbay
+Year1: 2 nd
+Address: Hostel-8,room no.108,IIT Bombay,Powai,Mumbai-400076
+
+Regnum: 257
+Date: December 23, 2005, 9:57 pm
+Name1: shreya shah
+Email1: cool_leo_gal2005
+Univ1: svnit
+Year1: 1 year
+Address: 803,Nishigandha,Royal Gardens,Chala,Vapi-daman road,Vapi,Valsad,Gujarat
+
+Regnum: 258
+Date: December 23, 2005, 10:11 pm
+Name1: Rahul Reddy
+Email1: bluestag_iitb@yahoo.com
+Univ1: IITB
+Year1: 2nd Yr Btech
+Address: H9, Rm 251, IITB
+
+Regnum: 259
+Date: December 23, 2005, 11:26 pm
+Name1: abhishek rathi
+Email1: cyber_rathi
+Univ1: nagpur
+Year1: 3rd year
+Address: n-72,reshimbag nagpur-9
+
+Regnum: 260
+Date: December 24, 2005, 12:26 am
+Name1: Manvendra Kumar
+Email1: manvendrak@gmail.com
+Univ1: Manipal Institute of technology
+Year1: 3rd
+Address: Manvendra Kumar
+shree nidhi house
+eshwar nagar
+manipal-576104
+udupi,
+karnataka
+INDIA
+
+Regnum: 261
+Date: December 24, 2005, 1:48 am
+Name1: vaibhav rathi
+Email1: vibsrathi@gmail.com
+Univ1: MBM Engg College , Jodhpur(Raj.)
+Year1: B.E. final mech
+Address: C-136 KNN-1, Jodhpur (Raj.)
+
+Regnum: 262
+Date: December 24, 2005, 5:08 am
+Name1: alap p goswami
+Email1: alap_bvm@yahoo.com
+Univ1: spu
+Year1: 3rd year
+Address: u-6,vardhman nagar,ghatlodia,ahmedabad 61,gujrat,india
+
+Regnum: 263
+Date: December 24, 2005, 7:18 am
+Name1: T.Madan Kumar
+Email1: madan3030@yahoo.co.in
+Univ1: Sri Venkateswara college(Anna university)
+Year1: 3
+Address: no 9, ramanaicken street,
+2nd floor , above nungambakkam,
+chennai 34
+
+Regnum: 264
+Date: December 24, 2005, 7:53 am
+Name1: Anoop Kumar D
+Email1: anoop_online@yahoo.com
+Univ1: MG
+Year1: 2006
+Address: Anugraha, 49/1885,
+Elamakara Road, Edapally, Kochi
+Kerala PIN: 682024
+
+Regnum: 265
+Date: December 24, 2005, 7:54 am
+Name1: Alok Krishnan N
+Email1: alokkn@gmail.com
+Univ1: MG, Kottayam, Kerala
+Year1: 2006
+Address: Krishna Vihar, Forest Office Lane,
+Vazhuthacaud, Trivandrum, Kerala
+695014
+
+Regnum: 266
+Date: December 24, 2005, 10:41 am
+Name1: VIPUL JAIN
+Email1: vjvipuljain@gmail.com
+Univ1: SASTRA
+Year1: 3
+Address: AV 261, SASTRA UNIVERSITY, Thanjavur,T.N
+
+Regnum: 267
+Date: December 24, 2005, 11:09 am
+Name1: Viren
+Email1: rveng_dom@yahoo.com
+Univ1: mumbai
+Year1: 3rd
+Address: 6,rushbh chaya,bohir nagar,mulund(e),mumbai-81
+
+Regnum: 268
+Date: December 24, 2005, 4:24 pm
+Name1: pradeep rayaprolu
+Email1: iitm.pradeep@gmail.com
+Univ1: iit madras
+Year1: 3rd year
+Address: room no 463, ganga hostel,iit madras,chennai-600036
+
+Regnum: 269
+Date: December 24, 2005, 9:27 pm
+Name1: pankaj singh kushwah
+Email1: anhad_bajaj@yahoo.com
+Univ1: LNCT Bhopal
+Year1: 2nd
+Address: LNCT KALCHURI NAGAR BHOPAL MP
+
+Regnum: 270
+Date: December 24, 2005, 10:46 pm
+Name1: bharat  kumar mittal
+Email1: bharat_iitb2004@yahoo.co.in
+Univ1: IIT BOMBAY
+Year1: 2nd
+Address: hostel 8, room no. 209
+IIT Bombay
+400076
+mumbai
+
+Regnum: 271
+Date: December 25, 2005, 12:32 am
+Name1: P.Roshan Kumar
+Email1: p.roshankumar@gmail.com
+Univ1: KLCE
+Year1: 4th
+Address: 106, Veterinary Colony, Ring Road, Vijaywada, Andhra pradesh, PIN:520008
+
+Regnum: 272
+Date: December 25, 2005, 12:33 am
+Name1: N.Rama Chandra Rao
+Email1: ramu745@gmail.com
+Univ1: PVP Siddhartha Institute of Technology
+Year1: 4th
+Address: 106, Veterinary Colony, Ring Road, Vijaywada,Andhra Pradesh,PIN:520008
+
+Regnum: 273
+Date: December 25, 2005, 12:35 am
+Name1: K.Mahendra
+Email1: kancharla.mahendra@gmail.com
+Univ1: PVP Siddhartha Institute of Technology
+Year1: 4th
+Address: 106, Veterinary Colony, Ring Road, Vijaywada,Andhra Pradesh, PIN:520008
+
+Regnum: 274
+Date: December 25, 2005, 12:35 am
+Name1: K.Dinesh
+Email1: dinesh3387@gmail.com
+Univ1: PVP Siddhartha Institute of Technology
+Year1: 4th
+Address: 106, Veterinary Colony, Ring Road, Vijayawada, Andhra pradesh, PIN:520008
+
+Regnum: 275
+Date: December 25, 2005, 12:36 am
+Name1: N.Revanth
+Email1: revanthn@gmail.com
+Univ1: PVP Siddhartha Institute of Technology
+Year1: 4th
+Address: 106, Veterinary Colony, Ring Road, Vijayawada, Andhra Pradesh,PIN:520008
+
+Regnum: 276
+Date: December 25, 2005, 2:11 am
+Name1: punit soman
+Email1: punit_yantra@yahoo.co.in
+Univ1: pune
+Year1: 2003
+Address: 14,sukrut soc,walvekar nagar pune-411009
+
+Regnum: 277
+Date: December 25, 2005, 7:01 am
+Name1: preyavart v gadhavi
+Email1: rajpreja@yahoo.com
+Univ1: dharmsinh desai university
+Year1: 3rd  year
+Address: appt no: A/404 
+infocity township
+gandhinagar
+gujarat
+
+
+Regnum: 278
+Date: December 25, 2005, 7:33 am
+Name1: viraj
+Email1: virajster@gmail.com
+Univ1: mumbai
+Year1: 2008
+Address: 3b-2101, whispering palms, Lokhandwala Township, Kandivli E, mumbai-400101
+
+Regnum: 279
+Date: December 25, 2005, 9:10 am
+Name1: N.Aswani Chaitanya
+Email1: ashwani_chaitanya@yahoo.co.in
+Univ1: jntu
+Year1: 2005
+Address: c/0 M.V.Ramkumar,45-2-60/16/4,Ramachandra nagar, akkayyapalem,Visakhapatnam-530016
+
+Regnum: 280
+Date: December 25, 2005, 9:49 am
+Name1: Sudarshan S
+Email1: sudarshan.8185@gmail.com
+Univ1: Mumbai
+Year1: 2006
+Address: C-401, Ocean View Castle, Sector-12, Kharghar, Navi Mumbai, 410210 
+
+
+Regnum: 281
+Date: December 25, 2005, 10:17 am
+Name1: vivek
+Email1: vivekshah@iitb.ac.in
+Univ1: IITB
+Year1: second
+Address: H8 256
+IIT bombay
+400076
+
+Regnum: 282
+Date: December 25, 2005, 7:57 pm
+Name1: R Hemanth Kumar
+Email1: hemarg2000@yahoo.com
+Univ1: andhra university
+Year1: final year
+Address: room no 57,block-2,engg hostels,andhra university,visakhapatnam,andhra pradesh. 530003
+
+Regnum: 283
+Date: December 25, 2005, 10:20 pm
+Name1: prashant kr. pandey
+Email1: pandeyprashant3k@rediffmail.com
+Univ1: rgpv
+Year1: 2005
+Address: JIT Khargone,(M.P)
+
+Regnum: 284
+Date: December 25, 2005, 10:26 pm
+Name1: CHANDRAPAL SINGH BHATIA
+Email1: jeet.bhatia@rediffmail.com
+Univ1: rgpv
+Year1: 2003
+Address: JIT Khargone,(M.P)
+
+Regnum: 285
+Date: December 26, 2005, 1:09 am
+Name1: PRAVIN B.DATE
+Email1: date_p29@rediffmail.com
+Univ1: pune
+Year1: te
+Address: 328/1 'alankar' ,indrayani nagar bhosari pune 411039
+
+Regnum: 286
+Date: December 26, 2005, 1:25 am
+Name1: Nikhil Patel
+Email1: nik_cworld@yahoo.co.in
+Univ1: Sardar Patel University
+Year1: Third Year
+Address: c-236 JAGANNATHPURAM OPP LALBAG MANJALPUR BARODA 390011 GUJARAT
+
+Regnum: 287
+Date: December 26, 2005, 1:54 am
+Name1: pulkit bahuguna
+Email1: pulkit_hhh@yahoo.com
+Univ1: sardar patel university, gujarat
+Year1: final year(civil)
+Address: room no 207, aradhana hostel, behind bvm engineering college,vallabh vidyanagar, anand..
+
+Regnum: 288
+Date: December 26, 2005, 2:12 am
+Name1: Mayank Arora 
+Email1: arora_mayank2002@yahoo.co.in 
+Univ1: u.p.t.u. 
+Year1: Final
+Address: d-303 Rail vihar, Sector-62,Noida-201301 U.P.           
+
+Regnum: 289
+Date: December 26, 2005, 2:51 am
+Name1: Nishant Nayak
+Email1: nishant2912@gmail.com
+Univ1: SVNIT,Surat
+Year1: first year
+Address: a-43,umang soc,b/h mother's school,iskcontemple road,vadodara-390015,gujarat
+
+Regnum: 290
+Date: December 26, 2005, 3:03 am
+Name1: bharat
+Email1: bhatebharat@yahoo.com
+Univ1: rgpv
+Year1: third year
+Address: g 8 kila parisar khargone (m.p)
+451001
+
+Regnum: 291
+Date: December 26, 2005, 3:15 am
+Name1: k.m.arun
+Email1: firebird_7_85@yahoo.co.in
+Univ1: MSU Baroda
+Year1: 3
+Address: A1 vaikunth duplex,
+b/h utkarsh school
+gadapura 
+pin 390015
+gujarat
+vadadora
+
+Regnum: 292
+Date: December 26, 2005, 3:19 am
+Name1: manish kumar sahu
+Email1: manish_cool01@rediffmail.com
+Univ1: uptu
+Year1: 4th
+Address: b-26b rajat vihar
+sector-62
+noida
+
+Regnum: 293
+Date: December 26, 2005, 5:05 am
+Name1: mohd shakeb azmi
+Email1: shakeb007@yahoo.co.in
+Univ1: Mumbai
+Year1: 2006
+Address: 201/dynamic,kanungo Estate,mira road (E),thane 401107.
+
+Regnum: 294
+Date: December 26, 2005, 9:45 am
+Name1: manik mayur
+Email1: manikm@iitk.ac.in
+Univ1: IIT K
+Year1: 3rd
+Address: Room No-G313,Hall-5,IIT Kanpur,Kanpur-208016
+
+Regnum: 295
+Date: December 27, 2005, 2:32 am
+Name1: Thote Ajay Ganesh
+Email1: ajay_icon
+Univ1: BAMU, Aurangabad.
+Year1: 2005-2006
+Address: (ajay_icon@yahoo.com)
+N-12,D-56/5, HUDCO, Aurangabad
+
+
+Regnum: 296
+Date: December 27, 2005, 3:24 am
+Name1: himani sevak
+Email1: himanisevak@yahoo.co.in
+Univ1: D.D.U
+Year1: 3rd
+Address: ambika nagar.
+nadiad
+
+Regnum: 297
+Date: December 27, 2005, 3:59 am
+Name1: Venkatesh Goriparthy
+Email1: venkatesh.go@gmail.com
+Univ1: Sir C.R.R college of engineering
+Year1: Final year
+Address: G.Venkatesh,
+flat no:14,
+Anuraga Apartments,
+srinagar colony,
+Vijayawada-520008
+
+Regnum: 298
+Date: December 27, 2005, 12:53 pm
+Name1: Anirudh Rao
+Email1: rao_anirudh@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 2 
+Address: Room No. 109,
+Hostel 8,
+IIT Bombay.
+
+Regnum: 299
+Date: December 27, 2005, 8:02 pm
+Name1: VARUN GUPTA
+Email1: varun090883@gmail.com
+Univ1: BIT(durg)
+Year1: 4TH YEAR
+Address: L.I.G-82,VAISHALI NAGAR BHILAI,DURG,C.G.490023
+
+Regnum: 300
+Date: December 27, 2005, 11:38 pm
+Name1: Ankita Choubey
+Email1: ankita_c2004@yahoo.co.in
+Univ1: RGPV
+Year1: 2nd
+Address: 18/2 Indrapuri,
+Near Seth Nagar,
+Ujjain - 456010
+
+Regnum: 301
+Date: December 28, 2005, 3:22 am
+Name1: hhhhh
+Email1: chess_player45@YAHOO.COM
+Univ1: 2712332
+Year1: 45
+Address: UNKNOWN PLACE 
+HACK 
+
+
+Regnum: 302
+Date: December 28, 2005, 4:54 am
+Name1: gireesh kumar nayak
+Email1: girish_nayak002@yahoo.co.in
+Univ1: ravishankar shukla university
+Year1: 3
+Address: s\o mr t.r nayak,durga chowk kota raipur(c.g) 492010
+
+Regnum: 303
+Date: December 28, 2005, 5:05 am
+Name1: Trivedi Vatsal B
+Email1: civilguru_ddit@yahoo.co.in
+Univ1: Dharmsinh Desai University 
+Year1: Second year (2004-2008)
+Address: Room-107
+DDU Boys Hostel,
+Nr. Devprem Society,
+College Road
+Nadiad-387001
+(Guj)INDIA
+
+Regnum: 304
+Date: December 28, 2005, 7:42 am
+Name1: mayura bagul
+Email1: mayurabagul@hotmail.com
+Univ1: pune
+Year1: 2005-06
+Address: chinchwad,pune 411033
+
+Regnum: 305
+Date: December 28, 2005, 8:23 am
+Name1: vipul sharma
+Email1: vipulucky@yahoo.co.in
+Univ1: pune
+Year1: 4
+Address: 128,j.s.p.m.s boys hostel,survey no 80,pune-mumbai bipass,thathawade ,
+pune-33
+
+Regnum: 306
+Date: December 28, 2005, 8:50 am
+Name1: THOTE AJAY GANESH
+Email1: ajay.thote
+Univ1: B.A.M.U. Aurangabad.
+Year1: 2005-2006
+Address: N-12,D-56/5/6, HUDCO, Aurangabad
+
+Regnum: 307
+Date: December 28, 2005, 8:54 am
+Name1: DOFE PRASHANT SUNIL
+Email1: prashant_13aug
+Univ1: B.A.M.U. Aurangabad.(MH)
+Year1: 2005-2006
+Address: N-9,M-2,83/2, HUDCO, Aurangabad.
+
+Regnum: 308
+Date: December 28, 2005, 9:00 am
+Name1: THOTE AJAY GANESH
+Email1: ajay_icon@yahoo.com
+Univ1: B.A.M.U. Aurangabad.(MH)
+Year1: 2005-2006
+Address: N-12,D,56/5/6, HUDCO, Aurangabad
+
+Regnum: 309
+Date: December 28, 2005, 9:02 am
+Name1: DOFE PRASHANT SUNIL
+Email1: prashant_13aug@rediffmail.com
+Univ1: B.A.M.U. Aurangabad. (MH)
+Year1: 2005-06
+Address: N-9, M-2, 83/2, HUDCO, Aurangabad.
+
+Regnum: 310
+Date: December 28, 2005, 9:57 am
+Name1: Khushboo Maheshwari
+Email1: khushboo@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 4th Year
+Address: Hostel 10, Room No 249, IIT Bombay, Powai - 400 076
+
+Regnum: 311
+Date: December 28, 2005, 9:43 pm
+Name1: Gaurav Malhotra
+Email1: gmalhotra85@yahoo.co.in
+Univ1: NIT Durgapur
+Year1: prefinal
+Address: Room No. 362
+Hall-5
+NIT Durgapur
+Mahatma Gandhi Avenue
+Durgapur-713204
+West Bengal
+
+Regnum: 312
+Date: December 28, 2005, 10:38 pm
+Name1: kawale vijay sakharam
+Email1: piet_vijay@yahoo.co.in
+Univ1: PUNE UNIVERSITY
+Year1: T.Y.
+Address: bodhe nagar, latur-413512(MH).
+
+Regnum: 313
+Date: December 28, 2005, 10:41 pm
+Name1: BAYAS PRAKASHSINHA UDAYSINHA
+Email1: prakash_b111@yahoo.com
+Univ1: S.R.T.M.U. NANDED.
+Year1: T.Y.
+Address: BODHE NAGAR, LATUR-413512
+
+Regnum: 314
+Date: December 29, 2005, 1:45 am
+Name1: Bhuta Gyayak N.
+Email1: newgyayak@yahoo.co.in
+Univ1: Dharmsinh Desai University , Gujarat
+Year1: third
+Address: Cat - III 16/6,
+Narmada New Colony,
+Chhani Jakat Naka,
+Vadodara-390002.
+
+Regnum: 315
+Date: December 29, 2005, 3:26 am
+Name1: saurabh kulshrestha
+Email1: saurabhdeva@yahoo.com
+Univ1: VNSGU
+Year1: IV 
+Address: bunglow no. 9, kothi compound railway colony, rajkot-360001
+
+Regnum: 316
+Date: December 29, 2005, 7:54 am
+Name1: VISHAL
+Email1: vishalstud_94264@yahoo.com
+Univ1: gujarat university
+Year1: 2005-2006
+Address: maluma street chalala
+gujarat
+dist amreli
+gujarat.
+
+Regnum: 317
+Date: December 29, 2005, 8:08 am
+Name1: mandirwala shyamal h.
+Email1: shmandirwala@yahoo.co.in
+Univ1: saurastra university
+Year1: 3rd year
+Address: 804,rudraksh bhavan,U-m road,surat-01
+
+
+Regnum: 318
+Date: December 29, 2005, 12:59 pm
+Name1: Abhinav Sultania
+Email1: abhinav.sultania@gmail.com
+Univ1: SVNIT
+Year1: III year
+Address: Abhinav Sultania Room no BF-3,
+Hostel-4,
+Gajjar Bhavan,
+SVNIT, Ichchhanath
+Surat-395007,
+Gujarat
+
+Regnum: 319
+Date: December 29, 2005, 10:05 pm
+Name1: Himanshu
+Email1: alkaline_trio@sify.com
+Univ1: K.P.S.
+Year1: 2
+Address: 642/B,ST-36,Smriti Nagar,p.o.-Nehru Nagar,Distt-Durg, C.G.
+
+Regnum: 320
+Date: December 29, 2005, 10:05 pm
+Name1: archan
+Email1: archan2k@yahoo.com
+Univ1: gujarat
+Year1: third
+Address: A-204 JAY TIRTH AVENUE NEXT TO KARNAVATI FLATS PRERNA TIRTH ROAD JODHPUR CHAR RASTA SATELLITE AHEMADABAD
+
+Regnum: 321
+Date: December 29, 2005, 10:47 pm
+Name1: abhishek chhajer
+Email1: abhi_toabhi@yahoo.co.in
+Univ1: jai narain vyas university,jodhpur,rajasthan
+Year1: 3 year
+Address: 965,"Matrakripa" 1 c road sardarpura jodhpur ,rajasthan
+
+Regnum: 322
+Date: December 29, 2005, 10:49 pm
+Name1: avinash.v
+Email1: pip_cpt@yahoo.co.in
+Univ1: j.n.t.u
+Year1: second year
+Address: hyderabad
+
+Regnum: 323
+Date: December 30, 2005, 2:14 am
+Name1: Shriharsh Tendulkar
+Email1: shriharsh@iitb.ac.in
+Univ1: IITB
+Year1: 2nd
+Address: #268, H9, IIT Bombay, Powai, Mumbai - 76
+
+Regnum: 324
+Date: December 30, 2005, 2:44 am
+Name1: hgf
+Email1: gq@gq.com
+Univ1: sssssssssss
+Year1: fyg
+Address: fdgfdg,dfgfdg
+fdgfdgfg
+
+Regnum: 325
+Date: December 30, 2005, 2:46 am
+Name1: Aditya Gandhi
+Email1: aditya.g8@gmail.com
+Univ1: Bharati Vidyapeeth 
+Year1: 2nd
+Address: 701,rishabh, khandelwal layout,
+evershine nagar, malad (w),
+mumbai-64
+
+Regnum: 326
+Date: December 30, 2005, 3:06 am
+Name1: rajesh kumar
+Email1: rajesh_kumar837@rediffmail.com
+Univ1: Barkatullah university, Bhopal
+Year1: 3rd
+Address: rajesh kumar.c/o k p singh chauhan. h no -66.narayan nagar.bhopal462026.
+
+Regnum: 327
+Date: December 30, 2005, 3:46 am
+Name1: manish suriya
+Email1: prey_bird84@yahoo.co.in
+Univ1: VNSGU,surat
+Year1: 4th
+Address: 5210,type-c,po BNP,dewas MP-455001
+
+Regnum: 328
+Date: December 30, 2005, 4:22 am
+Name1: ankur pandit 
+Email1: ankurgenius007@rediffmail.com
+Univ1: Barkatullah university, Bhopal
+Year1: 3rd
+Address: 84 omen residency flate no s-2 narayan nagar bhopal 462026 mp
+
+Regnum: 329
+Date: December 30, 2005, 7:49 am
+Name1: Nandita
+Email1: nandu_rm@hotmail.com
+Univ1: gujarat university
+Year1: final year
+Address: 19 shrinathnagar soc,vip road Baroda-390022
+
+Regnum: 330
+Date: December 30, 2005, 8:25 am
+Name1: Jagarlapudi Vamsi Bhargav
+Email1: vamsi_azad@yahoo.co.in
+Univ1: osmania
+Year1: 2
+Address: J.Vamsi Bhargav,
+f.no:102,p.no:11,
+r.t.c.colony,
+l.b.nagar,
+hyderabad-500074,
+a.p,
+india.
+
+Regnum: 331
+Date: December 30, 2005, 8:59 am
+Name1: pratik dongre
+Email1: dongre_pratik@yahoo.co.in
+Univ1: nagpur
+Year1: final year
+Address: 30, sheetal apartments new colony nagpur-440001
+
+Regnum: 332
+Date: December 30, 2005, 10:20 pm
+Name1: siddharth shroff
+Email1: sid_shroff@yahoo.co.in
+Univ1: NIT Rourkela
+Year1: 2nd Year
+Address: Room No. 41
+Hall No. 3
+NIT Rourkela
+Orissa
+
+
+Regnum: 333
+Date: December 31, 2005, 1:45 am
+Name1: Karan Deshmukh
+Email1: ksd_india@rediffmail.com
+Univ1: Visvesvaraya National Institutenof Technology
+Year1: 2nd Year
+Address: Plot no 60,Laxminagar,Nagpur 440022
+
+Regnum: 334
+Date: December 31, 2005, 2:26 am
+Name1: NIDHI AGARWAL
+Email1: nidtz_smart16@yahoo.co.in
+Univ1: MODY INSTITUTE OF TECHNOLOGY AND SCIENCE
+Year1: FIRST 
+Address: C/O BANSAL HOSTEL
+opp gate no2 MIER 
+LAKSHMANGARH
+DISTT.SIKAR
+RAJASTHAN
+
+Regnum: 335
+Date: December 31, 2005, 2:36 am
+Name1: rajaram
+Email1: tangiralaram@gmail.com
+Univ1: osmaina
+Year1: 3rd
+Address: sri sai gardens
+ganesh nagar
+ramanthapur
+hyd-500013
+
+
+Regnum: 336
+Date: December 31, 2005, 3:03 am
+Name1: R.A.S.Jagadish
+Email1: ras_jagadish@yahoo.co.in
+Univ1: IIT Bombay
+Year1: 2005
+Address: Room no 66
+Hostel no 6
+IIT Bombay
+
+Regnum: 337
+Date: December 31, 2005, 4:25 am
+Name1: Suyog Gupta
+Email1: suyog_gupta@iitb.ac.in
+Univ1: IIT Bombay
+Year1: second
+Address: C-337, hostel 13, IIT Bombay, Powai, Mumbai -400076
+
+Regnum: 338
+Date: December 31, 2005, 6:24 am
+Name1: omkar
+Email1: omkar_a@yahoo.com
+Univ1: srtmun
+Year1: final year
+Address: latur
+
+Regnum: 339
+Date: December 31, 2005, 6:46 am
+Name1: kuldeep p. thakre
+Email1: kuldeep2005_nasa@yahoo.co.in
+Univ1: shivaji university,kolhapur
+Year1: second year of electrical engg
+Address: room no.1.03, hostel block-d,govt.college of engg.,karad.dist satara
+
+Regnum: 340
+Date: December 31, 2005, 7:08 am
+Name1: naiserg vakharia
+Email1: naiserg_swe@yahoo.com
+Univ1: saurashtra uni
+Year1: final
+Address: 4 amidhara app, rambaug maninagar ahmedabad 380008
+
+Regnum: 341
+Date: December 31, 2005, 8:27 am
+Name1: shetul
+Email1: shetul_thanaki@yahoo.co.uk
+Univ1: sp
+Year1: third
+Address: 13,swastik society,po:narmada nagar,bharuch,gujarat-392015
+
+Regnum: 342
+Date: December 31, 2005, 10:38 pm
+Name1: muddassar ali khan
+Email1: meddy_mbm29@yahoo.co.in
+Univ1: jai narain vyas university,jodhpur,rajasthan
+Year1: 3 year
+Address: lalchand sampatraj chhajer,manak chowk,inside ghantaghar,jodhpur
+
+Regnum: 343
+Date: January 1, 2006, 12:42 am
+Name1: ankit
+Email1: ankitmathur4u@yahoo.com
+Univ1: rajasthan university
+Year1: III
+Address: 7/22 mukta prasad nagar,
+bikaner
+
+Regnum: 344
+Date: January 1, 2006, 5:28 am
+Name1: Ravish
+Email1: ravish9992003@yahoo.co.in
+Univ1: Gujarat University
+Year1: 2003-2004
+Address: 2/A Shatiyam Apartments,
+Behind Saibaba Temple,
+Anant Society,
+Maninagar,Ahmedabad.
+
+Regnum: 345
+Date: January 1, 2006, 6:23 pm
+Name1: VIVEK R. DHODIA
+Email1: vivek_dhodia@rediffmail.com
+Univ1: pune
+Year1: B.E
+Address: 122 , TYPE 5 ,RDE COLONY ,DIGHI ,PUNE,411015
+
+Regnum: 346
+Date: January 1, 2006, 10:04 pm
+Name1: shailendra kumar
+Email1: shailendra_iitb@iitb.ac.in
+Univ1: iitb
+Year1: 2
+Address: h-13 b-323 iit pawai,
+mumbai
+
+Regnum: 347
+Date: January 1, 2006, 10:10 pm
+Name1: Sanjay Mishra
+Email1: sanjay143257@yahoo.com
+Univ1: RGPV (m.p.)
+Year1: 2nd
+Address: p-16 police radio colony bhadbhada road bh0pal
+
+Regnum: 348
+Date: January 2, 2006, 2:51 am
+Name1: nimish
+Email1: pnimish@iitb.ac.in
+Univ1: iit bombay
+Year1: 2nd
+Address: FLAT NO.202, JAYA SMRUTI  
+ R.T. ROAD, NEXT TO VAIBHAV HOTEL  
+ NEAR DAHISAR STATION (W)  
+ MUMBAI-400068  
+
+
+Regnum: 349
+Date: January 2, 2006, 4:21 am
+Name1: Amandeep Singh
+Email1: unik_aman@yahoo.com
+Univ1: Baba Banda Singh Engg. College,Fatehgarh Sahib,(Punjab Technical University)
+Year1: 3rd Year
+Address: B-36/36,Vikas Nagar, Pakhowal Road ,Ludhiana
+
+Regnum: 350
+Date: January 2, 2006, 5:29 am
+Name1: LAVE GUPTA
+Email1: lavegupta@yahoo.com
+Univ1: MUMBAI
+Year1: 3rd Year I.T.
+Address: C-18,MANISH VIJAY SOCIETY, VASI NAKA,
+CHEMBUR,MUMBAI-400074
+
+Regnum: 351
+Date: January 2, 2006, 5:31 am
+Name1: CHINMAY MODI
+Email1: chinmaya@yahoo.com
+Univ1: MUMBAI
+Year1: 3rd Year I.T.
+Address: B21,R.C.F. COLONY,
+CHEMBUR,MUMBAI-74
+
+Regnum: 352
+Date: January 2, 2006, 7:08 am
+Name1: abuabkar siddique
+Email1: abubakar_100@rediffmail.com
+Univ1: jntu
+Year1: 4th B.Tech
+Address: H.NO 20-3-914,
+shahgunj,hyderabad
+pin code:500002
+A.P
+
+Regnum: 353
+Date: January 2, 2006, 9:00 am
+Name1: Sudhanshu Sharma
+Email1: sudhanshu_sharma143@yahoo.com
+Univ1: Baba Banda Singh Bahadur Engineering College, Fatehgarh Sahib (Punjab Technical University, Jalandhar)
+Year1: 3rd Year
+Address: # C11/9, Beas Hospital, Beas, Distt.- Amritsar
+Pin- 143201 (PUNJAB)
+
+Regnum: 354
+Date: January 2, 2006, 10:11 am
+Name1: darshan
+Email1: dar26shan@yahoo.com
+Univ1: M.S University Of Baroda
+Year1: final
+Address: a-32 shrikant part,opp rameshwar mahadev,H.T. line road,subhanpura,baroda-23,gujarat,india
+
+Regnum: 355
+Date: January 2, 2006, 10:50 am
+Name1: saurabh vyas
+Email1: vyas_coolsaurabh@yahoo.com
+Univ1: jai narain vyas university,jodhpur,rajasthan
+Year1: iii year
+Address: 965 matra krapa sardarpura jodhpur rajasthan
+
+Regnum: 356
+Date: January 2, 2006, 11:05 am
+Name1: kedar
+Email1: kedarkale1@yahoo.com
+Univ1: VJTI
+Year1: thied year
+Address: b-11,2nd floor,sanskar jyot socy.,chittaranjan rd.,vile-parle (east),mumbai 400057
+
+Regnum: 357
+Date: January 2, 2006, 12:54 pm
+Name1: manish hassani
+Email1: manish_mbm_03@yahoo.com
+Univ1: MBM Engineering College, Jodhpur (Raj.)
+Year1: BE Third
+Address: Shastri Nagar g-115, Jodhpur (Raj.)
+
+Regnum: 358
+Date: January 2, 2006, 8:20 pm
+Name1: Chetan Khare
+Email1: chetan341785@yahoo.co.in
+Univ1: rgpv
+Year1: 2nd
+Address: B-27 Yashoda Parisar Kolar Road Bhopal (M.P)
+
+Regnum: 359
+Date: January 2, 2006, 8:44 pm
+Name1: Ashish Patel
+Email1: mail2_ashish@yahoo.co.in
+Univ1: rgpv
+Year1: 2nd
+Address: B-27 Yashoda Parisar Kolar Road Bhopal (M.P)
+
+Regnum: 360
+Date: January 2, 2006, 8:47 pm
+Name1: Priyanka Kaushik
+Email1: piyu_thelittlestar@yahoo.co.in
+Univ1: rgpv
+Year1: 2nd
+Address: B-27 Yashoda Parisar Kolar Road Bhopal (M.P)
+
+Regnum: 361
+Date: January 2, 2006, 8:50 pm
+Name1: Pooja Gupta
+Email1: pooja_gupta09@yahoo.co.in
+Univ1: rgpv
+Year1: 2nd
+Address: B-27 Yashoda Parisar Kolar Road Bhopal (M.P)
+
+Regnum: 362
+Date: January 2, 2006, 8:52 pm
+Name1: Swati Agrawal
+Email1: swati_agrawal10@yahoo.co.in
+Univ1: rgpv
+Year1: 2nd
+Address: B-27 Yashoda Parisar Kolar Road Bhopal (M.P)
+
+Regnum: 363
+Date: January 2, 2006, 9:21 pm
+Name1: aman
+Email1: amansri_nitk@yahoo.co.in
+Univ1: nitk surathkal
+Year1: 2nd
+Address: room no 49 , 3rd blk
+nitks hostels ,
+mangalore.
+pin - 575025
+
+Regnum: 364
+Date: January 2, 2006, 9:28 pm
+Name1: aman
+Email1: matrixicon@hotmail.com
+Univ1: nitk
+Year1: 2nd
+Address: room no 49 , 3rd block
+
+Regnum: 365
+Date: January 2, 2006, 11:21 pm
+Name1: yOGESH
+Email1: deyogesh_jain2006@yahoo.com
+Univ1: North Maharashtra University
+Year1: Final Year (E & TC)
+Address: C/O, New Abhay Cloth Centre, Main Road, Shahada, 6, Shastri MARKET, mAIN rOAD, sHAHADA, 425409 
+
+Regnum: 366
+Date: January 2, 2006, 11:25 pm
+Name1: Satwant Singh
+Email1: satwantsaini@gmail.com
+Univ1: P.T.U
+Year1: 3rd 
+Address: c/o Gurdev Kaur,
+V.P.O. Ladhana Jhikka
+VIA Banga,
+Distt Nawanshahr(144510)
+PUNJAB
+
+Regnum: 367
+Date: January 2, 2006, 11:41 pm
+Name1: Durvesh Kulkarni
+Email1: durveshkulkarni@gmail.com
+Univ1: Mumbai
+Year1: B.E
+Address: flat 17, gharkul chs, plot 12, sector 12, sanpada, new bombay, 400705
+
+Regnum: 368
+Date: January 2, 2006, 11:42 pm
+Name1: Navneet
+Email1: navneet.ts@gmail.com
+Univ1: Mumbai
+Year1: 2006
+Address: C-503, Balaji Aangan, Sector 3, PLot I-1, Kharghar, Navi Mumbai 410210
+
+Regnum: 369
+Date: January 3, 2006, 12:21 am
+Name1: abhishek satpute
+Email1: abhishek_inds@yahoo.co.in
+Univ1: pune
+Year1: 2006
+Address: IndianInstitute of Cost and Management Studies and Research
+85/1,Law College Road,Erandavane,Pune-04
+
+Regnum: 370
+Date: January 3, 2006, 1:51 am
+Name1: N.C.V.K.Srimannarayana
+Email1: sriman.civil@gmail.com
+Univ1: chaitanya barathi institute of technology ,Affiliated to osmania university 
+Year1: 3rd year civil
+Address: plot no 65,
+hno 4-12-34(636),
+vanasthali puram,
+kamala nagar ,
+hyderabad 500070
+
+Regnum: 371
+Date: January 3, 2006, 1:55 am
+Name1: parmeshwar Patil
+Email1: parmeshwar_patil2000@yahoo.com
+Univ1: srtmun
+Year1: 3rd year
+Address: patil p.m.
+SGGS boys hostel Nanded
+
+Regnum: 372
+Date: January 3, 2006, 2:31 am
+Name1: saurabh
+Email1: saurabhdeva@rediffmail.com
+Univ1: SGU
+Year1: IV
+Address: bunglow no 9, kothi compound railway colony, rajkot-360001
+
+Regnum: 373
+Date: January 3, 2006, 2:43 am
+Name1: Chaitanya Ghone
+Email1: csghone@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 4
+Address: H9/284, IIT Bombay,
+Powai - 400076
+
+Regnum: 374
+Date: January 3, 2006, 4:03 am
+Name1: krishna murthy karri
+Email1: kishan_karri@yahoo.com
+Univ1: andhra university
+Year1: 2 nd
+Address: room no :20 ,block 2 ,au engg hostels ,vizag
+
+Regnum: 375
+Date: January 3, 2006, 4:52 am
+Name1: Sachin shirwalkar
+Email1: sachins@iitb.ac.in
+Univ1: IITB
+Year1: 3rd
+Address: h3/267, iit bombay
+
+Regnum: 376
+Date: January 3, 2006, 5:45 am
+Name1: avinash karri
+Email1: avinashkarri@yahoo.co.in
+Univ1: godavari institute of engineering(JNTU)
+Year1: 3rd year
+Address: 79-7-36,old somalamma tempel st,rajahmundy-03.
+
+Regnum: 377
+Date: January 3, 2006, 5:47 am
+Name1: a naga srinivasu
+Email1: vasuans2007@yahoo.co.in
+Univ1: godavari institute of engineering(JNTU)
+Year1: 3rd year
+Address: 79-7-36,old somalamma tempel st,rajahmundry 03
+
+Regnum: 378
+Date: January 3, 2006, 6:11 am
+Name1: jateel
+Email1: jateel@gmail.com
+Univ1: nirma university
+Year1: 2006
+Address: old b type 
+b/6/52
+gidc colony
+vapi
+
+Regnum: 379
+Date: January 3, 2006, 8:06 am
+Name1: Rajat  Agarwal
+Email1: rajat.agarwal@yahoo.co.in
+Univ1: Uttar Pradesh Technical University
+Year1: 3
+Address: J.S.S. Academy of Technical Education
+Sec-62,Noida(201301) (u.p.)
+
+Regnum: 380
+Date: January 3, 2006, 8:28 am
+Name1: paresh bhandari
+Email1: paresh.m.bhandari@gmail.com
+Univ1: N.I.T.K
+Year1: 3rd
+Address: room no.106 7th block N.I.T.K.S hostels
+
+Regnum: 381
+Date: January 3, 2006, 9:01 am
+Name1: Prashanth Subrahmanyam
+Email1: prash_sub@yahoo.com
+Univ1: University of Pune
+Year1: 2002-2006
+Address: 201-7B Gurusharanam Complex, Panvel, New Bombay - 410206
+
+Regnum: 382
+Date: January 3, 2006, 9:42 am
+Name1: Anand Mane
+Email1: alwaysanand_m@yahoo.com
+Univ1: Mumbai
+Year1: T.E.civil
+Address: VJTI hostel D123
+Matunga Mumbai 400019
+
+Regnum: 383
+Date: January 3, 2006, 12:42 pm
+Name1: Dhruv Sakalley
+Email1: dhruvs84@gmail.com
+Univ1: SGSITS
+Year1: 4th
+Address: A 7 Bakhtawar Ram Nagar, Indore, MP
+452001
+
+Regnum: 384
+Date: January 3, 2006, 9:01 pm
+Name1: Rohan
+Email1: Shinde
+Univ1: IIT BOMBAY
+Year1: First Year
+Address: H-2,#67,IIT BOMBAY
+
+Regnum: 385
+Date: January 3, 2006, 9:05 pm
+Name1: Rohan Shinde
+Email1: jonty_pal143@yahoo.com
+Univ1: IIT BOMBAY
+Year1: First Year
+Address: H-2,#67,IIT BOMBAY,Powai,Mumbai-76.
+
+Regnum: 386
+Date: January 3, 2006, 9:50 pm
+Name1: Khedkar Kanchankumar Rangnath
+Email1: kris_khedkar@yahoo.co.in
+Univ1: Pune { College Of Engg. Pune}
+Year1: 3rd
+Address: C103, College Of Engineerinf Pune Hostel, Shivajinagar,Pune,05
+
+Regnum: 387
+Date: January 3, 2006, 10:05 pm
+Name1: Khedkar Kanchankumar Rangnath
+Email1: kris_coep@yahoo.co.in
+Univ1: Pune { College Of Engg. Pune}
+Year1: 3rd
+Address: C103, College Of Engineerinf Pune Hostel, Shivajinagar,Pune,05
+
+Regnum: 388
+Date: January 4, 2006, 12:00 am
+Name1: shirish kavitake
+Email1: shirish_kavitake@hotmail.com
+Univ1: PUNE
+Year1: third year
+Address: E-2/20, Shri Ganesh Niketan, Sasanenagar, Hadapsar- 28 
+
+
+Regnum: 389
+Date: January 4, 2006, 12:30 am
+Name1: jhjkh
+Email1: hkjhkjh@gfhg.com
+Univ1: hghjgjh
+Year1: hgjhgj
+Address: hjgjhghj
+
+Regnum: 390
+Date: January 4, 2006, 12:30 am
+Name1: jhjkh
+Email1: ddjhkjh@gfhg.com
+Univ1: hghjgjh
+Year1: hgjhgj
+Address: ddddddddd
+
+Regnum: 391
+Date: January 4, 2006, 6:59 am
+Name1: Alakh Naresh Gargiya
+Email1: alakh@cse.iitb.ac.in
+Univ1: IIT Bombay
+Year1: 2nd Year
+Address: h-2 room no.-237,
+iit bombay,
+powaii,
+mumbai-400076
+
+Regnum: 392
+Date: January 4, 2006, 7:14 am
+Name1: kalshitte baswaraj nilkanth
+Email1: bandu003@yahoo.com
+Univ1: S.R.T.M.U.Nanded
+Year1: S.E
+Address: Ram nagar,khandapurkar Niwas,Behind ICICI Bank,
+Latur-413512
+
+Regnum: 393
+Date: January 4, 2006, 8:50 am
+Name1: Ankit Gupta
+Email1: guptaankit@iitb.ac.in
+Univ1: IITB
+Year1: 2nd
+Address: room no.125, Hostel-5, IIT Bombay, Powai, Mumbai.
+
+Regnum: 394
+Date: January 4, 2006, 10:26 am
+Name1: amitabh kumar
+Email1: amitabhkr7@yahoo.com
+Univ1: svnit, surat
+Year1: 3rd
+Address: amitabh kumar, room no. df-1, svnit, ichhanath, surat-07, gujarat
+
+Regnum: 395
+Date: January 4, 2006, 10:56 am
+Name1: Avin Mittal
+Email1: avin@cse.iitb.ac.in
+Univ1: IITB
+Year1: 2nd
+Address: H-6, Room NO. 274,
+IIT Bombay.
+
+Regnum: 396
+Date: January 4, 2006, 7:15 pm
+Name1: namrata kurmi
+Email1: namrata_kurmi2003@yahoo.com
+Univ1: pune university
+Year1: second year
+Address: Namrata kurmi
+14/B,NIRMAN VIHAR ,
+MES OFFICER'S ENCLAVE,TARAPORE ROAD ,PUNE CAMP,PUNE-411001
+
+Regnum: 397
+Date: January 4, 2006, 11:01 pm
+Name1: sunil s gund
+Email1: sunil_gund@yahoo.com
+Univ1: pupe
+Year1: 2005/6
+Address: C.O.E.P. BOYS HOSTEL SHUVAJI NAGAR PUNE 05.
+
+Regnum: 398
+Date: January 4, 2006, 11:23 pm
+Name1: umesh agrawal
+Email1: uca_smarty@yahoo.co.in
+Univ1: RGPV BHOPAL
+Year1: 3 RD YEAR
+Address: HAZIBALI TALAB ADARSH NAGAR VIDISHA (M.p.)464001
+
+Regnum: 399
+Date: January 4, 2006, 11:53 pm
+Name1: Patel Maharshi
+Email1: maharashidpatel@yahoo.co.in
+Univ1: Gujarat
+Year1: 2005
+Address: 702/6/2,Chandramauleshwar Farm, Opp. Ashok-Vatika, Ambli-Bopal Road Ahmedabad-380058
+
+Regnum: 400
+Date: January 5, 2006, 2:24 am
+Name1: mohd osman
+Email1: osmmamhnk66@yahoo.com
+Univ1: jntu,hyderabad
+Year1: third year
+Address: mohd osman ,EEE
+c/o s.r.engineering  college, ananthasagar,hasanparthy,warangal,a.p.,506371
+
+Regnum: 401
+Date: January 5, 2006, 4:11 am
+Name1: harish
+Email1: harish.vasireddy@gmail.com
+Univ1: JNTU
+Year1: 2006
+Address: plot no-15,nayakranthi nagar,ECIL(post),hyderabad-500062
+
+Regnum: 402
+Date: January 5, 2006, 5:14 am
+Name1: samrat a. shinde
+Email1: samratshinde_2004@yahoo.co.in
+Univ1: U.I.C.T.
+Year1: S.Y.B.CHEM
+Address: 13-b,mahatma nagar,golibar,santacruz(e),mumbai-55.
+
+Regnum: 403
+Date: January 5, 2006, 6:07 am
+Name1: Pushkaraj Sherkar
+Email1: pushkaraj@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 2
+Address: 266,Hostel 9, IIT, Powai, Mumbai -400076
+
+Regnum: 404
+Date: January 5, 2006, 7:53 am
+Name1: Avtansh Agarwal
+Email1: avtansh@iitb.ac.in
+Univ1: IIT Bombay
+Year1: sophomore
+Address: 242/H9 IIT Bombay
+
+Regnum: 405
+Date: January 5, 2006, 9:43 am
+Name1: nitin pranami
+Email1: nitin11@iitb.ac.in
+Univ1: IITB
+Year1: 4th
+Address: room no 256 hostel 5
+IITB Powai
+
+Regnum: 406
+Date: January 5, 2006, 10:57 am
+Name1: Himanshu Asnani
+Email1: himanshu_asnani@iitb.ac.in
+Univ1: iit bombay
+Year1: first year
+Address: hostel 3
+room no. 130
+iit bombay
+
+Regnum: 407
+Date: January 5, 2006, 12:01 pm
+Name1: Mihir Mulay
+Email1: mihir_mailme@yahoo.co.in
+Univ1: IIT-Bombay
+Year1: First
+Address: Hostel No.3, Room No. 174, IIT-Bombay, Powai, Mumbai-76
+
+Regnum: 408
+Date: January 5, 2006, 8:46 pm
+Name1: sonal vasudeva
+Email1: faciletomail@yahoo.com
+Univ1: pune university
+Year1: iiird year
+Address: m-3,sneh paradise,infront of MIT.pune
+
+Regnum: 409
+Date: January 5, 2006, 10:56 pm
+Name1: deepak
+Email1: deepak_luv143@yahoo.com
+Univ1: nagpur
+Year1: 2005-2006
+Address: 2,mangalmurti appt .khare town, nagpur
+
+Regnum: 410
+Date: January 5, 2006, 11:50 pm
+Name1: vaibhav
+Email1: vaibhavkansel@yahoo.com
+Univ1: PEC Chandigarh
+Year1: second
+Address: 349 sector 22 chandigarh
+
+Regnum: 411
+Date: January 6, 2006, 12:05 am
+Name1: AMIT P. SHAH
+Email1: a_m_p_s2003@yahoo.com
+Univ1: DDU
+Year1: 2005-06
+Address: shah amit p., a-103 yashsvi aprt.,opp. ayrudic hosp. ,collage road, nadiad.
+
+Regnum: 412
+Date: January 6, 2006, 1:19 am
+Name1: Ravi kumar
+Email1: kumar_ravi@iitb.ac.in
+Univ1: iitb
+Year1: first
+Address: Room no.182,H#3
+IIt Bombay
+
+Regnum: 413
+Date: January 6, 2006, 2:19 am
+Name1: koushik ganguly
+Email1: koushik_439@rediffmail.com
+Univ1: svnit
+Year1: first
+Address: cg-3,hostel no 1 , bhabha bhawan , 
+svnit,
+ichchanath ,
+surat
+
+Regnum: 414
+Date: January 6, 2006, 4:10 am
+Name1: Digvijay Singh
+Email1: digiash2002@yahoo.co.in
+Univ1: Jaypee Institute Of Engineering & Technology
+Year1: 3rd
+Address: Digvijay Singh
+03219g
+Computer Science & Engineering
+3rd Year
+Raghogarh.473226
+GUNA(M.P.)
+
+Regnum: 415
+Date: January 6, 2006, 4:26 am
+Name1: nirav
+Email1: niravlakhani_nit10@yahoo.co.in
+Univ1: nirma UNIVERSITY
+Year1: 3rd
+Address: 8/19 Milpara
+"CHANDNI"
+RAJKOT 362001
+
+Regnum: 416
+Date: January 6, 2006, 4:45 am
+Name1: Sidharth Lal
+Email1: lal_sid@yahoo.co.in
+Univ1: UPTU
+Year1: Third
+Address: 1319,D-1,VASANT KUNJ , NEW DELHI - 110070
+
+Regnum: 417
+Date: January 6, 2006, 4:52 am
+Name1: VEDANT BAGRI
+Email1: vedantbagri@yahoo.com
+Univ1: nagpur
+Year1: third
+Address: 7, Damodar Layout 
+Near R.T.O Nagpur 440001
+
+Regnum: 418
+Date: January 6, 2006, 4:53 am
+Name1: Parag Balbudhe
+Email1: vedantbagrii@yahoo.com
+Univ1: nagpur
+Year1: third
+Address: 7, Damodar Layout 
+Near R.T.O Nagpur 440001
+
+Regnum: 419
+Date: January 6, 2006, 6:00 am
+Name1: SANDEEP KORI
+Email1: SANDEEP_2826@YAHOO.CO.IN
+Univ1: GEC JABALPUR(M.P.)
+Year1: 2ND
+Address: C/O SHRI SHIV KUMAR
+CCOR JONITOR RUNNING ROOM SAGAR
+(M.P.)
+
+
+Regnum: 420
+Date: January 6, 2006, 6:53 am
+Name1: sudarshan
+Email1: sud@hotmail.com
+Univ1: nagpur university
+Year1: 2nd year
+Address: SRKNEC,BOYS HOSTEL,
+ROOM NO.-A-314,
+GITTIKHADAN,
+NAGPUR-13.
+
+Regnum: 421
+Date: January 6, 2006, 6:58 am
+Name1: yash kumar singh
+Email1: singh_yash@iitb.ac.in
+Univ1: IIT-B
+Year1: 1
+Address: YASH KUMAR SINGH , HOSTEL-3/114
+
+Regnum: 422
+Date: January 6, 2006, 7:11 am
+Name1: ashutosh jindal
+Email1: ashu_jindal@iitb.ac.in
+Univ1: IIT-B
+Year1: 1
+Address: hostel-3/180
+
+Regnum: 423
+Date: January 6, 2006, 7:27 am
+Name1: veena vajpey
+Email1: veena_vajpey@yahoo.com
+Univ1: JNTU
+Year1: B-Tech 3rd year
+Address: h.no-105,hig-3,annamaiya enclave,hyderabad
+
+Regnum: 424
+Date: January 6, 2006, 7:29 am
+Name1: praveen
+Email1: mallipudi_praveen@yahoo.com
+Univ1: JNTU
+Year1: B-Tech 3rd year
+Address: HIG-3,H.NO-124,BHEL,HYDERABAD
+
+Regnum: 425
+Date: January 6, 2006, 9:50 am
+Name1: vikas
+Email1: vikas.nitk@gmail.com
+Univ1: nitk
+Year1: 2
+Address: #84 IV block
+ nitk surathkal
+
+Regnum: 426
+Date: January 6, 2006, 10:54 am
+Name1: anuj christian
+Email1: anujchristian@yahoo.co.in
+Univ1: gujarat university
+Year1: 2006
+Address: 10,church view society,bhalej road anand-388001
+gujarat
+
+Regnum: 427
+Date: January 6, 2006, 9:53 pm
+Name1: pankaj kumar
+Email1: pkumar84@rediffmail.com
+Univ1: pune
+Year1: 2006
+Address: p & t colony,upnagar,
+qtr.no.4,type 4,
+upnagar,nasik
+
+
+Regnum: 428
+Date: January 6, 2006, 9:56 pm
+Name1: preetish
+Email1: pritesh4u@yahoo.com
+Univ1: pune
+Year1: 2006
+Address: datta mandir,nashik rd,nashik.
+
+Regnum: 429
+Date: January 6, 2006, 10:07 pm
+Name1: saumil
+Email1: saumilparmar@gmail.com
+Univ1: pune
+Year1: 2006
+Address: 40/mochi bldg,n.s.rd,mulund(w)mumbai-400080
+
+Regnum: 430
+Date: January 6, 2006, 10:34 pm
+Name1: soumya pathak
+Email1: smy_pathak@yahoo.co.in
+Univ1: manit,bhopal
+Year1: 3
+Address: E-109/41 shivaji nagar Bhopal(M.P.)
+
+Regnum: 431
+Date: January 6, 2006, 11:36 pm
+Name1: MAYANK DEWAN
+Email1: macval.manu@gmail.com
+Univ1: PUNJAB ENGINEERING COLLEGE
+Year1: SECOND
+Address: #3293 , SECTOR 23 , CHANDIGARH
+
+Regnum: 432
+Date: January 6, 2006, 11:56 pm
+Name1: Prateek Jain
+Email1: prateekjain@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 3rd
+Address: Hostel 13,Room C-235
+IIT Bombay, Powai
+Mumbai
+
+Regnum: 433
+Date: January 7, 2006, 1:11 am
+Name1: Vighnesh mehta
+Email1: vighnesh.mehta@rediffmail.com
+Univ1: mumbai
+Year1: second
+Address: swagatam,s.v.rd,khar-(w),mumbai-400052
+
+Regnum: 434
+Date: January 7, 2006, 1:33 am
+Name1: Archit Parakh
+Email1: archit@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 3
+Address: H-13, C-236, IIT Bombay, Powai, Mumbai
+
+Regnum: 435
+Date: January 7, 2006, 1:36 am
+Name1: praveen kumar
+Email1: praveenkumar_dilse@yahoo.co.in
+Univ1: MPUAT udaipur
+Year1: 2005-06
+Address: praveen kumar s/oR S meena mali para jaisalmer raj 345001
+
+Regnum: 436
+Date: January 7, 2006, 1:42 am
+Name1: iqbal mallick
+Email1: iqbal_mallick147@yahoo.co.in
+Univ1: nirma university of science and technology
+Year1: 3rd year
+Address: b-1002 vasupujya appartment,
+opp fun republic,
+near iscon temple,
+satellite,
+ahmedabad-380015
+
+Regnum: 437
+Date: January 7, 2006, 4:21 am
+Name1: pradeep
+Email1: pradepmeka@yahoo.com
+Univ1: jntu
+Year1: 3rd year
+Address: 23-18,sri ram nagar,dsnr,hyd-60
+
+Regnum: 438
+Date: January 7, 2006, 4:39 am
+Name1: Simit S.Pradhan
+Email1: simitp@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 2nd
+Address: H3#269, IIT Bombay-400076
+
+Regnum: 439
+Date: January 7, 2006, 5:54 am
+Name1: Gagandeep Singh Brar
+Email1: brargagan@gmail.com
+Univ1: P.T.U
+Year1: 3year ,E.C.E
+Address: Gobindgarh Basti ,
+Hno -89 / W - 5,
+Moga 
+(Punjab)
+pin - 142001
+
+Regnum: 440
+Date: January 7, 2006, 6:18 am
+Name1: Digambar Yedage
+Email1: digambaryedage@rediffmail.com
+Univ1: Shivaji University, Kolhapur
+Year1: 2005-2006
+Address: Boy's Hostel 
+College of Engg. Pandharpur,
+pin-413304
+
+Regnum: 441
+Date: January 7, 2006, 6:36 am
+Name1: Asad Ali
+Email1: asad54@iitb.ac.in
+Univ1: IITB
+Year1: 2nd
+Address: Room # 211, H-8, IIT Bombay
+
+Regnum: 442
+Date: January 7, 2006, 9:15 am
+Name1: Hrishikesh S.lad
+Email1: hrishi.lad@rediffmail.com
+Univ1: Amravati
+Year1: third
+Address: 20,Mahabank Colony,
+Sainagar ,Amravati
+444604
+
+
+Regnum: 443
+Date: January 7, 2006, 9:25 am
+Name1: karamveer
+Email1: nike_nike
+Univ1: SVNIT
+Year1: III
+Address: AG-27,H-8
+
+Regnum: 444
+Date: January 7, 2006, 10:49 am
+Name1: PRANAV JOSHI
+Email1: pranavjoshi64
+Univ1: Maharaja Sayajirao University, VAdodara
+Year1: B.E.-3rd Year
+Address: BD/36, Shrikunj Kutir, Opp. Yash complex, Near Vuda Flats,Gotri Road, Vadodara-390021.
+
+Regnum: 445
+Date: January 7, 2006, 12:25 pm
+Name1: Rohan Khandelwal
+Email1: khandelwal_rohan@rediffmail.com
+Univ1: Nagpur
+Year1: Final
+Address: 310, Devanjali Apartments, Reshimbagh, Nagpur
+
+Regnum: 446
+Date: January 7, 2006, 2:33 pm
+Name1: Rohan Khandelwal
+Email1: rohan_genxt@yahoo.co.in
+Univ1: Nagpur
+Year1: Final
+Address: 310, Devanjali Apartments, Reshimbagh, Nagpur
+
+Regnum: 447
+Date: January 7, 2006, 2:36 pm
+Name1: Rohan Khandelwal
+Email1: rohan_genxt@hotmail.com
+Univ1: Nagpur
+Year1: Final
+Address: 310, Devanjali Apartments, Reshimbagh, Nagpur
+
+Regnum: 448
+Date: January 7, 2006, 10:57 pm
+Name1: Vamsi
+Email1: vamsiganti@gmail.com
+Univ1: IIT Madras
+Year1: 3rd year
+Address: #448, Jamuna
+IIT Madras
+Chennai - 600036
+
+Regnum: 449
+Date: January 7, 2006, 11:17 pm
+Name1: Rahul Sharma
+Email1: rahulsharma@iitb.ac.in
+Univ1: IITB
+Year1: 3
+Address: H-13 C-225
+IIT Bombay
+Powai-76
+
+Regnum: 450
+Date: January 7, 2006, 11:34 pm
+Name1: pranav kashyap
+Email1: kashyap_pranav@rediffmail.com
+Univ1: IIT Bombay
+Year1: 1st
+Address: 125 hostel 3,iit bombay,powai,mumbai - 76
+
+Regnum: 451
+Date: January 8, 2006, 12:58 am
+Name1: Sunil Gupta 
+Email1: sunil@aero.iitb.ac.in
+Univ1: IIT Bombay
+Year1: 3rd year
+Address: H-13/A/312 IIT Bombay 
+powai,Mumbai-76
+
+Regnum: 452
+Date: January 8, 2006, 1:08 am
+Name1: nimit patel
+Email1: nimitpatel_2004
+Univ1: saurastra univessity
+Year1: 2005
+Address: 6/7, manhar plot,
+mangla road
+rajkot 360002.
+
+Regnum: 453
+Date: January 8, 2006, 3:10 am
+Name1: kameswara rao akella
+Email1: kamesh_asp@rediffmail.com
+Univ1: jntu
+Year1: 2004
+Address: plot no 239
+vasanth nagar
+hyderabad-500072
+
+Regnum: 454
+Date: January 8, 2006, 4:34 am
+Name1: Chirag Rabhadiya
+Email1: maxchirag@yahoo.co.in
+Univ1: Sardar Patel University , Vallabh vidhyanagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple motabazar, v.vnagar anand
+
+Regnum: 455
+Date: January 8, 2006, 4:36 am
+Name1: Niral Soni
+Email1: soniniral@yahoo.co.in
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 456
+Date: January 8, 2006, 4:37 am
+Name1: Sanjay Varmora
+Email1: hello_sanju2001@yahoo.com
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 457
+Date: January 8, 2006, 4:39 am
+Name1: Alkesh Bhesaniya
+Email1: niralsoni@hotmail.com
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 458
+Date: January 8, 2006, 4:40 am
+Name1: Indrajeet Jadeja
+Email1: niralhsoni@hotmail.com
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 459
+Date: January 8, 2006, 4:41 am
+Name1: Ankit Shah
+Email1: niralhsoni@rediffmail.com
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 460
+Date: January 8, 2006, 4:42 am
+Name1: Pankaj Patel
+Email1: niralsoni@sify.com
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 461
+Date: January 8, 2006, 4:43 am
+Name1: Abhshhek Suthar
+Email1: tinu_101@yahoo.com
+Univ1: Sardar Patel University vallabh vidhya nagar
+Year1: 2006
+Address: vinod-smruti, behind ISCKON temple, motabazar, v.v.nagar anand
+
+Regnum: 462
+Date: January 8, 2006, 5:46 am
+Name1: chidara sunil kumar
+Email1: sunil24386@iitb.ac.in
+Univ1: I.I.T Bombay
+Year1: Third
+Address: Hostel 13, room a/311,IIT Bombay,Powai
+Mumbai-400076
+
+Regnum: 463
+Date: January 8, 2006, 10:08 am
+Name1: Puneet Daryani
+Email1: puneetdaryani@gmail.com
+Univ1: IIT Bombay
+Year1: 3rd
+Address: C-232 ,Hostel 13 ,
+IIT Bombay ,Powai ,Mumbai
+
+Regnum: 464
+Date: January 8, 2006, 10:56 am
+Name1: Agarwal Robin B.
+Email1: robinagarwal@iitb.ac.in
+Univ1: iitb
+Year1: first
+Address: h4/376,iitb,mumbai
+
+Regnum: 465
+Date: January 8, 2006, 11:07 am
+Name1: T.N.Karthik
+Email1: tnkarthik.iitm@gmail.com
+Univ1: IIT MADRAS
+Year1: 3
+Address: ROOM NO 360,GODAVARI HOSTEL,IIT MADRAS,CHENNAI-600036
+
+Regnum: 466
+Date: January 8, 2006, 9:45 pm
+Name1: girish
+Email1: g.renapure@gmail.com
+Univ1: autonomus
+Year1: 2005-06
+Address: Udgir;
+dist-Latur
+
+Regnum: 467
+Date: January 8, 2006, 10:14 pm
+Name1: Sachetan B Mushigeri
+Email1: mushigerisachetan@rediffmail.com
+Univ1: IIT Roorkee
+Year1: Final Year
+Address: G-111, Govind Bhawan,
+IIT Roorkee, Roorkee 247667
+Uttaranchal
+
+Regnum: 468
+Date: January 8, 2006, 11:15 pm
+Name1: Umesh saindane
+Email1: saindane_007@yahoo.co.in
+Univ1: Gujarat uni.
+Year1: 4th
+Address: B/6 Amar soc.
+makarpura 
+vadodara-10
+
+Regnum: 469
+Date: January 8, 2006, 11:17 pm
+Name1: vaibhav
+Email1: vaibhav_d85@yahoo.com
+Univ1: bamu
+Year1: final year
+Address: 61,surana nagar , jalna road aurangabad , maharashtra
+
+Regnum: 470
+Date: January 9, 2006, 12:31 am
+Name1: Vishvdeep singh rao
+Email1: vagabond1103@rediffmail.com
+Univ1: MPUAT udaipur
+Year1: 2 yr. Mechanical
+Address: L-362,sec no. 9, savina khera, Udaipur,(RAJ.)
+
+Regnum: 471
+Date: January 9, 2006, 1:55 am
+Name1: Ketki Garibdas
+Email1: ketakigaribdas@rediffmail.com
+Univ1: nagpur
+Year1: 3rd
+Address: 1/A Buty Layout,Dharampeth Extention, Nagpur-10
+
+Regnum: 472
+Date: January 9, 2006, 1:55 am
+Name1: Alol Nikhil
+Email1: alok.nikhil@gmail.com
+Univ1: RGPV
+Year1: 3
+Address: Flat no.5, E7/8 PARPATI APPT., AREra Colony  bHOPAL
+
+Regnum: 473
+Date: January 9, 2006, 4:08 am
+Name1: kedar
+Email1: kedark11@hotmail.com
+Univ1: vjti
+Year1: 3rd year
+Address: b-11,sanskar jyot socy.,chittaranjan rd.,vile-parle(E),mumbai 400057
+
+Regnum: 474
+Date: January 9, 2006, 4:10 am
+Name1: vaibhav
+Email1: vaibhav_vaidya@yahoo.co.in
+Univ1: SRTMU
+Year1: 2nd year 
+Address: c/o R.D.VAIDYA,"SUKANYA",BHAGYA NAGAR NANDED.431605
+
+Regnum: 475
+Date: January 9, 2006, 5:57 am
+Name1: RVRK Abhishek Sharma
+Email1: rvrkabhisheksharma@gmail.com
+Univ1: University of Rajasthan
+Year1: 4
+Address: P-87,RBI Officers Quarters,Gandhi Nagar,Jaipur 302015
+
+Regnum: 476
+Date: January 9, 2006, 6:46 am
+Name1: Bhushan Borgaonkar
+Email1: bhushan_borgaonkar@rediffmail.com
+Univ1: Pune
+Year1: 2nd year
+Address: c/o M.T.Kamathi,
+48/F,alok nagri,kasba peth,
+Pune-11
+
+Regnum: 477
+Date: January 9, 2006, 7:23 am
+Name1: Yogesh Chaudhari
+Email1: mr.yogesh@gmail.com
+Univ1: Pune
+Year1: third
+Address: 4 surya park, 137/2 vidyavilas cly. off iti rd. gaikwad ngr, aundh, pune 411007
+
+Regnum: 478
+Date: January 9, 2006, 7:44 am
+Name1: dhiren
+Email1: dhiren_5253@yahoo.co.in
+Univ1: gujarat unio.site,baroda
+Year1: 2005
+Address: FA\8 ALEMBIC COLONY
+B\H PRAGTI BANK,
+GORWA ROAD,
+BARODA-390003
+
+Regnum: 479
+Date: January 9, 2006, 8:19 am
+Name1: Ashish Chaturvedi
+Email1: ashish_getnow@yahoo.co.in
+Univ1: IITKGP
+Year1: 3
+Address: C 113 RK Hall
+IIT Kharagpur
+W.B.
+
+Regnum: 480
+Date: January 9, 2006, 8:33 am
+Name1: manasvi kumar dixit
+Email1: dixitm@iitb.ac.in
+Univ1: iitb
+Year1: 2005
+Address: hostle 5/39
+
+Regnum: 481
+Date: January 9, 2006, 8:34 am
+Name1: anuj kumar sinha
+Email1: anujsinha@iitb.ac.in
+Univ1: iitb
+Year1: 2005
+Address: hostel 5/23
+
+Regnum: 482
+Date: January 9, 2006, 8:36 am
+Name1: dushyant bhardwaj
+Email1: dkbhardwaj@iitb.ac.in
+Univ1: iitb
+Year1: 2005
+Address: hostel   5/ 14
+
+Regnum: 483
+Date: January 9, 2006, 8:59 am
+Name1: anshu
+Email1: anshu.singh85
+Univ1: svnit
+Year1: third
+Address: ag-10,h-8,svnit,surat
+
+Regnum: 484
+Date: January 9, 2006, 8:59 am
+Name1: Sunil Gupta
+Email1: sunil_aero@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 3rd year
+Address: H-13/A/312 IIT Bombay
+powai,Mumbai-76
+
+Regnum: 485
+Date: January 9, 2006, 9:00 am
+Name1: arisetty bala krishna
+Email1: arisetty_krishna@yahoo.com
+Univ1: jntu
+Year1: 2002-2006
+Address: hno-7-33/1/g4,sri sai enclave,ss nagar,street no 8,habsiguda,hyderabad,500007
+
+Regnum: 486
+Date: January 9, 2006, 9:02 am
+Name1: mohit
+Email1: sango_comps@rediffmail.com
+Univ1: svnit
+Year1: third
+Address: ag-13,h-8,svnit,surat,gujarat
+
+Regnum: 487
+Date: January 9, 2006, 9:06 am
+Name1: saakshi
+Email1: saakshi.datta@rediffmail.com
+Univ1: svnit
+Year1: third
+Address: ag-10,h-8,svnit,surat
+
+Regnum: 488
+Date: January 9, 2006, 9:08 am
+Name1: minukuri rajender reddy
+Email1: m_ra5ender@yahoo.co.in
+Univ1: jntu
+Year1: 2002-2006
+Address: h.no:1-7-40/a,street no :8,s s nagar,habsiguda,sec:500007
+
+Regnum: 489
+Date: January 9, 2006, 9:18 am
+Name1: karamveer
+Email1: kgauthwal@gmail.com
+Univ1: SVNIT
+Year1: third
+Address: Room No AG-27,
+Hostal-8
+
+Regnum: 490
+Date: January 9, 2006, 10:08 am
+Name1: sourabh shrotriya
+Email1: studengineer@gmail.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 491
+Date: January 9, 2006, 10:09 am
+Name1: bharat mangwani
+Email1: bharatmangwani@yahoo.co.in
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 492
+Date: January 9, 2006, 10:10 am
+Name1: bharat manwani
+Email1: bharatmangwani@yahoo.co.uk
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 493
+Date: January 9, 2006, 10:14 am
+Name1: nimesh jain
+Email1: nimeshjain123@gmail.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 494
+Date: January 9, 2006, 10:15 am
+Name1: rahul jain
+Email1: rahul.jain12@rediffmail.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 495
+Date: January 9, 2006, 10:15 am
+Name1: prateek neema
+Email1: prateek_neema@rediffmail.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 496
+Date: January 9, 2006, 10:16 am
+Name1: pankaj mantri
+Email1: pankybe3005@sify.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 497
+Date: January 9, 2006, 10:18 am
+Name1: harsh maheshwari
+Email1: harsh007_1847@rediffmail.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 498
+Date: January 9, 2006, 10:19 am
+Name1: dev prakash sahu
+Email1: dev.sahu@rediffmail.com
+Univ1: R.J.P.V
+Year1: 3rd
+Address: 101,bank colony,annpurna road indore,M.P.
+
+Regnum: 499
+Date: January 9, 2006, 11:14 am
+Name1: abir
+Email1: abir_showstopper
+Univ1: nagpur
+Year1: final
+Address: 59, malviya nagar, khamla,
+nagpur-440025
+
+Regnum: 500
+Date: January 9, 2006, 11:35 am
+Name1: sunny
+Email1: sunny_agrawal1984@rediffmail.com
+Univ1: rajeev gandhi
+Year1: 2006
+Address: 73, gomti colony , nehru nagar, bhopal
+
+Regnum: 501
+Date: January 9, 2006, 3:07 pm
+Name1: Balaji.P
+Email1: ulalala@rediffmail.com
+Univ1: NITT
+Year1: II
+Address: #19, Diamond Hostel,
+National Institute of Technology,
+Trichy - 620015
+
+Regnum: 502
+Date: January 9, 2006, 7:44 pm
+Name1: Kamath Bipin
+Email1: kamath.be@gmail.com
+Univ1: Mumbai
+Year1: B.E.
+Address: 3/41, Dattatraya Bldgs, Tukaram Javaji Road, Grant Road (W), Mumbai-400007
+
+Regnum: 503
+Date: January 9, 2006, 9:55 pm
+Name1: abhay shanker
+Email1: abhayshanker@gmail.com
+Univ1: panjab university , chandigarh
+Year1: 2nd 
+Address: rom no.-54,block no.-5,hostel no.-3,panjab university,chandigarh
+
+Regnum: 504
+Date: January 9, 2006, 10:07 pm
+Name1: Lokesh
+Email1: lokeshddwivedi@yahoo.com
+Univ1: K.J. somaiya
+Year1: 2006
+Address: Shanti -Nagar,Natwar Nagar Road No. 5
+Jogeshwari-east
+Mumbai
+
+Regnum: 505
+Date: January 9, 2006, 11:15 pm
+Name1: kaushal s chhatbar
+Email1: kaushal_chhatbar@rediffmail.com
+Univ1: gujarat university
+Year1: second
+Address: 12,umesh colony,
+nr. old pilot dairy,
+kankaria road,
+ahmedabad
+gujarat 380022
+
+Regnum: 506
+Date: January 9, 2006, 11:40 pm
+Name1: ROOPA GANIGER
+Email1: deepsganiger@yahoo.co.in
+Univ1: PUNE
+Year1: T.E[E&TC]
+Address: C.B.GANIGER,
+GURUKRAPA.DHORE NAGAR,SANGHVI,PUNE-27
+
+Regnum: 507
+Date: January 10, 2006, 12:24 am
+Name1: veneel
+Email1: veneel@gmail.com
+Univ1: osmania
+Year1: BE 3rd year
+Address: 5-435,hyderabad,AP
+
+Regnum: 508
+Date: January 10, 2006, 12:48 am
+Name1: tanuj makati
+Email1: emailtanuj@google.com
+Univ1: s.p.
+Year1: 2nd
+Address: "ruturaj"sujata plot no9, gotri road, vadodara-390021
+
+Regnum: 509
+Date: January 10, 2006, 1:28 am
+Name1: patel divyangkumar bharatbhai
+Email1: divpatel123@hotmail.com
+Univ1: m.s university, vadodara
+Year1: 2006
+Address: 48, amar jyot soc., sindhwai mata rd., manjalpur, vadodara. gujarat.
+
+Regnum: 510
+Date: January 10, 2006, 1:33 am
+Name1: satish kumar
+Email1: satish_aryan@indiatimes.com
+Univ1: dr.m.g.r educational and research institute
+Year1: 2006
+Address: satish kumar,72,pillayar kovil street,golden gorge nagar,mugappair ,chennai-107
+
+Regnum: 511
+Date: January 10, 2006, 2:03 am
+Name1: pritish
+Email1: pritish4umeet@yahoo.com
+Univ1: PUNE
+Year1: 2002
+Address: 6,SURASHAKTI SOCIETY ,K J MEHATA ROAD JAGATAP MALA, NASIK ROAD NASHIK MAHARASTRA
+
+Regnum: 512
+Date: January 10, 2006, 2:47 am
+Name1: rishi khowala
+Email1: talentedrishi@yahoo.co.in
+Univ1: m.p.u.a.t,rajasthan
+Year1: 2nd year b.e.student(computer science&engineering,c.t.a.e,udaipur
+Address: rishi khowala
+room no 65,
+m.v.hostel,
+c.t.a.e,udaipur,
+rajasthan
+
+Regnum: 513
+Date: January 10, 2006, 3:17 am
+Name1: Vipin B Malokar
+Email1: vipin_malokar3k
+Univ1: VEER NARMAD SOUTH GUJARAT UNI.
+Year1: 2006
+Address: A/63 SANMAN PARK,
+MANJALPUR,
+BARODA 390011
+GUJARAT.
+
+Regnum: 514
+Date: January 10, 2006, 4:05 am
+Name1: k.chandrasekhar
+Email1: chandu744@yahoo.com
+Univ1: iit madras
+Year1: 1st year
+Address: k.chandra sekhar,d.no:1-277,dwaraka nagar,anantapur.
+
+
+Regnum: 515
+Date: January 10, 2006, 4:58 am
+Name1: Nitish Kumar
+Email1: nitish_kumar@iitb.ac.in
+Univ1: IIT Powai , Mumbai
+Year1: First  year
+Address: Nitish kumar
+Hostel 4 Room no.-337
+IIT powai campus
+Mumbai-400076
+
+Regnum: 516
+Date: January 10, 2006, 5:18 am
+Name1: RAJ RUPAREL
+Email1: raaz_rprl@yahoo.co.in
+Univ1: MUMBAI
+Year1: THIRD YEAR OF B.E
+Address: 401,SHREENATH COMPLEX(B),P.K ROAD EXTENSION,NEAR RAJA INDUSTRIAL ESTATE,MULUND WEST,MUMBAI-400080
+
+Regnum: 517
+Date: January 10, 2006, 5:30 am
+Name1: VENU MADHAV REDDY AMUDALA
+Email1: avmreddy@gmail.com
+Univ1: SASTRA (DEEMED UNIVERSITY)
+Year1: THIRD
+Address: ROOM NO:123,
+PARAMANANDA VIHAR,
+SASTRA (DEEMED UNIVERSITY),
+TIRUMALAISAMUDRAM,
+THANJAVUR,
+TAMIL NADU,
+PIN-613402
+
+Regnum: 518
+Date: January 10, 2006, 5:59 am
+Name1: Vinay
+Email1: vinay0110@gmail.com
+Univ1: Vishveshwariah Technological
+Year1: 2006
+Address: # S- 93, KEC Colony,
+Basaveshwarnagar,
+Bangalore-79
+
+Regnum: 519
+Date: January 10, 2006, 6:13 am
+Name1: Richa Arora
+Email1: richa21@gmail.com
+Univ1: Pune University
+Year1: 2006
+Address: Row House#1 Hill View Residency ,Baner Road Pune-411045
+
+Regnum: 520
+Date: January 10, 2006, 6:18 am
+Name1: sonam sinha
+Email1: rj_sinha23@yahoo.com
+Univ1: pune university
+Year1: III year computer engineering
+Address: m-3 sneh paradise, in front of MIT college. pune 411038.maharashtra
+
+Regnum: 521
+Date: January 10, 2006, 7:00 am
+Name1: amar suhas kulkarni
+Email1: amar_genesis@yahoo.com
+Univ1: maharashtra govt.
+Year1: foundation
+Address: 216,narayan peth akshay apt.n.c.kelkar road,pune-411030
+
+Regnum: 522
+Date: January 10, 2006, 8:08 am
+Name1: kapil kapoor
+Email1: kapilkapoor2003@yahoo.com
+Univ1: National Institute Of Technology,Tiruchirapalli
+Year1: second year
+Address: room no # 23
+diamond hostel
+nit trichy
+620015
+
+Regnum: 523
+Date: January 10, 2006, 8:43 am
+Name1: AMIT MANGE
+Email1: AMITMANGE
+Univ1: MUMBAI
+Year1: THIRD YEAR OF B.E
+Address: 6,MANI MANEK C.H.S,GAVAND PATH,NAUPADA,THANE(W).PIN CODE-400602
+
+Regnum: 524
+Date: January 10, 2006, 8:45 am
+Name1: AMRUTSINGH PATIL
+Email1: amrutpatil007@yahoo.co.in
+Univ1: solapur uni. solapur
+Year1: 2005-06
+Address: r.no 19 hostel no 3 wit solapur
+
+Regnum: 525
+Date: January 10, 2006, 8:47 am
+Name1: Kedar Halbe
+Email1: kd.kstorm@gmail.com
+Univ1: Rizvi College of Engineering
+Year1: BE
+Address: 701, Rushabh Tower,
+Jakaria Bunder Cross Road,
+Sewri (W),
+Mumbai - 400 015
+
+Regnum: 526
+Date: January 10, 2006, 8:49 am
+Name1: R.Prithi
+Email1: prith35_kp@yahoomail.com
+Univ1: SVNIT,Surat
+Year1: 3rd
+Address: A-101,Prem vihar,umra-ichhanath road,ichhanath,surat,gujarat-395007
+
+Regnum: 527
+Date: January 10, 2006, 9:47 pm
+Name1: SONAM BHARGAVA
+Email1: sonam17khushi@yahoo.co.in
+Univ1: MNIT JAIPUR
+Year1: SECOND
+Address: MNIT GIRLS HOSTEL.ROOM NO 103 B BLOCK JAIPUR
+
+Regnum: 528
+Date: January 10, 2006, 10:35 pm
+Name1: Aravind.B.S
+Email1: aravind.belavadi@gmail.com
+Univ1: V.T.U
+Year1: 3rd
+Address: "Srimatha", 1st Main Road, Shanthi-Nagar, Hassan-573201
+
+Regnum: 529
+Date: January 11, 2006, 4:55 am
+Name1: S Madhav
+Email1: s_madhav@iitb.ac.in
+Univ1: IIT BOMBAY
+Year1: Second
+Address: room no. 310,
+hostel 3,
+iit bombay,
+powai,mumbai-400076
+
+Regnum: 530
+Date: January 11, 2006, 5:02 am
+Name1: vinod
+Email1: vinodkush@iitb.ac.in
+Univ1: iitb
+Year1: 3rd
+Address: IITB H-5 Room No.-269
+
+Regnum: 531
+Date: January 11, 2006, 5:56 am
+Name1: Harsh Maheshwari
+Email1: maheshwari99@iitb.ac.in
+Univ1: IIT  Bombay
+Year1: FIRST
+Address: 188, H#3
+IIT POWAI
+
+Regnum: 532
+Date: January 11, 2006, 6:10 am
+Name1: Mange Amit
+Email1: amit7999@yahoo.com
+Univ1: Mumbai university
+Year1: 3rd year Engineering
+Address: 6,Mani Manek ,Gavandpath,Naupada ,Thane(w). PIN-400602.
+
+Regnum: 533
+Date: January 11, 2006, 6:13 am
+Name1: nn
+Email1: n@fff.com
+Univ1: tyyutyu
+Year1: yuytyut
+Address: yutyut
+
+Regnum: 534
+Date: January 11, 2006, 6:36 am
+Name1: sandesh
+Email1: sandesh_p@iitb.ac.in
+Univ1: IITB
+Year1: 3rd
+Address: H-8 Rm 104
+IIT Bombay,powai
+Mumbai-76
+
+Regnum: 535
+Date: January 11, 2006, 7:16 am
+Name1: mihir bipin shah
+Email1: mihir_bshah@yahoo.co.in
+Univ1: sardar patel university
+Year1: third
+Address: 20,gajanan park soc.,
+b/h dudheshwar soc.,
+ajwa rd., 
+baroda-390019
+gujarat
+
+Regnum: 536
+Date: January 11, 2006, 7:56 am
+Name1: nitin verma
+Email1: lovenitin@gmail.com
+Univ1: iit bombay
+Year1: second
+Address: room no.232
+hostel 4
+iit bombay 
+powai mumbai 400076
+
+Regnum: 537
+Date: January 11, 2006, 9:29 am
+Name1: Gauri S Bindu
+Email1: gauri_bindu@yahoo.com
+Univ1: B. A. M. U.
+Year1: T. E.
+Address: 102, Malkhare Arcade, 
+Opp:M S M Stadium, Khadkeshwar, Aurangabad 431001
+
+Regnum: 538
+Date: January 11, 2006, 9:53 am
+Name1: Rashmi Hegde
+Email1: ras8ros@yahoo.com
+Univ1: JNTU
+Year1: third
+Address: 3-4-114/17 , lane no:6 , sai chitra nagar , ramanthapur , hyderabad-500013
+
+Regnum: 539
+Date: January 11, 2006, 10:39 am
+Name1: Himanshu Pandey
+Email1: himanshupandey@is.iiita.ac.in
+Univ1: Indian Institute of Information Technology, Allahabad
+Year1: 2006
+Address: Room No:108,
+Boys Hostel,
+IIITA,
+Jhalwa,
+Allahabad
+PIN-211012
+
+Regnum: 540
+Date: January 11, 2006, 10:41 am
+Name1: Prateek Dayal
+Email1: contactprateekdayal@yahoo.com
+Univ1: Indian Institute of Information Technology, Allahabad
+Year1: 2006
+Address: Room No:108,
+Boys Hostel,
+IIITA,
+Jhalwa,
+Allahabad
+PIN-211012
+
+Regnum: 541
+Date: January 11, 2006, 10:43 am
+Name1: Mansi Garg
+Email1: mansigarg83@rediffmail.com
+Univ1: Indian Institute of Information Technology, Allahabad
+Year1: 2006
+Address: Room No:102,
+Girls Hostel,
+IIITA,
+Jhalwa,
+Allahabad
+PIN-211012
+
+Regnum: 542
+Date: January 11, 2006, 9:35 pm
+Name1: PATIL TUSHAR
+Email1: tushu373@yahoo.co.in
+Univ1: pune
+Year1: 2005-2006
+Address: rajhanse 20
+loni 413736
+tal rahata
+dist ahmednagar
+
+Regnum: 543
+Date: January 11, 2006, 11:22 pm
+Name1: Senthil kumar
+Email1: sen_citizen@sify.com
+Univ1: Anna university
+Year1: 3rd year
+Address: 265A,star house (opp),
+Masilamanipuram,
+Dindigul-5.
+
+Regnum: 544
+Date: January 12, 2006, 12:18 am
+Name1: vighnesh mehta
+Email1: vighnesh.mehta@rediff.com
+Univ1: mumbai
+Year1: second
+Address: swagatam,s.v.rd,khar-(w),mumbai-400052
+
+Regnum: 545
+Date: January 12, 2006, 12:29 am
+Name1: hiteshwar singh chundawat
+Email1: hiteshwar@iitb.ac.in
+Univ1: iit bombay
+Year1: 1
+Address: room -105
+hostel no.-3
+IIT Powai
+MUMBAI
+
+Regnum: 546
+Date: January 12, 2006, 2:57 am
+Name1: naveenkumar.annam
+Email1: naveen_salk@yahoo.co.in
+Univ1: jntu
+Year1: 3rd
+Address: Annam.NaveenKumar
+kodurpost
+kodurmandal
+pin-5213289
+
+Regnum: 547
+Date: January 12, 2006, 3:18 am
+Name1: DESHMUKH VISHWAS R.
+Email1: vishwas_jnec@yahoo.com
+Univ1: Dr.B.A.M.U.
+Year1: Second Year
+Address: C/O G.S.ZAREKAR,PLOT NO.51,SHIVJYOTI COLONY,N-6,CIDCO,A'BAD
+
+Regnum: 548
+Date: January 12, 2006, 3:48 am
+Name1: sumit agarwal
+Email1: sumit_ss2003
+Univ1: BITS PILANI
+Year1: 1st
+Address: 117, bits-pilani goa campus, NH17-B, zuari nagar, goa-403726
+
+Regnum: 549
+Date: January 12, 2006, 5:21 am
+Name1: Vikram 
+Email1: v_v_patil112@rediffmail.com
+Univ1: mumbai
+Year1: FE
+Address: Subhash nagar ,
+chembur 
+Mumbai 71
+
+Regnum: 550
+Date: January 12, 2006, 6:29 am
+Name1: Manish Kumar Pandey
+Email1: favourramanujan@yahoo.com
+Univ1: Rajiv Gandhi Proudyogiki Vishwavidalaya
+Year1: second year
+Address: B-599 NFL TOWNSHIP VIJAIPUR GUNA MP 473111
+
+Regnum: 551
+Date: January 12, 2006, 6:33 am
+Name1: Suyash Joshi
+Email1: suyash.joshi@gmail.com
+Univ1: VNIT, Nagpur
+Year1: 2nd Year - 4th sem. B.Tech
+Address: c/o V.J.Joshi, flat no 203, Madhunanda Apts, Plot no 35, Ring Road, kotwal Nagar, Nagpur -440022 , maharashtra
+
+Regnum: 552
+Date: January 12, 2006, 8:39 am
+Name1: PARIVESH
+Email1: pariveshtinku@yahoo.com
+Univ1: NSIT,DWARKA,NEW DELHI
+Year1: 3RD(6TH SEM)
+Address: A-49,SAIL SATELLITE COLONY,P.O. DHURWA,RANCHI-834004
+
+Regnum: 553
+Date: January 12, 2006, 10:27 am
+Name1: chetan pawar
+Email1: chetan_1757@yahoo.com
+Univ1: pune
+Year1: 2006
+Address: 11th adarsh socy new cidco nasik 9
+
+Regnum: 554
+Date: January 13, 2006, 12:08 am
+Name1: Krishna Devale
+Email1: krishna.devale@gmail.com
+Univ1: Visvesvaraya Technological University
+Year1: 2005
+Address: #77
+
+Regnum: 555
+Date: January 13, 2006, 12:09 am
+Name1: Abhishek Ijare
+Email1: abs_mech_2012@yahoo.com
+Univ1: Shivaji University
+Year1: 2006
+Address: W.I.T.Hostel No.1Room No.7 Ashok Chowk SOLAPUR
+
+Regnum: 556
+Date: January 13, 2006, 4:42 am
+Name1: akash gupta
+Email1: akashgupta@iitb.ac.in
+Univ1: iit bombay
+Year1: 2006
+Address: h-2,room 61,iit bombay,powai
+
+Regnum: 557
+Date: January 13, 2006, 5:17 am
+Name1: Himanshu Shringarpure
+Email1: hps@ee.iitb.ac.in
+Univ1: IIT Bombay
+Year1: 1st year Mtech
+Address: H-7, Room no.58,
+IIT Bombay, Powai,
+Mumbai-400076
+
+Regnum: 558
+Date: January 13, 2006, 8:05 am
+Name1: ankur sanghai
+Email1: sankur@iitk.ac.in
+Univ1: iit kanpur
+Year1: 2nd
+Address: room no.-306
+hall-3
+iit kanpur
+kanpur-208016
+
+Regnum: 559
+Date: January 13, 2006, 10:44 am
+Name1: chintan kanadia
+Email1: kc_s008@yahoo.com
+Univ1: dharmsihgi desai univercity,nadiad,gujrat,india
+Year1: 2006
+Address: 28-a boudhivruksha soi. opp. ind. jewells cirl. r.t.o. road, bhavnagar-3 gujrat,india
+
+Regnum: 560
+Date: January 13, 2006, 11:01 am
+Name1: Rahul Kashyap
+Email1: rahul.kashyap@gmail.com
+Univ1: NIT Trichy
+Year1: Final year
+Address: Rahul Kashyap
+Emerald #58
+NIT Trichy 620015
+
+Regnum: 561
+Date: January 14, 2006, 1:31 am
+Name1: DRON CHAKRAVORTY
+Email1: dronchakravorty@yahoo.co.in
+Univ1: VELLORE INSTITUTE OF TECHNOLOGY
+Year1: SECOND
+Address: G BLOCK ROOM NO: 125,VIT HOSTLESVELLORE 632014 TAMIL NADU
+
+Regnum: 562
+Date: January 14, 2006, 10:03 am
+Name1: Sandeep Makam
+Email1: sandeepmakam.iitm@gmai.com
+Univ1: IITM
+Year1: Second
+Address: #212, Narmada, IITM
+Chennai - 36
+
+Regnum: 563
+Date: January 14, 2006, 10:51 am
+Name1: kapil
+Email1: kapil_dev_555@yahoo.com
+Univ1: ddu
+Year1: 2006
+Address: 51,utsav society,kukarwada-382830,gujrat.
+
+Regnum: 564
+Date: January 14, 2006, 9:31 pm
+Name1: santosh kumar sharma
+Email1: santoshnitw@gmail.com
+Univ1: nitw
+Year1: 2nd
+Address: 5-2-11 nitw hostels nitw warangal
+
+Regnum: 565
+Date: January 15, 2006, 1:33 am
+Name1: gururaghav
+Email1: gururaghavg@yahoo.co.in
+Univ1: anna university
+Year1: 4th year
+Address: 26/15 first cross st.,
+brindavan extn west mambalam chennai --600033
+
+Regnum: 566
+Date: January 15, 2006, 3:13 am
+Name1: shrey sehgal
+Email1: shreysehgal
+Univ1: delhi university
+Year1: 3rd 
+Address: b 404 NSIT DWARKA DELHI
+
+Regnum: 567
+Date: January 15, 2006, 3:16 am
+Name1: SHREY SEHGAL
+Email1: shreysehgal@gmail.com
+Univ1: DELHI UNIVERSITY
+Year1: 3RD
+Address: B-404,NSIT,SECTOR-3,DWARKA 75 NEWDELHI
+
+Regnum: 568
+Date: January 15, 2006, 5:12 am
+Name1: swapnil
+Email1: swap.kamble@yahoo.com
+Univ1: pune
+Year1: SYBCS
+Address: ganesh peth PUNE
+
+Regnum: 569
+Date: January 15, 2006, 8:28 am
+Name1: T Siva Viswanathan
+Email1: siva.vst@gmail.com
+Univ1: IITM
+Year1: 2nd yr
+Address: AT1 CASA XS 
+43/2 MANAPAKKAM ROAD
+CHENNAI 600116
+
+Regnum: 570
+Date: January 15, 2006, 11:08 am
+Name1: Prithi R. Iyengar
+Email1: prithi_r@rediffmail.com
+Univ1: SVNIT , SURAT
+Year1: 3rd year
+Address: A-101,Prem - vihar apartment,umra - ichhanath road, ichhanath, Surat ,Gujarat-395007
+
+Regnum: 571
+Date: January 15, 2006, 11:13 pm
+Name1: Shakti Singh Rathore
+Email1: www.shaktisira@yahoo.co.in
+Univ1: Rajasthan
+Year1: 2006
+Address: 510,A6 royal ensign,C-scheme,Jaipur,rajasthan
+
+Regnum: 572
+Date: January 15, 2006, 11:28 pm
+Name1: Kavitha Velayutham
+Email1: vkavitha_25@yahoo.co.in
+Univ1: Anna University,Chennai
+Year1: 2004-2006
+Address: Plot No:19/10,first street,venkatesa nagar,virugambakkam,chennai-92
+
+Regnum: 573
+Date: January 16, 2006, 2:30 am
+Name1: Dhananjay Rajput
+Email1: dhananjay_rajput2002@yahoo.com
+Univ1: Amaravati
+Year1: 2003
+Address: 255,Gajajnan Nagar W.no07 chikhli dist buldana Maharastra
+
+Regnum: 574
+Date: January 16, 2006, 3:50 am
+Name1: B.Pavan Kumar
+Email1: pavan_171086@yahoo.co.in
+Univ1: Andhra University
+Year1: 2nd
+Address: Dno 4-51-24,lawsons bay colony ,visakhapatnam
+
+Regnum: 575
+Date: January 16, 2006, 3:53 am
+Name1: Prarthana Singh
+Email1: prarthana84@rediffmail.com
+Univ1: Pune University
+Year1: Final Year(BE)
+Address: D/O Col S.J Singh
+P-56/3 Haig Lines
+Devlali Camp
+Pin Code:422401
+
+Regnum: 576
+Date: January 16, 2006, 4:35 am
+Name1: yash jethani
+Email1: jethaniyash@yahoo.co.in
+Univ1: nirma university-abad
+Year1: 2nd
+Address: a-102, vastrapur
+near management enclave,
+ahmedabad
+
+Regnum: 577
+Date: January 16, 2006, 4:35 am
+Name1: sachin jadhav
+Email1: letter_to_sachu@yahoo.com
+Univ1: pune
+Year1: third
+Address: bara bangla ,d-29/A,railway quarter,old i.o.c. road ,manmad
+
+Regnum: 578
+Date: January 16, 2006, 5:26 am
+Name1: karthikvenna
+Email1: karthikvenna@yahoo.com
+Univ1: NIT,JAIPUR
+Year1: 3rd Year
+Address: hostel no:8/g-41,
+mnit,malaviya nagar,jaipur-302017
+
+Regnum: 579
+Date: January 16, 2006, 8:57 am
+Name1: amit 
+Email1: amiy_7@yahoo.co.in
+Univ1: Pt. Ravi Shankar Shukla University
+Year1: 2003
+Address: 366,sundar nagar
+raipur(c.g)
+pin-492001
+
+Regnum: 580
+Date: January 16, 2006, 10:14 am
+Name1: Kaushik Nayak
+Email1: knayak@iitb.ac.in
+Univ1: IIT Bombay
+Year1: 2006
+Address: R-84, H-6, IIT Bombay, Mumbai-400 076
+
+Regnum: 581
+Date: January 16, 2006, 10:51 am
+Name1: Sandeep Bhosale
+Email1: sandeepbhosale@iitb.ac.in
+Univ1: Shivaji
+Year1: 2003
+Address: #307,Tansa House
+IIT bombay
+
+Regnum: 582
+Date: January 16, 2006, 7:11 pm
+Name1: kumbhar mahesh shankar
+Email1: ms_kumbhar
+Univ1: shivaji
+Year1: 2005-2006
+Address: 6th lane nehru road,jaysingpur 416101,tal-shirol 
+dist-kolhapur
+

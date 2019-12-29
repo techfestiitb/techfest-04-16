@@ -1,0 +1,23 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Home Alive</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#comp"> &nbsp;&nbsp;The Competiton</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#struc"> &nbsp;&nbsp;Comp. Structure</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#write"> &nbsp;&nbsp;Write-up Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#pres"> &nbsp;&nbsp;Presentation Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#sche"> &nbsp;&nbsp;Schedule</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php#tsize"> &nbsp;&nbsp;Team Size</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/results.php"> &nbsp;&nbsp;Shortlist</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/home_alive.zip"> &nbsp;&nbsp;Download Pdf</a></li>
+				
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

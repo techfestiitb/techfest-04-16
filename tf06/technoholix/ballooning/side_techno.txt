@@ -1,0 +1,18 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Technoholix</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/index.php"> &nbsp;&nbsp;SciTech</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/scitech/scitech_intra.php"> &nbsp;&nbsp;SciTech - INTRA</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/index.php"> &nbsp;&nbsp;Technovision Awards</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technoholix/igz/index.php"> &nbsp;&nbsp;CHIP India Gaming Zone</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/technoholix/ballooning/index.php"> &nbsp;&nbsp;AAW Ballooning Display</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/iaf/index.php"> &nbsp;&nbsp;Indian Air Force Exhibition</a></li>
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

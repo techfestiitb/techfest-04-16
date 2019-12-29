@@ -1,0 +1,19 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">FlyHigh</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#arena"> &nbsp;&nbsp;Arena</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#rules"> &nbsp;&nbsp;Game Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#mspecs"> &nbsp;&nbsp;Machine Specs.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/index.php#tsize"> &nbsp;&nbsp;Team Size</a></li>
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

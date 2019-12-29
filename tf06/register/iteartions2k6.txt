@@ -1,0 +1,16 @@
+Regnum: 101
+Date: November 20, 2005, 5:49 am
+Name1: Siddharth JOshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3
+Address: rwrr
+
+Regnum: 102
+Date: November 20, 2005, 5:58 am
+Name1: Siddharth Joshi
+Email1: mailsiddj@gmail.com
+Univ1: IITB
+Year1: 3
+Address: rwrr
+

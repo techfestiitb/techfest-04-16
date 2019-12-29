@@ -1,0 +1,48 @@
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<META NAME=DESCRIPTION CONTENT="Techfest 2006: IIT bombay presents Asia's Largest Technology Festival">
+	<META NAME=KEYWORDS CONTENT="techfest, techfest.org, survivor, yantriki,last straw, chemsplash, lecture series, iit bombay, technology, workshops, iit">
+	<META NAME=AUTHOR CONTENT="Techfest 2006">
+	<link rel="icon" href="http://www.techfest.org/favicon.ico">
+	<link href="http://www.techfest.org/css/blah3.css" type="text/css" rel="stylesheet">
+	<script type="text/javascript" src="http://www.techfest.org/javascript/ypSlideOutMenusC.js"></script>
+<script type="text/javascript" src="http://www.techfest.org/javascript/contentmenu.js"></script>
+	<title>Techfest '06 - Asia's Largest Technology Fest</title>
+</head>
+
+<body>
+	<div id="header">
+	<div id="rightimg"><a href="http://www.techfest.org/index.php"><img alt="" src="http://www.techfest.org/topbar/rightlogo.jpg" border="0"></a></div>
+	<div id="leftimg">
+	<img alt="" src="http://www.techfest.org/topbar/leftbar.jpg" border="0" usemap="#topleft">
+	<map name="topleft">
+        <area shape="rect" coords="50,26,265,62" href="http://www.techfest.org">
+        <area shape="rect" coords="281,53,408,71" href="http://www.hindustantimes.com/" target="_blank" />
+        <area shape="rect" coords="10,3,93,22" href="http://www.iitb.ac.in" target="_blank">
+      </map></div>
+	<div id="navtop"><a href="http://www.techfest.org/sponsors/index.php">Sponsors</a> | <a href="http://www.techfest.org/media/index.php">Media</a> | <a href="http://www.techfest.org/lookback/index.php">Lookback</a></div>
+	
+	</div>
+	<div id="menus">
+		<h2>Navigation</h2>
+		<ul>
+			<li><a href="http://www.techfest.org/ai/index.php" onmouseover="ypSlideOutMenu.showMenu('menu1');" onmouseout="ypSlideOutMenu.hideMenu('menu1');" >
+			<img alt="" src="http://www.techfest.org/topbar/ai.gif" border="0" ></a></li>
+			<li><a href="http://www.techfest.org/concreate/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu2');" onmouseout="ypSlideOutMenu.hideMenu('menu2');">
+			<img alt="" src="http://www.techfest.org/topbar/concreate.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/cosmos/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu3');" onmouseout="ypSlideOutMenu.hideMenu('menu3');">
+			<img alt="" src="http://www.techfest.org/topbar/cosmos.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/erustique/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu4');" onmouseout="ypSlideOutMenu.hideMenu('menu4');">
+			<img alt="" src="http://www.techfest.org/topbar/erustique.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/sixth_gear/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu5');" onmouseout="ypSlideOutMenu.hideMenu('menu5');">
+			<img alt="" src="http://www.techfest.org/topbar/sixth.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/smart_tech/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu6');" onmouseout="ypSlideOutMenu.hideMenu('menu6');">
+			<img alt="" src="http://www.techfest.org/topbar/smart.gif" border="0"></a></li>
+		</ul>
+	</div>

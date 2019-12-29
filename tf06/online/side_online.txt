@@ -1,0 +1,17 @@
+ <!-- ##### Side Bar ##### -->
+
+    <div id="sidebar">
+    <!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Online Events</li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/core_war/index.php"> &nbsp;&nbsp;Core War</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php"> &nbsp;&nbsp;Connecting</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php"> &nbsp;&nbsp;Future Flight</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php"> &nbsp;&nbsp;Mission Moon 2030</a></li>
+
+
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

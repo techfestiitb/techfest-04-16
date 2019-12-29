@@ -1,0 +1,20 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Full Throttle</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#arena"> &nbsp;&nbsp;Arena</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#grules"> &nbsp;&nbsp;Game Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#gnrules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/details.php"> &nbsp;&nbsp;Engine Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#travel"> &nbsp;&nbsp;Travel Reimbursement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php#clear"> &nbsp;&nbsp;Few Clarifications</a></li>
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

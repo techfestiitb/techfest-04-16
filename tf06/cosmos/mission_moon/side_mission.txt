@@ -1,0 +1,22 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Mission Moon 2030</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php#intro"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php#task"> &nbsp;&nbsp;The Task</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php#comp"> &nbsp;&nbsp;Comp. Structure</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php#format"> &nbsp;&nbsp;Report Format</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php#judge"> &nbsp;&nbsp;Judging Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/results.php"> &nbsp;&nbsp;Results</a></li>
+
+
+				
+				
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

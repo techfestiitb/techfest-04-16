@@ -1,0 +1,17 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Assistance</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="./rules.php"> &nbsp;&nbsp;Rules and Regulations</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="./checklist.php"> &nbsp;&nbsp;Checklist</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="./reaching.php"> &nbsp;&nbsp;Reaching IIT Bombay</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="./alternative.php"> &nbsp;&nbsp;Alternative Accomodation</a></li>
+
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

@@ -1,0 +1,19 @@
+<div id="sidebar">
+    <!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Media</li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./index.php"> &nbsp;&nbsp;Press Releases '06</a></li>
+<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img/POSTS-blt.gif"><a href="./release7jan.php"> &nbsp;&nbsp;Release 7 Jan '06</a></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img/POSTS-blt.gif"><a href="./release27nov.php"> &nbsp;&nbsp;Release 27 Nov '05</a></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;<img src="../img/POSTS-blt.gif"><a href="./release7aug.php"> &nbsp;&nbsp;Release &nbsp;7&nbsp; Aug '05</a></li>
+
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./release2005.php"> &nbsp;&nbsp;Press Releases '05</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./news2004.php"> &nbsp;&nbsp;News Clippings '04</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./news2005.php"> &nbsp;&nbsp;News Clippings '05</a></li>
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

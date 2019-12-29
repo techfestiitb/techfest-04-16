@@ -1,0 +1,43 @@
+		<div id="box3" >
+			<ul>
+				<li id="title">Go To</li>
+				<li id="menuitem"><img src="http://www.techfest.org/archives/tf06/img/POSTS-blt.gif"><a href="http://www.techfest.org/archives/tf06/acknowledgement.php"> &nbsp;&nbsp;Acknowledgement</a></li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/archives/tf06/img/POSTS-blt.gif"><a href="http://www.techfest.org/archives/tf06/otse/index.php"> &nbsp;&nbsp;O-Zone</a></li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/archives/tf06/img/POSTS-blt.gif"><a href="http://www.techfest.org/archives/tf06/workshops/index.php"> &nbsp;&nbsp;Workshops</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/archives/tf06/img/POSTS-blt.gif"><a href="http://www.techfest.org/archives/tf06/lecture_series/index.php"> &nbsp;&nbsp;Lecture Series</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/archives/tf06/img/POSTS-blt.gif"><a href="http://www.techfest.org/archives/tf06/exhibition/index.php"> &nbsp;&nbsp;Exhibitions</a></li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/archives/tf06/archives/tf06/img/POSTS-blt.gif"><a href="http://forum.techfest.org"> &nbsp;&nbsp;Forum - Questworld!</a></li>
+				
+			</ul>
+		</div>		
+		<!--Box2 -->
+
+	
+		<!--Box2 -->
+
+		<div id="box2">
+			<ul>
+				<li id="title">Newsletter</li>
+				<li id="newsletter">
+					<form method="post" action="http://www.techfest.org/archives/tf06/newsletter.php">
+					<table width="100%" border="0">
+					<tr align="center"><td><input type="text" size="15" name="news_email" id="news_email" value="Email" onblur="if (this.value == '') this.value = 'Email';" onfocus="if (this.value == 'Email') this.value = '';" /></td>
+					<td><input class="button" name="" type="image"  src="http://www.techfest.org/archives/tf06/img/SEND-btn.gif"id="submit"  /></td></tr></table>
+
+					</form>
+				</li>
+			</ul>
+		</div>
+		<!-- End Box2-->
+
+
+
+
+
+
+
+
+  	</div>

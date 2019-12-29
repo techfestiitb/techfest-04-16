@@ -1,0 +1,17 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Future FLight</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php#intro"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php#comp"> &nbsp;&nbsp;Competition Struc.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php#paper"> &nbsp;&nbsp;Paper Format</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php#judge"> &nbsp;&nbsp;Judging Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/results.php"> &nbsp;&nbsp;Results</a></li>
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

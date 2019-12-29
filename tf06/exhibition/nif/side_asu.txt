@@ -1,0 +1,20 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Exhibitions</li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/asu/index.php"> &nbsp;&nbsp;Welcome to Mars</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/isro/index.php"> &nbsp;&nbsp;India in Space</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/nif/index.php"> &nbsp;&nbsp;NIF Exhibition</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/iaf/index.php"> &nbsp;&nbsp;Indian Air Force Exhibition</a></li>
+
+
+
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

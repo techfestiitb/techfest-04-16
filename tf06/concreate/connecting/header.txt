@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<META NAME=DESCRIPTION CONTENT="Techfest '06: IIT bombay presents Asia's Largest Technology Festival">
+	<META NAME=KEYWORDS CONTENT="techfest, techfest.org, survivor, yantriki,last straw, chemsplash, lecture series, iit bombay, technology, workshops, iit">
+	<META NAME=AUTHOR CONTENT="Techfest 2006">
+	<link rel="icon" href="http://www.techfest.org/favicon.ico">
+
+	<link href="http://www.techfest.org/css/blah3.css" type="text/css" rel="stylesheet">
+	<script type="text/javascript" src="http://www.techfest.org/javascript/ypSlideOutMenusC.js"></script>
+	<script type="text/javascript" src="http://www.techfest.org/javascript/contentmenu.js"></script>
+	<title>Techfest '06 - Asia's Largest Technology Fest</title>
+	<style type="text/css">
+
+#marqueecontainer{
+position: relative;
+height:100px;
+background-color:transparent;
+overflow: hidden;
+margin:0;
+padding:0;
+}
+#marqueecontainer ul {
+padding:0;
+list-style-type:none;
+background-color:#394142;
+margin:0px 0px 0px 4px;
+}
+
+#marqueecontainer li {
+display:block;
+padding:0px 0px 0px 4px;
+width:14em;
+}
+</style>
+
+<script type="text/javascript">
+
+
+
+var delayb4scroll=0 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
+var marqueespeed=1 //Specify marquee scroll speed (larger is faster 1-10)
+var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
+
+
+
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var actualheight=''
+
+function scrollmarquee(){
+if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
+cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
+else
+cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
+}
+
+function initializemarquee(){
+cross_marquee=document.getElementById("vmarquee")
+cross_marquee.style.top=0
+marqueeheight=document.getElementById("marqueecontainer").offsetHeight
+actualheight=cross_marquee.offsetHeight
+/*if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
+cross_marquee.style.height=marqueeheight+"px"
+cross_marquee.style.overflow="scroll"
+return
+}*/
+setTimeout('lefttime=setInterval("scrollmarquee()",50)', delayb4scroll)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initializemarquee, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializemarquee)
+else if (document.getElementById)
+window.onload=initializemarquee
+
+
+</script>
+</head>
+
+<body>
+	<div id="header">
+	<div id="rightimg"><a href="http://www.techfest.org/index.php"><img alt="" src="http://www.techfest.org/topbar/rightlogo.jpg" border="0"></a></div>
+
+	<div id="leftimg">
+	<img src="http://www.techfest.org/topbar/left.jpg" alt="" border="0" usemap="#topbar">
+    <map name="topbar" id="topbar">
+      <area shape="rect" coords="5,0,48,39" href="http://www.iitb.ac.in" target="_blank">
+      <area shape="rect" coords="58,6,118,39" href="http://www.sap.com" target="_blank">
+      <area shape="rect" coords="365,60,491,75" href="http://www.hindustantimes.com" target="_blank">
+      <area shape="rect" coords="129,25,340,49" href="http://www.techfest.org">
+    </map>
+	</div>
+
+	<div id="navtop"><a href="http://www.techfest.org/sponsors/index.php">Sponsors</a> | <a href="http://www.techfest.org/media/index.php">Media</a> | <a href="http://www.techfest.org/lookback/index.php">Lookback</a></div>
+	
+	</div>
+	<div id="menus">
+		<h2>Navigation</h2>
+		<ul>
+
+			<li><a href="http://www.techfest.org/ai/index.php" onmouseover="ypSlideOutMenu.showMenu('menu1');" onmouseout="ypSlideOutMenu.hideMenu('menu1');" >
+			<img alt="" src="http://www.techfest.org/topbar/ai.gif" border="0" ></a></li>
+			<li><a href="http://www.techfest.org/concreate/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu2');" onmouseout="ypSlideOutMenu.hideMenu('menu2');">
+			<img alt="" src="http://www.techfest.org/topbar/concreate.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/cosmos/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu3');" onmouseout="ypSlideOutMenu.hideMenu('menu3');">
+			<img alt="" src="http://www.techfest.org/topbar/cosmos.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/erustique/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu4');" onmouseout="ypSlideOutMenu.hideMenu('menu4');">
+			<img alt="" src="http://www.techfest.org/topbar/erustique.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/sixth_gear/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu5');" onmouseout="ypSlideOutMenu.hideMenu('menu5');">
+
+			<img alt="" src="http://www.techfest.org/topbar/sixth.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/smart_tech/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu6');" onmouseout="ypSlideOutMenu.hideMenu('menu6');">
+			<img alt="" src="http://www.techfest.org/topbar/smart.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/scitech/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu7');" onmouseout="ypSlideOutMenu.hideMenu('menu7');">
+			<img alt="" src="http://www.techfest.org/topbar/technoholix.gif" border="0"></a></li>
+			
+			
+		</ul>
+	</div>

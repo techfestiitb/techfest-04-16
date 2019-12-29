@@ -1,0 +1,108 @@
+<div id="footer">
+	<div class="center">
+		<div class="right">
+			Web Hosting By<br>&nbsp;&nbsp;&nbsp;
+			<a href="http://www.indialinks.com" target="_blank">Indialinks</a>
+		</div>	<div class="left"><a href="http://www.techfest.org/archives/tf06/faq/faq.php">FAQ</a> | <a href="http://www.techfest.org/archives/tf06/sitemap/sitemap.php">Sitemap</a> | <a href="http://www.techfest.org/archives/tf06/contactus/contactus.php">Contact Us</a> 
+</div>
+    Copyright &copy; 2006 Techfest Team<br>
+	
+</div>
+<!-- start 1st menu -->
+<div id="menu1Container">
+ <div class="menu" id="menu1Content">
+    <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/ai/crux/index.php">Crux</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/ai/micromouse/index.php">Micromouse</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/ai/core_war/index.php">Core War</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/ai/char_recog/index.php">Character Recognition</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/ai/grey_circuits/index.php">Workshop - Grey Circuits</a></div>
+
+
+ 
+ </div>
+</div>
+
+<!-- start 2rd menu -->
+<div id="menu2Container">
+ <div class="menu" id="menu2Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/concreate/h/index.php"><img src="http://www.techfest.org/archives/tf06/concreate/h/img/hwtext.gif" border=0></a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/concreate/bridged/index.php">Bridged</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/concreate/createcad/index.php">CreateCAD</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/concreate/connecting/index.php">Connecting...</a></div>
+  
+ </div>
+</div>
+
+<!-- start 3nd menu -->
+<div id="menu3Container">
+ <div class="menu" id="menu3Content">
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/cosmos/grip/index.php">G.R.I.P.</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/cosmos/black_box/index.php">Black Box</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/cosmos/mission_moon/index.php">Mission Moon 2030</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/exhibition/asu/index.php">ASU's Exhibition: Welcome to Mars</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/exhibition/isro/index.php">ISRO's Exhibition: India in Space</a></div>
+  
+  </div>
+</div>
+
+<!-- start 4th menu -->
+<div id="menu4Container">
+ <div class="menu" id="menu4Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/erustique/agrobot/index.php">AgroBot</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/erustique/innovision/index.php">Innovision</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/erustique/simple_life/index.php">The Simple Life v1.1</a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/exhibition/nif/index.php">NIF Exhibition</a></div>
+  
+ </div>
+</div>
+
+<!-- start 5th menu -->
+<div id="menu5Container">
+ <div class="menu" id="menu5Content">
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/sixth_gear/flyhigh/index.php">FlyHigh</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/sixth_gear/hover_junior/index.php">Hover Junior</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/sixth_gear/fullthrottle/index.php">Full Throttle </a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/sixth_gear/future_flight/index.php">Future Flight </a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/sixth_gear/iterations/index.php">Workshop - Iterations</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/sixth_gear/robotrix/index.php">Workshop - roboTRIx</a></div>
+
+
+
+
+
+  
+ </div>
+</div>
+
+<!-- start 6th menu -->
+<div id="menu6Container">
+ <div class="menu" id="menu6Content">
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/smart_tech/iclean/index.php">iClean </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/smart_tech/prayaas/index.php">Prayaas </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/smart_tech/home_alive/index.php">Home Alive </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/smart_tech/idp/index.php">GE's Industry Defined Problem </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/smart_tech/codec/index.php">Workshop - Codec </a></div>
+
+
+ </div>
+</div>
+
+<!-- start 7th menu -->
+<div id="menu7Container">
+ <div class="menu" id="menu7Content">
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/scitech/index.php">SciTech</a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/scitech/scitech_intra.php">SciTech - INTRA</a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/technovision/index.php">Technovision Awards</a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/technoholix/igz/index.php">CHIP India Gaming Zone</a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/technoholix/ballooning/index.php">AAW Ballooning Display</a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/archives/tf06/exhibition/iaf/index.php">Indian Air Force Exhibition</a></div>
+
+
+ </div>
+</div>
+
+
+
+
+</body>
+</html>

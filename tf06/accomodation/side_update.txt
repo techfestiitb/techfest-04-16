@@ -1,0 +1,69 @@
+		<div id="box3" >
+			<ul>
+				<li id="title">Go To</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/register/index.php"> &nbsp;&nbsp;Register</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/workshops/index.php"> &nbsp;&nbsp;Workshops</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/lecture_series/index.php"> &nbsp;&nbsp;Lecture Series</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/online/index.php"> &nbsp;&nbsp;Online Events</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/assistance/index.php"> &nbsp;&nbsp;Accommodation Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://forum.techfest.org"> &nbsp;&nbsp;Forum - Questworld!</a></li>
+				
+			</ul>
+		</div>		
+		<!--Box2 -->
+<!--Start Update -->
+	<div id="updates" style="background-color:#394142; margin:0px 0px 20px 3.4em; padding:2px 0px 2px 0px; overflow:hidden;">
+		<ul style="list-style-type:none; margin:0; padding:0;"><li id="title" style=" list-style-type:none;">Updates</li></ul>
+		<div id="marqueecontainer" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed" >
+			<div id="vmarquee" style="position: absolute; width: 98%; overflow:hidden;">
+
+
+				<ul>
+				
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> Techfest presents <a href="http://www.techfest.org/exhibition/asu/index.php">ASU's Mars Rover Exhibition</a>. </p></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> Techfest presents <a href="http://www.techfest.org/exhibition/isro/index.php">ISRO's Exhibition - India in Space</a>.</p> </li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> Techfest presents <a href="http://www.techfest.org/technovision/index.php">Technovision Awards</a>. </p></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <strong> Dec 19 & 20 </strong><span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> <a href="http://www.techfest.org/sixth_gear/robotrix/index.php#registerp">roboTRIx</a> workshop at Pune. </p></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <strong> Dec 24 & 25 </strong><span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> <a href="http://www.techfest.org/sixth_gear/robotrix/index.php#registerm">roboTRIx</a> workshop at Mumbai. </p></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> <a href="http://forum.techfest.org/">Questworld</a> - Discuss Technology! A Techfest initiative. </p></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> <a href="http://www.techfest.org/scitech/index.php">SciTech- College Quiz Challenge</a> Only the best minds will make it. </p></li>
+				<li id="menuitem">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <span style="color:#84BB45; font-size:15px; "><strong>&raquo;</strong></span> <a href="http://www.techfest.org/online/index.php">Online Events</a> Get Geared! </p></li>
+
+
+				
+				
+				
+				
+				</ul>
+
+
+
+			</div>
+		</div>		
+	</div>
+	<!--End UPDATE -->
+		<!--Box2 -->
+
+		<div id="box2">
+			<ul>
+				<li id="title">Newsletter</li>
+				<li id="newsletter">
+					<form method="post" action="http://www.techfest.org/newsletter.php">
+					<table width="100%" border="0">
+					<tr align="center"><td><input type="text" size="15" name="news_email" id="news_email" value="Email" onblur="if (this.value == '') this.value = 'Email';" onfocus="if (this.value == 'Email') this.value = '';" /></td>
+					<td><input class="button" name="" type="image"  src="http://www.techfest.org/img/SEND-btn.gif"id="submit"  /></td></tr></table>
+
+					</form>
+				</li>
+			</ul>
+		</div>
+		<!-- End Box2-->
+
+
+
+
+
+
+
+
+  	</div>

@@ -1,0 +1,19 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Innovision</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php#rules"> &nbsp;&nbsp;Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php#cat"> &nbsp;&nbsp;The Categories</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php#instruc"> &nbsp;&nbsp;Instructions</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php#other"> &nbsp;&nbsp;Other Requirements</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/innovision.zip"> &nbsp;&nbsp;Download Pdf</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/register/innovision.php"> &nbsp;&nbsp;Register</a></li>
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

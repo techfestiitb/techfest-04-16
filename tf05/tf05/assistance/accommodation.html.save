@@ -1,0 +1,144 @@
+<html >
+<b>
+  <head>
+
+
+		<script language="JavaScript1.2" type="text/javascript" src="http://www.techfest.org/javascript/countdown.js">
+		</script>
+
+
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <meta name="author" content="Techfest">
+    
+<link rel="stylesheet" type="text/css" href=http://www.techfest.org/css/screen.css media="screen" title="Sinorca (screen)" />
+    <link rel="stylesheet" type="text/css" href=http://www.techfest.org/css/print.css media="print" />
+
+    <title>Techfest 2005</title>
+
+
+
+  </head>
+
+  <body>
+
+    <!-- For non-visual user agents: -->
+      <div id="top">
+	<div id ="clock">
+		<script type="text/javascript">
+			countdown_clock(05, 01, 28, 09, 00, 1);
+		</script>
+
+	<div id="fader">
+		<script language="JavaScript1.2" type="text/javascript" src="http://www.techfest.org/javascript/updates.js">
+		</script>
+	</div>     
+ 	</div>
+        <div class="midHeader">
+
+	<a href=http://www.techfest.org/index1.html border=0><img src="./img/top_left.jpg" border=0></a>
+
+
+	<div class="right"><a href=http://www.techfest.org/index1.html border=0><img src="./img/logodark.gif" border=0></a></div>
+	</div>
+
+      
+  <div class="subHeader">  <a href="./events/index.html" >Events</a> 
+    | <a href="./competitions/index.html">Competitions</a> | <a href="./workshops/index.html">Workshops</a> 
+    | <a href="./sponsors/index.html">Sponsors</a> | <a href="./media/index.html">Media</a> 
+    | <a href="./lookback/index.html">Lookback</a> | <a 
+href="./register/index.html">Register</a>| <a 
+href="./assistance/acco_policy.html" class="highlight" >Assistance</a>  
+</div>
+    
+</div>
+
+     <!-- ##### Side Bar ##### -->
+
+    <div id="side-bar">
+
+      <div>
+        <p class="sideBarTitle">&nbsp;Newsletter</p>
+        <form method="POST" action="./subscribe.php">
+          <table width="150">
+                <tr>
+                <td width="70">E-mail :</td>
+                <td width="80"><input type="text" name="email" size="10"></td>
+                </tr>
+        </table>
+                <center>
+         <input type="submit" value="Go!" name="action">
+         </center>
+        </form>
+      </div>
+  </div>
+
+  
+
+ <!-- ##### Main Copy ##### -->
+ <div id="main-copy">
+<h1 id="introduction">Visitor's Accommodation Form</h1>
+	  
+<p>Note:<br>
+  1. Only one application from every college will be accepted. <br>
+  2. This form does not guarantee your accommodation. Final confirmation will
+  be sent to the contingent leader via e-mail.<br>
+  3. Please refer to <a href="http://www.techfest.org/assistance">http://www.techfest.org/assistance</a>   for 
+details.<br><br>
+<form action="accomodation.php" method="POST">
+<b>Details of Contingent Leader &nbsp;:</b>
+<table border='1'>
+<tr><td>Name of college :<body text="red">*</body></td><td><input type="text" name="college"> </td></tr>
+<tr><td>Name of the Contingent Leader:<body text="red">*</body></td><td><input type="text" name="contg_leadr" > </td></tr>
+<tr><td>City :<body text="red">*</body></td><td><input type="text" name="city" ></td></tr>
+<tr><td>Postal Address :<body text="red">*</body></td><td><input type="text" name="add" ></td></tr>
+<tr><td>Email :<body text="red">*</body></td><td><input type="text" name="email" ></td></tr>
+<tr><td>Phone :<body text="red">*</body></td><td><input type="text" name="phonenum" ></td></tr>
+<tr><td>Fax :</td><td><input type="text" name="fax" ></td></tr>
+</table>
+<b>Details of Contingent Members (only upto 20 required)&nbsp;:</b>
+<table border='1'>
+<tr><td>S.No.</td><td>&nbsp;&nbsp;&nbsp;&nbsp;Name</td><td>Sex</td><td>&nbsp;&nbsp;&nbsp;&nbsp;E-mail</td></tr>
+<tr><td>1.   </td><td><input type="text" name="1_name" ></td><td><select name="mf1"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="1_email" ></td></tr>
+<tr><td>2.   </td><td><input type="text" name="2_name" ></td><td><select name="mf2"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="2_email" ></td></tr>
+<tr><td>3.   </td><td><input type="text" name="3_name" ></td><td><select name="mf3"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="3_email" ></td></tr>
+<tr><td>4.   </td><td><input type="text" name="4_name" ></td><td><select name="mf4"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="4_email" ></td></tr>
+<tr><td>5.   </td><td><input type="text" name="5_name" ></td><td><select name="mf5"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="5_email" ></td></tr>
+<tr><td>6.   </td><td><input type="text" name="6_name" ></td><td><select name="mf6"><option value=M>M</option><option value=F>F</option></select><td><input type="text" name="6_email" ></td></tr>
+<tr><td>7.   </td><td><input type="text" name="7_name" ></td><td><select name="mf7"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="7_email" ></td></tr>
+<tr><td>8.   </td><td><input type="text" name="8_name" ></td><td><select name="mf8"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="8_email" ></td></tr>
+<tr><td>9.   </td><td><input type="text" name="9_name" ></td><td><select name="mf9"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="9_email" ></td></tr>
+<tr><td>10.   </td><td><input type="text" name="10_name" ></td><td><select name="mf10"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="10_email" ></td></tr>
+<tr><td>11.   </td><td><input type="text" name="11_name" ></td><td><select name="mf11"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="11_email" ></td></tr>
+<tr><td>12.   </td><td><input type="text" name="12_name" ></td><td><select name="mf12"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="12_email" ></td></tr>
+<tr><td>13.   </td><td><input type="text" name="13_name" ></td><td><select name="mf13"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="13_email" ></td></tr>
+<tr><td>14.   </td><td><input type="text" name="14_name" ></td><td><select name="mf14"><option value=M>M</option><option value=F>F</option></select><td><input type="text" name="14_email" ></td></tr>
+<tr><td>15.   </td><td><input type="text" name="15_name" ></td><td><select name="mf15"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="15_email" ></td></tr>
+<tr><td>16.   </td><td><input type="text" name="16_name" ></td><td><select name="mf16"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="16_email" ></td></tr>
+<tr><td>17.   </td><td><input type="text" name="17_name" ></td><td><select name="mf17"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="17_email" ></td></tr>
+<tr><td>18.   </td><td><input type="text" name="18_name" ></td><td><select name="mf18"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="18_email" ></td></tr>
+<tr><td>19.   </td><td><input type="text" name="19_name" ></td><td><select name="mf19"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="19_email" ></td></tr>
+<tr><td>20.   </td><td><input type="text" name="20_name" ></td><td><select name="mf20"><option value=M>M</option><option value=F>F</option></select></td><td><input type="text" name="20_email" ></td></tr>
+
+</table><br>
+<input type="submit" name="submit" value="SUBMIT">
+</form>
+<br>
+  </div> 
+    <!-- ##### Footer ##### -->
+
+    <div id="footer">
+    <div class="right">
+			Web Hosting By<br>&nbsp;&nbsp;&nbsp;
+			<a href="http://www.indialinks.com" target="_blank">Indialinks</a>
+    </div>	
+    <div class="center">
+        	<a href="./faq.html">FAQ</a>|
+        	<a href="./sitemap.html">Sitemap</a>|
+        	<a href="./Contact.html">Contact Us</a>
+    	<br>
+	&copy; Techfest 2005
+    </div>	 
+	</div>  
+    </body>
+</b>
+</html>

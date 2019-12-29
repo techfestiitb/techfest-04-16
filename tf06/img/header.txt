@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<META NAME=DESCRIPTION CONTENT="Techfest 2006: IIT bombay presents Asia's Largest Technology Festival">
+	<META NAME=KEYWORDS CONTENT="techfest, techfest.org, survivor, yantriki,last straw, chemsplash, lecture series, iit bombay, technology, workshops, iit">
+	<META NAME=AUTHOR CONTENT="Techfest 2006">
+	<link rel="shortcut icon" href="http://www.techfest.org/favicon.ico">
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link href="../css/blah2.css" type="text/css" rel="stylesheet">
+	<title>Techfest 2006 - Asia's Largest Technology Fest</title>
+</head>
+
+<body>
+	<div id="header">
+	<div id="rightimg"><a href="../index.php" border=0><img src="../topbar/rightlogo.jpg" border="0"></a></div>
+	<div id="leftimg"><img src="../topbar/leftbar.jpg" border="0"></div>
+	<div id="navtop"><a href="../sponsors/index.php">Sponsors</a> | <a href="../media/index.php">Media</a> | <a href="../lookback/index.php">Lookback</a></div>
+	
+	</div>
+	<div id="menu">
+		<h2>Navigation</h2>
+		<ul>
+			<li><a href="../ai/index.php" >
+			<img src="../topbar/ai.gif" border="0"></a></li>
+			<li><a href="../concreate/index.php" >
+			<img src="../topbar/concreate.gif" border="0"></a></li>
+			<li><a href="../cosmos/index.php" >
+			<img src="../topbar/cosmos.gif" border="0"></a></li>
+			<li><a href="../erustique/index.php" >
+			<img src="../topbar/erustique.gif" border="0"></a></li>
+			<li><a href="../sixth_gear/index.php" >
+			<img src="../topbar/sixth.gif" border="0"></a></li>
+			<li><a href="../smart_tech/index.php" >
+			<img src="../topbar/smart.gif" border="0"></a></li>
+			<li><a href="../technoholix/index.php" >
+			<img src="../topbar/techno.gif" border="0"></a></li>
+			
+		</ul>
+	</div>

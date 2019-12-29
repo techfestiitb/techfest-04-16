@@ -1,0 +1,28 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Bridged</li>
+				
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#prob"> &nbsp;&nbsp;Tender Notice</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#site"> &nbsp;&nbsp;Site Conditions</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#tools"> &nbsp;&nbsp;Tools and Materials</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#design"> &nbsp;&nbsp;Design Constraints</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#require"> &nbsp;&nbsp;Tender Requirements</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#grules"> &nbsp;&nbsp;General Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#test"> &nbsp;&nbsp;Testing</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#judge"> &nbsp;&nbsp;Judging Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#win"> &nbsp;&nbsp;Winning Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#imp"> &nbsp;&nbsp;Imp. Dates</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/index.php#team"> &nbsp;&nbsp;Team Size</a></li>
+
+				
+				
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

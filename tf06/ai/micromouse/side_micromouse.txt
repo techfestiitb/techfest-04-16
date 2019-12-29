@@ -1,0 +1,19 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Micromouse</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php#spec"> &nbsp;&nbsp;Maze Spec.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php#mspec"> &nbsp;&nbsp;Mouse Spec.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php#rules"> &nbsp;&nbsp;Rules</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php#elim"> &nbsp;&nbsp;Elimination</a></li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/index.php#travel"> &nbsp;&nbsp;Travel Reimbursement</a></li>
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

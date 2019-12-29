@@ -1,0 +1,135 @@
+Regnum: 110
+Date: November 8, 2005, 8:50 am
+Name1: Randive Sachin Vilas
+Email1: sachin85@ieee.org
+Univ1: 
+Year1: Final
+Name2: Jiten Bharukha
+Email2: techindia2020@rediffmail.com
+Univ2: 
+Year2: Final
+Name3: Yogesh Patni
+Email3: techindia2020@gmail.com
+Univ3: 
+Year3: Final
+Name4: Bhagyesh Maybhate
+Email4: techindia2020@gmail.com
+Univ4: 
+Year4: final
+Address: c/o M M Manganale,
+85,Sawarkar Nagar,
+N6, Cidco,
+Auranagabad.
+
+Regnum: 111
+Date: November 10, 2005, 9:02 am
+Name1: abhishek tiwari
+Email1: abhishekt@iitb.ac.in
+Univ1: 
+Year1: 1st
+Name2: jagdeeshwaran chandrashekhar
+Email2: jagc1@yahoo.co.in
+Univ2: 
+Year2: 1st
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Address: room 372,hostel 4,iit bombay, powai, mumbai-76, maharashtra
+
+Regnum: 112
+Date: November 11, 2005, 2:36 am
+Name1: Parakram Majumdar
+Email1: parakram@iitb.ac.in
+Univ1: 
+Year1: 1
+Name2: Abhishek Sanyal
+Email2: abhishek_sanyal@iitb.ac.in
+Univ2: 
+Year2: 1
+Name3: Sumeet Garg
+Email3: sumeet_garg@iitb.ac.in
+Univ3: 
+Year3: 1
+Name4: Prateek RAj
+Email4: prateek_cronicles@yahoo.com
+Univ4: 
+Year4: 1
+Address: room 164,
+hostel 3,
+iit bombay,
+powai,
+bombay
+
+Regnum: 113
+Date: November 11, 2005, 4:19 am
+Name1: preeti agarwal
+Email1: ravemzedin@rediff.com
+Univ1: 
+Year1: 1
+Name2: divya gupta
+Email2: gpguptasappl@yahoo.com
+Univ2: 
+Year2: 1
+Name3: 
+Email3: 
+Univ3: 
+Year3: 
+Name4: 
+Email4: 
+Univ4: 
+Year4: 
+Address: B-7,6 GUEST HOUSE H-7 SVNIT SURAT
+
+Regnum: 114
+Date: November 15, 2005, 12:50 am
+Name1: Arpan M.Sadhankar
+Email1: arpan_sadhankar@rediffmail.com
+Univ1: 
+Year1: 3rd year
+Name2: Vivek N.Sharma
+Email2: vivekss97@rediffmail.com
+Univ2: 
+Year2: 3rd year
+Name3: Mahesh R.Mahalle
+Email3: m_mahalle@yahoo.com
+Univ3: 
+Year3: 3rd year
+Name4: Ashish R.Bakal
+Email4: aashish_bakal@yahoo.com
+Univ4: 
+Year4: 3rd year
+Address: Arpan M.Sadhankar
+Sant Kabir Boys Hostel
+Room No:216
+Shree Sant Gajanan Maharaj College of Engineering
+Shegaon
+Dist:Buldhana
+
+Regnum: 115
+Date: November 16, 2005, 11:48 am
+Name1: Akash R. Rathi
+Email1: aks_thesky@yahoo.co.in
+Univ1: 
+Year1: Third Year IC
+Name2: Deepak Chaudhary
+Email2: cooldeepak54@yahoo.co.in
+Univ2: 
+Year2: Third Year IC
+Name3: Harpreet Singh Banvait
+Email3: harpreetbanvait@yahoo.com
+Univ3: 
+Year3: Third Year IC
+Name4: Sailesh Singh
+Email4: rathi.akash@gmail.com
+Univ4: 
+Year4: Third Year IC
+Address: A-54, Nathiba Nagar,
+Nr. Svad Colony,
+Harni Road, 
+Vadodara (GUJ)
+

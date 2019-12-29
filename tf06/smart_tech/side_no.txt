@@ -1,0 +1,19 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Smart Tech</li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/iclean/index.php"> &nbsp;&nbsp;iClean</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/index.php"> &nbsp;&nbsp;Prayaas</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/index.php"> &nbsp;&nbsp;Home Alive</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/idp/index.php"> &nbsp;&nbsp;Industry Defined Problem</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/codec/index.php"> &nbsp;&nbsp;Workshop-Codec</a></li>
+
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

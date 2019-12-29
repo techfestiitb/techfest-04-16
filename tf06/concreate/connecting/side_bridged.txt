@@ -1,0 +1,23 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Connecting...</li>
+				
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php#prob"> &nbsp;&nbsp;Problem Statement</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php#guide"> &nbsp;&nbsp;Guidelines</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php#sub"> &nbsp;&nbsp;Submission</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php#win"> &nbsp;&nbsp;Winning Criteria</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php#imp"> &nbsp;&nbsp;Important Dates</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/setup.zip"> &nbsp;&nbsp;Download Software</a></li>
+				
+				
+				
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

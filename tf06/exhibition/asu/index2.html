@@ -1,0 +1,417 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<META NAME=DESCRIPTION CONTENT="Techfest '06: IIT bombay presents Asia's Largest Technology Festival">
+	<META NAME=KEYWORDS CONTENT="techfest, techfest.org, survivor, yantriki,last straw, chemsplash, lecture series, iit bombay, technology, workshops, iit">
+	<META NAME=AUTHOR CONTENT="Techfest 2006">
+	<link rel="icon" href="http://www.techfest.org/favicon.ico">
+
+	<link href="http://www.techfest.org/css/blah3.css" type="text/css" rel="stylesheet">
+	<script type="text/javascript" src="http://www.techfest.org/javascript/ypSlideOutMenusC.js"></script>
+	<script type="text/javascript" src="http://www.techfest.org/javascript/contentmenu.js"></script>
+	<title>Techfest '06 - Asia's Largest Technology Fest</title>
+	<style type="text/css">
+
+#marqueecontainer{
+position: relative;
+height:100px;
+background-color:transparent;
+overflow: hidden;
+margin:0;
+padding:0;
+}
+#marqueecontainer ul {
+margin:0;
+padding:0;
+list-style-type:none;
+background-color:#394142;
+margin:0px 0px 0px 4px;
+}
+
+#marqueecontainer li {
+display:block;
+padding:2px 0px 2px 4px;
+width:14em;
+}
+</style>
+
+<script type="text/javascript">
+
+
+
+var delayb4scroll=0 //Specify initial delay before marquee starts to scroll on page (2000=2 seconds)
+var marqueespeed=1 //Specify marquee scroll speed (larger is faster 1-10)
+var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
+
+
+
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var actualheight=''
+
+function scrollmarquee(){
+if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8))
+cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px"
+else
+cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
+}
+
+function initializemarquee(){
+cross_marquee=document.getElementById("vmarquee")
+cross_marquee.style.top=0
+marqueeheight=document.getElementById("marqueecontainer").offsetHeight
+actualheight=cross_marquee.offsetHeight
+/*if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
+cross_marquee.style.height=marqueeheight+"px"
+cross_marquee.style.overflow="scroll"
+return
+}*/
+setTimeout('lefttime=setInterval("scrollmarquee()",50)', delayb4scroll)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initializemarquee, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializemarquee)
+else if (document.getElementById)
+window.onload=initializemarquee
+
+
+</script>
+<style type="text/css">
+<!--
+.balloon {
+height:40px;
+max-width:200px;
+min-width:200px;
+position: absolute;
+visibility: hidden;
+color:white;
+background-color:#3398E6;
+}
+.balloon p {
+position:relative;
+margin:4px 4px 4px 4px;
+}
+.isTip {text-decoration: none; color:#000000;}
+-->
+
+</style>
+<script language="javascript1.2" type="text/javascript">
+
+
+function setUpHelp()
+{
+   maketheBalloon("ai","auto","Artificial Intelligence!");
+   maketheBalloon("concreate","auto","Concreate!");
+   maketheBalloon("cosmos","auto","Cosmos!");
+   maketheBalloon("erustique","auto","e_rustique!");
+   maketheBalloon("sixth_gear","auto","Sixth Gear!");
+   maketheBalloon("smart_tech","auto","Smart Tech!");
+   maketheBalloon("technoholix","auto","Technoholix!");
+   
+}
+var DHTML = (document.getElementById || document.all || document.layers);
+
+function getObj(name)
+{
+  if (document.getElementById)
+  {
+  	this.obj = document.getElementById(name);
+	this.style = document.getElementById(name).style;
+  }
+  else if (document.all)
+  {
+	this.obj = document.all[name];
+	this.style = document.all[name].style;
+  }
+  else if (document.layers)
+  {
+   	this.obj = document.layers[name];
+   	this.style = document.layers[name];
+  }
+}
+function maketheBalloon(id, width, message)
+{
+   var theString = '<STYLE TYPE="text/css">#'+id+'{width:'+width+';}</STYLE>';
+   theString+='<DIV CLASS="balloon" id="'+id+'"><p>'+message+'</p></DIV>';
+   document.write(theString);
+}
+
+function makeItVisible(id, event,xvar,yvar)
+{
+		var x = new getObj(id);
+		x.style.left = xvar;
+        x.style.top = yvar;
+        x.style.visibility="visible";
+		x.left=xvar;
+		x.right=yvar;
+		x.style.visibility="visible";
+        
+}
+
+function hideHelp(id)
+{		var x = new getObj(id);
+        x.style.visibility=="hidden"? x.style.visibility="visible" : x.style.visibility="hidden";
+}
+// -->
+</SCRIPT>
+</head>
+
+<body>
+<body>
+<script language="JavaScript1.2">
+setUpHelp();
+</script>
+	<div id="header">
+	<div id="rightimg"><a href="http://www.techfest.org/index.php"><img alt="" src="http://www.techfest.org/topbar/rightlogo.jpg" border="0"></a></div>
+
+	<div id="leftimg">
+	<img src="http://www.techfest.org/topbar/left.jpg" alt="" border="0" usemap="#topbar">
+    <map name="topbar" id="topbar">
+      <area shape="rect" coords="5,0,48,39" href="http://www.iitb.ac.in" target="_blank">
+      <area shape="rect" coords="58,6,118,39" href="http://www.sap.com" target="_blank">
+      <area shape="rect" coords="365,60,491,75" href="http://www.hindustantimes.com" target="_blank">
+      <area shape="rect" coords="129,25,340,49" href="http://www.techfest.org">
+    </map>
+	</div>
+
+	<div id="navtop"><a href="http://www.techfest.org/sponsors/index.php">Sponsors</a> | <a href="http://www.techfest.org/media/index.php">Media</a> | <a href="http://www.techfest.org/lookback/index.php">Lookback</a></div>
+	
+	</div>
+	<div id="menus">
+		<h2>Navigation</h2>
+		<ul>
+
+			<li><a href="http://www.techfest.org/ai/index.php" onmouseover="ypSlideOutMenu.showMenu('menu1'); makeItVisible('ai', event,'40px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu1'); hideHelp('ai');" >
+			<img alt="" src="http://www.techfest.org/topbar/ai.gif" border="0" ></a></li>
+			<li><a href="http://www.techfest.org/concreate/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu2');makeItVisible('concreate', event,'130px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu2'); hideHelp('concreate');">
+			<img alt="" src="http://www.techfest.org/topbar/concreate.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/cosmos/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu3');makeItVisible('cosmos', event,'220px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu3'); hideHelp('cosmos');">
+			<img alt="" src="http://www.techfest.org/topbar/cosmos.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/erustique/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu4');makeItVisible('erustique', event,'310px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu4'); hideHelp('erustique');">
+			<img alt="" src="http://www.techfest.org/topbar/erustique.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/sixth_gear/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu5');makeItVisible('sixth_gear', event,'400px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu5'); hideHelp('sixth_gear');">
+
+			<img alt="" src="http://www.techfest.org/topbar/sixth.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/smart_tech/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu6');makeItVisible('smart_tech', event,'490px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu6'); hideHelp('smart_tech');">
+			<img alt="" src="http://www.techfest.org/topbar/smart.gif" border="0"></a></li>
+			<li><a href="http://www.techfest.org/scitech/index.php"  onmouseover="ypSlideOutMenu.showMenu('menu7');makeItVisible('technoholix', event,'580px','20px');" onmouseout="ypSlideOutMenu.hideMenu('menu7'); hideHelp('technoholix');">
+			<img alt="" src="http://www.techfest.org/topbar/technoholix.gif" border="0"></a></li>
+			
+			
+		</ul>
+	</div>
+<div id="sidebar">
+    
+		<!--Box1 -->
+
+		<div id="box1" >
+			<ul>
+				<li id="title">Exhibitions</li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/asu/index.php#asu"> &nbsp;&nbsp;Welcome to Mars</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/exhibition/asu/index.php#isro"> &nbsp;&nbsp;India in Space</a></li>
+
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		<div id="box3" >
+			<ul>
+				<li id="title">Go To</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/register/index.php"> &nbsp;&nbsp;Register</a></li>
+
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/workshops/index.php"> &nbsp;&nbsp;Workshops</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/lecture_series/index.php"> &nbsp;&nbsp;Lecture Series</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/assistance/index.php"> &nbsp;&nbsp;Accomodation Details</a></li>
+				
+			</ul>
+		</div>		
+		<!--Start Update -->
+	<div id="updates" style="background-color:#394142; margin:0px 0px 20px 3.4em; padding:2px 0px 2px 0px; overflow:hidden;">
+		<ul style="list-style-type:none; margin:0; padding:0;"><li id="title" style=" list-style-type:none;">Updates</li></ul>
+		<div id="marqueecontainer" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed" >
+			<div id="vmarquee" style="position: absolute; width: 98%; overflow:hidden;">
+
+
+				<ul>
+				
+				<li id="menuitem"><p><strong>Dec 3</strong> <span style="color:#84BB45; font-size:13px; "><strong>&raquo;</strong></span> Techfest presents <a href="http://www.techfest.org/exhibition/asu/index.php">ASU's Mars Rover Exhibition</a>. </p></li>
+				<li id="menuitem"><p><strong>Dec 2</strong> <span style="color:#84BB45; font-size:13px; "><strong>&raquo;</strong></span> Techfest presents <a href="http://www.techfest.org/technovision/index.php">Technovision Awards</a>. </p></li>
+				<li id="menuitem"><p><strong>Dec 1</strong> <span style="color:#84BB45; font-size:13px; "><strong>&raquo;</strong></span> roboTRIx workshop at Pune. </p></li>
+				
+				
+				
+				
+				</ul>
+
+
+
+			</div>
+		</div>		
+	</div>
+	<!--End UPDATE -->
+		<!--Box2 -->
+
+		<div id="box2">
+			<ul>
+				<li id="title">Newsletter</li>
+				<li id="newsletter">
+					<form method="post" action="http://www.techfest.org/newsletter.php">
+					<table width="100%" border="0">
+					<tr align="center"><td><input type="text" size="15" name="news_email" id="news_email" value="Email" onblur="if (this.value == '') this.value = 'Email';" onfocus="if (this.value == 'Email') this.value = '';" /></td>
+					<td><input class="button" name="" type="image"  src="http://www.techfest.org/img/SEND-btn.gif"id="submit"  /></td></tr></table>
+
+					</form>
+				</li>
+			</ul>
+		</div>
+		<!-- End Box2-->
+
+
+
+
+
+
+
+
+  	</div>
+
+<div id="content">
+
+<a name="asu"></a>
+
+<h1 id="toptext">ASU Exhibition: "Welcome To Mars"</h1> 
+<p><img src="./img/asu.jpg" align="right" alt="" hspace="5" vspace="5" border="0">Mars – the red planet has enthralled the human race like no other object in the night sky. It has amazed us and beckoned to us for ages. This Techfest takes you closer to this planet than you had ever imagined.</p>
+<p>The Arizona State University (ASU) has been working with NASA on the Mars Rover Project. In May 2005, ASU was invited to the China Science & Technology Week to display an exhibition on technologies used in the mission. Needless to say, it was a big hit and over a million people attended the ASU exhibition in China, during the Govt. of China’s Science and Technology week.</p>
+<p>A similar exhibition will be held on each day at Techfest, and of-course, India is only the second country outside the USA where the exhibition is being held! ASU will be sending a team of 5 senior researchers to guide us through the exhibition. </p>
+<h3>Highlights of what can be expected</h3>
+<p><ol type="1">
+<li>On display will be some scaled-down models of the NASA spacecraft that was launched to Mars, some of the complex instruments designed specifically for the mission and models of the different types of probes currently roving Mars.</li>
+<li>Next to where the exhibition will be put up, we plan to put up a large screen that will beam latest pictures from cameras on Mars!</li>
+<li>There will be huge "story-boards" that will contain write-ups of various aspects of the mission that will give you a blow-by-blow account of the mission as you walk through the exhibition! Among other things, meteorites collected by ASU (fist-sized, on average) will also be put on display. </li>
+
+<li>Technical lectures from the chief engineers that worked on this project, on the special instruments, computer programs and systems that had to be developed for smooth functioning in an environment like Mars. </li>
+<li>Q & A sessions every few hours at the site of the exhibition, to be addressed to and answered by the team from ASU. </li>
+<li>And....lastly, we will be having a show of the best videos collected by NASA while on Mars, to be displayed at night in our Open Air Theatre, on a Giant screen and viewed by an audience of over 5000! </li>
+</ol></p>
+<p>The videos include: </p>
+<p><ol type="a">
+<li>Panoramic views of Martian terrain captured by their land rovers, </li>
+<li>Flythrough views over the canyons of Mars, and </li>
+<li>Highlights of the journey of the spacecraft starting from its Terrestrial launch to touchdown on Mars!</li>
+
+</ol></p>
+
+<br><br><br><br><br><br><br><br><br>
+
+</div>
+
+
+
+
+
+<div id="footer">
+	<div class="center">
+		<div class="right">
+			Web Hosting By<br>&nbsp;&nbsp;&nbsp;
+
+			<a href="http://www.indialinks.com" target="_blank">Indialinks</a>
+		</div>	<div class="left"><a href="http://www.techfest.org/faq/faq.php">FAQ</a> | <a href="http://www.techfest.org/sitemap/sitemap.php">Sitemap</a> | <a href="http://www.techfest.org/contactus/contactus.php">Contact Us</a> 
+</div>
+    Copyright &copy; 2006 Techfest Team<br>
+
+	
+</div>
+<!-- start 1st menu -->
+<div id="menu1Container">
+ <div class="menu" id="menu1Content">
+    <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/ai/crux/index.php">Crux</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/ai/micromouse/index.php">Micromouse</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/ai/char_recog/index.php">Character Recognition</a></div>
+
+ 
+ </div>
+</div>
+
+<!-- start 2rd menu -->
+<div id="menu2Container">
+ <div class="menu" id="menu2Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/concreate/h/index.php"><img src="http://www.techfest.org/concreate/h/img/hwtext.gif" border=0></a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/concreate/bridged/index.php">Bridged</a></div>
+  
+ </div>
+
+</div>
+
+<!-- start 3nd menu -->
+<div id="menu3Container">
+ <div class="menu" id="menu3Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/cosmos/grip/index.php">G.R.I.P.</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/cosmos/black_box/index.php">Black Box</a></div>
+  
+  </div>
+</div>
+
+<!-- start 4th menu -->
+<div id="menu4Container">
+ <div class="menu" id="menu4Content">
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/erustique/agrobot/index.php">AgroBot</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/erustique/innovision/index.php">Innovision</a></div>
+  <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/erustique/simple_life/index.php">The Simple Life v1.1</a></div>
+  
+ </div>
+
+</div>
+
+<!-- start 5th menu -->
+<div id="menu5Container">
+ <div class="menu" id="menu5Content">
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/flyhigh/index.php">FlyHigh</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/hover_junior/index.php">Hover Junior</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/fullthrottle/index.php">Full Throttle </a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/iterations/index.php">Workshop - Iterations</a></div>
+
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/robotrix/index.php">Workshop - roboTRIx</a></div>
+<div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/sixth_gear/pune-ws/index.php">Workshop - roboTRIx (Pune)</a></div>
+
+
+
+  
+ </div>
+</div>
+
+<!-- start 6th menu -->
+<div id="menu6Container">
+ <div class="menu" id="menu6Content">
+
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/iclean/index.php">iClean </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/prayaas/index.php">Prayaas </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/home_alive/index.php">Home Alive </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/idp/index.php">Industry Design Problem </a></div>
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/smart_tech/codec/index.php">Workshop - Codec </a></div>
+
+
+ </div>
+</div>
+
+<!-- start 7th menu -->
+<div id="menu7Container">
+ <div class="menu" id="menu7Content">
+ <div class="islide"><strong>&raquo;</strong> <a href="http://www.techfest.org/scitech/index.php">SciTech</a></div>
+
+ </div>
+
+</div>
+
+
+
+
+</body>
+</html>

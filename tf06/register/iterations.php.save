@@ -1,0 +1,230 @@
+<?php
+function echo_content($str)
+{
+	$l=fopen($str,"r");
+	$arr=file($str);
+	$num=count($arr);
+	for($i=0;$i<$num;$i++)
+	{
+		echo $arr[$i];
+	}
+	return;
+}
+
+echo_content("header.txt");
+echo_content("side_register.txt");
+echo_content("side_update.txt");
+if ($_POST['Submit']=="")
+{
+?>
+<!-- ##### Main Copy ##### -->
+
+    <div id="content">
+     <h1 id="toptext">Register - Iterations</h1> 
+<br><p>The registration closes on <strong>16th Dec. 2005 11:59 PM</strong>. All the registered participants will be e-mailed the link to the questionnaire on 17th Dec. 10:00 AM which has to be filled up by <strong>25th Dec. 2005 11:59 PM</strong>.
+The selections for attending the workshop will be purely based upon the score in the questionnaire. The results will be declared by <strong>27th Dec 2005</strong> on the website.</p><br>
+<form name="form1" method="post" action="./iterations.php">
+  <h3>Participant Details </h3>
+  <table width="453" border="0">
+    <tr>
+      <td>Name</td>
+      <td><input type="text" name="player1_name"></td>
+    </tr>
+    <tr>
+      <td>E-mail</td>
+      <td><input type="text" name="player1_mail"></td>
+    </tr>
+    <tr>
+      <td>University</td>
+      <td><input type="text" name="player1_univ"></td>
+    </tr>
+    <tr>
+      <td>Year</td>
+      <td><input type="text" name="player1_year"></td>
+    </tr>
+  </table>
+ 
+  
+ 
+  <h3>Postal Address</h3>
+  <table   width="453" border="0">
+<tr>
+<td>    
+<textarea name="postaladdress"></textarea> 
+</td>
+</tr>  
+</table>
+
+
+  <p>    <input type="submit" name="Submit" value="Submit">
+</p>
+  <p>&nbsp;</p>
+</form>
+
+    </div>
+    
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+
+<?
+}
+else if ($_POST['Submit']=="Submit")
+{
+
+
+?>
+
+	 <div id="content">
+     <h1 id="toptext">Register - Iterations</h1>
+	 <? 
+	if(($_POST['player1_name']=="")||($_POST['player1_mail']=="")||($_POST['player1_univ']=="")||($_POST['player1_year']==""))
+ 	{
+		?><p>Participaion information invalid. Please Resubmit your registration</p><?
+		exit;
+ 	}
+
+	else if ($_POST['postaladdress']=="")
+ 	{
+		?><p>Please enter a Valid Postal address</p><?
+		exit;
+ 	}
+
+	
+
+
+	
+
+	$dbhost = 'techfest.techfest.org';
+		$dbname = 'techfest';
+		$dbuser = 'techfestiitb';
+		$dbpasswd = 'tec45st';
+
+	$link = mysql_connect($dbhost,$dbuser,$dbpasswd)
+	or die("Could not connect : " . mysql_error());
+	mysql_select_db($dbname) or die("Query failed : " . mysql_error());
+
+	
+	$query="SELECT Regnum FROM iterations2k6";
+	$r=mysql_query($query);
+	$row=mysql_fetch_row($r);
+	if (!$row)
+ 	{
+		$regnum=101;
+ 	}
+	else
+ 	{
+		$regnum=$row[0];
+		while($row=mysql_fetch_row($r))
+ 	 	{
+			if($regnum<$row[0])
+				$regnum=$row[0];
+	 	}
+		$regnum=$regnum+1;
+ 	}
+
+	$query1 = "INSERT INTO iterations2k6 (Regnum,Name1,Email1,Univ1,Year1,Address) VALUES ('$regnum','{$_POST['player1_name']}','{$_POST['player1_mail']}','{$_POST['player1_univ']}','{$_POST['player1_year']}','{$_POST['postaladdress']}')";
+	$res=mysql_query($query1);
+	$today = date("F j, Y, g:i a");
+	$fh=fopen('iterations2k6.txt','a+');
+	$str="Regnum: ".$regnum."\n";
+	$str.="Date: ".$today."\n";
+	$str.="Name1: ".$_POST['player1_name']."\n";
+	$str.="Email1: ".$_POST['player1_mail']."\n";
+	$str.="Univ1: ".$_POST['player1_univ']."\n";
+	$str.="Year1: ".$_POST['player1_year']."\n";
+	
+	$str.="Address: ".$_POST['postaladdress']."\n\n";
+	fwrite($fh,$str);
+	if ($res)
+ 	{
+	$headers = "MIME-Version: 1.0\r\n";
+	$headers .= "Content-type: text/plain; charset=iso-8859-1\r\n";
+	$headers .= "From: Iterations at Techfest 2006 <iteartions@techfest.org>\r\n";
+	$headers .= "Reply-To: iterations@techfest.org\r\n";
+	$sub = "Registration for Iterations ";
+	$mes = "Dear ".$_POST['player1_name']."\r\n\r\n";
+	$mes .= "Thank you for registering for Iterations at Techfest-2006.\r\n\r\nYour team details are as follows:";
+	$mes .= "\r\nParticipant ".$_POST['player1_name']."\r\nEmail : ".$_POST['player1_mail'];
+	
+
+	$mes .= "\r\nYour team code is :IT06".$regnum;
+	$mes .= "\r\nPlease make it a point to mention this team code in any future correspondence.	For any discrepancies in the above information, mail us at iterations@techfest.org";
+	$mes .= "\r\nThe registration closes on 16th Dec. 2005 11:59 PM. All the registered participants will be e-mailed the link to the questionnaire on 17th Dec. 10:00 AM which has to be filled up by 25th Dec. 2005 11:59 PM. The selections for attending the workshop will be purely based upon the score in the questionnaire. The results will be declared by 27th Dec 2005 on the website.";
+	$mes .= "\r\n\r\n
+	Contact address:
+	Techfest '06,
+	Student Gymkhana,
+	IITB, Powai
+	Mumbai
+	India
+	http://www.techfest.org";
+
+
+?>
+	<br><p>Thank you for registering for <b>Iterations</b> at
+	Techfest '06.<br><br>
+	Your details are as follows:
+	<br>
+	Participant
+
+<?php
+
+	print "<br>Name :<b>".$_POST['player1_name']."</b>";
+	print "<br>Email  : <b>".$_POST['player1_mail']."</b>";
+	
+	
+
+?>
+<br>
+<?
+print "Your team code is: <b>IT06".$regnum."</b>";
+print "</font></b>&nbsp; &nbsp;<br>Please make it a point to mention this team code in any future correspondence.<br>";
+print "For any discrepancies in the above information, mail us at ";
+?>
+<a href="http://www.techfest.org/mail.php?email=iterations@techfest.org">iterations@techfest.org</a><br>
+<p>The registration closes on <strong>16th Dec. 2005 11:59 PM</strong>. All the registered participants will be e-mailed the link to the questionnaire on 17th Dec. 10:00 AM which has to be filled up by <strong>25th Dec. 2005 11:59 PM</strong>.
+The selections for attending the workshop will be purely based upon the score in the questionnaire. The results will be declared by <strong>27th Dec 2005</strong> on the website.</p>
+<br>
+For further queries, contact us at:<br>
+<b>
+TECHFEST 2006<br></b>
+Students' Gymkhana<br>
+IIT Bombay,Powai<br>
+Mumbai- 400076<br>
+Tel-91-22 25764045/8947<br>
+Fax-91-22 25723480<br>
+<a href="http://www.techfest.org/mail.php?email=info@techfest.org">info@techfest.org</a>
+
+<?
+
+$temp = "register.tf2k6@gmail.com";
+$h = mail($_POST['player1_mail'], $sub, $mes, $headers);
+if($h == TRUE){
+$h1 = mail($temp, $sub, $mes, $headers);
+}
+else
+{
+print "Unable to send mail to ".$_POST['player1_mail'];
+}
+
+}
+else
+{
+die('Query failed : '.mysql_error());
+mysql_close($link);
+exit;
+}
+
+
+?>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+<?
+
+}
+echo_content("footer.txt");
+
+?>

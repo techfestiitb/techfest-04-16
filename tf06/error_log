@@ -1,0 +1,33 @@
+[11-Oct-2014 03:26:10 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[11-Oct-2014 03:26:10 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[11-Oct-2014 09:26:20 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[11-Oct-2014 09:26:21 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[12-Oct-2014 10:53:31 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[12-Oct-2014 10:53:31 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[17-Nov-2014 22:13:54 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[17-Nov-2014 22:13:54 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[17-Nov-2014 22:13:58 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[17-Nov-2014 22:13:58 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[17-Nov-2014 22:14:00 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[17-Nov-2014 22:14:00 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[17-Nov-2014 22:14:03 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[17-Nov-2014 22:14:03 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[17-Nov-2014 22:14:12 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[17-Nov-2014 22:14:12 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[17-Nov-2014 22:14:48 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[17-Nov-2014 22:14:48 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[23-Nov-2014 00:23:20 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[23-Nov-2014 00:23:20 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[25-Jun-2015 06:14:49 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[25-Jun-2015 06:14:49 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[16-Oct-2015 14:35:23 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[16-Oct-2015 14:35:23 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[22-Feb-2016 04:45:58 America/Denver] PHP Notice:  Undefined offset: 1 in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 34
+[22-Feb-2016 04:45:59 America/Denver] PHP Warning:  mysql_connect(): Unknown MySQL server host 'techfest.techfest.org' (0) in /home3/teamtech/public_html/techfest.org/archives/tf06/newsletter.php on line 64
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/56/usr/lib64/php/modules/http.so' - /usr/php/56/usr/lib64/php/modules/http.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[14-Jun-2016 22:07:19 America/Denver] PHP Warning:  Module 'ionCube Loader' already loaded in Unknown on line 0

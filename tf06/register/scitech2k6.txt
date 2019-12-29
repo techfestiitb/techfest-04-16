@@ -1,0 +1,4189 @@
+Regnum: 101
+Date: November 3, 2005, 11:06 am
+Institute name: IIT Bombay
+Institute Address: aafaf
+Tel: 535235
+Fax: 2353255
+Name1: Siddharth Jopshi
+Email1: mailsiddj@gmail.com
+Age1: 13
+Year1: 3 year
+Contact no.1: 523532535
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 102
+Date: November 8, 2005, 10:23 pm
+Institute name: G,H,Patel College of Engg. and Technology,Vallabh Vidyanagar
+Institute Address: GCET,Bakrol road,VVnagar,Anand
+Tel: 
+Fax: 
+Name1: Nishit Shah
+Email1: nishit219@yahoo.co.in
+Age1: 20
+Year1: 3rd
+Contact no.1: 9825544797
+Name2: Rinkal Shah
+Email2: rinkal2001@yahoo.com
+Age2: 20
+Year2: 3rd
+Contact no.2: 9898171728
+
+Regnum: 103
+Date: November 9, 2005, 8:18 am
+Institute name: B.S.A. CRESCENT ENGINEERING COLLEGE
+Institute Address: Seethakathi Estate,
+Vandalur,
+Chennai 600 048.
+Tel: 22751375/22751347
+Fax: 2750520
+Name1: Manoj Subramanian
+Email1: cornucopiamanty@gmail.com
+Age1: 20
+Year1: FOURTH
+Contact no.1: 98840 75342
+Name2: Gnana Prakash
+Email2: beckongp@gmail.com
+Age2: 20
+Year2: FOURTH
+Contact no.2: 98843 32290
+
+Regnum: 104
+Date: November 9, 2005, 10:53 am
+Institute name: jayprakash institute of engineering and technology
+Institute Address: guna (M.P.)
+Tel: 
+Fax: 
+Name1: Deepak agrawal
+Email1: dpak_garg85@yahoo.com
+Age1: 20
+Year1: 2nd year (3rd semester)
+Contact no.1: 09329530069
+Name2: ankur mishra
+Email2: i_ankur_mishra@yahoo.com
+Age2: 19
+Year2: 2nd year(3rd semester)
+Contact no.2: 07552460653
+
+Regnum: 105
+Date: November 10, 2005, 8:28 pm
+Institute name: Government Engineering College,Aurangabad
+Institute Address: Government Engineering College,Station Road,Osmanpura
+Tel: 0240-2334348
+Fax: 
+Name1: Nilesh Pokharkar
+Email1: nileshpokharkar@yahoo.com
+Age1: 19
+Year1: second year
+Contact no.1: 0240-2483444
+Name2: Vikas Dad
+Email2: vikas_dad2000@yahoo.co.in
+Age2: 19
+Year2: second year
+Contact no.2: 0240-2484430/9325202855
+
+Regnum: 106
+Date: November 10, 2005, 8:33 pm
+Institute name: Government Engineering College,Aurangabad
+Institute Address: Government Engineering College,Station Road,Osmanpura
+Tel: 0240-2334348
+Fax: 
+Name1: Aniket Joshi
+Email1: aniketajoshi@rediffmail.com
+Age1: 18
+Year1: second year
+Contact no.1: 0240-2486989
+Name2: Rohit Ambekar
+Email2: -
+Age2: 19
+Year2: second year
+Contact no.2: 0240-2480320
+
+Regnum: 107
+Date: November 11, 2005, 10:20 am
+Institute name: MPCT gwaior
+Institute Address: MPCT ,putli ghar road, near jiwaji university,morar,
+gwalior
+Tel: 0751-2346110
+Fax: 
+Name1: Sushant jain
+Email1: hotboyzone@rediffmail.com
+Age1: 21
+Year1: 3rd year
+Contact no.1: 9826448725
+Name2: Vikrant kumar
+Email2: vicky_vikrant03@rediffmail.com
+Age2: 21
+Year2: 3rd year
+Contact no.2: 9862495088
+
+Regnum: 108
+Date: November 12, 2005, 4:30 am
+Institute name: SAMRAT ASHOK TECHNOLOGICAL INSTITUTE
+Institute Address: Samrat Ashok Technological Institute,
+Civil Lines,
+VIDISHA(M.P.)464001,
+INDIA
+Tel: 07592-250296/97
+Fax: 07592-250124
+Name1: Neha Vishwakarma
+Email1: neha_the_genius@yahoo.co.in
+Age1: 19
+Year1: 2nd Year
+Contact no.1: 09826939715
+Name2: Manisha Gupta
+Email2: manisha121201@yahoo.com
+Age2: 19
+Year2: 2nd Year
+Contact no.2: 09826536202
+
+Regnum: 109
+Date: November 12, 2005, 7:20 am
+Institute name: L.N.C.T BHOPAL
+Institute Address: KALCHURI NAGAR RAISEN ROAD BHOPAL M.P
+Tel: 07552778635
+Fax: 
+Name1: ISHAN NIGAM
+Email1: ishaan_nogam@rediffmail.com
+Age1: 19
+Year1: 2nd
+Contact no.1: 07555222809
+Name2: SAMEEP DHARKAR
+Email2: sameepdharkar@yahoo.co.in
+Age2: 19
+Year2: 2nd
+Contact no.2: 9893157271
+
+Regnum: 110
+Date: November 12, 2005, 7:27 am
+Institute name: L.N.C.T BHOPAL
+Institute Address: KALCHURI NAGAR RAISEN ROAD BHOPAL
+Tel: 07552778653
+Fax: 
+Name1: SUMEET DHINGRA
+Email1: sumeet_lnct@yahoo.co.in
+Age1: 19
+Year1: 2nd
+Contact no.1: 9893429701
+Name2: VARUN MATHUR
+Email2: varroonm_00@yahoo.com
+Age2: 19
+Year2: 2nd
+Contact no.2: 07552770269
+
+Regnum: 111
+Date: November 13, 2005, 10:28 am
+Institute name: Vishwakarma Institute of Technology
+Institute Address: Vishwakarma Institute of Technology, 666, Upper Indiranagar,
+Bibwewadi, Pune-411037
+Tel: 020-24282294, 020-24281594
+Fax: 020-24280926
+Name1: Siddharth Dani
+Email1: siddharthdani@gmail.com 
+Age1: 20
+Year1: 4th
+Contact no.1: 9422501573
+Name2: Satpreet Singh
+Email2: satpreetsingh@gmail.com
+Age2: 21
+Year2: 4th
+Contact no.2: 9822815120
+
+Regnum: 112
+Date: November 13, 2005, 6:55 pm
+Institute name: Sardar Vallabhbhai National Institute of Technology
+Institute Address: C-1, Tirupati Nagar, Dumas Road, Piplod, Surat - 395007
+Tel: 
+Fax: 
+Name1: Vikas Sahu
+Email1: vikasahu@hotmail.com
+Age1: 21
+Year1: 4th
+Contact no.1: +919825091635
+Name2: T Vamsee Krishna
+Email2: coolvamsee@yahoo.co.in
+Age2: 21
+Year2: 4th
+Contact no.2: +919898321253
+
+Regnum: 113
+Date: November 14, 2005, 3:07 am
+Institute name: SAMRAT ASHOK TECHNOLOGICAL INSTITUTE
+Institute Address: SAMRAT ASHOK TECHNOLOGICAL INSTITUTE,CIVIL LINES,VIDISHA(M.P.)464001
+Tel: 07592-250296/97
+Fax: 07592-250124
+Name1: ISHA VYAS
+Email1: isha_vyas2005@ yahoo.co.in
+Age1: 19 YEARS
+Year1: 2ND YEAR
+Contact no.1: 09329547701
+Name2: URVASHI CHOUDHARY
+Email2: isha_charming09@yahoo.co.in
+Age2: 18 YEARS
+Year2:  2ND YEAR
+Contact no.2: 0755-2750960
+
+Regnum: 114
+Date: November 14, 2005, 9:28 pm
+Institute name: lakshmi narain college of technology
+Institute Address: kalchuri nagar,raisen road p.o. kolua bhopal
+Tel: 
+Fax: 
+Name1: sailendra kumar
+Email1: sailendra.kumar@gmail.com
+Age1: 21
+Year1: 3rd
+Contact no.1: 9893323053
+Name2: vikrant singh
+Email2: vikrantsinghec@yahoo.com
+Age2: 21
+Year2: 3rd
+Contact no.2: 9425537489
+
+Regnum: 115
+Date: November 14, 2005, 9:48 pm
+Institute name: NIT CALICUT
+Institute Address: CALICUT REC P.O
+CALICUT
+Tel: 
+Fax: 
+Name1: ROBIN JACOB
+Email1: rojes000@rediffmail.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9447661283
+Name2: RIJIN K.V
+Email2: kvrijin@gmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 9895Top Six teams will reach the Grand Finale to be held on the final night of Techfest &#8217;06. The number of rounds and marking scheme will be disclosed durin009163
+
+Regnum: 116
+Date: November 14, 2005, 9:48 pm
+Institute name: NIT CALICUT
+Institute Address: CALICUT REC P.O
+CALICUT
+Tel: 
+Fax: 
+Name1: ROBIN JACOB
+Email1: rojes000@rediffmail.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9447661283
+Name2: RIJIN K.V
+Email2: kvrijin@gmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 9895Top Six teams will reach the Grand Finale to be held on the final night of Techfest &#8217;06. The number of rounds and marking scheme will be disclosed durin009163
+
+Regnum: 117
+Date: November 14, 2005, 9:50 pm
+Institute name: NIT CALICUT
+Institute Address: CALICUT REC P.O
+CALICUT
+KERALA
+Tel: 
+Fax: 
+Name1: ROBIN JACOB
+Email1: rojes000@rediffmail.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9447661283
+Name2: RIJIN K.V
+Email2: kvrijin@gmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 9895Top Six teams will reach the Grand Finale to be held on the final night of Techfest &#8217;06. The number of rounds and marking scheme will be disclosed durin009163
+
+Regnum: 118
+Date: November 14, 2005, 9:50 pm
+Institute name: NIT CALICUT
+Institute Address: CALICUT REC P.O
+CALICUT
+KERALA
+Tel: 
+Fax: 
+Name1: ROBIN JACOB
+Email1: rojes000@rediffmail.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9447661283
+Name2: RIJIN K.V
+Email2: kvrijin@gmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 9895009163
+
+Regnum: 119
+Date: November 15, 2005, 12:44 am
+Institute name: Shree Sant Gajanan Maharaj College of Engineering
+Institute Address: Shree Sant Gajanan Maharaj College of Engineering,Shegaon
+Dst:Buldhana
+Tel: 07279254765
+Fax: 07279253602
+Name1: Arpan M.Sadhankar
+Email1: arpan_sadhankar
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09422838585
+Name2: Vivek N.Sharma
+Email2: vivekss97@rediffmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 09422838585
+
+Regnum: 120
+Date: November 15, 2005, 12:54 am
+Institute name: Shree Sant Gajanan Maharaj College of Engineering
+Institute Address: Shree Sant Gajanan Maharaj College of Engineering, SHEGAON
+Dist. Buldhana
+Tel: 07279253558
+Fax: 07279253602
+Name1: Arpan M.Sadhankar
+Email1: arpan_sadhankar@rediffmail.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09422838585
+Name2: Vivek N.Sharma
+Email2: vivekss97@rediffmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 09422838585
+
+Regnum: 121
+Date: November 15, 2005, 3:51 am
+Institute name: Hindustan College of Science & Technology
+Institute Address: Hindustan College of Science & technology, NH-2, Farah, Mathura
+Tel: 
+Fax: 
+Name1: Mohit Nanda
+Email1: mht.nanda@gmail.com
+Age1: 20
+Year1: Third
+Contact no.1: 09935255933
+Name2: Abhinav Yadav
+Email2: abhinavanihba@gmail.com
+Age2: 20
+Year2: Third
+Contact no.2: 09897149889
+
+Regnum: 122
+Date: November 15, 2005, 3:53 am
+Institute name: Hindustan College of Science & Technology
+Institute Address: Hindustan College of Science & technology, NH-2, Farah, Mathura
+Tel: 0565-2763423
+Fax: 
+Name1: Mohit Nanda
+Email1: mht.nanda@gmail.com
+Age1: 20
+Year1: Third
+Contact no.1: 09935255933
+Name2: Abhinav Yadav
+Email2: abhinavanihba@gmail.com
+Age2: 20
+Year2: Third
+Contact no.2: 09897149889
+
+Regnum: 123
+Date: November 15, 2005, 9:28 pm
+Institute name: Pune Institute of Computer Technology
+Institute Address: Sr. No 27, Pune-Satara Road, 
+Dhankawadi, Pune-411 043 
+Maharashtra (India)
+Tel: +91 20 24371101, 24372041, 24378063, 24376190, 24372479
+Fax: +91 20 24372106
+Name1: ARPIT AGRAWAL
+Email1: arpit2agrawal@rediff.com
+Age1: 19
+Year1: Ssecond
+Contact no.1: +91 98233 50402
+Name2: KUNAL CHANDARANA
+Email2: arpit2agrawal@rediff.com
+Age2: 19
+Year2: Second
+Contact no.2: +91 98237 22983
+
+Regnum: 124
+Date: November 16, 2005, 5:44 am
+Institute name: R.K.D.F.I.S.T,BHOPAL
+Institute Address: T-1,ISHAN INDRA BHAVAN,INDRAPURI-C,BHOPAL
+Tel: +919893090646
+Fax: 
+Name1: PRASHANT DUBEY
+Email1: prashant_dubey05@yahoo.co.in
+Age1: 20
+Year1: 3rd
+Contact no.1: +919893090646
+Name2: sabhyasachi dey
+Email2: fantastic_mech@yahoo.co.in
+Age2: 20
+Year2: 3rd
+Contact no.2: +919893090646
+
+Regnum: 125
+Date: November 16, 2005, 8:53 am
+Institute name: Walchand Institute of Technology
+Institute Address: New W.I.T Building
+CSE Department
+Ashok Chowk
+Solapur-413006
+Tel: 02172651388
+Fax: 02172651538
+Name1: Dhwanit Shah
+Email1: dhwanit84@yahoo.co.in
+Age1: 21
+Year1: Final
+Contact no.1: 02642246754
+Name2: Anchal Jain
+Email2: anchal_wit@yahoo.co.in
+Age2: 21
+Year2: Final
+Contact no.2: 09890094722
+
+Regnum: 126
+Date: November 16, 2005, 10:08 am
+Institute name: Walchand Institute of Technology
+Institute Address: Ashok Chowk
+Solapur 413006
+Tel: 02172651538
+Fax: 02172653040
+Name1: Saurabh Jain
+Email1: mumkinhai2000@gmail.com
+Age1: 23
+Year1: final
+Contact no.1: 09422463448
+Name2: Shah Dhwanit
+Email2: dhwanit84@gmail.com
+Age2: 21
+Year2: final
+Contact no.2: 0989300755
+
+Regnum: 127
+Date: November 16, 2005, 12:04 pm
+Institute name: Sardar Vallabhai Patel Institute of Technology, Vasad
+Institute Address: Vasad- 388306
+District- Anand,
+GUJARAT
+Tel: (02692) 274766
+Fax: -
+Name1: Akash R. Rathi
+Email1: aks_thesky@yahoo.co.in
+Age1: 20 years
+Year1: Third Year 
+Contact no.1: (0265) 2396493
+Name2: Deepak Chaudhary
+Email2: cooldeepak54@yahoo.co.in
+Age2: 20 years
+Year2: Third Year 
+Contact no.2: (0265) 2489963
+
+Regnum: 128
+Date: November 17, 2005, 2:33 am
+Institute name: DEPARTMENT OF PHYSICS 
+UNIVERSITY OF PUNE,
+PUNE-411007
+Institute Address: GHODKE GAURAO AJAY
+DEPARTMENT OF PHYSICS 
+UNIVERSITY OF PUNE,
+PUNE-411007
+Tel: 
+Fax: 
+Name1: GHODKE GAURAV AJAY
+Email1: gag1432@yahoo.com
+Age1: 21
+Year1: Msc-1
+Contact no.1: 
+Name2: THAKARE VISHAL PRABHAKAR
+Email2: vishuiam@rediffmail.com
+Age2: 21
+Year2: Msc-1
+Contact no.2: 
+
+Regnum: 129
+Date: November 17, 2005, 6:52 am
+Institute name: fet agra college agra
+Institute Address: m.g.road agra
+Tel: 09719343415
+Fax: 
+Name1: kunwar pal singh
+Email1: kp_singh5590@yahoo.com
+Age1: 22
+Year1: 2002-06
+Contact no.1: 09719343415
+Name2: sanjay kumar
+Email2: sam27aug@rediffmail.com
+Age2: 22
+Year2: 2002-06
+Contact no.2: 09412425367
+
+Regnum: 130
+Date: November 18, 2005, 12:04 am
+Institute name: universit institute of technology ,barkatullah university bhopal
+Institute Address: flat no ligh 2/28 , vidya nagar h.b road , bhoapl
+Tel: 09425374591
+Fax: 
+Name1: nilesh kumar srivastava 
+Email1: nilesh_softpro129@rediffmail.com
+Age1: 21
+Year1: third
+Contact no.1: 09425374591
+Name2: Hitendra yadav
+Email2: hits@yahoo.com
+Age2: 22
+Year2: third
+Contact no.2: do
+
+Regnum: 131
+Date: November 18, 2005, 1:27 am
+Institute name: REGIONAL COLLEGE FOR EDUCATION RESEARCH AND TECHNOLOGY
+Institute Address: ISI-17,INSTITUTIONAL AREA ,SITAPURA, JAIPUR.
+Tel: 0141-2770460
+Fax: 
+Name1: VIKRANT UPRIT
+Email1: wow_vikrant@yahoo.com
+Age1: 21
+Year1: 2.5
+Contact no.1: 09829950270
+Name2: PUNEET PATHAK
+Email2: pun_pat@indiatimes.com
+Age2: 21
+Year2: 2.5
+Contact no.2: 09828311696
+
+Regnum: 132
+Date: November 18, 2005, 2:03 am
+Institute name: bundelkhand institute of science & technology jhansi(up)
+Institute Address: jhansi up
+Tel: 05172320349
+Fax: 
+Name1: Rahul soni
+Email1: rahulst12iitk@yahoo.com
+Age1: 18
+Year1: 1
+Contact no.1: 9450173119
+Name2: Atri goel
+Email2: rahulst12iitk@yahoo.com
+Age2: 19
+Year2: 1
+Contact no.2: 9450173119
+
+Regnum: 133
+Date: November 19, 2005, 6:06 am
+Institute name: Sri ramdeobaba kamla nehru engg. college
+Institute Address: Ramdeo Tekdi, Katol Road, 
+    Nagpur (M.S.) (India)
+Tel: (91)-(712)- 2583236, 2580177,
+Fax: (91)-(712)- 2583237
+Name1: Nikhil
+Email1: nikhil.coolhunk@gmail.com
+Age1: 20
+Year1: 4
+Contact no.1: 09890564112
+Name2: Namita
+Email2: nami.sah@gmail.com
+Age2: 20
+Year2: 4
+Contact no.2: 06422122542
+
+Regnum: 134
+Date: November 19, 2005, 11:50 am
+Institute name: jaipur engg. college and research center
+Institute Address: jecrc ,tonk road ,jaipur
+Tel: 91-141-2770232
+Fax: 91-141-2770803
+Name1: shivendu
+Email1: shivendu5665@rediffamail.com
+Age1: 18
+Year1: 1
+Contact no.1: 9828404409
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 135
+Date: November 19, 2005, 11:57 am
+Institute name: jaipur engg. college and research center
+Institute Address: jecrc,Sri Ram Ki Nangal
+Via Vatika - 303905
+Tonk Road, Jaipur
+Rajasthan (India)
+Tel: 91-141-2770232
+Fax: 91-141-2770803
+Name1: shivendu
+Email1: shivendu5665@rediffmail.com
+Age1: 18
+Year1: 1
+Contact no.1: 9828404409
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 136
+Date: November 20, 2005, 2:19 am
+Institute name: lnct ,bhopal
+Institute Address: raisen road,kalchuri nagar,bhopal,M.P
+Tel: 9425482416
+Fax: 9425482416
+Name1: rahul kumar
+Email1: rahul786_lnct@yahoo.co.in
+Age1: 20
+Year1: 2nd year
+Contact no.1: 9425482416
+Name2: kanwaldeepsingh
+Email2: singh_kanwal@yahoo.co.in
+Age2: 19
+Year2: 2nd
+Contact no.2: 9425482416
+
+Regnum: 137
+Date: November 20, 2005, 9:28 am
+Institute name: INSTITUTE OF ENGINEERING & TECHNOLOGY BHADDAL
+Institute Address: IET BHADDAL PO: MIANPUR DIST:ROPAR (PUNJAB)140108
+Tel: 01881244749
+Fax: 01881244749
+Name1: RAMANDEEP SINGH
+Email1: singh_raman_mand@yahoo.com
+Age1: 22
+Year1: 4th
+Contact no.1: 09888494616
+Name2: Robbin
+Email2: chitkara.robbin@gmail.com
+Age2: 21
+Year2: 4th
+Contact no.2: 09888277373
+
+Regnum: 138
+Date: November 21, 2005, 5:15 am
+Institute name: rgpv
+Institute Address: rgpv campus bypass road,gandhinagar bhopal9mp0
+Tel: 07552746023
+Fax: 07552746024
+Name1: Anant Sharma
+Email1: sharma.anant@rediffmail.com
+Age1: 21
+Year1: fourth
+Contact no.1: 09893018029
+Name2: saurabh pandit
+Email2: saurabh_apex@yahoo.co.in
+Age2: 20
+Year2: third
+Contact no.2: 9425392788
+
+Regnum: 139
+Date: November 21, 2005, 5:17 am
+Institute name: rgpv
+Institute Address: rgpv campus bypass road,gandhinagar bhopal9mp0
+Tel: 07552746023
+Fax: 07552746024
+Name1: Anant Sharma
+Email1: sharma.anant@rediffmail.com
+Age1: 21
+Year1: fourth
+Contact no.1: 09893018029
+Name2: rohit shrivastava
+Email2: soopsticks@yahoo.co.in
+Age2: 21
+Year2: fourth
+Contact no.2: 9827764977
+
+Regnum: 140
+Date: November 21, 2005, 5:19 am
+Institute name: rgpv
+Institute Address: rgpv campus bypass road,gandhinagar bhopal9mp0
+Tel: 07552746023
+Fax: 07552746024
+Name1: saurabh pandit
+Email1: saurabh_apex@yahoo.co.in
+Age1: 20
+Year1: third
+Contact no.1: 09425392788
+Name2: rohit shrivastava
+Email2: soopsticks@yahoo.co.in
+Age2: 21
+Year2: fourth
+Contact no.2: 9827764977
+
+Regnum: 141
+Date: November 21, 2005, 7:10 am
+Institute name: Dhirubhai Ambani Institute of Information and Communication Technology
+Institute Address: DA-IICT
+P.O box 4
+Gandhinagar,Gujarat-382009
+Tel: +91 (079) 30520000       
+Fax: +91 (079) 30520010         
+Name1: Abhishek Kumar Sharma
+Email1: sharma_abhishek@da-iict.org
+Age1: 21
+Year1: 3
+Contact no.1: 094265 27217
+Name2: Anshul Singhal
+Email2: anshul_singhal@da-iict.org
+Age2: 21
+Year2: 3
+Contact no.2: 094265 27217
+
+Regnum: 142
+Date: November 21, 2005, 10:13 pm
+Institute name: vignans engineering college
+Institute Address: flat no 301,surya hanuma apts, kothapet,guntur andhra pradesh
+Tel: 918632261624
+Fax: 
+Name1: T.harikrishna
+Email1: chemhari999@gmail.com
+Age1: 22
+Year1: final year(4 th year)
+Contact no.1: 918632261624
+Name2: ch.v.guruveswara rao
+Email2: chemguru@gmail.com
+Age2: 22
+Year2: final year
+Contact no.2: 
+
+Regnum: 143
+Date: November 22, 2005, 8:24 pm
+Institute name: Institute of Engineering & Technology (DAVV),Indore (M.P.)
+Institute Address: IET (DAVV) , Khandwa Road, opposite to soyabeen center, Indore (M.P.) 452017
+Tel: 0731 - 2462311 , 2361116 , 2361117
+Fax: 0731 - 2764385
+Name1: Arpit Khandelwal
+Email1: arpitkhandelwal2006&yahoo.com
+Age1: 19
+Year1: 3 year
+Contact no.1: 9827050055
+Name2: Piyush Jain
+Email2: email2piyush29@yahoo.com
+Age2: 21
+Year2: 3
+Contact no.2: 9329752779
+
+Regnum: 144
+Date: November 22, 2005, 10:13 pm
+Institute name: rajasthan college of engg for women
+Institute Address: r.c.e.w college
+bhankrota,jaipur
+Tel: 9414363320
+Fax: 
+Name1: akarti jain
+Email1: shilpi007comes@yahoo.co.in
+Age1: 20
+Year1: 3rd
+Contact no.1: 09829500434
+Name2: shweta sharma
+Email2: shweta_heena2004@yahoo.co.in
+Age2: 21
+Year2: 3rd
+Contact no.2: 
+
+Regnum: 145
+Date: November 22, 2005, 10:13 pm
+Institute name: rajasthan college of engg for women
+Institute Address: r.c.e.w college
+bhankrota,jaipur
+Tel: 9414363320
+Fax: 
+Name1: akarti jain
+Email1: shilpi007comes@yahoo.co.in
+Age1: 20
+Year1: 3rd
+Contact no.1: 09829500434
+Name2: shweta sharma
+Email2: shweta_heena2004@yahoo.co.in
+Age2: 21
+Year2: 3rd
+Contact no.2: 09414363320
+
+Regnum: 146
+Date: November 22, 2005, 10:18 pm
+Institute name: rajasthan college of engg for women
+Institute Address: r.c.e.w college,
+bhankrota,ajmer road,jaipur,rajasthan
+Tel: 0141-2251280
+Fax: 91-141-2251287
+Name1: akarti jain
+Email1: akarti_jain1@rediffmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09829500434
+Name2: shweta sharma
+Email2: shweta_heena2004@yahoo.co.in
+Age2: 21
+Year2: 3rd
+Contact no.2: 09414363320
+
+Regnum: 147
+Date: November 22, 2005, 11:53 pm
+Institute name: JABALPUR ENGINEERING COLLEGE
+Institute Address: JABALPUR ENGINEERING COLLEGE,
+GOKHALPUR, RANJHI,
+JABALPUR(M.P.)
+PIN-482011
+Tel: 
+Fax: 
+Name1: SIDDHARTH DUBEY
+Email1: siddhu_dubey@yahoo.co.in
+Age1: 18
+Year1: SECOND
+Contact no.1: +91-9425483826
+Name2: SANDEEP KORI
+Email2: sandeep_2826@yahoo.co.in
+Age2: 21
+Year2: SECOND
+Contact no.2: +91-761-2630184
+
+Regnum: 148
+Date: November 23, 2005, 12:09 am
+Institute name: JABALPUR ENGINEERING COLLEGE
+Institute Address: GOKHALPUR, RANJHI,
+JABALPUR(M.P.)
+PIN-482011
+Tel: 
+Fax: 
+Name1: KAPIL JAIN
+Email1: kap_newstart@yahoo.com
+Age1: 22
+Year1: FOURTH
+Contact no.1: +91-9827397792
+Name2: RAJKUMAR SINGH
+Email2: siddhu_dubey2004@yahoo.co.in
+Age2: 18
+Year2: SECOND
+Contact no.2: 
+
+Regnum: 149
+Date: November 23, 2005, 2:18 am
+Institute name: Yadavindra College of Engineering
+Institute Address: YCoE, Guru Kashi Campus, Talwandi Sabo, Bathinda(Punjab)
+Tel: 
+Fax: 
+Name1: Preetpal Singh
+Email1: sandhu_preetpal@yahoo.co.in
+Age1: 18
+Year1: 1st
+Contact no.1: 
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 150
+Date: November 23, 2005, 2:21 am
+Institute name: Yadavindra College of Engineering
+Institute Address: YCoE, Guru Kashi Campus, Talwandi Sabo, Bathinda(Punjab)
+Tel: 
+Fax: 
+Name1: Preetpal Singh
+Email1: sandhu_preetpal@yahoo.co.in
+Age1: 18
+Year1: 1st
+Contact no.1: 01632- 223324
+Name2: Jaspreet Dhindsa
+Email2: dhindsa_lalli@yahoo,co,in
+Age2: 17
+Year2: 1st
+Contact no.2: +919815204544
+
+Regnum: 151
+Date: November 23, 2005, 10:25 am
+Institute name: TEEGALA KRISHNA REDDY COLLEGE OF ENGG. &TECHNOLOGY
+Institute Address: MEDBOWLI,MEERPET,SAROORNAGAR,HYDERABAD,ANDHRA PRADESH.
+Tel: 040-55347536
+Fax: 04024094567
+Name1: Susheel
+Email1: sushe_bio@yahoo.co.in
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09849273732
+Name2: sushma reddy
+Email2: sushreddye4u@yahoo.co.in
+Age2: 21
+Year2: 4th year
+Contact no.2: 09849273732
+
+Regnum: 152
+Date: November 24, 2005, 3:50 am
+Institute name: engineering college kota
+Institute Address: akelgarh , rawatbhata raod, kota, rajasthan
+Tel: 07442472089
+Fax: 
+Name1: sheela meena
+Email1: simmy.eck@gmail.com
+Age1: 22 yrs
+Year1: final year
+Contact no.1: 9829587599
+Name2: rishi singh 
+Email2: rishi_technocrate@yahoo.com
+Age2: 22 yrs
+Year2: final year
+Contact no.2: 9828220955
+
+Regnum: 153
+Date: November 24, 2005, 3:51 am
+Institute name: engineering college kota
+Institute Address: akelgarh , rawatbhata raod, kota, rajasthan
+Tel: 07442472089
+Fax: 
+Name1: sheela meena
+Email1: simmy.eck@gmail.com
+Age1: 22 yrs
+Year1: final year
+Contact no.1: 9829587599
+Name2: rishi singh 
+Email2: rishi_technocrate@yahoo.com
+Age2: 22 yrs
+Year2: final year
+Contact no.2: 9828220955
+
+Regnum: 154
+Date: November 24, 2005, 4:27 am
+Institute name: vignan's engineering college
+Institute Address: vadlamudi,guntur, andhra pradesh
+Tel: 
+Fax: 
+Name1: a.v.ajay kuar
+Email1: chemajay4u@gmail.com
+Age1: 21
+Year1: fourth year
+Contact no.1: 9849963886
+Name2: r.s.praveen
+Email2: chemseshu4u@gmail.com
+Age2: 21
+Year2: final year
+Contact no.2: 0863-2211297
+
+Regnum: 154
+Date: November 24, 2005, 4:28 am
+Institute name: vignan's engineering college
+Institute Address: vadlamudi,guntur, andhra pradesh
+Tel: 
+Fax: 
+Name1: a.v.ajay kuar
+Email1: chemajay4u@gmail.com
+Age1: 21
+Year1: fourth year
+Contact no.1: 9849963886
+Name2: r.s.praveen
+Email2: chemseshu4u@gmail.com
+Age2: 21
+Year2: final year
+Contact no.2: 0863-2211297
+
+Regnum: 154
+Date: November 24, 2005, 5:28 am
+Institute name: G. H. Patel College of Engineering & Technology
+Institute Address: GCET, Bakrol Road, Vallabh Vidyanagar-388120, GUJARAT
+Tel: 
+Fax: 
+Name1: Margi K Patel
+Email1: margikpatel@yahoo.com
+Age1: 19 years
+Year1: 3rd year
+Contact no.1: +919825583468
+Name2: Monali Gupta
+Email2: monu13shubh@yahoo.co.in
+Age2: 19 years
+Year2: 2nd year
+Contact no.2: +919825132541
+
+Regnum: 155
+Date: November 24, 2005, 6:03 am
+Institute name: NIIST,BHOPAL
+Institute Address: 1,SAJJAN SINGH NAGAR OPP PATEL NAGAR ,BHOPAL,MADHYA PRADESH
+Tel: 07552684058
+Fax: 07552684058
+Name1: GAURAV THAKUR
+Email1: grthakur_85@yahoo.com
+Age1: 20
+Year1: 3
+Contact no.1: 9425460858
+Name2: tushar barhate
+Email2: grthakur_85@yahoo.com
+Age2: 20
+Year2: 3
+Contact no.2: 9826547463
+
+Regnum: 156
+Date: November 24, 2005, 8:14 am
+Institute name: S.G.G.S.I.E&T
+VISHNUPURI
+Institute Address: NANDED-431606
+Tel: 02462(229235)
+Fax: 
+Name1: SAMEER  DESHMUKH
+Email1: sam_2086@rediffmail.com
+Age1: 18
+Year1: Second year
+Contact no.1: 02456 -223417
+Name2: SWAPNIL BATHE
+Email2: swapnilbathe@yahoo.com
+Age2: 18
+Year2: First year
+Contact no.2: 
+
+Regnum: 157
+Date: November 24, 2005, 9:09 am
+Institute name: Shri Guru Gobind Singhji Institute Of Engg.&Tech.,Nanded(Maharashtra)
+Institute Address: s.g.g.s. Boy's Hostel Room No:B'(6)
+Tel: 09850426727
+Fax: 
+Name1: parmeshwar Mallikarjun Patil
+Email1: parmeshwar_patil2000@yahoo.com
+Age1: 20
+Year1: 3rd year(computer)
+Contact no.1: 09850426727
+Name2: Bharat Sureshrao Patil
+Email2: bsp_1402@yahoo.com
+Age2: 20
+Year2: 3rd year(Computer)
+Contact no.2: 09890688734
+
+Regnum: 157
+Date: November 24, 2005, 9:10 am
+Institute name: Shri Guru Gobind Singhji Institute Of Engg.&Tech.,Nanded(Maharashtra)
+Institute Address: s.g.g.s. Boy's Hostel 
+Room No:B'(6)
+Tel: 09850426727
+Fax: 
+Name1: parmeshwar Mallikarjun Patil
+Email1: parmeshwar_patil2000@yahoo.com
+Age1: 20
+Year1: 3rd year(computer)
+Contact no.1: 09850426727
+Name2: Bharat Sureshrao Patil
+Email2: bsp_1402@yahoo.com
+Age2: 20
+Year2: 3rd year(Computer)
+Contact no.2: 09890688734
+
+Regnum: 157
+Date: November 24, 2005, 9:13 am
+Institute name: Shri Guru Gobind Singhji Institute Of Engg.&Tech.,Nanded(Maharashtra)
+Institute Address: s.g.g.s. Boy's Hostel 
+Room No:B'(6)
+Tel: 09850426727
+Fax: -
+Name1: parmeshwar Mallikarjun Patil
+Email1: parmeshwar_patil2000@yahoo.com
+Age1: 20
+Year1: 3rd year(computer)
+Contact no.1: 09850426727
+Name2: Bharat Sureshrao Patil
+Email2: bsp_1402@yahoo.com
+Age2: 20
+Year2: 3rd year(Computer)
+Contact no.2: 09890688734
+
+Regnum: 157
+Date: November 24, 2005, 9:15 am
+Institute name: Shri Guru Gobind Singhji Institute Of Engg.&Tech.,Nanded(Maharashtra)
+Institute Address: s.g.g.s. Boys Hostel 
+Room No:B'(6)
+Tel: 09850426727
+Fax: -
+Name1: parmeshwar Mallikarjun Patil
+Email1: parmeshwar_patil2000@yahoo.com
+Age1: 20
+Year1: 3rd year(computer)
+Contact no.1: 09850426727
+Name2: Bharat Sureshrao Patil
+Email2: bsp_1402@yahoo.com
+Age2: 20
+Year2: 3rd year(Computer)
+Contact no.2: 09890688734
+
+Regnum: 157
+Date: November 24, 2005, 9:16 am
+Institute name: Shri Guru Gobind Singhji Institute Of Engg.&Tech.,Nanded(Maharashtra)
+Institute Address: s.g.g.s. Boys Hostel 
+Room No:B 6
+Tel: 09850426727
+Fax: -
+Name1: parmeshwar Mallikarjun Patil
+Email1: parmeshwar_patil2000@yahoo.com
+Age1: 20
+Year1: 3rd year(computer)
+Contact no.1: 09850426727
+Name2: Bharat Sureshrao Patil
+Email2: bsp_1402@yahoo.com
+Age2: 20
+Year2: 3rd year(Computer)
+Contact no.2: 09890688734
+
+Regnum: 158
+Date: November 24, 2005, 10:30 am
+Institute name: Shri U.V. Patel College of Engineering,
+Ganpat University,
+Institute Address: Ganpat University,
+Kherva,
+Mehsana,
+Gujarat,
+India
+Tel: +91-2762-286805
+Fax: +91-2762-286805
+Name1: Ankit Thakkar
+Email1: ankit_don_ec@yahoo.co.in
+Age1: 19 years
+Year1: 3rd year
+Contact no.1: 9898678955
+Name2: Suril Gohel
+Email2: suril4friends@yahoo.com
+Age2: 19 years
+Year2: 3rd year
+Contact no.2: 9427010006
+
+Regnum: 159
+Date: November 24, 2005, 11:03 pm
+Institute name: NIT Jalandhar
+Institute Address: GT ROAD BYE PASS
+JALANDHAR,PUNJAB-144011
+Tel: 
+Fax: 
+Name1: Krishna Chaintanya
+Email1: kriss_ac86@yahoo.co.in
+Age1: 19
+Year1: 2nd
+Contact no.1: 09888225563
+Name2: Vinay Kanth
+Email2: vinaykanth86a@yahoo.co.in
+Age2: 19
+Year2: 2nd
+Contact no.2: 
+
+Regnum: 160
+Date: November 24, 2005, 11:47 pm
+Institute name: College of Technology
+Institute Address: room no 209 vs bhawan Pantnagar
+Tel: 
+Fax: 
+Name1: anuj rawat
+Email1: rawatanuj@rediffmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09719275289
+Name2: ashish verma 
+Email2: vermash@rediffmail.com
+Age2: 20
+Year2: 3rd
+Contact no.2: 09412018879
+
+Regnum: 161
+Date: November 25, 2005, 12:38 am
+Institute name: Univesity Institute Of Technology,RGPV,Bhopal
+Institute Address: UIT,RGPV
+Airport Bypass Road Gandhi Nagar BHOPAL 462 036
+Tel: 91 755 2742003-5
+Fax: 91 755 2742002
+Name1: Bijil K Babu
+Email1: bijilkbabu@yahoo.co.in
+Age1: 19
+Year1: 2nd
+Contact no.1: +91-9826361275,0755-2670225
+Name2: Geetesh Rai
+Email2: geetesh_eye@rediffmail.com
+Age2: 20
+Year2: 2nd
+Contact no.2: +91-9827048780,0755-2778256
+
+Regnum: 162
+Date: November 25, 2005, 2:43 am
+Institute name: national institute of technology warangal
+Institute Address: NITW ,WARANGAL,
+AP 506004
+Tel: 
+Fax: 
+Name1: sachin batra
+Email1: sachnitw@yahoo.com
+Age1: 21
+Year1: 2004-2008
+Contact no.1: 09440239960
+Name2: brajesh kumar
+Email2: brajeshpatel1985@yahoo.co.in
+Age2: 20
+Year2: 2004-2008
+Contact no.2: 09440704984
+
+Regnum: 163
+Date: November 25, 2005, 10:56 pm
+Institute name: Institute of Technology & Management
+Institute Address: sector 23
+gurgaon
+Tel: 0124-2365811
+Fax: 
+Name1: SAMARJIT SAMANTA
+Email1: samarjit.samanta@gmail.com
+Age1: 22
+Year1: 4
+Contact no.1: +919891686074
+Name2: VARUN SINGHAL
+Email2: varunsinghal001@gmail.com
+Age2: 22
+Year2: 4
+Contact no.2: +919811966502
+
+Regnum: 164
+Date: November 25, 2005, 11:25 pm
+Institute name: I.E.T.,ALWAR(RAJASTHAN UNIVERSITY)
+Institute Address: I.E.T.,M.I.A.,NORTH EXTENSION,ALWAR(RAJASTHAN)
+Tel: 0144-2882171
+Fax: 0144-2882370
+Name1: HEMANT KUMAR MITTAL
+Email1: hemant_eic@yahoo.co.in
+Age1: 21
+Year1: FINAL YEAR
+Contact no.1: 09214988321
+Name2: BRIJENDRA SANGAR
+Email2: sangar_eic@yahoo.co.in
+Age2: 21
+Year2: FINAL YEAR
+Contact no.2: 09214988321
+
+Regnum: 165
+Date: November 26, 2005, 3:10 am
+Institute name: Tatyasaheb Kore Institute Of Engineering & Technology
+Institute Address: T.K.I.E.T, Warananagar, Kolhapur, M.S.
+Pin 416113
+Tel: 02328 224012
+Fax: 02328 223507
+Name1: Abhishek Narasimhan
+Email1: abhin279@rediffmail.com
+Age1: 23
+Year1: Final Year 
+Contact no.1: 09224409482
+Name2: Zubin P. Dumasia
+Email2: zubin_dynamic@yahoo.com
+Age2: 23
+Year2: Final Year
+Contact no.2: 09823770058
+
+Regnum: 166
+Date: November 26, 2005, 5:02 am
+Institute name: lnct
+Institute Address: kalchuri nagar bhopal
+Tel: 07552778653
+Fax: 
+Name1: sakshi tripathi
+Email1: sakshi_star05@yahoo.co.in
+Age1: 19
+Year1: 2nd
+Contact no.1: 9893157271
+Name2: sameep dharkar
+Email2: sameepdharkar@yahoo.co.in
+Age2: 19
+Year2: 2nd
+Contact no.2: 9893147271
+
+Regnum: 167
+Date: November 26, 2005, 6:27 am
+Institute name: SGSITS
+Institute Address: 23,PARK ROAD INDORE
+Tel: +919826111395
+Fax: 
+Name1: RICHIN JAIN
+Email1: richin_sgsits@yahoo.co.in
+Age1: 21
+Year1: III YEAR (Vth SEM)
+Contact no.1: +919826111395
+Name2: RAHUL SHAH
+Email2: rahul_sgsits@yahoo.co.in
+Age2: 21
+Year2: III YEAR (Vth SEM)
+Contact no.2: +919826445535
+
+Regnum: 168
+Date: November 26, 2005, 7:11 am
+Institute name: Yeshwantrao Chavan College of Engg., Nagpur
+Institute Address: YCCE, Wanadongri, Nagpur, Maharashtra (441110)
+Tel: +91-7104-237919, 236620, 309249, 309250, 234623
+Fax: +91-7104-232376
+Name1: Jatin Sarvaiya
+Email1: jeopardy_85@yahoo.com
+Age1: 20
+Year1: Final
+Contact no.1: 09890308198
+Name2: Sarthak Mehta
+Email2: sarthakmehta@yahoo.com
+Age2: 21
+Year2: Third
+Contact no.2: 09326932757
+
+Regnum: 169
+Date: November 26, 2005, 7:14 am
+Institute name: Yeshwantrao Chavan College of Engineering, Nagpur
+Institute Address: Yeshwantrao Chavan College of Engineering
+Hingna Road, Wanadongri, Nagpur- 441 1100
+Tel: +91-7104-237919, 236620, 309249, 309250, 234623
+Fax: +91-7104-232376
+Name1: Sani Kumar
+Email1: coolguy_sani@yahoo.co.in
+Age1: 21
+Year1: Final
+Contact no.1: 09823533513
+Name2: Chintan Vira
+Email2: aryan_1412@yahoo.co.in
+Age2: 22
+Year2: Final
+Contact no.2: 07104236840
+
+Regnum: 170
+Date: November 26, 2005, 10:46 pm
+Institute name: S.G.S.I.T.S.
+Institute Address: 23, M.S. Visweshwariya Marg, Indore-452003
+Tel: 91- (0731) 2434095,2538760,2541567
+Fax:  91- (0731) 2432540 
+Name1: Babu Priyavrat
+Email1: babupriyavrat@yahoo.com
+Age1: 20
+Year1: IIIrd yr
+Contact no.1: 0731 2491435
+Name2: Abshishek Saxena
+Email2: abh752@yahoo.com
+Age2: 21
+Year2: IIIrd yr
+Contact no.2: 98263 14084
+
+Regnum: 171
+Date: November 27, 2005, 3:56 am
+Institute name: amrita institute of technology
+Institute Address: ettimadai,coimbatore
+Tel: 04222656422
+Fax: 
+Name1: k.n.surya narayanan
+Email1: ucmsuri@yahoo.co.in
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9443206500
+Name2: sugan shreyas
+Email2: sugan_shreyas@yahoo.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 9842769827
+
+Regnum: 172
+Date: November 27, 2005, 10:13 pm
+Institute name: KAVIKULGURU INSTITUTE OF TECHNOLOGY AND SCIENCE Ramtek
+Institute Address: KITS Ramtek -441106
+Dist . Nagpur (M.S.)
+Tel: 07114-255309, 255313
+Fax: 07114-255236
+Name1: Gopal Saha 
+Email1: g_saha0520@yahoo.com
+Age1: 20
+Year1: Third Year
+Contact no.1: 09422641918
+Name2: Hemant Kumar Gupta
+Email2: r_gupta0520@yahoo.com
+Age2: 20
+Year2: Third Year
+Contact no.2: 09422821245
+
+Regnum: 173
+Date: November 28, 2005, 12:22 am
+Institute name: Baba Banda Singh Bahadur Engineering College
+Institute Address: Fatehgarh Sahib,Sirhind,Punjab-140407
+Tel: +911763233713 
+Fax: +911763233713 
+Name1: Amandeep Singh
+Email1: unik_aman@yahoo.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09815563190
+Name2: Satwant Saini
+Email2: satwant9@yahoo.co.in
+Age2: 20
+Year2: 3rd Year
+Contact no.2: 09888350365
+
+Regnum: 174
+Date: November 28, 2005, 12:25 am
+Institute name: Baba Banda Singh Bahadur Engineering College
+Institute Address: Fatehgarh Sahib,Sirhind,Punjab-140407
+Tel: +911763233713 
+Fax: +911763233713 
+Name1: Amandeep Singh
+Email1: unik_aman@yahoo.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09815563190
+Name2: Sarabdeep Singh
+Email2: sarab_2001inn@yahoo.com
+Age2: 20
+Year2: 3rd Year
+Contact no.2: 09872820194
+
+Regnum: 175
+Date: November 28, 2005, 5:14 am
+Institute name: Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded
+Institute Address: SGGS Institute of Engg. & Tech.
+Vishnupuri,
+Nanded-431606
+Tel: 9822392766
+Fax: 
+Name1: Ashok Kadam
+Email1: ashokkadam@gmail.com
+Age1: 20
+Year1: Final year
+Contact no.1: 9822086878
+Name2: Sunny Dube
+Email2: ank@30gigs.com
+Age2: 21
+Year2: Final year
+Contact no.2: 9890693225
+
+Regnum: 176
+Date: November 28, 2005, 11:32 am
+Institute name: IIT Bombay
+Institute Address: Powai, Mumbai -76
+Tel: 9820646526
+Fax: 
+Name1: Natraj Kaushik
+Email1: natraj@iitb.ac.in
+Age1: 19
+Year1: 2
+Contact no.1: 9820646526
+Name2: B.Sudhir
+Email2: sudhir1987@iitb.ac.in
+Age2: 18
+Year2: 2
+Contact no.2: 
+
+Regnum: 177
+Date: November 28, 2005, 9:07 pm
+Institute name: Jaihind College
+Institute Address: A Road churchgate-Mumbai-20
+Tel: 22040256
+Fax: -
+Name1: SHADAB ASHFAQUE
+Email1: shadabversatile@yahoo.com
+Age1: 19
+Year1: S.Y.BSc(COMPUTER SCIENCE)
+Contact no.1: 022-23090140
+Name2: SUNIL PRADHAN
+Email2: -
+Age2: 19
+Year2: S.Y.BSc(COMPUTER SCIENCE)
+Contact no.2: 9892030982
+
+Regnum: 178
+Date: November 28, 2005, 11:20 pm
+Institute name: govt.engg.college aurangabad
+Institute Address: station road,osmanpura ,aurangabad
+Tel: 
+Fax: 
+Name1: ghanasham borse
+Email1: ghanasham_2005@yahoo.com
+Age1: 19
+Year1: 2nd
+Contact no.1: 9890215805
+Name2: ganesh kulkarni
+Email2: ganesh@yahoo.com
+Age2: 19
+Year2: 2nd
+Contact no.2: 9890215805
+
+Regnum: 179
+Date: November 29, 2005, 12:17 am
+Institute name: ORIENTAL INSTITUTE OF SCIENCE AND TECHNOLOGY,BHOPAL
+Institute Address: OIST,BHOPAL THAKRAL NAGAR RAISEN ROAD BHOPAL(M.P.)
+Tel: 2752055-59
+Fax: 
+Name1: SHAILENDRA KUMAR SINGH
+Email1: skalbert85@yahoo.com
+Age1: 20 yrs
+Year1: THIRD YEAR
+Contact no.1: 9827584821
+Name2: ROBIN BHARGAVARR
+Email2: robin_mech@yahoo.com
+Age2: 20yrs
+Year2: THIRD YEAR
+Contact no.2: 9827584821
+
+Regnum: 180
+Date: November 29, 2005, 5:16 am
+Institute name: UIT RGPV Bhopal
+Institute Address: AirPOrt BY pass road karond Bhopal mp
+Tel: 0755 2765653
+Fax: 
+Name1: Akshat Shukla
+Email1: akshatmshukla@yahoo.co.in
+Age1: 20
+Year1: 2
+Contact no.1: 09826639573
+Name2: Abhinav Varshney
+Email2: varshney_abhinav@yahoo.co.in
+Age2: 20
+Year2: 2
+Contact no.2: 0755-2738856
+
+Regnum: 181
+Date: November 29, 2005, 7:02 am
+Institute name: INDIAN INSTITUTE OF INFORMATION TECHNOLOGY,ALLAHABAD
+Institute Address: IIIT Allahabad   
+Deoghat, Jhalwa   
+Allahabad, India 211012
+Tel: +91-532-2922000  
+Fax: +91-532-2430003
+Name1: Anurag Gautam
+Email1: anuraggautam@ug.iiita.ac.in
+Age1: 21
+Year1: 2nd
+Contact no.1: +91 9450 233951
+Name2: Ranjan Ojha
+Email2: rkojha_b04@iiita.ac.in
+Age2: 21
+Year2: 2nd
+Contact no.2: +91 9450233951
+
+Regnum: 182
+Date: November 29, 2005, 9:22 pm
+Institute name: LNCT,BHOPAL
+Institute Address: KALCHURI NAGAR,RAISEN ROAD,BHOPAL
+Tel: 07552852641
+Fax: -
+Name1: DEEPTI SINGH 
+Email1: yogsha_sumit@rediffmail.com
+Age1: 20
+Year1: 2ND
+Contact no.1: 07552753969
+Name2: MUNEERA MUBIN SIDDIQUI
+Email2: -
+Age2: 20
+Year2: 2ND
+Contact no.2: 07552753036
+
+Regnum: 183
+Date: November 30, 2005, 4:17 am
+Institute name: college of technology pantnagar
+Institute Address: g.b.p.u.and t. pantnagar
+Tel: 
+Fax: 
+Name1: shardul bahuguna
+Email1: shardulbahuguna@yahoo.co.in
+Age1: 20
+Year1: 3
+Contact no.1: 09719299086
+Name2: sunil kumar
+Email2: cheerfulsunny5481
+Age2: 20
+Year2: 3
+Contact no.2: 9719452426
+
+Regnum: 184
+Date: November 30, 2005, 4:46 am
+Institute name: NIT SURAT
+Institute Address: ICHCHANATH, SURAT 395007
+Tel: 02612223371
+Fax: 
+Name1: Vimal Menon
+Email1: vml.menon@gmail.com
+Age1: 20
+Year1: 3
+Contact no.1: 9227123417
+Name2: Rithwik K.
+Email2: rithwik4u@gmail.com
+Age2: 19
+Year2: 2
+Contact no.2: 
+
+Regnum: 185
+Date: November 30, 2005, 10:23 pm
+Institute name: S.N.I.S.T
+Institute Address: YAMNAMPET,
+GHATKESAR(M)
+R.R.DIST.
+HYDERABAD
+Tel: 08415-223001
+Fax: 08415 - 223001
+Name1: CH.KRISHNA CHAITANYA
+Email1: chaitanya_9187@yahoo.com
+Age1: 19
+Year1: SECOND YEAR
+Contact no.1: 040-55831054
+Name2: B.NAGA CHAITHANYA
+Email2: nagachaithanya@yahoo.co.in
+Age2: 20
+Year2: SECOND YEAR
+Contact no.2: 09346804381
+
+Regnum: 186
+Date: December 1, 2005, 2:04 am
+Institute name: M.S.Bidve Engineering College Latur
+Institute Address: P.O Box No.112
+Barshi Road 
+Latur
+Tel: 02382-221255
+Fax: 
+Name1: Shriram P Pethakar
+Email1: ajinkyan2000@yahoo.co.in
+Age1: 20
+Year1: third year
+Contact no.1: 02382(256667)
+Name2: Shaikh Farookh
+Email2: ajinkyan2000@yahoo.co.in
+Age2: 19
+Year2: second year
+Contact no.2: 9423346829
+
+Regnum: 187
+Date: December 1, 2005, 6:12 am
+Institute name: Aayojan School of Architecture
+Institute Address: ISI-4 RIICO Institutional Block, Sitapura
+Goner Road, Jaipur - 302 022, India
+Tel: 0141-2771755, 2771756
+Fax: 0141-2771753
+Name1: Anupam Jain
+Email1: anupamjain008@gmail.com
+Age1: 21
+Year1: IV
+Contact no.1: 09829251614
+Name2: Aaditya Pratap Sanyal
+Email2: aadi1900@yahoo.com
+Age2: 20
+Year2: IV
+Contact no.2: 09829251614
+
+Regnum: 188
+Date: December 1, 2005, 7:05 am
+Institute name: MAULANA AZAD NATIONAL INSTITUTE OF TECHNOLOGY
+Institute Address: KOTRA SULTANABAD, BHOPAL
+Tel: 0755-2582289
+Fax: 
+Name1: Randheer Singh
+Email1: randheer04@yahoo.com
+Age1: 20
+Year1: II
+Contact no.1: 0755-2485229
+Name2: Debayan Biswas 
+Email2: de_bayan@yahoo.co.in
+Age2: 20
+Year2: II
+Contact no.2: 09826571985
+
+Regnum: 189
+Date: December 1, 2005, 7:07 am
+Institute name: GVP COLLEGE OF ENGINEERING
+Institute Address: MADHURAWADA,VISAKHAPATNAM
+Tel: 0891-2739507
+Fax: 
+Name1: SUNDARA PAVAN BOMMIREDDIPALLI
+Email1: bspavan2004@yahoo.co.uk
+Age1: 19
+Year1: 3 
+Contact no.1: 0891-2530845
+Name2: AYYAPPA TEJOMURTHULA
+Email2: ayyapa_tejo@yahoo.co.in
+Age2: 20
+Year2: 3
+Contact no.2: 0891-2515416
+
+Regnum: 190
+Date: December 1, 2005, 9:46 am
+Institute name: PICT
+Institute Address: Katraj,Pune
+Tel: 02024371101
+Fax: 
+Name1: Nikhil Kundargi
+Email1: nikhiluk@yahoo.com
+Age1: 20
+Year1: BE
+Contact no.1: 09890271091
+Name2: Neil Mehta
+Email2: neil_bmehta@yahoo.com
+Age2: 20
+Year2: BE
+Contact no.2: 09890951091
+
+Regnum: 191
+Date: December 1, 2005, 10:10 am
+Institute name: Poona Business School
+Institute Address: S.No. 7/2,401, Konark Indrayu,
+Kondhwa Khurd,
+Pune-48
+Tel: 020-26800081
+Fax: 020-26800082
+Name1: Pranav Mundada
+Email1: pranavmundada@yahoo.com
+Age1: 23
+Year1: First
+Contact no.1: 9423151091
+Name2: Jagdish Mundada
+Email2: maxjackie@yahoo.co.in
+Age2: 23
+Year2: First
+Contact no.2: 9422703308
+
+Regnum: 192
+Date: December 1, 2005, 8:52 pm
+Institute name: YMCA Institute of Engineering, Faridabad
+Institute Address: Sector-6
+Zakir Nagar
+Faridabad
+Tel: 0129-2242142
+Fax: 
+Name1: Mukul Sharma
+Email1: elitecoder.mukul@gmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09868946411
+Name2: Nitin Dhamija
+Email2: geek.mukul@gmail.com
+Age2: 21
+Year2: 4th
+Contact no.2: 
+
+Regnum: 193
+Date: December 2, 2005, 2:18 am
+Institute name: college of technology and engineering, maharana pratap university of agriculture and technology, udaipur
+Institute Address: college of technology and engineering, maharana pratap university of agriculture and technology, udaipur
+Tel: 02942431248
+Fax: 02942470682
+Name1: amit upadhyay
+Email1: engineeramit2006@yahoo.co.in
+Age1: 21
+Year1: final year 
+Contact no.1: 9414672482
+Name2: ashish surana
+Email2: er_ashishsurana@yahoo.co.in
+Age2: 21
+Year2: final
+Contact no.2: 9414672482
+
+Regnum: 194
+Date: December 2, 2005, 2:21 am
+Institute name: college of technology and engineering, maharana pratap university of agriculture and technology, udaipur
+Institute Address: college of technology and engineering, maharana pratap university of agriculture and technology, udaipur
+Tel: 02942431248
+Fax: 02942470682
+Name1: amit upadhyay
+Email1: engineeramit2006@yahoo.co.in
+Age1: 21
+Year1: final year 
+Contact no.1: 9414672482
+Name2: ashish surana
+Email2: er_ashishsurana@yahoo.co.in
+Age2: 21
+Year2: final
+Contact no.2: 9414672482
+
+Regnum: 195
+Date: December 2, 2005, 3:17 am
+Institute name: karunya institute of technology
+Institute Address: coimbatore
+tamilnadu
+641114
+Tel: 
+Fax: 
+Name1: dony
+Email1: rojersmart@yahoo.co.in
+Age1: 20
+Year1: iii
+Contact no.1: 9894317719
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 196
+Date: December 2, 2005, 9:57 am
+Institute name: FAST-NU
+Institute Address: B-Block faisal town Lahore, Pakistan.
+Tel: 0092-42-111-128-128
+Fax: 
+Name1: Qasim Ayyaz
+Email1: qasimakhan@gmail.com
+Age1: 21
+Year1: 2004
+Contact no.1: 0092-042-5412318
+Name2: Waqas Ahmad Sandhu
+Email2: waqasahmadsandhu@hotmail.com
+Age2: 19
+Year2: 2004
+Contact no.2: 0092-042-6302516
+
+Regnum: 197
+Date: December 3, 2005, 12:03 am
+Institute name: Charotar Institute of Technology,Changa
+Institute Address: cit,changa-388421,taluka petlad,district anand.
+Tel: 02697-247500
+Fax: (02697)247100
+Name1: Parth B Dhamelia
+Email1: parth_dhamelia@yahoo.co.in
+Age1: 19
+Year1: second year(3rd sem)
+Contact no.1: 9426992937
+Name2: Digisha A Patel
+Email2: digisha_ptl@yahoo.co.in
+Age2: 18
+Year2: second year(3rd sem)
+Contact no.2: 9426985131
+
+Regnum: 198
+Date: December 3, 2005, 12:08 am
+Institute name: Charotar Institute of Technology,Changa
+Institute Address: Cit,Changa-388421,taluka petlad,district anand
+Tel: 02697-247500
+Fax: (02697)247100
+Name1: Kavan R Raval
+Email1: zander50006@yahoo.co.in
+Age1: 18
+Year1: second year (3rd sem)
+Contact no.1: 9427000075
+Name2: Shrikant Sharma
+Email2: hbkshrikant@yahoo.com
+Age2: 19
+Year2: second year(3rd sem)
+Contact no.2: 9898455780
+
+Regnum: 199
+Date: December 3, 2005, 12:12 am
+Institute name: charotar institute of technology, changa.
+Institute Address: cit,changa-388421. Ta. Petlad, Dist. Anand.
+Tel: (02697)247500
+Fax: (02697)247100
+Name1: Ankit Kantilal jogi
+Email1: jogi_ankit@yahoo.co.in
+Age1: 18
+Year1: second year(3rd sem)
+Contact no.1: 9427264638
+Name2: Nirav I Thacker
+Email2: thacker_nirav@yahoo.com
+Age2: 19
+Year2: second year(3rd sem)
+Contact no.2: 9427000075
+
+Regnum: 200
+Date: December 3, 2005, 12:32 am
+Institute name: J.T.T college of arts & science.
+Institute Address: jambhli naka, kharkhar ali road,Thane (w)
+Tel: 
+Fax: 
+Name1: wadood khan
+Email1: wadood_wiseguy@yahoo.com
+Age1: 17
+Year1: first year
+Contact no.1: 02225469989
+Name2: sujeet
+Email2: none
+Age2: 17
+Year2: first year
+Contact no.2: 02225893424
+
+Regnum: 201
+Date: December 3, 2005, 3:10 am
+Institute name: Sardar Vallabhbhai Patel Institute of Technology, Vasad
+Institute Address: Sardar Vallabhbhai Patel Institute of Technology, Vasad, Dist-Anand,Pin-388306, Gujarat
+Tel: 
+Fax: 
+Name1: Gaurav Varshikar
+Email1: gvarshikar@yahoo.co.in
+Age1: 20
+Year1: Third Year
+Contact no.1: (0)9426308343
+Name2: Nirav Ajmeri
+Email2: nsa1302@yahoo.co.in
+Age2: 20
+Year2: Third Year
+Contact no.2: (0)9427345942
+
+Regnum: 202
+Date: December 3, 2005, 3:36 am
+Institute name: ctae, udaipur
+Institute Address: ctae, udaipur
+Tel: 9414430860
+Fax: 02942470682
+Name1: neeraj kumar
+Email1: neeraj1203@rediffmail.com
+Age1: 20
+Year1: third year
+Contact no.1: 9829282724
+Name2: brijesh kumar yadav
+Email2: brijdream2020@yahoo.co.in
+Age2: 22
+Year2: third year
+Contact no.2: 02942471073
+
+Regnum: 203
+Date: December 3, 2005, 10:42 am
+Institute name: CHAROTAR INSTITUTE OF TECHNOLOGY
+Institute Address: CHANGA,
+NADIAD,
+GUJARAT
+Tel: 
+Fax: 
+Name1: Rushi N. Shah
+Email1: markosho1@yahoo.com
+Age1: 20
+Year1: 2nd Year
+Contact no.1: 079-55220664
+Name2: Markand S. Pandya
+Email2: markosho1@yahoo.com
+Age2: 20
+Year2: 2nd Year
+Contact no.2: 9427160630
+
+Regnum: 204
+Date: December 3, 2005, 10:26 pm
+Institute name: G.H.Patel college of Engineering and Technology
+Institute Address: G.H.Patel college of Engineering and Technology,
+bakrol road 
+vallabvidyanagar
+anand Gujarat.
+Tel: 
+Fax: 
+Name1: divyang patel
+Email1: dd_divyang@yahoo.co.in
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9824092413
+Name2: radhika ponda
+Email2: radhika_ponda@yahoo.co.in
+Age2: 20
+Year2: 3rdyear
+Contact no.2: 9879025270
+
+Regnum: 205
+Date: December 4, 2005, 12:54 am
+Institute name: IET DAVV INDORE
+Institute Address: KHANDWA ROAD 
+OPPOSITE SOYABEEN RESEARCH CENTER 
+INDORE 452017
+Tel: 91-731-2764385
+Fax: 91-731-2764385
+Name1: Gourav Gupta
+Email1: gouravgupta86@yahoo.co.in
+Age1: 19
+Year1: 3rd
+Contact no.1: 09425459850
+Name2: Rishi chaturvedi
+Email2: rishi_ietdauniv@yahoo.co.in
+Age2: 21
+Year2: 3rd
+Contact no.2: 09827206893
+
+Regnum: 206
+Date: December 4, 2005, 5:33 am
+Institute name: VIGNAN'S ENGINEERING COLLEGE
+Institute Address: VADLAMUDI,GUNTUR DIST(AP)-522213
+Tel: 0863-2534646
+Fax: 
+Name1: A VALLIKRANTH
+Email1: vallikranth_ayyagari@yahoo.co.in
+Age1: 19
+Year1: II YR
+Contact no.1: 09440270290
+Name2: B ANIL KUMAR
+Email2: anilkumar_bikki@yahoo.com
+Age2: 19
+Year2: II YR
+Contact no.2: 09440270290
+
+Regnum: 206
+Date: December 4, 2005, 5:35 am
+Institute name: VIGNANS ENGINEERING COLLEGE
+Institute Address: VADLAMUDI,GUNTUR DIST(AP)-522213
+Tel: 0863-2534646
+Fax: 
+Name1: A VALLIKRANTH
+Email1: vallikranth_ayyagari@yahoo.co.in
+Age1: 19
+Year1: II YR
+Contact no.1: 09440270290
+Name2: B ANIL KUMAR
+Email2: anilkumar_bikki@yahoo.com
+Age2: 19
+Year2: II YR
+Contact no.2: 09440270290
+
+Regnum: 207
+Date: December 4, 2005, 10:16 am
+Institute name: R.V.R & J.C COLLEGE OF ENGINEERING.
+Institute Address: CHOWDAVARAM,
+GUNTUR-522019,
+ANDHRA PRADESH.
+Tel: 0863-2288254
+Fax: 
+Name1: Sameer Panuganti
+Email1: sameer_cts@rediffmail.com
+Age1: 20
+Year1: Final Year
+Contact no.1: 09849373746
+Name2: David Shantha Raj
+Email2: mad_dav100@yahoo.co.in
+Age2: 21
+Year2: Final Year
+Contact no.2: 09849487684
+
+Regnum: 208
+Date: December 5, 2005, 2:06 am
+Institute name: N.I.T.PATNA
+Institute Address: ASHOK RAJPATH ,PATNA-5
+Tel: 
+Fax: 
+Name1: KRISHTI KUMAR BIKAL
+Email1: krishti_bikal@yahoo.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09234874106
+Name2: KUNAL KUMAR
+Email2: kunalstatus@yahoo.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 09431162032
+
+Regnum: 209
+Date: December 5, 2005, 4:52 am
+Institute name: NIT,SURAT
+Institute Address: B-2/4,SAROJINI H7,
+SVNIT,SURAT
+Tel: 02717234048
+Fax: 
+Name1: NEHA BAGDIA
+Email1: neha_chinar@yahoo.co.in
+Age1: 19
+Year1: second
+Contact no.1: 02717234048
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 210
+Date: December 5, 2005, 5:43 am
+Institute name: nit patna
+Institute Address: nit patna, near gandhi ghat,ashok raj path, patna
+Tel: 
+Fax: 
+Name1: amitabh tirkey
+Email1: amitabhtirkey@yahoo.com
+Age1: 20
+Year1: 1st
+Contact no.1: 09334187254
+Name2: rakesh kumar
+Email2: rakaboss2006@yahoo.co.in
+Age2: 20
+Year2: 1st
+Contact no.2: 
+
+Regnum: 211
+Date: December 5, 2005, 6:55 am
+Institute name: L.N.C.T BHOPAL
+Institute Address: Raisen road, Anand nagar ,BHOPAL M.P
+Tel: 
+Fax: 
+Name1: SONAM KATAKWAR
+Email1: cute_sonam19@rediffmail.com
+Age1: 19
+Year1: 2nd
+Contact no.1: 9893512512
+Name2: AKANKSHA GUPTA
+Email2: best_tanu@rediffmail.com
+Age2: 19
+Year2: 2nd
+Contact no.2: 9827285717
+
+Regnum: 212
+Date: December 5, 2005, 12:16 pm
+Institute name: Bhilai Institute of Technology.
+Institute Address: Bhilai Institute of Technology,Bhilai House,Durg,Chattisgarh
+Tel: 9107882323997
+Fax: 9107882210163 
+Name1: Sumit Ghosh
+Email1: indianbill007@rediffmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09329102931
+Name2: Sandeep Kumar
+Email2: indianbill007@rediffmail.com
+Age2: 20
+Year2: 3rd
+Contact no.2: 09893114459
+
+Regnum: 213
+Date: December 6, 2005, 1:15 am
+Institute name: GEETANJALI INSTITUTE OF TECHNICAL STUDIES
+Institute Address: AIRPORT ROAD DABOK UDAIPUR RAJASTHAN
+Tel: 0294-2657492
+Fax: 
+Name1: PRASHANT  MISHRA
+Email1: prashantmishra1987@yahoo.co.in
+Age1: 19
+Year1: III
+Contact no.1: 09414785364
+Name2: B.SRIHARSHA
+Email2: harsha576@yahoo.com
+Age2: 19
+Year2: III
+Contact no.2: 09414785364
+
+Regnum: 214
+Date: December 6, 2005, 2:18 am
+Institute name: MNNIT ALLAHABAD
+Institute Address: 229 ,Patel hostel
+mnnit allahabad
+U.P.
+Tel: 
+Fax: 
+Name1: praveen
+Email1: pbtronix@yahoo.co.in
+Age1: 19
+Year1: 2
+Contact no.1: 
+Name2: prashant
+Email2: gazipur007@yahoo.com
+Age2: 18
+Year2: 2
+Contact no.2: 
+
+Regnum: 215
+Date: December 6, 2005, 11:45 am
+Institute name: IET LUCKNOW
+Institute Address: IET , Sitapur Road
+Lucknow,UP
+Tel: 0522-2361692
+Fax: 0522-2361631
+Name1: Anubhaw Prakash Srivastav
+Email1: anubhaw@gmail.com
+Age1: 22
+Year1: 4
+Contact no.1: 9335260576
+Name2: Pushpak Goel
+Email2: ipushpak@gmail.com
+Age2: 21
+Year2: 4
+Contact no.2: 9335260576
+
+Regnum: 216
+Date: December 6, 2005, 9:02 pm
+Institute name: dayannanda sagar college of engineering
+Institute Address: shavige hills,k.s layout,banglore-78
+Tel: 080-26660789
+Fax: 080-26635929
+Name1: pranav
+Email1: pranav.dsce@gmail.com
+Age1: 22
+Year1: 4th
+Contact no.1: 09886143414
+Name2: sankha dip datta
+Email2: sankha2399@yahoo.com
+Age2: 21
+Year2: 4th
+Contact no.2: 09886269671
+
+Regnum: 217
+Date: December 7, 2005, 2:54 am
+Institute name: college of tech.& engg.,udaipur,rajasthan
+Institute Address: college of tec.&engg.,university campus,udaipur
+Tel: 9292470808
+Fax: 
+Name1: rajesh kumar
+Email1: rajeshku3@rediffmail.com
+Age1: 20years
+Year1: 3rd year
+Contact no.1: 9414184076
+Name2: niranjan singh rathore
+Email2: rajeshku3@rediffmail.com
+Age2: 21 years
+Year2: 3rd year
+Contact no.2: 9414784076
+
+Regnum: 218
+Date: December 7, 2005, 4:35 am
+Institute name: National Institute of Technology, Hamirpur(H.P.)
+Institute Address: NIT Hamirpur,
+Himachal Pradesh-177005
+Tel: 91-1972-222530
+Fax: 
+Name1: Rohitashwa Kiran
+Email1: rohitashwakiran_nith@yahoo.co.in
+Age1: 20
+Year1: Pre-final year
+Contact no.1: 91-98161-95447
+Name2: Debarshi Ray
+Email2: debarshi.ray@gmail.com
+Age2: 21
+Year2: Pre-final year
+Contact no.2: 91-94182-95515
+
+Regnum: 219
+Date: December 7, 2005, 5:52 am
+Institute name: Institute of Engineering and Technology
+Institute Address: Khandwa road,opposite National Soyabean Research Centre,Indore(M.P.)
+Tel: 
+Fax: 
+Name1: Siddharth Bakliwal
+Email1: s_bakliwal@yahoo.com
+Age1: 21
+Year1: Final
+Contact no.1: 94254-79676
+Name2: Roshan Jain
+Email2: rstutor2004@yahoo.com
+Age2: 21
+Year2: Pre-Final
+Contact no.2: 98934-34281
+
+Regnum: 220
+Date: December 7, 2005, 9:56 am
+Institute name: National Institute of Technology (NIT), Surat
+Institute Address: room DS-4, hostel-3, SVNIT, Ichchhanath, Surat-395007
+Tel: 9898398355
+Fax: 
+Name1: Rithwik K
+Email1: rithwik4u@gmail.com
+Age1: 19
+Year1: 2
+Contact no.1: 9898398355
+Name2: Simon C
+Email2: simoncherian@gmail.com
+Age2: 18
+Year2: 2
+Contact no.2: 
+
+Regnum: 221
+Date: December 8, 2005, 12:09 am
+Institute name: Rajasthan college of engineering and technology
+Institute Address: Ajmer road bhankrota
+Tel: 0141-2251247
+Fax: 
+Name1: Divya arya
+Email1: divya_arya@yahoo.com
+Age1: 21
+Year1: 4th year
+Contact no.1: 098282638110
+Name2: Vishakha baheti
+Email2: vish21@gmail.com
+Age2: 21
+Year2: last year 
+Contact no.2: 9314503347
+
+Regnum: 222
+Date: December 8, 2005, 12:40 am
+Institute name: yashwantrao chavan college of engineering,nagpur
+Institute Address: hingna road,wanadongri,nagpur-441110
+Tel: 07104-237919
+Fax: 07104-232376
+Name1: gautam pal
+Email1: koolgomzy2005@yahoo.co.in
+Age1: 20
+Year1: 2nd
+Contact no.1: 9923086359
+Name2: aditya suresh
+Email2: catchaditya3610@yahoo.co.in
+Age2: 19
+Year2: 2nd
+Contact no.2: 9850369971
+
+Regnum: 223
+Date: December 8, 2005, 12:48 am
+Institute name: J.T.T college of Arts & Science.
+Institute Address: opp.court naka,kharkhar ali road,jambhli naka,Thane(W).
+Tel: 02225342920
+Fax: 
+Name1: wadood khan
+Email1: wadood_wiseguy@yahoo.com
+Age1: 17
+Year1: first year
+Contact no.1: 02225469989
+Name2: sujeet mishra
+Email2: alibaba_2050@yahoo.com
+Age2: 17
+Year2: first year
+Contact no.2: 02225893424
+
+Regnum: 224
+Date: December 8, 2005, 1:29 am
+Institute name: Vasavi College of Engineering
+Institute Address: Ibrahimbagh, hyderabad 500031
+Tel: 04023513317
+Fax: 
+Name1: Akhilesh Gupta
+Email1: akhil20187@gmail.com
+Age1: 18
+Year1: 2nd
+Contact no.1: 04027792902
+Name2: B.Arun Kumar
+Email2: arun_kumar8626@yahoo.com
+Age2: 19
+Year2: 2nd
+Contact no.2: 04024341074
+
+Regnum: 225
+Date: December 8, 2005, 7:01 am
+Institute name: poornima college of engineering
+Institute Address: jaipur
+Tel: 0141-2572210
+Fax: 
+Name1: gajendra
+Email1: rathigajendra@yahoo.co.in
+Age1: 19
+Year1: third
+Contact no.1: 9414326378
+Name2: mrinal mardia
+Email2: mrinalmardia@yahoo.co.in
+Age2: 20
+Year2: third
+Contact no.2: 9414398558
+
+Regnum: 226
+Date: December 8, 2005, 12:58 pm
+Institute name: JECRC JODHPUR
+Institute Address: BORANADA JODHPUR RAJ.
+Tel: 02931-281550
+Fax: 0291-281551
+Name1: sumer singh bhati
+Email1: sumersinghbhati18@yahoo.co.in
+Age1: 19
+Year1: second year
+Contact no.1: 941453048
+Name2: ankit kapoor
+Email2: sumersinghbhati18@yahoo.co.in
+Age2: 19
+Year2: second year
+Contact no.2: 0291-2640602
+
+Regnum: 227
+Date: December 8, 2005, 7:10 pm
+Institute name: Sri Bhagawan Mahaveer Jain college
+Institute Address: Dr. A N Krishna Rao Road, V V Puram, Bangalore, Karnataka, India, Pin - 560 004
+Tel: 
+Fax: 
+Name1: Deboprio Ghosh
+Email1: deboprio@spicea.com
+Age1: 19
+Year1: 2
+Contact no.1: 08057628200
+Name2: Ravi Agwarwal
+Email2: ravi@spicea.com
+Age2: 19
+Year2: 2
+Contact no.2: 09886082394
+
+Regnum: 228
+Date: December 9, 2005, 2:09 am
+Institute name: g.h. patel college of engineering and technology
+Institute Address: bakrol road, vidhyanagar, anand, gujarat, india.
+Tel: 9879571812
+Fax: 
+Name1: kaif dharmajwala
+Email1: kaifu_d@yahoo.com
+Age1: 19
+Year1: 2nd year
+Contact no.1: 9879571812
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 229
+Date: December 9, 2005, 7:34 am
+Institute name: DR.B.R.Ambedkar N.I.T.Jalandhar(Punjab)
+Institute Address: G.T.Road Bye Pass,Jalandhar-144011 Punjab(India)
+Tel: 0181-2690301
+Fax: 0181-2690320
+Name1: Vishal Dhir
+Email1: vishaldhir123@yahoo.co.in
+Age1: 19
+Year1: Second
+Contact no.1: 09855789361
+Name2: Abhishek Kumar
+Email2: abhishekkumar20041@yahoo.com
+Age2: 19
+Year2: Second
+Contact no.2: 09316169583
+
+Regnum: 230
+Date: December 9, 2005, 8:01 am
+Institute name: Charotar Institute Of Technology-Changa
+Institute Address: CIT Changa,
+Ta-Petlad,
+Dis-Anand,
+Gujatat.
+Tel: 02697-247500
+Fax: 
+Name1: Dushyant M. Bhalgami
+Email1: dushyant_bhalgami@yahoo.co.in
+Age1: 19
+Year1: III
+Contact no.1: 079-23211575
+Name2: Manan S. Patel
+Email2: manan_ec50@yahoo.co.in
+Age2: 19
+Year2: III
+Contact no.2: 079-27410768
+
+Regnum: 231
+Date: December 9, 2005, 9:37 am
+Institute name: indian school of mines
+Institute Address: dhnbad,jharkhand
+Tel: 
+Fax: 
+Name1: mohit ranjan
+Email1: talk2coolmohit@yahoo.co.in
+Age1: 19
+Year1: second yr
+Contact no.1: 9835343992
+Name2: shrikant
+Email2: shrikant_ism@yahoo.com
+Age2: 19
+Year2: second yr
+Contact no.2: 
+
+Regnum: 232
+Date: December 9, 2005, 6:38 pm
+Institute name: Dr. Ambedkar Institute of Technology.
+Institute Address: Near Jnana Bharathi, Mallath Halli, Bangalore-560056.
+Tel: 080-3211504/05/06, 3218534
+Fax: 
+Name1: Srikanth Patil
+Email1: smp_ait@yahoo.co.in
+Age1: 23
+Year1: 2003-2006
+Contact no.1: 9886879481
+Name2: Parmeshwar
+Email2: smp_ait@yahoo.co.in
+Age2: 22
+Year2: 2003-2006
+Contact no.2: 9886879481
+
+Regnum: 233
+Date: December 9, 2005, 10:23 pm
+Institute name: A.I.S.S.M.'s W.C.O.E.
+Institute Address: Kennedy Road,Pune-1
+Tel: 
+Fax: 
+Name1: sonali s patwe
+Email1: sonali_patwe@yahoo.com
+Age1: 19
+Year1: Third Year
+Contact no.1: 24332650
+Name2: Prassanna V.Pilla
+Email2: -
+Age2: 19
+Year2: Third Year
+Contact no.2: 27284049
+
+Regnum: 233
+Date: December 10, 2005, 1:23 am
+Institute name: Medicaps Institute of Technology and Management
+Institute Address: A.B. Road, Pigdamber, Indore - 453331
+Tel: 0731 5020492
+Fax: 0731 2856263
+Name1: Paritosh Kothari
+Email1: paritosh.kothari@gmail.com
+Age1: 21
+Year1: IV
+Contact no.1: 94253 16002
+Name2: Harsh Gupta
+Email2: harshkrg@gmail.com
+Age2: 21
+Year2: IV
+Contact no.2: 98260 10950
+
+Regnum: 234
+Date: December 10, 2005, 1:31 am
+Institute name: Medicaps Institute of Technology and Management
+Institute Address: A.B. Road, Pigdamber, Indore - 453331
+Tel: 0731 5020492
+Fax: 0731 2856263
+Name1: Pankaj Sharma
+Email1: pankaj_in_83@yahoo.com
+Age1: 22
+Year1: IV
+Contact no.1: 9893412514
+Name2: Mayank Payel
+Email2: mayank_mpatel@yahoomail.com
+Age2: 20
+Year2: IV
+Contact no.2: 9893076121
+
+Regnum: 235
+Date: December 10, 2005, 2:31 am
+Institute name: IES IPS ACADEMY
+Institute Address: RAJENDRA NAGAR, INDORE-45201
+Tel: 0731-4058673,7477,79
+Fax: 0731-856876,78
+Name1: NIMESH JAIN
+Email1: nimeshjain123@rediff.com,nimeshjain123@gmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: +919425135388
+Name2: SOURABH SHROTRIYA
+Email2: studengineer@gmail.com
+Age2: 20
+Year2: 3rd
+Contact no.2: +91922587001
+
+Regnum: 236
+Date: December 10, 2005, 3:30 am
+Institute name: Dr Ambedkar Institute Of Technology
+Institute Address: Dr A.I.T, Near Jnana Bharathi campus,Mallathalli, bangalore 560056
+Tel: 
+Fax: 
+Name1: Saraf Uddin Talukder
+Email1: sarafuddin@gmail.com
+Age1: 21
+Year1: 2006
+Contact no.1: +91-9880818880
+Name2: Rashmi G.S
+Email2: sunraysgs@gmail.com
+Age2: 20
+Year2: 2006
+Contact no.2: +91-80-28390607
+
+Regnum: 237
+Date: December 10, 2005, 5:35 am
+Institute name: VNIT Nagpur
+Institute Address: VNIT Nagpur
+Tel: 
+Fax: 
+Name1: Mayuresh Vartak
+Email1: mayureshvartak@gmail.com
+Age1: 20
+Year1: Third Year
+Contact no.1: 28693620
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 238
+Date: December 10, 2005, 7:29 am
+Institute name: YMCA Institute of Engineering, Faridabad
+Institute Address: Sector-6
+Zakir Nagar
+Faridabad
+Tel: 0129-2242142
+Fax: 
+Name1: Mukul Sharma
+Email1: elitecoder.mukul@gmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09868946411
+Name2: Saurabh Arora
+Email2: tanish2k@gmail.com
+Age2: 21
+Year2: 4th
+Contact no.2: 
+
+Regnum: 239
+Date: December 10, 2005, 7:51 am
+Institute name: Dr Ambedkar Institute of Technology.
+Institute Address: No 8#3,Ramakrishna BLDG Near Vishal School,
+Bangalore -73
+Tel: 23710479
+Fax: 
+Name1: Srinivasa .R
+Email1: sri_om_svs@yahoo.co.in
+Age1: 21
+Year1: 2006
+Contact no.1: 23710479
+Name2: Sunil T
+Email2: sri_om_svs@yahoo.co.in
+Age2: 21
+Year2: 2006
+Contact no.2: 28374713
+
+Regnum: 240
+Date: December 10, 2005, 7:51 am
+Institute name: Dr Ambedkar Institute of Technology.
+Institute Address: No 8#3,Ramakrishna BLDG Near Vishal School,
+Bangalore -73
+Tel: 23710479
+Fax: 
+Name1: Sumathi R
+Email1: sri_om_svs@yahoo.co.in
+Age1: 21
+Year1: 2006
+Contact no.1: 23710479
+Name2: Vandana Kalyan Ram
+Email2: sri_om_svs@yahoo.co.in
+Age2: 21
+Year2: 2006
+Contact no.2: 28374713
+
+Regnum: 241
+Date: December 10, 2005, 7:53 am
+Institute name: Dr Ambedkar Institute of Technology.
+Institute Address: Near Gnana Bharathi Capmus,Nagarbhavi,
+Bangalore - 56
+Tel: 23710479
+Fax: 
+Name1: Sumathi R
+Email1: sri_om_svs@yahoo.co.in
+Age1: 21
+Year1: 2006
+Contact no.1: 23710479
+Name2: Vandana Kalyan Ram
+Email2: sri_om_svs@yahoo.co.in
+Age2: 21
+Year2: 2006
+Contact no.2: 28374713
+
+Regnum: 242
+Date: December 10, 2005, 7:53 am
+Institute name: Dr Ambedkar Institute of Technology.
+Institute Address: Near Gnana Bharathi Capmus,Nagarbhavi,
+Bangalore - 56
+Tel: 23710479
+Fax: 
+Name1: Ujwala N
+Email1: sri_om_svs@yahoo.co.in
+Age1: 21
+Year1: 2006
+Contact no.1: 23710479
+Name2: Vatsala M
+Email2: sri_om_svs@yahoo.co.in
+Age2: 21
+Year2: 2006
+Contact no.2: 28374713
+
+Regnum: 243
+Date: December 10, 2005, 7:54 am
+Institute name: Dr Ambedkar Institute of Technology.
+Institute Address: Near Gnana Bharathi Capmus,Nagarbhavi,
+Bangalore - 56
+Tel: 23710479
+Fax: 
+Name1: Sunil T
+Email1: sri_om_svs@yahoo.co.in
+Age1: 21
+Year1: 2006
+Contact no.1: 23710479
+Name2: Srinivasa .R
+Email2: sri_om_svs@yahoo.co.in
+Age2: 21
+Year2: 2006
+Contact no.2: 28374713
+
+Regnum: 244
+Date: December 10, 2005, 8:46 am
+Institute name: Dr Ambedkar Institute of Technology
+Institute Address: Jnana Bharathi Campus
+Tel: 23288833
+Fax: 
+Name1: Vallisha K
+Email1: vallisha_kaushik@rediffmail.com
+Age1: 21
+Year1: 2006
+Contact no.1: 23288833
+Name2: Vaishali
+Email2: vallisha_kaushik@rediffmail.com
+Age2: 21
+Year2: 2006
+Contact no.2: 23288833
+
+Regnum: 245
+Date: December 10, 2005, 8:47 am
+Institute name: Dr Ambedkar Institute of Technology
+Institute Address: Jnana Bharathi Campus
+Tel: 23288833
+Fax: 
+Name1: Robin
+Email1: vallisha_kaushik@rediffmail.com
+Age1: 21
+Year1: 2006
+Contact no.1: 23288833
+Name2: Saurabh
+Email2: vallisha_kaushik@rediffmail.com
+Age2: 21
+Year2: 2006
+Contact no.2: 23288833
+
+Regnum: 246
+Date: December 10, 2005, 8:47 am
+Institute name: Dr Ambedkar Institute of Technology
+Institute Address: Jnana Bharathi Campus
+Tel: 23288833
+Fax: 
+Name1: Prasad
+Email1: vallisha_kaushik@rediffmail.com
+Age1: 21
+Year1: 2006
+Contact no.1: 23288833
+Name2: Diwya
+Email2: vallisha_kaushik@rediffmail.com
+Age2: 21
+Year2: 2006
+Contact no.2: 23288833
+
+Regnum: 247
+Date: December 10, 2005, 8:47 am
+Institute name: Dr Ambedkar Institute of Technology
+Institute Address: Jnana Bharathi Campus
+Tel: 23288833
+Fax: 
+Name1: Roshan
+Email1: vallisha_kaushik@rediffmail.com
+Age1: 21
+Year1: 2006
+Contact no.1: 23288833
+Name2: Vallisha
+Email2: vallisha_kaushik@rediffmail.com
+Age2: 21
+Year2: 2006
+Contact no.2: 23288833
+
+Regnum: 248
+Date: December 10, 2005, 10:38 am
+Institute name: l d c e
+Institute Address: l d c e ahmedabad
+Tel: 0
+Fax: 0
+Name1: mustafa
+Email1: mustafa2552@yahoo.com
+Age1: 21
+Year1: 4
+Contact no.1: 9879399250
+Name2: m
+Email2: mustafa2552@yahoo.com
+Age2: 21
+Year2: 4
+Contact no.2: 9879399250
+
+Regnum: 249
+Date: December 10, 2005, 11:47 am
+Institute name: nit warangal
+Institute Address: nit warangal
+Tel: 
+Fax: 
+Name1: pradeep kumar patel
+Email1: sandesh2pradeep@yahoo.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09347215812
+Name2: arpit mittal
+Email2: arpit_nitw@yahoo.com
+Age2: 20
+Year2: 3rd
+Contact no.2: 09347215812
+
+Regnum: 250
+Date: December 11, 2005, 4:32 am
+Institute name: lnct,bhopal
+Institute Address: kalchuri nagar,raisen road, P.o.kolua.bhopal-462021
+Tel: 0755-2852729-30,28522641-42,2852643
+Fax: (0755),2852643,661179.
+Name1: rahul kumar
+Email1: rahul786_lnct@yahoo.co.in
+Age1: 20
+Year1: 2nd year
+Contact no.1: 9425482416
+Name2: kanwaldeep singh
+Email2: singh_kanwal@rediff.com
+Age2: 19
+Year2: 2nd year
+Contact no.2: 9425482415
+
+Regnum: 251
+Date: December 11, 2005, 4:44 am
+Institute name: Shri Ramdeobaba Kamla Nehru Engg. College
+Institute Address: SRKNEC
+Katol Road
+Gitti Khadan
+NAGPUR - 400013
+Tel: 
+Fax: 
+Name1: Rohit Karnani
+Email1: r_karnani@yahoo.com,rohitkarnani@hotmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: 09822278768
+Name2: Anant Sharma
+Email2: anant_sha@yahoo.co.in,anant_sha1@rediffmail.com
+Age2: 20
+Year2: 3rd
+Contact no.2: 09823786554
+
+Regnum: 252
+Date: December 11, 2005, 5:31 am
+Institute name: Acharya Institute Of Technology,Banaglore
+Institute Address: Soldevanahalii,Hessarghatta Rd.,Banaglore-90
+Tel: +91-80-28396011
+Fax: 
+Name1: Shameek Ghosh
+Email1: shameek09@gmail.com
+Age1: 20
+Year1: 4th
+Contact no.1: +91-9845782128
+Name2: Divyendu Verma
+Email2: divyendu_verma@yahoo.co.in
+Age2: 22
+Year2: 4th
+Contact no.2: +91-9886226386
+
+Regnum: 253
+Date: December 12, 2005, 12:44 am
+Institute name: National University of Computer and Emerging Sciences(FAST - NU)
+Institute Address: B - Block Faisal Town, Lahore, Pakistan
+Tel: 042-5165680-83 , 042-111128128 
+Fax: 042-5165232 
+Name1: Hamid Zia
+Email1: hamidzia@gmail.com
+Age1: 20
+Year1: 4
+Contact no.1: +92-3334522757
+Name2: Asad Jahangir
+Email2: asad.jahangir@gmail.com
+Age2: 21
+Year2: 4
+Contact no.2: +92-3004245997
+
+Regnum: 254
+Date: December 12, 2005, 1:41 am
+Institute name: Mody Institute of Tecnology & Sciences
+Institute Address: Faculty of Engg & Technology
+Mody Institute of Tecnology & Sciences
+Lakshmangarh
+Sikar
+Rajasthan
+Tel: 01573-225042
+Fax: 
+Name1: Sukanya Kshetrapal
+Email1: sukanya.kshetrapal
+Age1: 20
+Year1: 3rd
+Contact no.1: 09829175372
+Name2: Riteja Premy
+Email2: ritejapremy@yahoo.co.in
+Age2: 19
+Year2: 3rd
+Contact no.2: 09829194698
+
+Regnum: 255
+Date: December 12, 2005, 1:55 am
+Institute name: Mody Institute of tecnology & Sciences
+Institute Address: Faculty of Engg & Tecnology
+Lakshmangarh
+Rajasthan
+Tel: 01573-224032
+Fax: 
+Name1: shweta ranka 
+Email1: shwetaranka@gmail.com
+Age1: 19
+Year1: 3rd
+Contact no.1: 09829473840
+Name2: shweta poddar
+Email2: shweta_3286@yahoo.com
+Age2: 19
+Year2: 3rd
+Contact no.2: 09829160102
+
+Regnum: 256
+Date: December 12, 2005, 8:05 am
+Institute name: IIT-Bombay
+Institute Address: #156, Hostel 4, IIT-B,Powai
+Tel: 098204-95385
+Fax: 
+Name1: Arvind Iyengar
+Email1: iyengar@me.iitb.ac.in
+Age1: 21
+Year1: 4
+Contact no.1: 098204-95385
+Name2: Vikrant Kulkarni
+Email2: vikrant_h8@yahoo.com
+Age2: 20
+Year2: 4
+Contact no.2: 098195-61249
+
+Regnum: 257
+Date: December 12, 2005, 9:54 pm
+Institute name: DAVCollege Of Engineering And Technology
+Institute Address: DAVCET , Kanina,Dist.-Mohindergarh
+Tel: 09416696861
+Fax: 
+Name1: Nitish Jha
+Email1: nitish_shady@sify.com
+Age1: 18
+Year1: 1st year
+Contact no.1: 09813366976
+Name2: Sujeet  Kumar Jha
+Email2: nitish_preet@yahoo.com
+Age2: 20
+Year2: 1st year
+Contact no.2: 09813366976
+
+Regnum: 258
+Date: December 12, 2005, 11:22 pm
+Institute name: N.I.T. kernataka
+Institute Address: p.o. shrinivas nagar, surathkal, kernataka 575025
+Tel: 
+Fax: 
+Name1: radhesh
+Email1: gupta_radhesh@yahoo.co.in
+Age1: 20
+Year1: 2nd yr
+Contact no.1: +919448770082
+Name2: sourabh jain
+Email2: sourabh_nitkeee@rediffmail.com
+Age2: 20
+Year2: 2nd yr
+Contact no.2: +919448239960
+
+Regnum: 259
+Date: December 12, 2005, 11:29 pm
+Institute name: RVCE,BANGALORE
+Institute Address: RVCE, MYSORE ROAD, BANGALORE-59
+Tel: 08028600184
+Fax: 
+Name1: Nagaraj. h.v
+Email1: venkatesh_sahana@yahoo.com
+Age1: 19
+Year1: 2nd yr
+Contact no.1: 9886594003
+Name2: nagaraj.h
+Email2: nagarajv_hegde@yahoo.co.in
+Age2: 19
+Year2: 2nd yr
+Contact no.2: 9886884338
+
+Regnum: 260
+Date: December 13, 2005, 2:45 am
+Institute name: university college of engineering,osmania university.
+Institute Address: room no 315,ganga hostel,osmania university,hyderabad.
+Tel: 09866259050
+Fax: 
+Name1: baswanth
+Email1: molgis3@yahoo.co.in
+Age1: 20
+Year1: third year
+Contact no.1: 09866259050
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 261
+Date: December 13, 2005, 5:12 am
+Institute name: manit
+Institute Address: kotra sultanabad, bhopal (m.p)
+Tel: 2485220
+Fax: 
+Name1: ra
+Email1: ravi@yahoo.com
+Age1: 25
+Year1: 3
+Contact no.1: 241110
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 262
+Date: December 13, 2005, 5:15 am
+Institute name: manit
+Institute Address: kotra sultanabad ,bhopal
+Tel: 2485220
+Fax: 
+Name1: Randheer singh
+Email1: randheer04@yahoo.com
+Age1: 19
+Year1: II
+Contact no.1: 0755-2485229
+Name2: debayan biswas
+Email2: de_bayan@yahoo.co.in
+Age2: 19
+Year2: II
+Contact no.2: 09826571985
+
+Regnum: 263
+Date: December 13, 2005, 6:42 pm
+Institute name: Sardar Patel University
+Institute Address: S.P.University , vallabh-vidyanagar
+Tel: [02692]230009,226800
+Fax: 
+Name1: Rahul Gupta
+Email1: rahulgupta17@hotmail.com
+Age1: 19
+Year1: Second Year
+Contact no.1: 09898069491
+Name2: Saud Hakim
+Email2: saudhakim@gmail.com
+Age2: 20
+Year2: Second Year
+Contact no.2: 09898018238
+
+Regnum: 264
+Date: December 13, 2005, 11:21 pm
+Institute name: ANJUMAN COLLEGE OF ENGG. AND TECHNOLOGY
+Institute Address: ANJUMAN COLLEGE OF ENGG. AND TECHNOLOGY, SADAR, NAGPUR-440001
+Tel: -
+Fax: -
+Name1: Suraj D. Manke
+Email1: lucky_sunsight@yahoo.co.in
+Age1: 19 years
+Year1: third year
+Contact no.1: 09226262621
+Name2: Manish A. Gajallewar
+Email2: manigaj4u@yahoo.cm
+Age2: 21 years
+Year2: third year
+Contact no.2: 09860475068
+
+Regnum: 265
+Date: December 14, 2005, 6:28 am
+Institute name: cumballa hill high school
+Institute Address: darabsha lane off napean sea road
+mumbai-36
+Tel: 23632426/23625176
+Fax: 
+Name1: RONAK MEHTA\
+Email1: mohitboti1986@yahoo.com
+Age1: 14
+Year1: 9th std
+Contact no.1: 23870292
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 265
+Date: December 14, 2005, 6:34 am
+Institute name: cumballa hill high school
+Institute Address: darabsha lane off mapeansea road
+Tel: 23632426/23625176
+Fax: 
+Name1: RONAK MEHTA
+Email1: mohitboti1986@yahoo.com
+Age1: 14
+Year1: 9th std
+Contact no.1: 23870292
+Name2: RONAK DOSHI
+Email2: mohitboti1986@yahoo.com
+Age2: 14
+Year2: 9th std
+Contact no.2: 55201413
+
+Regnum: 266
+Date: December 14, 2005, 9:34 am
+Institute name: NIRMA INSTITUTE OF TECHNOLOGY
+Institute Address: S.G.HIGHWAY,AHMEDABAD 382481 ,GUJARAT, INDIA
+Tel: 079-3741911
+Fax: 079-3741917
+Name1: ABHAY MAVALANKAR
+Email1: mavalankar@gmail.com
+Age1: 20
+Year1: 3rd year
+Contact no.1: 09898110398
+Name2: HEER GANDHI
+Email2: heergandhi11@hotmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 09825120951
+
+Regnum: 267
+Date: December 14, 2005, 10:26 pm
+Institute name: DAYANANDA SAGAR COLLEGE OF ENGINEERING, BANGALORE
+Institute Address: Dayananda Sagar College of Engg.,
+Shavige Malleswara Hills, Kumaraswamy Layout, Bangalore-78
+Tel: +91-80-26660789
+Fax: +91-80-26635929
+Name1: SANKHA DIP DATTA
+Email1: sankha2399@yahoo.com
+Age1: 21
+Year1: Final Year ( Mech )
+Contact no.1: 09886269671
+Name2: PRANAV KUMAR
+Email2: pranav.dsce@gmail.com
+Age2: 21
+Year2: Final Year ( Mech )
+Contact no.2: 09886143414
+
+Regnum: 268
+Date: December 15, 2005, 2:41 am
+Institute name: FACULTY OF TECHNOLOGY & ENGINEERING, M.S.UNIVERSITY OF BARODA
+Institute Address: NEAR KALA BHAVAN,
+PALACE ROAD, VADODARA-390001
+Tel: 
+Fax: 
+Name1: JITENDRA H SALVI
+Email1: jitendrah_salvi@yahoo.co.in
+Age1: 21
+Year1: third
+Contact no.1: +919824693193
+Name2: KEMKAR MEGHAN V
+Email2: mvkemkar@indiatimes.com
+Age2: 22
+Year2: SECOND
+Contact no.2: 02655539006
+
+Regnum: 269
+Date: December 15, 2005, 4:16 am
+Institute name: GOVERNMENT COLLEGE OF TECHNOLOGY
+Institute Address: GCT CAMPUS,
+THADAGAM ROAD,
+COIMBATORE - 641013
+Tel: 0422 2432221
+Fax: 
+Name1: JEEVA BOOPATHY.G
+Email1: john_nkool@yahoo.com
+Age1: 21
+Year1: final year
+Contact no.1: 9894866790
+Name2: SENTHIL KUMAR.M
+Email2: john_nkool@yahoo.com
+Age2: 21
+Year2: final year
+Contact no.2: 9894866790
+
+Regnum: 270
+Date: December 15, 2005, 7:28 am
+Institute name: dr.ait
+Institute Address: near jnanabharati campus, malathhalli,bangalore-560056
+Tel: 
+Fax: 
+Name1: ujwala
+Email1: ujwalaa_n@yahoo.co.in
+Age1: 21
+Year1: 4
+Contact no.1: 57704605
+Name2: uday shankar raj urs
+Email2: raj.urs@rediffmail.com
+Age2: 21
+Year2: 4
+Contact no.2: 28484627
+
+Regnum: 271
+Date: December 15, 2005, 8:42 am
+Institute name: IIT Bombay
+Institute Address: H-7/169
+Tel: +919820657229
+Fax: 
+Name1: Siraj
+Email1: siraj_a_i@iitb.ac.in
+Age1: 20
+Year1: 2nd year
+Contact no.1: 
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 272
+Date: December 15, 2005, 8:47 am
+Institute name: IIT Bombay
+Institute Address: H-7/169
+Tel: +919820657229
+Fax: 
+Name1: Siraj Issani
+Email1: siraj_a_i@iitb.ac.in
+Age1: 20
+Year1: 2nd year
+Contact no.1: +919833071933
+Name2: Ashok Rajani
+Email2: ashokr@aero.iitb.ac.in
+Age2: 19
+Year2: 2nd year
+Contact no.2: +919820657229
+
+Regnum: 273
+Date: December 15, 2005, 8:18 pm
+Institute name: DA-IICT
+Institute Address: E-207,
+Hallof residence,
+DA-IICT,
+Indroda cirlce,
+gandhinagar,
+Gujurat
+Tel: 09898091227
+Fax: 
+Name1: k wasif
+Email1: 200401226@da-iict.org
+Age1: 19
+Year1: 2nd yr
+Contact no.1: 09898091227
+Name2: Srujith l
+Email2: 200401216@da-iict.org
+Age2: 18
+Year2: 2nd yr
+Contact no.2: 
+
+Regnum: 274
+Date: December 15, 2005, 11:04 pm
+Institute name: Rizvi college of Engg.
+Institute Address: Bandra
+Tel: -
+Fax: -
+Name1: Dhirendra Rajpurohit
+Email1: rajpurohit2005@yahoo.co.in
+Age1: 20
+Year1: forth
+Contact no.1: 95250-2501315
+Name2: prabhas Jani
+Email2: -
+Age2: 21
+Year2: forth
+Contact no.2: -
+
+Regnum: 275
+Date: December 15, 2005, 11:20 pm
+Institute name: OSMANIA UNIVERSITY COLLEGE OF ENGINEERING
+Institute Address: HYDERABAD
+500007
+Tel: 9866153353
+Fax: 
+Name1: HARI KRISHNA REDDY
+Email1: reddy_402@yahoo.co.in
+Age1: 20
+Year1: B.E 2/4 mechanical
+Contact no.1: 
+Name2: VVRAVIKIRAN
+Email2: vvravikiran@yahoo.com
+Age2: 20
+Year2: B.E 2/4 mechanical
+Contact no.2: 
+
+Regnum: 276
+Date: December 16, 2005, 6:08 am
+Institute name: BITS PILANI GOA CAMPUS
+Institute Address: E.N.SRIVATSAVA,BH-2 248,BITS PILANI GOA CAMPUS,NEAR JAIKISAN CLUB,VASCODAGAMA,GOA
+Tel: 
+Fax: 
+Name1: SRIVATSAVA
+Email1: sri_nishanth87@yahoo.com
+Age1: 18
+Year1: 2 
+Contact no.1: 
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 277
+Date: December 16, 2005, 7:52 am
+Institute name: Sakec And Anchor Kutchhi Engineering College
+Institute Address: Mahavir Education Trust Chowk,W.T.Patil marg,Chembur,Mumbai-88
+Tel: 25580854
+Fax: 
+Name1: Amit Mange
+Email1: amit7999@gmail.com
+Age1: 21
+Year1: Third year
+Contact no.1: 25407370
+Name2: Aarti Adiwarekar
+Email2: aarti_adi@yahoo.co.in
+Age2: 20
+Year2: Third year
+Contact no.2: 25726017
+
+Regnum: 278
+Date: December 16, 2005, 8:54 am
+Institute name: university institute of chemical technology
+Institute Address: nathalal parikh marg,matunga-(e),mumbai-400019
+Tel: 24145616
+Fax: 
+Name1: vighnesh mehta
+Email1: vighnesh.mehta@rediffmail
+Age1: 19
+Year1: second
+Contact no.1: 26052637
+Name2: vaibhaw kumar
+Email2: omniscience11@yahoomail
+Age2: 20
+Year2: second
+Contact no.2: 9324796146
+
+Regnum: 279
+Date: December 16, 2005, 11:06 pm
+Institute name: Sardar Vallabbhai National Institute of Technology
+Institute Address: A-303,Shri Shayona Appts,Piplod, Surat 395007
+Tel: 09898279781
+Fax: 
+Name1: Ankit Gupta
+Email1: ankitgupta0072001@yahoo.co.in
+Age1: 20
+Year1: Third Year
+Contact no.1: 09426379327
+Name2: Sumeet Singh
+Email2: sumeet_singh118@yahoo.co.uk
+Age2: 20
+Year2: Third Year
+Contact no.2: 09898279781
+
+Regnum: 280
+Date: December 16, 2005, 11:07 pm
+Institute name: Sardar Vallabbhai National Institute of Technology
+Institute Address: A-303,Shri Shayona Appts,Piplod, Surat 395007
+Tel: 09898279781
+Fax: 
+Name1: Ankit Gupta
+Email1: ankitgupta0072001@yahoo.co.in
+Age1: 20
+Year1: Third Year
+Contact no.1: 09426379327
+Name2: Sumeet Singh
+Email2: sumeet_singh118@yahoo.co.uk
+Age2: 20
+Year2: Third Year
+Contact no.2: 09898279781
+
+Regnum: 281
+Date: December 17, 2005, 12:27 am
+Institute name: Faculty of Technology And Engineering
+Maharaja Sayajirao University,Baroda
+Institute Address: Faculty of Technology And Engineering,
+Kalabhavan,
+Nr badamdibaug,
+dandiya bazaar,
+Baroda.
+Tel: 
+Fax: 
+Name1: Jaimin Shah
+Email1: shah_jai_min@yahoo.com
+Age1: 19
+Year1: 2
+Contact no.1: 09427345907
+Name2: Gaurav Kishnani
+Email2: gavkish@yahoo.co.in
+Age2: 19
+Year2: 2
+Contact no.2: 09426411879
+
+Regnum: 282
+Date: December 17, 2005, 12:43 am
+Institute name: POORNIMA ENGINEERING COLLEGE
+Institute Address: SITAPURA,JAIPUR
+Tel: 0141-2770790
+Fax: 0141-2770792
+Name1: CHANDRAKANT RAJPUROHIT
+Email1: chand_raj9@yahoo.co.in
+Age1: 20
+Year1: 3rd year
+Contact no.1: 9414398558
+Name2: NIKHIL JAIN
+Email2: niks_blue2005@rediffmail.com
+Age2: 20
+Year2: 3rd year
+Contact no.2: 0141-2591725
+
+Regnum: 283
+Date: December 17, 2005, 6:21 am
+Institute name: sardar vallabhbhai patel institute of tech.
+Institute Address: vasad,anand , Gujarat-388306
+Tel: 02692274766
+Fax: 02692-274540
+Name1: pragnesh patel
+Email1: redrose1762000@rediffmail.com
+Age1: 19
+Year1: T.Y.
+Contact no.1: 02655542875
+Name2: aritra sengupta
+Email2: arisen@yahoo.com
+Age2: 20
+Year2: T.Y.
+Contact no.2: 02655542875
+
+Regnum: 284
+Date: December 18, 2005, 2:57 am
+Institute name: srknec
+Institute Address: srknec, katol road nagpur-440013
+Tel: 9423407862
+Fax: 
+Name1: kamal kumar ram
+Email1: ramkamalkumar@rediffmail.com
+Age1: 20
+Year1: 3rd(2005-06)
+Contact no.1: 9423407862
+Name2: arijit sarkar
+Email2: arijit_sarkar_4love@yahoo.co.in
+Age2: 20
+Year2: 3rd(2005-06)
+Contact no.2: 9423407862
+
+Regnum: 285
+Date: December 18, 2005, 5:48 am
+Institute name: JSS Academy of Technical Education
+Institute Address: C - 20/1, Sector - 62,
+Noida - 201301
+Tel: 24585135
+Fax: 24585156
+Name1: Varun Gupta
+Email1: varun.2k4@hotmail.com
+Age1: 20
+Year1: Third
+Contact no.1: +919891241851
+Name2: Shalin Shekhar Mangar
+Email2: shalinmangar@gmail.com
+Age2: 21
+Year2: Third
+Contact no.2: +919818281539
+
+Regnum: 286
+Date: December 18, 2005, 6:19 am
+Institute name: KET'S V.G.VAZE COLLEGE.
+Institute Address: MITHAGAR ROAD,MULUND(EAST)
+Tel: 25671422  ,   25671423
+Fax: -
+Name1: VIREN TIMBLE
+Email1: viren_t2005@yahoo.co.in
+Age1: 16
+Year1: FYJC
+Contact no.1: 95251-2444717
+Name2: JAI RAMCHANDANI
+Email2: jaitheoracle@indiatimes.com
+Age2: 16
+Year2: FYJC
+Contact no.2: 25473336  ,  9869501686
+
+Regnum: 286
+Date: December 18, 2005, 6:26 am
+Institute name: KET'S 'V.G.VAZE COLLEGE'
+Institute Address: 'MITHAGAR ROAD,MULUND(EAST)'
+Tel: '25671422,25671423'
+Fax: '-'
+Name1: 'VIREN TIMBLE'
+Email1: viren_t2005@yahoo.co.in
+Age1: '16'
+Year1: 'FYJC'
+Contact no.1: '952512444717'
+Name2: 'JAI RAMCHANDANI'
+Email2: jaitheoracle@indiatimes.com
+Age2: '16'
+Year2: 'FYJC'
+Contact no.2: '25473336,9869501686'
+
+Regnum: 286
+Date: December 18, 2005, 6:34 am
+Institute name: KET V.G.VAZE COLLEGE
+Institute Address: MITHAGAR ROAD,MULUND(EAST)
+Tel: 25671422,25671423
+Fax: -
+Name1: VIREN TIMBLE
+Email1: viren_t2005@yahoo.co.in
+Age1: 16
+Year1: FYJC
+Contact no.1: 952512444717
+Name2: JAI RAMCHANDANI
+Email2: jaitheoracle@indiatimes.com
+Age2: 16
+Year2: FYJC
+Contact no.2: 25473336,9869501686
+
+Regnum: 287
+Date: December 18, 2005, 6:35 am
+Institute name: KET V.G.VAZE COLLEGE
+Institute Address: MITHAGAR ROAD,MULUND(EAST)
+Tel: 25671422,25671423
+Fax: -
+Name1: VIREN TIMBLE
+Email1: viren_t2005@yahoo.co.in
+Age1: 16
+Year1: FYJC
+Contact no.1: 952512444717
+Name2: JAI RAMCHANDANI
+Email2: jaitheoracle@indiatimes.com
+Age2: 16
+Year2: FYJC
+Contact no.2: 25473336,9869501686
+
+Regnum: 288
+Date: December 18, 2005, 6:47 am
+Institute name: S.V.I.T.
+Institute Address: VASAD,VADODARA. GUJARAT
+Tel: 02692-74766
+Fax: 02692-74540
+Name1: SHAH JAY B.
+Email1: jjj_shah2003@yahoo.com
+Age1: 19
+Year1: T.Y.B.E.MECHANICAL
+Contact no.1: +91-9824344646
+Name2: GIANCHANDANI SUNNY P.
+Email2: sunny_gianchandani@yahoo.com
+Age2: 20
+Year2: T.Y.B.E.MECHANICAL
+Contact no.2: 0265-2530298
+
+Regnum: 289
+Date: December 18, 2005, 9:41 am
+Institute name: Malaviya National Institute of Technology,Jaipur.
+Institute Address: JLN marg Jaipur.302017
+Tel: -
+Fax: -
+Name1: Nishant Rajawat
+Email1: nishusmarty@rediffmail.com
+Age1: 20
+Year1: 3rd
+Contact no.1: +919828239399
+Name2: Vishal Singh
+Email2: frustratingvishal@yahoo.co.in
+Age2: 20
+Year2: 3rd
+Contact no.2: +919828239399
+
+Regnum: 290
+Date: December 18, 2005, 8:59 pm
+Institute name: National Institute of Technology, Warangal
+Institute Address: National Institute of Technology,
+Warangal 506004
+Andhra Pradesh
+Tel: 
+Fax: 
+Name1: Piyush Bihani
+Email1: piyushbihani1@yahoo.co.in
+Age1: 20
+Year1: 3rd
+Contact no.1: 09440240002
+Name2: Harsh Bolia
+Email2: harsh_29_04@yahoo.co.in
+Age2: 20
+Year2: 3rd
+Contact no.2: 09440239445
+
+Regnum: 291
+Date: December 18, 2005, 9:07 pm
+Institute name: Dr Ambedkar Institute of Technology
+Institute Address: Near Gnana Bharathi Capmus,Nagarbhavi,
+Bangalore - 56
+Tel: 
+Fax: 
+Name1: GEETHA R
+Email1: sri_om_svs@yahoo.co.in
+Age1: 22
+Year1: 2006
+Contact no.1: 23710479
+Name2: Vatsala M
+Email2: sri_om_svs@yahoo.co.in
+Age2: 21
+Year2: 2006
+Contact no.2: 
+
+Regnum: 292
+Date: December 18, 2005, 9:08 pm
+Institute name: syed hashim college of science and technology
+Institute Address: pregnapur,gajwel mandal,medak district, andra pradesh
+Tel: 08454-32110,32370
+Fax: 
+Name1: bhagyaraj 
+Email1: bhagyarajf1@gmail.com
+Age1: 21
+Year1: 4rth(final year)
+Contact no.1: 040-27820657
+Name2: maheshwar rao
+Email2: mahesh_lsv@yahoo.com
+Age2: 21
+Year2: 4rth(final year)
+Contact no.2: 9849763453
+
+Regnum: 293
+Date: December 18, 2005, 11:01 pm
+Institute name: G.H.RAISONI COLLEGE OF ENGG.
+Institute Address: CRPF GATE HINGNA ROAD. NAGPUR
+Tel: 071042235220
+Fax: 
+Name1: ABHIJIT GANGULY
+Email1: abhi_782@yahoo.co.in
+Age1: 20
+Year1: third
+Contact no.1: 09860409424
+Name2: soumya de
+Email2: desoumya_99@rediffmail.com
+Age2: 20
+Year2: third
+Contact no.2: 09370334554
+
+Regnum: 294
+Date: December 18, 2005, 11:49 pm
+Institute name: pydah college of engineering and technology
+Institute Address: gambheeram,visakhapatnam
+Tel: 08933222942
+Fax: 
+Name1: pavan kumar tejaswi.c
+Email1: pavankumar972000@yahoo.co.in
+Age1: 18
+Year1: second
+Contact no.1: 08912710442
+Name2: bhaskar.v
+Email2: bhaskarv87@gmail.com
+Age2: 18
+Year2: second
+Contact no.2: 9440856126
+
+Regnum: 295
+Date: December 18, 2005, 11:54 pm
+Institute name: pydah collrge of engineering and technology
+Institute Address: gambheeram,visakhapatnam
+Tel: 08933222942
+Fax: 
+Name1: srikar.k
+Email1: srikar_kuppili@yahoo.co.in
+Age1: 18
+Year1: second
+Contact no.1: 9849464515
+Name2: jagadish.v
+Email2: v_jagguthehero@yahoo.com
+Age2: 19
+Year2: second
+Contact no.2: 9848472655
+
+Regnum: 296
+Date: December 19, 2005, 1:51 am
+Institute name: v.j.t.i
+Institute Address: MATUNGA MUMBAI-19
+Tel: 9869173576
+Fax: 
+Name1: MAYUR  D  MOHITE
+Email1: mayur.mohite@rediffmail.com
+Age1: 19
+Year1: SECOND YEAR
+Contact no.1: 9869173576
+Name2: RAHUL BATTULWAR
+Email2: yung_bee196@rediffmail.com
+Age2: 19
+Year2: SECOND YEAR
+Contact no.2: 9869173576
+
+Regnum: 297
+Date: December 19, 2005, 2:08 am
+Institute name: College of agriculture engineering
+Institute Address: Rajendra agriculture university,RAU,pusa,samastipur-848125
+Tel: 06274-240968
+Fax: 
+Name1: chandan kumar
+Email1: cae_14@sify.com
+Age1: 20
+Year1: second
+Contact no.1: 9431647949
+Name2: sandeep kumar
+Email2: csr143@sify.com
+Age2: 21
+Year2: second
+Contact no.2: 
+
+Regnum: 298
+Date: December 19, 2005, 2:37 am
+Institute name: bahvans vivekanda degree college
+Institute Address: sainikpuri, defence colony,secunderabad
+Tel: 04027111711
+Fax: 
+Name1: manish mitra
+Email1: manish_kanu2003@yahoo.com
+Age1: 19
+Year1: bsc ii year
+Contact no.1: 9849272576
+Name2: jayraman
+Email2: javajayraman_1987@yahoo.co.in
+Age2: 18
+Year2: bsc ii year
+Contact no.2: 9849272576
+
+Regnum: 299
+Date: December 19, 2005, 3:50 am
+Institute name: NIRMA INSTITUTE OF TECHNOLOGY,
+AHEMEDABAD
+Institute Address: A-10,SRI KRISHNA APPTS,
+LAD SOCIETY,
+VASTRAPUR,
+AHEMEDABAD-380015
+GUJRAT
+Tel: 09898751438
+Fax: -
+Name1: ANIRUDH BADOPALIA
+Email1: anirudh_badopalia@yahoo.com
+Age1: 21
+Year1: 3
+Contact no.1: 079-50009412
+Name2: BHARAT AGRAWAL
+Email2: bharatthescholar@yahoo.com
+Age2: 21
+Year2: 3
+Contact no.2: 9898751438
+
+Regnum: 300
+Date: December 19, 2005, 3:55 am
+Institute name: itm sithouli gwalior
+Institute Address: nh-75 sithouli gwalior(m.p.)
+Tel: 
+Fax: 
+Name1: mohan patsariya
+Email1: patsariya_mohi10@rediffmail.com
+Age1: 21
+Year1: third
+Contact no.1: 07524-400990
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 301
+Date: December 19, 2005, 4:13 am
+Institute name: Bhavans Vivekananda Degree College
+Institute Address: Bhavans Vivekananda Degree College,Sainikpuri,
+Secunderabad 500195
+Tel: 04027111611
+Fax: 
+Name1: L.Jayaraman
+Email1: javajayaraman_1987@yahoo.co.in
+Age1: 18
+Year1: B.Sc 2nd Year
+Contact no.1: 9347567417
+Name2: Manasa Harikar
+Email2: hm_manasa@yahoo.co.in
+Age2: 18
+Year2: B.Sc 2nd Year
+Contact no.2: 9347567417
+
+Regnum: 302
+Date: December 19, 2005, 7:17 am
+Institute name: G.N. Khalsa College
+Institute Address: Guru Nanak Khalsa College of Arts, Science and Commerce, Matunga(E), Mumbai-4000019
+Tel: 022-24096234
+Fax: 
+Name1: Mikhil Bhatt
+Email1: furyfox_19@yahoo.co.in
+Age1: 16
+Year1: F.Y.J.C
+Contact no.1: 022 - 24156685
+Name2: Amrit Bisoyi
+Email2: furyfox_19@yahoo.co.in
+Age2: 16
+Year2: F.Y.J.C
+Contact no.2: 022-24100334
+
+Regnum: 303
+Date: December 19, 2005, 9:23 am
+Institute name: 
+Institute Address: 64/B, Himmat Apts, Dr.R.P.Road, Mulund W, Mumbai - 400080.
+Tel: 25677568
+Fax: 23439866
+Name1: Sameer
+Email1: cool_sameer_18@hotmail.com
+Age1: 21
+Year1: Graduate
+Contact no.1: 9892571498
+Name2: Sagar
+Email2: doshi_sagar@hotmail.com
+Age2: 21
+Year2: Persuaing M.B.A
+Contact no.2: 9892579221
+
+Regnum: 304
+Date: December 19, 2005, 9:43 am
+Institute name: Birla Vishwakarma Mahavidyalaya
+Institute Address: Birla Vishwakarma Mahavidyalaya, Opposite to Shastri Maidan, Vallabh Vidyanagar, Gujarat
+Tel: 
+Fax: 
+Name1: Prayag Pathak
+Email1: prayagpathak@gmail.com
+Age1: 19
+Year1: 2nd year
+Contact no.1: 09879298321
+Name2: Ayush Zariwala
+Email2: aayush_aaryan2@yahoo.com
+Age2: 19
+Year2: 2nd year
+Contact no.2: (0265)2791442
+
+Regnum: 305
+Date: December 19, 2005, 9:50 pm
+Institute name: charotar institute of technology
+Institute Address: charotar inst of tech.,changa,ta:patlad-388421
+Tel: (02697)247500
+Fax: (02697)247100
+Name1: pandya pranav m.
+Email1: pranav_henry@yahoo.com
+Age1: 20
+Year1: 3rd 
+Contact no.1: 9925385061
+Name2: rahul modi
+Email2: rahul4969@yahoo.co.in
+Age2: 20
+Year2: 3rd
+Contact no.2: 9925385061
+
+Regnum: 306
+Date: December 19, 2005, 11:45 pm
+Institute name: Yeshwantrao Chavan College of Engineering
+Institute Address: YCCE
+Hingna Road,
+Wanadongri,
+Nagpur 441100
+Maharashtra
+Tel: +91-7104-237919
+Fax: +91-7104-232376
+Name1: Chandrajit Thaokar
+Email1: chandrajit.thaokar@gmail.com
+Age1: 19yrs
+Year1: 3rd
+Contact no.1: 
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 307
+Date: December 20, 2005, 12:19 am
+Institute name: VEEERMATA JEEJABAI TECHNICAL INSTITUTE
+Institute Address: VJTI,MATUNGA,MUMBAI-19
+Tel: 
+Fax: 
+Name1: SATYAJIT ASHOK SARANGDHAR
+Email1: satyajit_1512@yahoo.co.in
+Age1: 20
+Year1: SECOND YEAR
+Contact no.1: 9821089752
+Name2: PRAMOD EKNATH AVACHARMAL
+Email2: pramod_goldengoose@yahoo.co.in
+Age2: 19
+Year2: SECOND YEAR
+Contact no.2: 952512671883
+
+Regnum: 308
+Date: December 20, 2005, 12:20 am
+Institute name: V.Y.W.S College Of Engg. Badnera
+Institute Address: V.Y.W.S College Of Engg. Badnera,Anjangaon Bari Road Amravati
+Tel: 
+Fax: 
+Name1: Ms.Pranali G. Gahukar
+Email1: pranali.gahukar@rediffmail.com
+Age1: 21 years 
+Year1: final year
+Contact no.1: 0721-5611450
+Name2: Ms.Mukta D.Telang
+Email2: mukta.telang@rediffmail.com
+Age2: 20 years
+Year2: final year
+Contact no.2: 0721-2670627
+
+Regnum: 309
+Date: December 20, 2005, 12:33 am
+Institute name: v.y.w.s.collage of Engg.Badnera
+Institute Address: v.y.w.s.Collage of Engg.Badnera,Anjangaon
+Bari Road,Amravati.
+Tel: 
+Fax: 
+Name1: Ms.Shubhangi  S.Khedkar 
+Email1: shubhangikhedkar@rediffmail.com
+Age1: 22
+Year1: 2005-06
+Contact no.1: 0721-2666060
+Name2: Ms.Smita R.Maldhure
+Email2: smitamaldhure@rediffmail.com
+Age2: 23
+Year2: 2005-06
+Contact no.2: 0721-2551635
+
+Regnum: 310
+Date: December 20, 2005, 12:52 am
+Institute name: university college of engg,jawaharlal nehru technology university,hyderabad
+Institute Address: hyderabad,Andhra pradesh
+Tel: 
+Fax: 
+Name1: kumar.k
+Email1: dynamic42002@yahoo.com
+Age1: 22
+Year1: b.tech-4th year
+Contact no.1: 
+Name2: krishna.p
+Email2: kalyan_87@yahoo.com
+Age2: 21
+Year2: b.tech 4th year
+Contact no.2: 
+
+Regnum: 311
+Date: December 20, 2005, 1:09 am
+Institute name: Parashwanath College Of Engineering
+Institute Address: KasarVadavli,
+Thane-west
+Tel: 25894747
+Fax: 
+Name1: swaroop hangal
+Email1: swaroop.hangal@gmail.com
+Age1: 21
+Year1: B.E.
+Contact no.1: 0250-2439452
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 312
+Date: December 20, 2005, 1:29 am
+Institute name: GALGOTIA'S COLLEGE OF ENGG. & TECH.
+Institute Address: 1-INSTITUTIONAL AREA,GREATER NOIDA - 201306
+Tel: 
+Fax: 
+Name1: Vivek Ghosh
+Email1: vivek.ghosh@gmail.com
+Age1: 21
+Year1: 3rd
+Contact no.1: 09891505952
+Name2: Saurabh Omer
+Email2: sa_om007@yahoo.com
+Age2: 22
+Year2: 3rd
+Contact no.2: 09871190542
+
+Regnum: 312
+Date: December 20, 2005, 1:34 am
+Institute name: Galgotia's College Of Engg & Tech
+Institute Address: 1, Institutional Area, Greater Noida-201306
+Tel: 
+Fax: 
+Name1: Vivek Ghosh
+Email1: vivek.ghosh@gmail.com
+Age1: 21
+Year1: 3rd
+Contact no.1: 9891505952
+Name2: Saurabh Omer
+Email2: sa_om007@yahoo.com
+Age2: 22
+Year2: 3rd
+Contact no.2: 9871190542
+
+Regnum: 312
+Date: December 20, 2005, 1:37 am
+Institute name: Galgotias College of Engg and Tech
+Institute Address: 1 Institutional Area, Greater Noida 201306
+Tel: 
+Fax: 
+Name1: Vivek Ghosh
+Email1: vivek.ghosh@gmail.com
+Age1: 21
+Year1: 3rd
+Contact no.1: 9891505952
+Name2: Saurabh Omer
+Email2: sa_om007@yahoo.com
+Age2: 22
+Year2: 3rd
+Contact no.2: 9871190542
+
+Regnum: 313
+Date: December 20, 2005, 2:48 am
+Institute name: P.E S. College of Engg.
+Institute Address: Nagsenvan, Aurangabad 431002
+Tel: 0240-2400025
+Fax: 0240-2400031
+Name1: Yerekar Sachin R
+Email1: Sachin_Yerekar@yahoo.co.in
+Age1: 21
+Year1: 2004-05
+Contact no.1: 09226773116
+Name2: Joshi Pushkar Hemanta 
+Email2: JPushkarH@GMail.com
+Age2: 21
+Year2: 2003-04
+Contact no.2: 0240-2329030
+
+Regnum: 314
+Date: December 20, 2005, 3:34 am
+Institute name: Ambedkar Institute of Technology, Delhi
+Institute Address: ShakarPur, Delhi
+Tel: 
+Fax: 
+Name1: Sumit Vij
+Email1: sumitvij11@gmail.com
+Age1: 22
+Year1: Last year BTech(4th)
+Contact no.1: 01130902814
+Name2: 
+Email2: 
+Age2: 
+Year2: 
+Contact no.2: 
+
+Regnum: 315
+Date: December 20, 2005, 4:14 am
+Institute name: Ganpat University
+Institute Address: gozaria highway,kherva,mehsana
+Tel: 
+Fax: 
+Name1: Harshit Shah
+Email1: harshitit@yahoo.co.in
+Age1: 19
+Year1: 3
+Contact no.1: 27506929
+Name2: Karnav Panchal
+Email2: harshitit@yahoo.co.in
+Age2: 19
+Year2: 3
+Contact no.2: 9426420217
+
+Regnum: 316
+Date: December 20, 2005, 4:15 am
+Institute name: thapar institute of engg and tech
+Institute Address: thapar technology campus , bhadson road patiala
+Tel: 
+Fax: 
+Name1: tarun sharda
+Email1: tarun109dec@yahoo.co.in
+Age1: 20
+Year1: TIET
+Contact no.1: 09888537363
+Name2: ashish bagga
+Email2: ashish_1985@hotmail.com
+Age2: 20
+Year2: TIET
+Contact no.2: 
+
+Regnum: 317
+Date: December 20, 2005, 4:57 am
+Institute name: Ganpat University
+Institute Address: Kherva,Mhesana
+Tel: 
+Fax: 
+Name1: Rohan Shah
+Email1: harshitit@yahoo.co.in
+Age1: 19
+Year1: 3
+Contact no.1: 9879226260
+Name2: Nirmit Shah
+Email2: harshitit@yahoo.co.in
+Age2: 19
+Year2: 3
+Contact no.2: 9879226260
+
+Regnum: 318
+Date: December 20, 2005, 5:35 am
+Institute name: DHARAMSINH DESAI UNIVERSITY
+Institute Address: DHARAMSINH DESAI UNIVERSITY, COLLEGE ROAD,NADIAD
+Tel: -
+Fax: -
+Name1: NITIN K.TAJNE
+Email1: nikitin@indiatimes.com
+Age1: 21
+Year1: 2006
+Contact no.1: 9867813310
+Name2: GNAYAK N BHUTA
+Email2: -
+Age2: 20
+Year2: 2005
+Contact no.2: -
+
+Regnum: 319
+Date: December 20, 2005, 6:14 am
+Institute name: NIT Jamshedpur
+Institute Address: Jamshedpur,Jharkhand-831014
+Tel: 
+Fax: 
+Name1: Kunal Khashu
+Email1: kunal_khashu@rediffmail.com
+Age1: 21
+Year1: Final Year
+Contact no.1: +919431186642
+Name2: Vikram Chauhan
+Email2: vikramchauhan2k5@gmail.com
+Age2: 21
+Year2: final year
+Contact no.2: +919934186746
+
+Regnum: 320
+Date: December 20, 2005, 6:49 am
+Institute name: gec raipur
+Institute Address: e-543,samta colony 
+raipur
+Tel: 07714017461
+Fax: 07712292171
+Name1: vayavya mishra
+Email1: vya_rit@indiatimes.com
+Age1: 20
+Year1: 2
+Contact no.1: +919826837741
+Name2: arun sipani
+Email2: arun_sipani@yahoo.com
+Age2: 20
+Year2: 2
+Contact no.2: 07714017461
+
+Regnum: 321
+Date: December 20, 2005, 7:12 am
+Institute name: gec raipur
+Institute Address: deptt of electronics engg gec raipur 492010
+Tel: +919425539114
+Fax: 
+Name1: wali mohd khan
+Email1: vya_rit@indiatimes.com
+Age1: 19
+Year1: 2
+Contact no.1: +919425539114
+Name2: roshan jha 
+Email2: rof_hanjha@rediffmail.com
+Age2: 20
+Year2: 2
+Contact no.2: +919827189749
+
+Regnum: 322
+Date: December 20, 2005, 7:15 am
+Institute name: gec raipur
+Institute Address: e-543,samta colony,raipur
+Tel: 07714017461
+Fax: 07712292171
+Name1: vayavya mishra
+Email1: vya_rit@indiatimes.com
+Age1: 20
+Year1: 2
+Contact no.1: +919826837741
+Name2: arun sipani
+Email2: arun_sipani@yahoo.com
+Age2: 20
+Year2: 2
+Contact no.2: 
+
+Regnum: 323
+Date: December 20, 2005, 7:40 am
+Institute name: SIPNA SHIKSHAN PRASARK MANDLE'S COLLEGE OF ENGINNERING AND TECHNOLOGY,AMRAVATI
+Institute Address: "SHREE GOPAL",SHARDA NAGAR, AMRAVATI,444605
+Tel: 0721 257712
+Fax: 
+Name1: ARTI BHANDARI
+Email1: artibhandari2@yahoo.co.in
+Age1: 21
+Year1: final year(2006)
+Contact no.1: 2577712
+Name2: PRIYANKA UMBARKAR
+Email2: priyanka_umbarkar@yahoo.co.in
+Age2: 21
+Year2: Final year(2006)
+Contact no.2: 2552698
+
+Regnum: 323
+Date: December 20, 2005, 8:32 am
+Institute name: RKDF INSTITUTE OF SCIENE & TECHNOLOGY,BHOPAL
+Institute Address: NH-12,HOSHANGABAD ROAD,MISROD,BHOPAL
+Tel: 0755-5280975
+Fax: 24994572
+Name1: Rohit Kumar
+Email1: rohit_rkdf2004@yahoo.com
+Age1: 20
+Year1: III year
+Contact no.1: 09893263501
+Name2: Praveen Kumar
+Email2: pks20102003@yahoo.co.in
+Age2: 19
+Year2: III Year
+Contact no.2: 09893363734
+
+Regnum: 324
+Date: December 20, 2005, 8:41 am
+Institute name: gayatri vidya parishad college of engineering
+Institute Address: madhurawada,
+visakhapatnam,
+andhra pradesh.
+Tel: 08912739507
+Fax: 
+Name1: ramachandra rao j.v.s
+Email1: jvsrrao@yahoo.com
+Age1: 19
+Year1: 3
+Contact no.1: 9440243058
+Name2: v.v.r.revanth
+Email2: loveujvs@yahoo.com
+Age2: 19
+Year2: 3
+Contact no.2: 08912552293
+

@@ -1,0 +1,129 @@
+
+OPEN SOFTWARE
+
+
+‘Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.’ 
+Open Software invites all the software wizards to bring forth any software designed, developed and coded by them. Participants have the liberty to code in any language based on Windows / Unix / Linux. Software which has been used commercially is not acceptable for the competition. Judges will consider innovation, type of problem chosen, marketability and presentation of the software while judging.
+
+The participant will have all rights over his/her software.
+Source code shall not be made open to anyone except the judges, if the participant so desires.
+
+Rules and Regulations
+Abstract Format
+Some Instructions
+Download Rules
+Other Requirements
+Queries
+Register
+Schedule
+
+Rules and Regulations:
+
+   1. Students currently enrolled for up to an undergraduate/postgraduate program at their institute are eligible for the competition.
+   2. Number of members per team should not exceed three.
+   3. Every team has to register online at our website for the competition. A registration number will be allocated to the team on registration        which shall be used for future reference.
+   4. Pre-event abstracts in a standard format need to be submitted for the competition for the screening round.
+   5. The abstract should be mailed to abstract@techfest.org with the subject ‘Open Software abstract Reg. No. -------’ or posted to us at our        postal address. Do not forget to mention the registration number.
+   6. In case the participants fail to submit the abstracts by the last date, their registration shall stand cancelled.
+   7. Only the participants who qualify in the screening round based on judging of the abstracts shall be eligible for the finals at Techfest 2005.
+   8. Participants who qualify after the screening round have to bring a soft copy of the software along with a well documented hard copy of the        code for analysis by the judges.
+   9. Teams will be given only one hour prior to the competition to set up their software at the venue for judging.
+  10. On a single chart paper, the team should explain their software with the help of flow charts, figures, diagrams and relevant material. A         detailed report about the software in support of the highlighted aspects should also be brought.
+  11. The report along with the chart mentioned above will have to be submitted to the competition coordinator at the time of the competition.          Please note that this chart will be used for public display at the time of the competition.
+  12. Participants should submit their operating system and other requirements needed at the time of competition along with the abstract for         the screening round.
+  13. Selected entries will be displayed in an exhibition at Techfest.
+  14. Judges decision shall be treated as final and binding on all.
+  15. Kindly mention if there are any Intellectual Property Rights issues related to your project.
+
+ 
+
+Abstract Format:
+
+1.
+	
+
+Explain briefly the idea of your project.
+
+-------------Your text comes here-------------
+
+2.
+	
+
+Explain briefly how your project works? Please mention the algorithm and functional analysis of the software. (Diagrams, flow charts etc. are appreciated.)
+
+-------------Your text comes here-------------
+
+3.
+	
+
+Highlight specifically the problem for which the project is worked out as a solution and your original contribution towards the solution of the problem.
+
+-------------Your text comes here-------------
+
+4..
+	
+
+Comment upon the marketability of the project and its commercial applications.
+
+-------------Your text comes here-------------
+
+5.
+	
+
+Briefly mention the social aspects which your project aims to fulfill.(optional)
+
+-------------Your text comes here-------------
+
+6.
+	
+
+Any other aspect of the project worth a mention.(optional)
+
+-------------Your text comes here-------------
+
+
+
+Some instructions:
+
+   1. Abstracts can be submitted either handwritten or typed.
+   2. First sheet should only contain title of the project, team registration number, names of the team members and their respective institutes.
+   3. Typed abstract should not exceed three A4 sheets of text with a font size of 12 excluding the first sheet containing the title.
+   4. Handwritten abstracts should not exceed 1200 words.
+   5. Diagrams may be attached in additional sheets.
+   6. The information in the abstract should be very descriptive and not vague.
+   7. It is recommended that vital aspects of the project that require special focus are mentioned as points.
+
+ 
+
+
+Download: 
+
+   1. Download rules in pdf
+
+ 
+
+   2. Download abstract format in pdf
+
+ 
+
+ 
+
+Other Requirements
+
+We would provide you with computers with required operating system and softwares (preferably the latest versions.). It would be convenient if you carry your CPU as compatibility problems may come up at the last moment. Other necessary things like monitor, keyboard, mouse etc would be provided. All the participants should communicate these requirements along with the abstracts for the screening round.
+
+SCHEDULE:
+To be announced soon.
+
+
+In case of queries, contact: 
+
+Mandar Gadre
+Manager, Competitions
+mandar@techfest.org
+
+Rahul Singh
+Manager, Competitions
+Rahul@techfest.oeg
+
+ 

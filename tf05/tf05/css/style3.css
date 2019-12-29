@@ -1,0 +1,53 @@
+/* CSS Document */
+body {background-color:#000000;
+color:#000000;
+}
+
+#mid {
+text-align:center;
+}
+.stripup {
+background-color:#666666;
+color:#FFFFFF;
+padding:6pt 6pt 6pt 6pt;
+margin:0cm 2cm 0cm 2cm;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+}
+.stripup a{
+text-decoration:none;
+color:white;
+}
+.stripup a:hover {
+text-decoration:underline;
+clor:white;
+}
+#right {
+float:right;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:xx-small;
+}
+.stripdown {
+background-color:#666666;
+color:#FFFFFF;
+padding:2pt 2pt 2pt 2pt;
+margin:0cm 2cm 0cm 2cm;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+}
+.stripdown a{
+text-decoration:none;
+color:white;
+}
+.stripdown a:hover {
+text-decoration:underline;
+clor:white;
+}
+#first {
+float:left;
+}
+#second {
+float:right;
+}

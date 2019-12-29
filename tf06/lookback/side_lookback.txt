@@ -1,0 +1,19 @@
+ <!-- ##### Side Bar ##### -->
+
+    <div id="sidebar">
+    <!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Lookback</li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2005.php"> &nbsp;&nbsp;Lookback 2005</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2004.php"> &nbsp;&nbsp;Lookback 2004</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2003.php"> &nbsp;&nbsp;Lookback 2003</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2002.php"> &nbsp;&nbsp;Lookback 2002</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2001.php"> &nbsp;&nbsp;Lookback 2001</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./2000.php"> &nbsp;&nbsp;Lookback 2000</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./1999.php"> &nbsp;&nbsp;Lookback 1999</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="./1998.php"> &nbsp;&nbsp;Lookback 1998</a></li>
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

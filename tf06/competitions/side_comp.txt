@@ -1,0 +1,35 @@
+ <!-- ##### Side Bar ##### -->
+
+    <div id="sidebar">
+    <!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Competitions</li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/agrobot/"> &nbsp;&nbsp;Agrobot</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/"> &nbsp;&nbsp;BlackBox</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/bridged/"> &nbsp;&nbsp;Bridged</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/char_recog/"> &nbsp;&nbsp;Character Recognition</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/connecting/"> &nbsp;&nbsp;Connecting...</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/core_war/"> &nbsp;&nbsp;Core War</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/crux/"> &nbsp;&nbsp;Crux</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/flyhigh/"> &nbsp;&nbsp;FlyHigh</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/fullthrottle/"> &nbsp;&nbsp;Full Throttle</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/future_flight/"> &nbsp;&nbsp;Future Flight</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/grip/"> &nbsp;&nbsp;G.R.I.P.</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/concreate/h/"> &nbsp;&nbsp;<img src="http://www.techfest.org/concreate/h/img/hwtext.gif" border="0"></a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/home_alive/"> &nbsp;&nbsp;Home Alive</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/sixth_gear/hover_junior/"> &nbsp;&nbsp;Hover Junior</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/iclean/"> &nbsp;&nbsp;iClean</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/innovision/"> &nbsp;&nbsp;Innovision</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/innovision/"> &nbsp;&nbsp;Industry Defined Problem</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/smart_tech/prayaas/"> &nbsp;&nbsp;Prayaas</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/micromouse/"> &nbsp;&nbsp;Micromouse</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/"> &nbsp;&nbsp;Mission Moon 2030</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/technovision/"> &nbsp;&nbsp;Technovision Awards</a></li>
+				<li id="menuitem"><img src="../img/POSTS-blt.gif"><a href="http://www.techfest.org/erustique/simple_life/"> &nbsp;&nbsp;The Simple Life v1.1</a></li>
+
+
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

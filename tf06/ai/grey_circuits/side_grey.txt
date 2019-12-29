@@ -1,0 +1,16 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Grey Circuits</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/grey_circuits/index.php#intro"> &nbsp;&nbsp;Introduction</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/grey_circuits/results.php"> &nbsp;&nbsp;Shortlist</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/grey_circuits/index.php#details"> &nbsp;&nbsp;Workshop Details</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/ai/grey_circuits/index.php#elig"> &nbsp;&nbsp;Eligibility</a></li>
+
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		

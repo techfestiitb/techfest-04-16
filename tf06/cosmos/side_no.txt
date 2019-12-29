@@ -1,0 +1,18 @@
+<div id="sidebar">
+    
+		<!--Box1 -->
+		<div id="box1" >
+			<ul>
+				<li id="title">Cosmos</li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/grip/index.php"> &nbsp;&nbsp;G.R.I.P.</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/black_box/index.php"> &nbsp;&nbsp;Black Box</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php"> &nbsp;&nbsp;Mission Moon 2030</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php"> &nbsp;&nbsp;India in Space</a></li>
+				<li id="menuitem"><img src="http://www.techfest.org/img/POSTS-blt.gif"><a href="http://www.techfest.org/cosmos/mission_moon/index.php"> &nbsp;&nbsp;Welcome to Mars</a></li>
+				
+				
+				
+			</ul>
+		</div>
+		<!--End of Box1 -->
+		
